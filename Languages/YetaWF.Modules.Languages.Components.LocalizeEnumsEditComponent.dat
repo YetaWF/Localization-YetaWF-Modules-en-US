@@ -22,8 +22,24 @@
           <Value>
             <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
               <Properties>
-                <Name Value="enumTT" />
-                <Text Value="Text found in EnumDescriptionAttribute(...) for {0}" />
+                <Name Value="enumCaptTT" />
+                <Text Value="Caption found in EnumDescriptionAttribute(...) for {0}" />
+              </Properties>
+            </Object>
+          </Value>
+          <Value>
+            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
+              <Properties>
+                <Name Value="enumDescTT" />
+                <Text Value="Description found in EnumDescriptionAttribute(...) for {0}" />
+              </Properties>
+            </Object>
+          </Value>
+          <Value>
+            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
+              <Properties>
+                <Name Value="enumNameTT" />
+                <Text Value="Caption and description found in EnumDescriptionAttribute(...) for enum entry {0}" />
               </Properties>
             </Object>
           </Value>

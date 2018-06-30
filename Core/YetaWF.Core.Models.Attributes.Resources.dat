@@ -134,14 +134,6 @@
           <Value>
             <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
               <Properties>
-                <Name Value="requiredIfInRange" />
-                <Text Value="The {0} field is required" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
                 <Name Value="requiredIfNot" />
                 <Text Value="The {0} field is required" />
               </Properties>

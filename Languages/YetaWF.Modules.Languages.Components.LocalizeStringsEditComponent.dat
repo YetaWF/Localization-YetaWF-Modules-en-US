@@ -22,7 +22,15 @@
           <Value>
             <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
               <Properties>
-                <Name Value="captTT" />
+                <Name Value="strNameTT" />
+                <Text Value="Text found in __ResStr(&quot;{0}&quot;, ...)" />
+              </Properties>
+            </Object>
+          </Value>
+          <Value>
+            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
+              <Properties>
+                <Name Value="strTextTT" />
                 <Text Value="Text found in __ResStr(&quot;{0}&quot;, ...)" />
               </Properties>
             </Object>

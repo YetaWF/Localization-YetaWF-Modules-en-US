@@ -6,7 +6,68 @@
     <Classes>
       <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+ClassData, YetaWF.Core]]" Assembly="YetaWF.Core">
         <Properties />
-        <List />
+        <List>
+          <Value>
+            <Object Type="YetaWF.Core.Localize.LocalizationData+ClassData" Assembly="YetaWF.Core">
+              <Properties>
+                <Name Value="YetaWF.Modules.Languages.Components.LocalizeClassesEditComponent+UIClassData" />
+                <BaseTypeName />
+                <Header />
+                <Footer />
+                <Legend />
+                <Categories>
+                  <Object Type="YetaWF.Core.Serializers.SerializableDictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]]" Assembly="YetaWF.Core">
+                    <Properties />
+                    <Dictionary />
+                  </Object>
+                </Categories>
+                <Properties>
+                  <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+PropertyData, YetaWF.Core]]" Assembly="YetaWF.Core">
+                    <Properties />
+                    <List>
+                      <Value>
+                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
+                          <Properties>
+                            <Name Value="Footer" />
+                            <Caption Value="Class Footer" />
+                            <Description Value="Text found in [FooterAttribute(...)]" />
+                            <HelpLink />
+                            <TextAbove />
+                            <TextBelow />
+                          </Properties>
+                        </Object>
+                      </Value>
+                      <Value>
+                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
+                          <Properties>
+                            <Name Value="Header" />
+                            <Caption Value="Class Header" />
+                            <Description Value="Text found in [HeaderAttribute(...)]" />
+                            <HelpLink />
+                            <TextAbove />
+                            <TextBelow />
+                          </Properties>
+                        </Object>
+                      </Value>
+                      <Value>
+                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
+                          <Properties>
+                            <Name Value="Legend" />
+                            <Caption Value="Class Legend" />
+                            <Description Value="Text found in [LegendAttribute(...)]" />
+                            <HelpLink />
+                            <TextAbove />
+                            <TextBelow />
+                          </Properties>
+                        </Object>
+                      </Value>
+                    </List>
+                  </Object>
+                </Properties>
+              </Properties>
+            </Object>
+          </Value>
+        </List>
       </Object>
     </Classes>
     <Enums>
@@ -62,7 +123,7 @@
           <Value>
             <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
               <Properties>
-                <Name Value="propTT" />
+                <Name Value="strNameTT" />
                 <Text Value="Text found in attributes for property {0}" />
               </Properties>
             </Object>
