@@ -61,16 +61,6 @@
                           </Properties>
                         </Object>
                       </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+EnumDataEntry" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="AddonJSGlobal" />
-                            <Value Value="AddonJSGlobal" />
-                            <Caption Value="Javascript (Global)" />
-                            <Description Value="Javascript Global Addon" />
-                          </Properties>
-                        </Object>
-                      </Value>
                     </List>
                   </Object>
                 </Entries>
