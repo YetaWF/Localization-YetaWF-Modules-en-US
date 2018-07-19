@@ -1,155 +1,86 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--YetaWF.Core.Localize.LocalizationData-->
-<Object Type="YetaWF.Core.Localize.LocalizationData" Assembly="YetaWF.Core">
-  <Properties>
-    <Comment />
-    <Classes>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+ClassData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+ClassData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="YetaWF.Modules.Visitors.Controllers.IPAddressLookupModuleController+Model" />
-                <BaseTypeName />
-                <Header />
-                <Footer />
-                <Legend />
-                <Categories>
-                  <Object Type="YetaWF.Core.Serializers.SerializableDictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <Dictionary />
-                  </Object>
-                </Categories>
-                <Properties>
-                  <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+PropertyData, YetaWF.Core]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <List>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="City" />
-                            <Caption Value="City" />
-                            <Description Value="The city where the IP address is located" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="ContinentCode" />
-                            <Caption Value="Continent" />
-                            <Description Value="The continent where the IP address is located" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="CountryName" />
-                            <Caption Value="Country" />
-                            <Description Value="The country where the IP address is located" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="HostName" />
-                            <Caption Value="Host Name" />
-                            <Description Value="The host name" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="IPAddress" />
-                            <Caption Value="IP Address" />
-                            <Description Value="The IP address" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Latitude" />
-                            <Caption Value="Latitude" />
-                            <Description Value="The latitude where the IP address is located" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Longitude" />
-                            <Caption Value="Longitude" />
-                            <Description Value="The longitude where the IP address is located" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="RegionName" />
-                            <Caption Value="Region" />
-                            <Description Value="The region where the IP address is located" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                    </List>
-                  </Object>
-                </Properties>
-              </Properties>
-            </Object>
-          </Value>
-        </List>
-      </Object>
-    </Classes>
-    <Enums>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+EnumData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List />
-      </Object>
-    </Enums>
-    <Strings>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+StringData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="limitExceeded" />
-                <Text Value="The current limit of geolocation requests per minute has been exceeded" />
-              </Properties>
-            </Object>
-          </Value>
-        </List>
-      </Object>
-    </Strings>
-  </Properties>
-</Object>
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Visitors.Controllers.IPAddressLookupModuleController+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "City",
+          "Caption": "City",
+          "Description": "The city where the IP address is located",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ContinentCode",
+          "Caption": "Continent",
+          "Description": "The continent where the IP address is located",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CountryName",
+          "Caption": "Country",
+          "Description": "The country where the IP address is located",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "HostName",
+          "Caption": "Host Name",
+          "Description": "The host name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "IPAddress",
+          "Caption": "IP Address",
+          "Description": "The IP address",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Latitude",
+          "Caption": "Latitude",
+          "Description": "The latitude where the IP address is located",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Longitude",
+          "Caption": "Longitude",
+          "Description": "The longitude where the IP address is located",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RegionName",
+          "Caption": "Region",
+          "Description": "The region where the IP address is located",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "limitExceeded",
+      "Text": "The current limit of geolocation requests per minute has been exceeded"
+    }
+  ]
+}

@@ -1,82 +1,35 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--YetaWF.Core.Localize.LocalizationData-->
-<Object Type="YetaWF.Core.Localize.LocalizationData" Assembly="YetaWF.Core">
-  <Properties>
-    <Comment />
-    <Classes>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+ClassData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List />
-      </Object>
-    </Classes>
-    <Enums>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+EnumData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List />
-      </Object>
-    </Enums>
-    <Strings>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+StringData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="displayLegend" />
-                <Text Value="Displays the ListOfLocalPages test template" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="displayLink" />
-                <Text Value="ListOfLocalPages" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="displayText" />
-                <Text Value="ListOfLocalPages" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="displayTooltip" />
-                <Text Value="Display the ListOfLocalPages test template" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="modName" />
-                <Text Value="Template Test - ListOfLocalPages" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="modSummary" />
-                <Text Value="ListOfLocalPages test template" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="modTitle" />
-                <Text Value="ListOfLocalPages Test Template" />
-              </Properties>
-            </Object>
-          </Value>
-        </List>
-      </Object>
-    </Strings>
-  </Properties>
-</Object>
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "displayLegend",
+      "Text": "Displays the ListOfLocalPages test template"
+    },
+    {
+      "Name": "displayLink",
+      "Text": "ListOfLocalPages"
+    },
+    {
+      "Name": "displayText",
+      "Text": "ListOfLocalPages"
+    },
+    {
+      "Name": "displayTooltip",
+      "Text": "Display the ListOfLocalPages test template"
+    },
+    {
+      "Name": "modName",
+      "Text": "Template Test - ListOfLocalPages"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "ListOfLocalPages test template"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "ListOfLocalPages Test Template"
+    }
+  ]
+}

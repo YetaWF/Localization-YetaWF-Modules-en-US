@@ -1,191 +1,104 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--YetaWF.Core.Localize.LocalizationData-->
-<Object Type="YetaWF.Core.Localize.LocalizationData" Assembly="YetaWF.Core">
-  <Properties>
-    <Comment />
-    <Classes>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+ClassData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+ClassData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="YetaWF.Modules.Pages.Controllers.UnifiedSetsBrowseModuleController+BrowseItem" />
-                <BaseTypeName />
-                <Header />
-                <Footer />
-                <Legend />
-                <Categories>
-                  <Object Type="YetaWF.Core.Serializers.SerializableDictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <Dictionary />
-                  </Object>
-                </Categories>
-                <Properties>
-                  <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+PropertyData, YetaWF.Core]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <List>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Commands" />
-                            <Caption Value="Actions" />
-                            <Description Value="The available actions" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Created" />
-                            <Caption Value="Created" />
-                            <Description Value="The date/time this set was created" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Description" />
-                            <Caption Value="Description" />
-                            <Description Value="The description for this Unified Page Set" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="MasterPageGuid" />
-                            <Caption Value="Master Page" />
-                            <Description Value="Defines the master page for the Unified Page Set that defines the skin, referenced modules, authorization and all other page attributes" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Name" />
-                            <Caption Value="Name" />
-                            <Description Value="The name of this Unified Page Set" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="UnifiedMode" />
-                            <Caption Value="Mode" />
-                            <Description Value="Defines how page content is combined" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="UnifiedSetGuid" />
-                            <Caption Value="Id" />
-                            <Description Value="The internal id used to identify this Unified Page Set" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Updated" />
-                            <Caption Value="Updated" />
-                            <Description Value="The date/time this set was last updated" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                    </List>
-                  </Object>
-                </Properties>
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+ClassData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="YetaWF.Modules.Pages.Controllers.UnifiedSetsBrowseModuleController+BrowseModel" />
-                <BaseTypeName />
-                <Header Value="A Unified Page Set combines multiple, separately designed pages into one page. When the user navigates between the pages in the set, only the required modules are replaced. Depending on the mode selected, no server access is required as all required portions of the pages have been preloaded. Only modules within designated panes are exchanged, minimizing data transfer." />
-                <Footer />
-                <Legend />
-                <Categories>
-                  <Object Type="YetaWF.Core.Serializers.SerializableDictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <Dictionary />
-                  </Object>
-                </Categories>
-                <Properties>
-                  <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+PropertyData, YetaWF.Core]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <List>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="GridDef" />
-                            <Caption Value="" />
-                            <Description Value="" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                    </List>
-                  </Object>
-                </Properties>
-              </Properties>
-            </Object>
-          </Value>
-        </List>
-      </Object>
-    </Classes>
-    <Enums>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+EnumData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List />
-      </Object>
-    </Enums>
-    <Strings>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+StringData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="cantRemove" />
-                <Text Value="Couldn't remove {0}" />
-              </Properties>
-            </Object>
-          </Value>
-        </List>
-      </Object>
-    </Strings>
-  </Properties>
-</Object>
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Pages.Controllers.UnifiedSetsBrowseModuleController+BrowseItem",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Commands",
+          "Caption": "Actions",
+          "Description": "The available actions",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Created",
+          "Caption": "Created",
+          "Description": "The date/time this set was created",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Description",
+          "Caption": "Description",
+          "Description": "The description for this Unified Page Set",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MasterPageGuid",
+          "Caption": "Master Page",
+          "Description": "Defines the master page for the Unified Page Set that defines the skin, referenced modules, authorization and all other page attributes",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Name",
+          "Caption": "Name",
+          "Description": "The name of this Unified Page Set",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UnifiedMode",
+          "Caption": "Mode",
+          "Description": "Defines how page content is combined",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UnifiedSetGuid",
+          "Caption": "Id",
+          "Description": "The internal id used to identify this Unified Page Set",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Updated",
+          "Caption": "Updated",
+          "Description": "The date/time this set was last updated",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    },
+    {
+      "Name": "YetaWF.Modules.Pages.Controllers.UnifiedSetsBrowseModuleController+BrowseModel",
+      "BaseTypeName": null,
+      "Header": "A Unified Page Set combines multiple, separately designed pages into one page. When the user navigates between the pages in the set, only the required modules are replaced. Depending on the mode selected, no server access is required as all required portions of the pages have been preloaded. Only modules within designated panes are exchanged, minimizing data transfer.",
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "GridDef",
+          "Caption": "",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "cantRemove",
+      "Text": "Couldn\u0027t remove {0}"
+    }
+  ]
+}

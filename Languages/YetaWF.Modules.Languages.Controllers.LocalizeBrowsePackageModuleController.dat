@@ -1,115 +1,54 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--YetaWF.Core.Localize.LocalizationData-->
-<Object Type="YetaWF.Core.Localize.LocalizationData" Assembly="YetaWF.Core">
-  <Properties>
-    <Comment />
-    <Classes>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+ClassData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+ClassData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="YetaWF.Modules.Languages.Controllers.LocalizeBrowsePackageModuleController+BrowseItem" />
-                <BaseTypeName />
-                <Header />
-                <Footer />
-                <Legend />
-                <Categories>
-                  <Object Type="YetaWF.Core.Serializers.SerializableDictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <Dictionary />
-                  </Object>
-                </Categories>
-                <Properties>
-                  <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+PropertyData, YetaWF.Core]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <List>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Commands" />
-                            <Caption Value="Actions" />
-                            <Description Value="The available actions" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="FileName" />
-                            <Caption Value="File Name" />
-                            <Description Value="The name of the localization resource" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                    </List>
-                  </Object>
-                </Properties>
-              </Properties>
-            </Object>
-          </Value>
-        </List>
-      </Object>
-    </Classes>
-    <Enums>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+EnumData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List />
-      </Object>
-    </Enums>
-    <Strings>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+StringData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="custGenerated" />
-                <Text Value="Custom localization resources successfully generated" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="instGenerated" />
-                <Text Value="Installed localization resources successfully generated" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="modTitle" />
-                <Text Value="Localization Resources - Package {0}" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="packAllDataGenerated" />
-                <Text Value="Translated package data for all packages successfully generated" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="packDataGenerated" />
-                <Text Value="Translated package data successfully generated" />
-              </Properties>
-            </Object>
-          </Value>
-        </List>
-      </Object>
-    </Strings>
-  </Properties>
-</Object>
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Languages.Controllers.LocalizeBrowsePackageModuleController+BrowseItem",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Commands",
+          "Caption": "Actions",
+          "Description": "The available actions",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "FileName",
+          "Caption": "File Name",
+          "Description": "The name of the localization resource",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "custGenerated",
+      "Text": "Custom localization resources successfully generated"
+    },
+    {
+      "Name": "instGenerated",
+      "Text": "Installed localization resources successfully generated"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Localization Resources - Package {0}"
+    },
+    {
+      "Name": "packAllDataGenerated",
+      "Text": "Translated package data for all packages successfully generated"
+    },
+    {
+      "Name": "packDataGenerated",
+      "Text": "Translated package data successfully generated"
+    }
+  ]
+}

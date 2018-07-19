@@ -1,471 +1,288 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--YetaWF.Core.Localize.LocalizationData-->
-<Object Type="YetaWF.Core.Localize.LocalizationData" Assembly="YetaWF.Core">
-  <Properties>
-    <Comment />
-    <Classes>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+ClassData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+ClassData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="YetaWF.Modules.DevTests.Controllers.BasicTemplatesModuleController+EditModel" />
-                <BaseTypeName />
-                <Header Value="YetaWF templates test - All fields are required, but some have default values which are acceptable so no warning will be shown. Some templates have their own test page (see Tests &gt; Templates) so they are not included on this page." />
-                <Footer />
-                <Legend />
-                <Categories>
-                  <Object Type="YetaWF.Core.Serializers.SerializableDictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <Dictionary>
-                      <Key Value="Core" />
-                      <Value Value="Core" />
-                    </Dictionary>
-                  </Object>
-                </Categories>
-                <Properties>
-                  <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+PropertyData, YetaWF.Core]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <List>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Boolean" />
-                            <Caption Value="Boolean" />
-                            <Description Value="Boolean (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Country" />
-                            <Caption Value="CountryISO3166" />
-                            <Description Value="CountryISO3166 (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Currency" />
-                            <Caption Value="Currency" />
-                            <Description Value="Currency (Required) - Uses formatting defined using Site Settings, General tab" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="CurrencyISO4217" />
-                            <Caption Value="CurrencyISO4217" />
-                            <Description Value="CurrencyISO4217 (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Decimal" />
-                            <Caption Value="Decimal" />
-                            <Description Value="Decimal (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="DropDownList" />
-                            <Caption Value="DropDownList" />
-                            <Description Value="DropDownList (SelectionRequired)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="DropDownListInt" />
-                            <Caption Value="DropDownListInt" />
-                            <Description Value="DropDownListInt (SelectionRequired)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Enum" />
-                            <Caption Value="Enum" />
-                            <Description Value="Enum (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="FileUpload1" />
-                            <Caption Value="FileUpload1" />
-                            <Description Value="FileUpload1" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Guid" />
-                            <Caption Value="Guid" />
-                            <Description Value="Guid (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="IntValue" />
-                            <Caption Value="IntValue" />
-                            <Description Value="IntValue (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="IntValue2" />
-                            <Caption Value="IntValue2" />
-                            <Description Value="IntValue2 (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="IntValue4" />
-                            <Caption Value="IntValue4" />
-                            <Description Value="IntValue4 (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="IntValue6" />
-                            <Caption Value="IntValue6" />
-                            <Description Value="IntValue6 (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="JQueryUISkin" />
-                            <Caption Value="jQueryUISkin" />
-                            <Description Value="JQueryUISkin (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="KendoUISkin" />
-                            <Caption Value="KendoUISkin" />
-                            <Description Value="KendoUISkin (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="LanguageId" />
-                            <Caption Value="LanguageId" />
-                            <Description Value="LanguageId (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="LongValue" />
-                            <Caption Value="LongValue" />
-                            <Description Value="LongValue (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="PageSelection" />
-                            <Caption Value="PageSelection" />
-                            <Description Value="PageSelection (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="PaneSelection" />
-                            <Caption Value="PaneSelection" />
-                            <Description Value="PaneSelection (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Password20" />
-                            <Caption Value="Password20" />
-                            <Description Value="Password20 (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="SMTPServer" />
-                            <Caption Value="SMTPServer" />
-                            <Description Value="SMTPServer (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Text" />
-                            <Caption Value="Text" />
-                            <Description Value="Text (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Text10" />
-                            <Caption Value="Text10" />
-                            <Description Value="Text10 (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Text20" />
-                            <Caption Value="Text20" />
-                            <Description Value="Text20 (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Text40" />
-                            <Caption Value="Text40" />
-                            <Description Value="Text40 (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Text80" />
-                            <Caption Value="Text80" />
-                            <Description Value="Text80 (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="TextArea" />
-                            <Caption Value="TextArea" />
-                            <Description Value="TextArea (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="USState" />
-                            <Caption Value="USState" />
-                            <Description Value="USState (Required)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                    </List>
-                  </Object>
-                </Properties>
-              </Properties>
-            </Object>
-          </Value>
-        </List>
-      </Object>
-    </Classes>
-    <Enums>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+EnumData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+EnumData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="YetaWF.Modules.DevTests.Controllers.BasicTemplatesModuleController+EditModel+SampleEnum" />
-                <Entries>
-                  <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+EnumDataEntry, YetaWF.Core]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <List>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+EnumDataEntry" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Value1" />
-                            <Value Value="Value1" />
-                            <Caption Value="Enum 1" />
-                            <Description Value="Tooltip for Enum 1" />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+EnumDataEntry" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Value2" />
-                            <Value Value="Value2" />
-                            <Caption Value="Enum 2" />
-                            <Description Value="Tooltip for Enum 2" />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+EnumDataEntry" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Value3" />
-                            <Value Value="Value3" />
-                            <Caption Value="Enum 3" />
-                            <Description Value="Tooltip for Enum 3" />
-                          </Properties>
-                        </Object>
-                      </Value>
-                    </List>
-                  </Object>
-                </Entries>
-              </Properties>
-            </Object>
-          </Value>
-        </List>
-      </Object>
-    </Enums>
-    <Strings>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+StringData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="btnSelect" />
-                <Text Value="Upload a file..." />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="ok" />
-                <Text Value="OK" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="uploadSuccess" />
-                <Text Value="File {0} successfully uploaded" />
-              </Properties>
-            </Object>
-          </Value>
-        </List>
-      </Object>
-    </Strings>
-  </Properties>
-</Object>
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.DevTests.Controllers.BasicTemplatesModuleController+EditModel",
+      "BaseTypeName": null,
+      "Header": "YetaWF templates test - All fields are required, but some have default values which are acceptable so no warning will be shown. Some templates have their own test page (see Tests \u003e Templates) so they are not included on this page.",
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "Core": "Core"
+      },
+      "Properties": [
+        {
+          "Name": "Boolean",
+          "Caption": "Boolean",
+          "Description": "Boolean (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Country",
+          "Caption": "CountryISO3166",
+          "Description": "CountryISO3166 (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Currency",
+          "Caption": "Currency",
+          "Description": "Currency (Required) - Uses formatting defined using Site Settings, General tab",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CurrencyISO4217",
+          "Caption": "CurrencyISO4217",
+          "Description": "CurrencyISO4217 (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Decimal",
+          "Caption": "Decimal",
+          "Description": "Decimal (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DropDownList",
+          "Caption": "DropDownList",
+          "Description": "DropDownList (SelectionRequired)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DropDownListInt",
+          "Caption": "DropDownListInt",
+          "Description": "DropDownListInt (SelectionRequired)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Enum",
+          "Caption": "Enum",
+          "Description": "Enum (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "FileUpload1",
+          "Caption": "FileUpload1",
+          "Description": "FileUpload1",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Guid",
+          "Caption": "Guid",
+          "Description": "Guid (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "IntValue",
+          "Caption": "IntValue",
+          "Description": "IntValue (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "IntValue2",
+          "Caption": "IntValue2",
+          "Description": "IntValue2 (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "IntValue4",
+          "Caption": "IntValue4",
+          "Description": "IntValue4 (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "IntValue6",
+          "Caption": "IntValue6",
+          "Description": "IntValue6 (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "JQueryUISkin",
+          "Caption": "jQueryUISkin",
+          "Description": "JQueryUISkin (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "KendoUISkin",
+          "Caption": "KendoUISkin",
+          "Description": "KendoUISkin (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "LanguageId",
+          "Caption": "LanguageId",
+          "Description": "LanguageId (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "LongValue",
+          "Caption": "LongValue",
+          "Description": "LongValue (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PageSelection",
+          "Caption": "PageSelection",
+          "Description": "PageSelection (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PaneSelection",
+          "Caption": "PaneSelection",
+          "Description": "PaneSelection (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Password20",
+          "Caption": "Password20",
+          "Description": "Password20 (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SMTPServer",
+          "Caption": "SMTPServer",
+          "Description": "SMTPServer (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Text",
+          "Caption": "Text",
+          "Description": "Text (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Text10",
+          "Caption": "Text10",
+          "Description": "Text10 (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Text20",
+          "Caption": "Text20",
+          "Description": "Text20 (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Text40",
+          "Caption": "Text40",
+          "Description": "Text40 (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Text80",
+          "Caption": "Text80",
+          "Description": "Text80 (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TextArea",
+          "Caption": "TextArea",
+          "Description": "TextArea (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "USState",
+          "Caption": "USState",
+          "Description": "USState (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [
+    {
+      "Name": "YetaWF.Modules.DevTests.Controllers.BasicTemplatesModuleController+EditModel+SampleEnum",
+      "Entries": [
+        {
+          "Name": "Value1",
+          "Value": "Value1",
+          "Caption": "Enum 1",
+          "Description": "Tooltip for Enum 1"
+        },
+        {
+          "Name": "Value2",
+          "Value": "Value2",
+          "Caption": "Enum 2",
+          "Description": "Tooltip for Enum 2"
+        },
+        {
+          "Name": "Value3",
+          "Value": "Value3",
+          "Caption": "Enum 3",
+          "Description": "Tooltip for Enum 3"
+        }
+      ]
+    }
+  ],
+  "Strings": [
+    {
+      "Name": "btnSelect",
+      "Text": "Upload a file..."
+    },
+    {
+      "Name": "ok",
+      "Text": "OK"
+    },
+    {
+      "Name": "uploadSuccess",
+      "Text": "File {0} successfully uploaded"
+    }
+  ]
+}

@@ -1,139 +1,74 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--YetaWF.Core.Localize.LocalizationData-->
-<Object Type="YetaWF.Core.Localize.LocalizationData" Assembly="YetaWF.Core">
-  <Properties>
-    <Comment />
-    <Classes>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+ClassData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+ClassData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="YetaWF.Modules.Languages.Controllers.LocalizeConfigModuleController+Model" />
-                <BaseTypeName />
-                <Header />
-                <Footer Value="Individual web sites can enable/disable localization support (Site Settings). But localization is only available for individual sites run by this instance of YetaWF if 'Use Localization Resources' is enabled, which applies to all sites." />
-                <Legend />
-                <Categories>
-                  <Object Type="YetaWF.Core.Serializers.SerializableDictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <Dictionary />
-                  </Object>
-                </Categories>
-                <Properties>
-                  <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+PropertyData, YetaWF.Core]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <List>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="AbortOnFailure" />
-                            <Caption Value="Failure Mode" />
-                            <Description Value="Defines whether a missing localization resource string causes an exception (failure) or whether the built-in string is used instead" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow Value="This property is only used if 'Use Localization Resources' is selected. It is typically enabled for production systems and disabled for development/testing." />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="GoogleTranslateAPIKey" />
-                            <Caption Value="Translate API Key" />
-                            <Description Value="Defines the Google Cloud Platform / Google Translate API key, which is used when translating localization resources into other languages - You can obtain an API key from the Google Cloud Platform service - This is not a free service" />
-                            <HelpLink Value="https://cloud.google.com/translate/docs/" />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="GoogleTranslateAppName" />
-                            <Caption Value="Translate App Name" />
-                            <Description Value="Defines the name of your application performing translations - This is not a free service" />
-                            <HelpLink Value="https://cloud.google.com/translate/docs/" />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="MSClientKey" />
-                            <Caption Value="Client Key" />
-                            <Description Value="Defines the Client API Key of your application performing translations - Provided by Microsoft when registering your application - This is not a free service, although there are limited free accounts" />
-                            <HelpLink Value="https://www.microsoft.com/en-us/translator/getstarted.aspx" />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="TranslationService" />
-                            <Caption Value="Translation Service" />
-                            <Description Value="Defines the translation service used to translate localization resources" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="UseLocalizationResources" />
-                            <Caption Value="Use Localization Resources" />
-                            <Description Value="Defines whether localization resources are used, otherwise the application built-in text strings are used instead" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow Value="If multi-language support is required, this property must be enabled. This property applies to ALL sites run by this instance of YetaWF." />
-                          </Properties>
-                        </Object>
-                      </Value>
-                    </List>
-                  </Object>
-                </Properties>
-              </Properties>
-            </Object>
-          </Value>
-        </List>
-      </Object>
-    </Classes>
-    <Enums>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+EnumData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List />
-      </Object>
-    </Enums>
-    <Strings>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+StringData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="notFound" />
-                <Text Value="The localization settings could not be found" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="okSaved" />
-                <Text Value="Localization settings saved - These settings won't take effect until the site is restarted" />
-              </Properties>
-            </Object>
-          </Value>
-        </List>
-      </Object>
-    </Strings>
-  </Properties>
-</Object>
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Languages.Controllers.LocalizeConfigModuleController+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": "Individual web sites can enable/disable localization support (Site Settings). But localization is only available for individual sites run by this instance of YetaWF if \u0027Use Localization Resources\u0027 is enabled, which applies to all sites.",
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "AbortOnFailure",
+          "Caption": "Failure Mode",
+          "Description": "Defines whether a missing localization resource string causes an exception (failure) or whether the built-in string is used instead",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "This property is only used if \u0027Use Localization Resources\u0027 is selected. It is typically enabled for production systems and disabled for development/testing."
+        },
+        {
+          "Name": "GoogleTranslateAPIKey",
+          "Caption": "Translate API Key",
+          "Description": "Defines the Google Cloud Platform / Google Translate API key, which is used when translating localization resources into other languages - You can obtain an API key from the Google Cloud Platform service - This is not a free service",
+          "HelpLink": "https://cloud.google.com/translate/docs/",
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "GoogleTranslateAppName",
+          "Caption": "Translate App Name",
+          "Description": "Defines the name of your application performing translations - This is not a free service",
+          "HelpLink": "https://cloud.google.com/translate/docs/",
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MSClientKey",
+          "Caption": "Client Key",
+          "Description": "Defines the Client API Key of your application performing translations - Provided by Microsoft when registering your application - This is not a free service, although there are limited free accounts",
+          "HelpLink": "https://www.microsoft.com/en-us/translator/getstarted.aspx",
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TranslationService",
+          "Caption": "Translation Service",
+          "Description": "Defines the translation service used to translate localization resources",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UseLocalizationResources",
+          "Caption": "Use Localization Resources",
+          "Description": "Defines whether localization resources are used, otherwise the application built-in text strings are used instead",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "If multi-language support is required, this property must be enabled. This property applies to ALL sites run by this instance of YetaWF."
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "notFound",
+      "Text": "The localization settings could not be found"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Localization settings saved - These settings won\u0027t take effect until the site is restarted"
+    }
+  ]
+}

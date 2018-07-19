@@ -1,346 +1,172 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--YetaWF.Core.Localize.LocalizationData-->
-<Object Type="YetaWF.Core.Localize.LocalizationData" Assembly="YetaWF.Core">
-  <Properties>
-    <Comment />
-    <Classes>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+ClassData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+ClassData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="YetaWF.Modules.Search.Modules.SearchBrowseModule" />
-                <BaseTypeName Value="YetaWF.Core.Modules.ModuleDefinition" />
-                <Header />
-                <Footer />
-                <Legend />
-                <Categories>
-                  <Object Type="YetaWF.Core.Serializers.SerializableDictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <Dictionary>
-                      <Key Value="General" />
-                      <Value Value="General" />
-                    </Dictionary>
-                  </Object>
-                </Categories>
-                <Properties>
-                  <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+PropertyData, YetaWF.Core]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <List>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="AddUrl" />
-                            <Caption Value="Add URL" />
-                            <Description Value="The URL to add a new search keyword - if omitted, a default page is generated" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="DisplayUrl" />
-                            <Caption Value="Display URL" />
-                            <Description Value="The URL to display a search keyword - if omitted, a default page is generated" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="EditUrl" />
-                            <Caption Value="Edit URL" />
-                            <Description Value="The URL to edit a search keyword - if omitted, a default page is generated" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                    </List>
-                  </Object>
-                </Properties>
-              </Properties>
-            </Object>
-          </Value>
-        </List>
-      </Object>
-    </Classes>
-    <Enums>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+EnumData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List />
-      </Object>
-    </Enums>
-    <Strings>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+StringData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="browseLegend" />
-                <Text Value="Displays and manages search keywords" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="browseLink" />
-                <Text Value="Search Keywords" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="browseText" />
-                <Text Value="Search Keywords" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="browseTooltip" />
-                <Text Value="Display and manage search keywords" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="collectConfirm" />
-                <Text Value="Are you sure you want to collect all keywords for this site?" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="collectLegend" />
-                <Text Value="Collects a site's search keywords by examining all pages - only considers pages modified since last search" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="collectLink" />
-                <Text Value="Collect Keywords" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="collectMenu" />
-                <Text Value="Collect Keywords" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="collectPlsWait" />
-                <Text Value="Keywords are being collected..." />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="collectTT" />
-                <Text Value="Collect the site's search keywords by examining all pages - only considers pages modified since last search" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="modName" />
-                <Text Value="Search Keywords" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="modSummary" />
-                <Text Value="Displays and manages search keywords" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="modTitle" />
-                <Text Value="Search Keywords" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="removeAllConfirm" />
-                <Text Value="Are you sure you want to remove ALL keywords?" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="removeAllLegend" />
-                <Text Value="Remove all search keyword" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="removeAllLink" />
-                <Text Value="Remove All" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="removeAllMenu" />
-                <Text Value="Remove All" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="removeAllPlsWait" />
-                <Text Value="Keywords are being removed..." />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="removeAllTT" />
-                <Text Value="Remove all search keyword" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="removeConfirm" />
-                <Text Value="Are you sure you want to remove this keyword?" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="removeLegend" />
-                <Text Value="Removes the search keyword" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="removeLink" />
-                <Text Value="Remove search keyword" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="removeMenu" />
-                <Text Value="Remove search keyword" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="removeTT" />
-                <Text Value="Remove the search keyword" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="roleCollect" />
-                <Text Value="The role has permission to collect a site's search keywords" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="roleCollectC" />
-                <Text Value="Collect Keywords" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="roleRemItems" />
-                <Text Value="The role has permission to remove individual search keywords" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="roleRemItemsC" />
-                <Text Value="Remove Search Items" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="userCollect" />
-                <Text Value="The user has permission to collect a site's search keywords" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="userCollectC" />
-                <Text Value="Collect Keywords" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="userRemItems" />
-                <Text Value="The user has permission to remove individual search keywords" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="userRemItemsC" />
-                <Text Value="Remove Search Items" />
-              </Properties>
-            </Object>
-          </Value>
-        </List>
-      </Object>
-    </Strings>
-  </Properties>
-</Object>
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Search.Modules.SearchBrowseModule",
+      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition",
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "General": "General"
+      },
+      "Properties": [
+        {
+          "Name": "AddUrl",
+          "Caption": "Add URL",
+          "Description": "The URL to add a new search keyword - if omitted, a default page is generated",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DisplayUrl",
+          "Caption": "Display URL",
+          "Description": "The URL to display a search keyword - if omitted, a default page is generated",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "EditUrl",
+          "Caption": "Edit URL",
+          "Description": "The URL to edit a search keyword - if omitted, a default page is generated",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "browseLegend",
+      "Text": "Displays and manages search keywords"
+    },
+    {
+      "Name": "browseLink",
+      "Text": "Search Keywords"
+    },
+    {
+      "Name": "browseText",
+      "Text": "Search Keywords"
+    },
+    {
+      "Name": "browseTooltip",
+      "Text": "Display and manage search keywords"
+    },
+    {
+      "Name": "collectConfirm",
+      "Text": "Are you sure you want to collect all keywords for this site?"
+    },
+    {
+      "Name": "collectLegend",
+      "Text": "Collects a site\u0027s search keywords by examining all pages - only considers pages modified since last search"
+    },
+    {
+      "Name": "collectLink",
+      "Text": "Collect Keywords"
+    },
+    {
+      "Name": "collectMenu",
+      "Text": "Collect Keywords"
+    },
+    {
+      "Name": "collectPlsWait",
+      "Text": "Keywords are being collected..."
+    },
+    {
+      "Name": "collectTT",
+      "Text": "Collect the site\u0027s search keywords by examining all pages - only considers pages modified since last search"
+    },
+    {
+      "Name": "modName",
+      "Text": "Search Keywords"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Displays and manages search keywords"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Search Keywords"
+    },
+    {
+      "Name": "removeAllConfirm",
+      "Text": "Are you sure you want to remove ALL keywords?"
+    },
+    {
+      "Name": "removeAllLegend",
+      "Text": "Remove all search keyword"
+    },
+    {
+      "Name": "removeAllLink",
+      "Text": "Remove All"
+    },
+    {
+      "Name": "removeAllMenu",
+      "Text": "Remove All"
+    },
+    {
+      "Name": "removeAllPlsWait",
+      "Text": "Keywords are being removed..."
+    },
+    {
+      "Name": "removeAllTT",
+      "Text": "Remove all search keyword"
+    },
+    {
+      "Name": "removeConfirm",
+      "Text": "Are you sure you want to remove this keyword?"
+    },
+    {
+      "Name": "removeLegend",
+      "Text": "Removes the search keyword"
+    },
+    {
+      "Name": "removeLink",
+      "Text": "Remove search keyword"
+    },
+    {
+      "Name": "removeMenu",
+      "Text": "Remove search keyword"
+    },
+    {
+      "Name": "removeTT",
+      "Text": "Remove the search keyword"
+    },
+    {
+      "Name": "roleCollect",
+      "Text": "The role has permission to collect a site\u0027s search keywords"
+    },
+    {
+      "Name": "roleCollectC",
+      "Text": "Collect Keywords"
+    },
+    {
+      "Name": "roleRemItems",
+      "Text": "The role has permission to remove individual search keywords"
+    },
+    {
+      "Name": "roleRemItemsC",
+      "Text": "Remove Search Items"
+    },
+    {
+      "Name": "userCollect",
+      "Text": "The user has permission to collect a site\u0027s search keywords"
+    },
+    {
+      "Name": "userCollectC",
+      "Text": "Collect Keywords"
+    },
+    {
+      "Name": "userRemItems",
+      "Text": "The user has permission to remove individual search keywords"
+    },
+    {
+      "Name": "userRemItemsC",
+      "Text": "Remove Search Items"
+    }
+  ]
+}

@@ -1,90 +1,39 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--YetaWF.Core.Localize.LocalizationData-->
-<Object Type="YetaWF.Core.Localize.LocalizationData" Assembly="YetaWF.Core">
-  <Properties>
-    <Comment />
-    <Classes>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+ClassData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List />
-      </Object>
-    </Classes>
-    <Enums>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+EnumData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List />
-      </Object>
-    </Enums>
-    <Strings>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+StringData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="lastUpd" />
-                <Text Value="Updated {0}" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="noDesc" />
-                <Text Value="(No Description)" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="noResults" />
-                <Text Value="Your search for &quot;{0}&quot; did not match any documents." />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="noResultsAdmin" />
-                <Text Value="No search results available." />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="results" />
-                <Text Value="Your search for &quot;{0}&quot; found {1} matches." />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="results1" />
-                <Text Value="Your search for &quot;{0}&quot; found {1} match." />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="resultsMore" />
-                <Text Value="Your search for &quot;{0}&quot; found {1} matches - more are available." />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="resultsMore1" />
-                <Text Value="Your search for &quot;{0}&quot; found {1} match - more are available." />
-              </Properties>
-            </Object>
-          </Value>
-        </List>
-      </Object>
-    </Strings>
-  </Properties>
-</Object>
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "lastUpd",
+      "Text": "Updated {0}"
+    },
+    {
+      "Name": "noDesc",
+      "Text": "(No Description)"
+    },
+    {
+      "Name": "noResults",
+      "Text": "Your search for \u0022{0}\u0022 did not match any documents."
+    },
+    {
+      "Name": "noResultsAdmin",
+      "Text": "No search results available."
+    },
+    {
+      "Name": "results",
+      "Text": "Your search for \u0022{0}\u0022 found {1} matches."
+    },
+    {
+      "Name": "results1",
+      "Text": "Your search for \u0022{0}\u0022 found {1} match."
+    },
+    {
+      "Name": "resultsMore",
+      "Text": "Your search for \u0022{0}\u0022 found {1} matches - more are available."
+    },
+    {
+      "Name": "resultsMore1",
+      "Text": "Your search for \u0022{0}\u0022 found {1} match - more are available."
+    }
+  ]
+}

@@ -1,1063 +1,638 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--YetaWF.Core.Localize.LocalizationData-->
-<Object Type="YetaWF.Core.Localize.LocalizationData" Assembly="YetaWF.Core">
-  <Properties>
-    <Comment />
-    <Classes>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+ClassData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+ClassData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="YetaWF.Core.Modules.ModuleDefinition" />
-                <BaseTypeName />
-                <Header />
-                <Footer />
-                <Legend />
-                <Categories>
-                  <Object Type="YetaWF.Core.Serializers.SerializableDictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <Dictionary>
-                      <Key Value="About" />
-                      <Value Value="About" />
-                      <Key Value="Authorization" />
-                      <Value Value="Authorization" />
-                      <Key Value="General" />
-                      <Value Value="General" />
-                      <Key Value="Pages" />
-                      <Value Value="Pages" />
-                      <Key Value="References" />
-                      <Value Value="References" />
-                      <Key Value="Skin" />
-                      <Value Value="Skin" />
-                      <Key Value="Variables" />
-                      <Value Value="Variables" />
-                    </Dictionary>
-                  </Object>
-                </Categories>
-                <Properties>
-                  <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+PropertyData, YetaWF.Core]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <List>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="AddOnModuleUrl" />
-                            <Caption Value="AddOn Folder" />
-                            <Description Value="The Url of the module's addon folder" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="AllowedRoles" />
-                            <Caption Value="Permitted Roles" />
-                            <Description Value="Roles that are permitted to use this module" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="AllowedUsers" />
-                            <Caption Value="Permitted Users" />
-                            <Description Value="Users that are permitted to use this module" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="AnchorId" />
-                            <Caption Value="Anchor Id" />
-                            <Description Value="The optional id used as anchor tag for this module - if an id is entered, an anchor tag is generated so the module can be directly located on the page" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Area" />
-                            <Caption Value="Area" />
-                            <Description Value="The MVC area name of the module" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="ClassName" />
-                            <Caption Value="Class Name" />
-                            <Description Value="The module's class name" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="CompanyDisplayName" />
-                            <Caption Value="Company Display Name" />
-                            <Description Value="The displayable company name of the module's publisher" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="CompanyName" />
-                            <Caption Value="Company Name" />
-                            <Description Value="The internal company name of the module's publisher" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="CssClass" />
-                            <Caption Value="CSS Class" />
-                            <Description Value="The optional CSS classes to be added to the module's &lt;div&gt; tag for further customization through stylesheets" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="DateCreated" />
-                            <Caption Value="Date Created" />
-                            <Description Value="The date/time this module was created" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="DateUpdated" />
-                            <Caption Value="Date Updated" />
-                            <Description Value="The date/time this module was last updated" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Description" />
-                            <Caption Value="Summary" />
-                            <Description Value="The module description" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Domain" />
-                            <Caption Value="Domain" />
-                            <Description Value="The domain name of the product or company publishing the module" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="FullClassName" />
-                            <Caption Value="Class Name (Full)" />
-                            <Description Value="The module's full class name" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Invokable" />
-                            <Caption Value="Invokable" />
-                            <Description Value="Defines whether this module can be referenced by other modules or pages so it's injected into the page - Typically used for skin modules - Only unique modules support being invoked" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="InvokeInAjax" />
-                            <Caption Value="Use In Ajax" />
-                            <Description Value="Defines whether this module can be injected in an Ajax request/partial view" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="InvokeInPopup" />
-                            <Caption Value="Use In Popup" />
-                            <Description Value="Defines whether this module can be injected in a popup" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="InvokingCss" />
-                            <Caption Value="Invoking Css" />
-                            <Description Value="Defines the Css that causes this module to be injected into the page, when the Css is used by a template - only supported for unique modules" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="IsModuleUnique" />
-                            <Caption Value="IsModuleUnique" />
-                            <Description Value="Displays whether the module is a unique module" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="ModuleDataFolder" />
-                            <Caption Value="Data Folder" />
-                            <Description Value="The module's data folder used to store additional data" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="ModuleDisplayName" />
-                            <Caption Value="Module Display Name" />
-                            <Description Value="The displayable module name" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="ModuleGuid" />
-                            <Caption Value="Module Guid" />
-                            <Description Value="Displays a unique identifier for this instance of a module. This is typically used for development purposes only and can be used to uniquely identify this module. This id never changes, even if the module is later renamed" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="ModuleHasSettings" />
-                            <Caption Value="Has Settings" />
-                            <Description Value="Defines whether the module has settings that can be edited and saved" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="ModuleName" />
-                            <Caption Value="Module Name" />
-                            <Description Value="The module name" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="ModulePermanentUrl" />
-                            <Caption Value="Permanent Url" />
-                            <Description Value="The Url used to uniquely and permanently identify this module" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="ModuleSecurity" />
-                            <Caption Value="Security" />
-                            <Description Value="Defines what page security is needed for the module to be shown" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Name" />
-                            <Caption Value="Name" />
-                            <Description Value="The module name, which is used to identify the module" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Pages" />
-                            <Caption Value="Pages" />
-                            <Description Value="The pages where this module is used" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="PermanentGuid" />
-                            <Caption Value="Permanent Guid" />
-                            <Description Value="Displays a unique identifier for this type of module. This is typically used for development purposes only and can be used to uniquely identify this module type. This id never changes" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="PermanentModuleName" />
-                            <Caption Value="Permanent Module Name" />
-                            <Description Value="The internal, permanent module name" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Print" />
-                            <Caption Value="Print Support" />
-                            <Description Value="Defines whether the module is printed when a page is printed" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Product" />
-                            <Caption Value="Product" />
-                            <Description Value="The module's product name" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="ReferencedModules" />
-                            <Caption Value="Other Modules" />
-                            <Description Value="Defines other modules which must be injected into the page when this module is used" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="SelectedPopupSkin" />
-                            <Caption Value="Popup Skin" />
-                            <Description Value="The skin used for the popup window when this module is shown in a popup" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="ShowActionMenu" />
-                            <Caption Value="Show Action Menu" />
-                            <Description Value="Displays whether the action menu is shown for this module" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="ShowFormButtons" />
-                            <Caption Value="Show Form Buttons" />
-                            <Description Value="If the module has a form with buttons (Save, Close, Return, etc.) these are shown/hidden based on this setting" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="ShowHelp" />
-                            <Caption Value="Show Help" />
-                            <Description Value="Defines whether the module help link is shown in Display Mode - The help link is always shown in Edit Mode" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="ShowModuleMenu" />
-                            <Caption Value="Show Module Menu" />
-                            <Description Value="Displays whether the module menu is shown for this module" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="ShowTitle" />
-                            <Caption Value="Show Title" />
-                            <Description Value="Defines whether the module title is shown" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="ShowTitleActions" />
-                            <Caption Value="Show Actions (Title)" />
-                            <Description Value="Defines whether the module's action links are also shown next to the module title - Only the icons are shown if selected" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="SkinDefinitions" />
-                            <Caption Value="Module Skins" />
-                            <Description Value="The skin used for this module - for each installed skin, a skin can be selected which will be used for the module, if the containing page uses that skin. This way the same module can be used on multiple pages, even if different page skins are used" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Temporary" />
-                            <Caption Value="Temporary" />
-                            <Description Value="Defines whether the module is a temporary (generated) module" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="TempPageCssClass" />
-                            <Caption Value="Temp. Page CSS Class" />
-                            <Description Value="The optional CSS classes to be added to a temporary page's &lt;body&gt; tag when this module is used on a temporary page - Temporary pages are used when a module is displayed without a permanent, designed page" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Title" />
-                            <Caption Value="Title" />
-                            <Description Value="The module title, which appears at the top of the module as its title" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="UsePartialFormCss" />
-                            <Caption Value="Partial Form Css" />
-                            <Description Value="Defines whether the skin's partial form Css is added to partial forms within this module - Partial form Css is never used in popup windows or on mobile devices" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Version" />
-                            <Caption Value="Version" />
-                            <Description Value="The module version" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Visible" />
-                            <Caption Value="Visible" />
-                            <Description Value="Defines whether the module is visible" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="WantFocus" />
-                            <Caption Value="Wants Input Focus" />
-                            <Description Value="Defines whether input fields in this module should receive the input focus if it's first on the page" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="WantSearch" />
-                            <Caption Value="Search Keywords" />
-                            <Description Value="Defines whether this module's contents should be added to the site's search keywords" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                    </List>
-                  </Object>
-                </Properties>
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+ClassData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="YetaWF.Core.Modules.ModuleDefinition+GridAllowedRole" />
-                <BaseTypeName />
-                <Header />
-                <Footer />
-                <Legend />
-                <Categories>
-                  <Object Type="YetaWF.Core.Serializers.SerializableDictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <Dictionary />
-                  </Object>
-                </Categories>
-                <Properties>
-                  <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+PropertyData, YetaWF.Core]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <List>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Edit" />
-                            <Caption Value="Edit" />
-                            <Description Value="The role has permission to edit the module" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Remove" />
-                            <Caption Value="Remove" />
-                            <Description Value="The role has permission to remove the module" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="RoleName" />
-                            <Caption Value="Role" />
-                            <Description Value="Role Description" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="View" />
-                            <Caption Value="View" />
-                            <Description Value="The role has permission to view the module" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                    </List>
-                  </Object>
-                </Properties>
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+ClassData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="YetaWF.Core.Modules.ModuleDefinition+GridAllowedUser" />
-                <BaseTypeName />
-                <Header />
-                <Footer />
-                <Legend />
-                <Categories>
-                  <Object Type="YetaWF.Core.Serializers.SerializableDictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <Dictionary />
-                  </Object>
-                </Categories>
-                <Properties>
-                  <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+PropertyData, YetaWF.Core]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <List>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="DeleteMe" />
-                            <Caption Value="Delete" />
-                            <Description Value="Click to delete a user" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="DisplayUserId" />
-                            <Caption Value="User" />
-                            <Description Value="User Name" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Edit" />
-                            <Caption Value="Edit" />
-                            <Description Value="The user has permission to edit the module" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Remove" />
-                            <Caption Value="Remove" />
-                            <Description Value="The user has permission to remove the module" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="View" />
-                            <Caption Value="View" />
-                            <Description Value="The user has permission to view the module" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                    </List>
-                  </Object>
-                </Properties>
-              </Properties>
-            </Object>
-          </Value>
-        </List>
-      </Object>
-    </Classes>
-    <Enums>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+EnumData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+EnumData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="YetaWF.Core.Modules.ModuleDefinition+AllowedEnum" />
-                <Entries>
-                  <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+EnumDataEntry, YetaWF.Core]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <List>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+EnumDataEntry" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="NotDefined" />
-                            <Value Value="NotDefined" />
-                            <Caption Value=" " />
-                            <Description Value="Not specified" />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+EnumDataEntry" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="Yes" />
-                            <Value Value="Yes" />
-                            <Caption Value="Yes" />
-                            <Description Value="Allowed" />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+EnumDataEntry" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="No" />
-                            <Value Value="No" />
-                            <Caption Value="No" />
-                            <Description Value="Forbidden" />
-                          </Properties>
-                        </Object>
-                      </Value>
-                    </List>
-                  </Object>
-                </Entries>
-              </Properties>
-            </Object>
-          </Value>
-        </List>
-      </Object>
-    </Enums>
-    <Strings>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+StringData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="desc" />
-                <Text Value="(not specified)" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="errCantImport" />
-                <Text Value="Module Data {0}({1}) cannot be imported - {2}" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="invCore" />
-                <Text Value="This module requires YetaWF version {0} - Current version found is {1}" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="invFormat" />
-                <Text Value="{0} is not valid module data" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="mmMove" />
-                <Text Value="Move" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="mmMoveTo" />
-                <Text Value="Move To" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="modErr" />
-                <Text Value="An error occurred in module {0}:&lt;br/&gt;" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="moduleFmt" />
-                <Text Value="Module Data - {0}.{1}.zip" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="name" />
-                <Text Value="(unnamed)" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="nonSite" />
-                <Text Value="Module Data {0} cannot be imported - It contains unexpected non site specific data" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="pageNotFound" />
-                <Text Value="Page with id {0} doesn't exist" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="roleEdit" />
-                <Text Value="The role has permission to edit the module" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="roleEditC" />
-                <Text Value="Edit" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="roleRemove" />
-                <Text Value="The role has permission to remove the module" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="roleRemoveC" />
-                <Text Value="Remove" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="roleView" />
-                <Text Value="The role has permission to view the module" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="roleViewC" />
-                <Text Value="View" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="title" />
-                <Text Value="(untitled)" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="unique" />
-                <Text Value="Module {0} is a unique module and can't be imported as a new module" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="uploadedFile" />
-                <Text Value="Uploaded file" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="userEdit" />
-                <Text Value="The user has permission to edit the module" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="userEditC" />
-                <Text Value="Edit" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="userRemove" />
-                <Text Value="The user has permission to remove the module" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="userRemoveC" />
-                <Text Value="Remove" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="userView" />
-                <Text Value="The user has permission to view the module" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="userViewC" />
-                <Text Value="View" />
-              </Properties>
-            </Object>
-          </Value>
-        </List>
-      </Object>
-    </Strings>
-  </Properties>
-</Object>
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Core.Modules.ModuleDefinition",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "About": "About",
+        "Authorization": "Authorization",
+        "General": "General",
+        "Pages": "Pages",
+        "References": "References",
+        "Skin": "Skin",
+        "Variables": "Variables"
+      },
+      "Properties": [
+        {
+          "Name": "AddOnModuleUrl",
+          "Caption": "AddOn Folder",
+          "Description": "The Url of the module\u0027s addon folder",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "AllowedRoles",
+          "Caption": "Permitted Roles",
+          "Description": "Roles that are permitted to use this module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "AllowedUsers",
+          "Caption": "Permitted Users",
+          "Description": "Users that are permitted to use this module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "AnchorId",
+          "Caption": "Anchor Id",
+          "Description": "The optional id used as anchor tag for this module - if an id is entered, an anchor tag is generated so the module can be directly located on the page",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Area",
+          "Caption": "Area",
+          "Description": "The MVC area name of the module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ClassName",
+          "Caption": "Class Name",
+          "Description": "The module\u0027s class name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CompanyDisplayName",
+          "Caption": "Company Display Name",
+          "Description": "The displayable company name of the module\u0027s publisher",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CompanyName",
+          "Caption": "Company Name",
+          "Description": "The internal company name of the module\u0027s publisher",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CssClass",
+          "Caption": "CSS Class",
+          "Description": "The optional CSS classes to be added to the module\u0027s \u003cdiv\u003e tag for further customization through stylesheets",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DateCreated",
+          "Caption": "Date Created",
+          "Description": "The date/time this module was created",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DateUpdated",
+          "Caption": "Date Updated",
+          "Description": "The date/time this module was last updated",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Description",
+          "Caption": "Summary",
+          "Description": "The module description",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Domain",
+          "Caption": "Domain",
+          "Description": "The domain name of the product or company publishing the module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "FullClassName",
+          "Caption": "Class Name (Full)",
+          "Description": "The module\u0027s full class name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Invokable",
+          "Caption": "Invokable",
+          "Description": "Defines whether this module can be referenced by other modules or pages so it\u0027s injected into the page - Typically used for skin modules - Only unique modules support being invoked",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "InvokeInAjax",
+          "Caption": "Use In Ajax",
+          "Description": "Defines whether this module can be injected in an Ajax request/partial view",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "InvokeInPopup",
+          "Caption": "Use In Popup",
+          "Description": "Defines whether this module can be injected in a popup",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "InvokingCss",
+          "Caption": "Invoking Css",
+          "Description": "Defines the Css that causes this module to be injected into the page, when the Css is used by a template - only supported for unique modules",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "IsModuleUnique",
+          "Caption": "IsModuleUnique",
+          "Description": "Displays whether the module is a unique module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ModuleDataFolder",
+          "Caption": "Data Folder",
+          "Description": "The module\u0027s data folder used to store additional data",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ModuleDisplayName",
+          "Caption": "Module Display Name",
+          "Description": "The displayable module name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ModuleGuid",
+          "Caption": "Module Guid",
+          "Description": "Displays a unique identifier for this instance of a module. This is typically used for development purposes only and can be used to uniquely identify this module. This id never changes, even if the module is later renamed",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ModuleHasSettings",
+          "Caption": "Has Settings",
+          "Description": "Defines whether the module has settings that can be edited and saved",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ModuleName",
+          "Caption": "Module Name",
+          "Description": "The module name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ModulePermanentUrl",
+          "Caption": "Permanent Url",
+          "Description": "The Url used to uniquely and permanently identify this module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ModuleSecurity",
+          "Caption": "Security",
+          "Description": "Defines what page security is needed for the module to be shown",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Name",
+          "Caption": "Name",
+          "Description": "The module name, which is used to identify the module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Pages",
+          "Caption": "Pages",
+          "Description": "The pages where this module is used",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PermanentGuid",
+          "Caption": "Permanent Guid",
+          "Description": "Displays a unique identifier for this type of module. This is typically used for development purposes only and can be used to uniquely identify this module type. This id never changes",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PermanentModuleName",
+          "Caption": "Permanent Module Name",
+          "Description": "The internal, permanent module name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Print",
+          "Caption": "Print Support",
+          "Description": "Defines whether the module is printed when a page is printed",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Product",
+          "Caption": "Product",
+          "Description": "The module\u0027s product name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ReferencedModules",
+          "Caption": "Other Modules",
+          "Description": "Defines other modules which must be injected into the page when this module is used",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SelectedPopupSkin",
+          "Caption": "Popup Skin",
+          "Description": "The skin used for the popup window when this module is shown in a popup",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ShowActionMenu",
+          "Caption": "Show Action Menu",
+          "Description": "Displays whether the action menu is shown for this module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ShowFormButtons",
+          "Caption": "Show Form Buttons",
+          "Description": "If the module has a form with buttons (Save, Close, Return, etc.) these are shown/hidden based on this setting",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ShowHelp",
+          "Caption": "Show Help",
+          "Description": "Defines whether the module help link is shown in Display Mode - The help link is always shown in Edit Mode",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ShowModuleMenu",
+          "Caption": "Show Module Menu",
+          "Description": "Displays whether the module menu is shown for this module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ShowTitle",
+          "Caption": "Show Title",
+          "Description": "Defines whether the module title is shown",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ShowTitleActions",
+          "Caption": "Show Actions (Title)",
+          "Description": "Defines whether the module\u0027s action links are also shown next to the module title - Only the icons are shown if selected",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SkinDefinitions",
+          "Caption": "Module Skins",
+          "Description": "The skin used for this module - for each installed skin, a skin can be selected which will be used for the module, if the containing page uses that skin. This way the same module can be used on multiple pages, even if different page skins are used",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Temporary",
+          "Caption": "Temporary",
+          "Description": "Defines whether the module is a temporary (generated) module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TempPageCssClass",
+          "Caption": "Temp. Page CSS Class",
+          "Description": "The optional CSS classes to be added to a temporary page\u0027s \u003cbody\u003e tag when this module is used on a temporary page - Temporary pages are used when a module is displayed without a permanent, designed page",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Title",
+          "Caption": "Title",
+          "Description": "The module title, which appears at the top of the module as its title",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UsePartialFormCss",
+          "Caption": "Partial Form Css",
+          "Description": "Defines whether the skin\u0027s partial form Css is added to partial forms within this module - Partial form Css is never used in popup windows or on mobile devices",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Version",
+          "Caption": "Version",
+          "Description": "The module version",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Visible",
+          "Caption": "Visible",
+          "Description": "Defines whether the module is visible",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "WantFocus",
+          "Caption": "Wants Input Focus",
+          "Description": "Defines whether input fields in this module should receive the input focus if it\u0027s first on the page",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "WantSearch",
+          "Caption": "Search Keywords",
+          "Description": "Defines whether this module\u0027s contents should be added to the site\u0027s search keywords",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    },
+    {
+      "Name": "YetaWF.Core.Modules.ModuleDefinition+GridAllowedRole",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Edit",
+          "Caption": "Edit",
+          "Description": "The role has permission to edit the module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Remove",
+          "Caption": "Remove",
+          "Description": "The role has permission to remove the module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RoleName",
+          "Caption": "Role",
+          "Description": "Role Description",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "View",
+          "Caption": "View",
+          "Description": "The role has permission to view the module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    },
+    {
+      "Name": "YetaWF.Core.Modules.ModuleDefinition+GridAllowedUser",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "DeleteMe",
+          "Caption": "Delete",
+          "Description": "Click to delete a user",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DisplayUserId",
+          "Caption": "User",
+          "Description": "User Name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Edit",
+          "Caption": "Edit",
+          "Description": "The user has permission to edit the module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Remove",
+          "Caption": "Remove",
+          "Description": "The user has permission to remove the module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "View",
+          "Caption": "View",
+          "Description": "The user has permission to view the module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [
+    {
+      "Name": "YetaWF.Core.Modules.ModuleDefinition+AllowedEnum",
+      "Entries": [
+        {
+          "Name": "NotDefined",
+          "Value": "NotDefined",
+          "Caption": " ",
+          "Description": "Not specified"
+        },
+        {
+          "Name": "Yes",
+          "Value": "Yes",
+          "Caption": "Yes",
+          "Description": "Allowed"
+        },
+        {
+          "Name": "No",
+          "Value": "No",
+          "Caption": "No",
+          "Description": "Forbidden"
+        }
+      ]
+    }
+  ],
+  "Strings": [
+    {
+      "Name": "desc",
+      "Text": "(not specified)"
+    },
+    {
+      "Name": "errCantImport",
+      "Text": "Module Data {0}({1}) cannot be imported - {2}"
+    },
+    {
+      "Name": "invCore",
+      "Text": "This module requires YetaWF version {0} - Current version found is {1}"
+    },
+    {
+      "Name": "invFormat",
+      "Text": "{0} is not valid module data"
+    },
+    {
+      "Name": "mmMove",
+      "Text": "Move"
+    },
+    {
+      "Name": "mmMoveTo",
+      "Text": "Move To"
+    },
+    {
+      "Name": "modErr",
+      "Text": "An error occurred in module {0}:\u003cbr/\u003e"
+    },
+    {
+      "Name": "moduleFmt",
+      "Text": "Module Data - {0}.{1}.zip"
+    },
+    {
+      "Name": "name",
+      "Text": "(unnamed)"
+    },
+    {
+      "Name": "nonSite",
+      "Text": "Module Data {0} cannot be imported - It contains unexpected non site specific data"
+    },
+    {
+      "Name": "pageNotFound",
+      "Text": "Page with id {0} doesn\u0027t exist"
+    },
+    {
+      "Name": "roleEdit",
+      "Text": "The role has permission to edit the module"
+    },
+    {
+      "Name": "roleEditC",
+      "Text": "Edit"
+    },
+    {
+      "Name": "roleRemove",
+      "Text": "The role has permission to remove the module"
+    },
+    {
+      "Name": "roleRemoveC",
+      "Text": "Remove"
+    },
+    {
+      "Name": "roleView",
+      "Text": "The role has permission to view the module"
+    },
+    {
+      "Name": "roleViewC",
+      "Text": "View"
+    },
+    {
+      "Name": "title",
+      "Text": "(untitled)"
+    },
+    {
+      "Name": "unique",
+      "Text": "Module {0} is a unique module and can\u0027t be imported as a new module"
+    },
+    {
+      "Name": "uploadedFile",
+      "Text": "Uploaded file"
+    },
+    {
+      "Name": "userEdit",
+      "Text": "The user has permission to edit the module"
+    },
+    {
+      "Name": "userEditC",
+      "Text": "Edit"
+    },
+    {
+      "Name": "userRemove",
+      "Text": "The user has permission to remove the module"
+    },
+    {
+      "Name": "userRemoveC",
+      "Text": "Remove"
+    },
+    {
+      "Name": "userView",
+      "Text": "The user has permission to view the module"
+    },
+    {
+      "Name": "userViewC",
+      "Text": "View"
+    }
+  ]
+}

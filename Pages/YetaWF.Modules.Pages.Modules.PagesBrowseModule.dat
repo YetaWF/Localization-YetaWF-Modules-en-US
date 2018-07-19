@@ -1,450 +1,219 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--YetaWF.Core.Localize.LocalizationData-->
-<Object Type="YetaWF.Core.Localize.LocalizationData" Assembly="YetaWF.Core">
-  <Properties>
-    <Comment />
-    <Classes>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+ClassData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List />
-      </Object>
-    </Classes>
-    <Enums>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+EnumData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List />
-      </Object>
-    </Enums>
-    <Strings>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+StringData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="browseLegend" />
-                <Text Value="Displays and manages pages" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="browseLink" />
-                <Text Value="Pages" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="browseText" />
-                <Text Value="Pages" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="browseTooltip" />
-                <Text Value="Display and manage pages" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="displayLegend" />
-                <Text Value="Displays the page" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="displayLink" />
-                <Text Value="Show Page" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="displayMenu" />
-                <Text Value="Show Page" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="displayTT" />
-                <Text Value="Display the page in a new window" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="downloadLegend" />
-                <Text Value="Downloads the site map file" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="downloadLink" />
-                <Text Value="Download Site Map" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="downloadMenu" />
-                <Text Value="Download Site Map" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="downloadTT" />
-                <Text Value="Download the site map file" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="modName" />
-                <Text Value="Pages" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="modSummary" />
-                <Text Value="Displays and manages pages" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="modTitle" />
-                <Text Value="Pages" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="pagelistLegend" />
-                <Text Value="Downloads the list of designed pages" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="pagelistLink" />
-                <Text Value="Download Page List" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="pagelistMenu" />
-                <Text Value="Download Page List" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="pagelistTT" />
-                <Text Value="Download the list of designed pages" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="removeConfirm" />
-                <Text Value="Are you sure you want to remove page &quot;{0}&quot;?" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="removeLegend" />
-                <Text Value="Remove the page from the site" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="removeLink" />
-                <Text Value="Remove Item" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="removeMenu" />
-                <Text Value="Remove Item" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="removeTT" />
-                <Text Value="Removes the page from the site" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="restAuthConfirm" />
-                <Text Value="DEVELOPMENT FEATURE - Are you sure you want to add permission to all pages for the Administrator to have full control and the Editor can View &amp; Edit?" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="restAuthLegend" />
-                <Text Value="DEVELOPMENT FEATURE - Add permission to all pages for the Administrator to have full control and the Editor can View &amp; Edit" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="restAuthLink" />
-                <Text Value="Admin &amp; Editor Authorization" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="restAuthMenu" />
-                <Text Value="Admin &amp; Editor Authorization" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="restAuthPlsWait" />
-                <Text Value="Updating all pages so the Administrator has full control and the Editor can View &amp; Edit..." />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="restAuthTT" />
-                <Text Value="DEVELOPMENT FEATURE - Add permission to all pages for the Administrator to have full control and the Editor can View &amp; Edit" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="roleRemItems" />
-                <Text Value="The role has permission to remove pages" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="roleRemItemsC" />
-                <Text Value="Remove Pages" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="roleSetAuth" />
-                <Text Value="The role has permission to set global authorization for all pages" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="roleSetAuthC" />
-                <Text Value="Set Global Authorization" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="roleSiteMaps" />
-                <Text Value="The role has permission to manage site maps" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="roleSiteMapsC" />
-                <Text Value="Manage Site Maps" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="screAuthConfirm" />
-                <Text Value="Are you sure you want to create a new site map?" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="screAuthLegend" />
-                <Text Value="Creates a site map" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="screAuthLink" />
-                <Text Value="Create Site Map" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="screAuthMenu" />
-                <Text Value="Create Site Map" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="screAuthPlsWait" />
-                <Text Value="Creating site map..." />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="screAuthTT" />
-                <Text Value="Create a site map" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="sremAuthConfirm" />
-                <Text Value="Are you sure you want to remove the current site map?" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="sremAuthLegend" />
-                <Text Value="Removes the current site map" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="sremAuthLink" />
-                <Text Value="Remove Site Map" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="sremAuthMenu" />
-                <Text Value="Remove Site Map" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="sremAuthTT" />
-                <Text Value="Remove current site map" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="userRemItems" />
-                <Text Value="The user has permission to remove pages" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="userRemItemsC" />
-                <Text Value="Remove Pages" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="userSetAuth" />
-                <Text Value="The user has permission to set global authorization for all pages" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="userSetAuthC" />
-                <Text Value="Set Global Authorization" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="userSiteMaps" />
-                <Text Value="The user has permission to manage site maps" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="userSiteMapsC" />
-                <Text Value="Manage Site Maps" />
-              </Properties>
-            </Object>
-          </Value>
-        </List>
-      </Object>
-    </Strings>
-  </Properties>
-</Object>
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "browseLegend",
+      "Text": "Displays and manages pages"
+    },
+    {
+      "Name": "browseLink",
+      "Text": "Pages"
+    },
+    {
+      "Name": "browseText",
+      "Text": "Pages"
+    },
+    {
+      "Name": "browseTooltip",
+      "Text": "Display and manage pages"
+    },
+    {
+      "Name": "displayLegend",
+      "Text": "Displays the page"
+    },
+    {
+      "Name": "displayLink",
+      "Text": "Show Page"
+    },
+    {
+      "Name": "displayMenu",
+      "Text": "Show Page"
+    },
+    {
+      "Name": "displayTT",
+      "Text": "Display the page in a new window"
+    },
+    {
+      "Name": "downloadLegend",
+      "Text": "Downloads the site map file"
+    },
+    {
+      "Name": "downloadLink",
+      "Text": "Download Site Map"
+    },
+    {
+      "Name": "downloadMenu",
+      "Text": "Download Site Map"
+    },
+    {
+      "Name": "downloadTT",
+      "Text": "Download the site map file"
+    },
+    {
+      "Name": "modName",
+      "Text": "Pages"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Displays and manages pages"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Pages"
+    },
+    {
+      "Name": "pagelistLegend",
+      "Text": "Downloads the list of designed pages"
+    },
+    {
+      "Name": "pagelistLink",
+      "Text": "Download Page List"
+    },
+    {
+      "Name": "pagelistMenu",
+      "Text": "Download Page List"
+    },
+    {
+      "Name": "pagelistTT",
+      "Text": "Download the list of designed pages"
+    },
+    {
+      "Name": "removeConfirm",
+      "Text": "Are you sure you want to remove page \u0022{0}\u0022?"
+    },
+    {
+      "Name": "removeLegend",
+      "Text": "Remove the page from the site"
+    },
+    {
+      "Name": "removeLink",
+      "Text": "Remove Item"
+    },
+    {
+      "Name": "removeMenu",
+      "Text": "Remove Item"
+    },
+    {
+      "Name": "removeTT",
+      "Text": "Removes the page from the site"
+    },
+    {
+      "Name": "restAuthConfirm",
+      "Text": "DEVELOPMENT FEATURE - Are you sure you want to add permission to all pages for the Administrator to have full control and the Editor can View \u0026 Edit?"
+    },
+    {
+      "Name": "restAuthLegend",
+      "Text": "DEVELOPMENT FEATURE - Add permission to all pages for the Administrator to have full control and the Editor can View \u0026 Edit"
+    },
+    {
+      "Name": "restAuthLink",
+      "Text": "Admin \u0026 Editor Authorization"
+    },
+    {
+      "Name": "restAuthMenu",
+      "Text": "Admin \u0026 Editor Authorization"
+    },
+    {
+      "Name": "restAuthPlsWait",
+      "Text": "Updating all pages so the Administrator has full control and the Editor can View \u0026 Edit..."
+    },
+    {
+      "Name": "restAuthTT",
+      "Text": "DEVELOPMENT FEATURE - Add permission to all pages for the Administrator to have full control and the Editor can View \u0026 Edit"
+    },
+    {
+      "Name": "roleRemItems",
+      "Text": "The role has permission to remove pages"
+    },
+    {
+      "Name": "roleRemItemsC",
+      "Text": "Remove Pages"
+    },
+    {
+      "Name": "roleSetAuth",
+      "Text": "The role has permission to set global authorization for all pages"
+    },
+    {
+      "Name": "roleSetAuthC",
+      "Text": "Set Global Authorization"
+    },
+    {
+      "Name": "roleSiteMaps",
+      "Text": "The role has permission to manage site maps"
+    },
+    {
+      "Name": "roleSiteMapsC",
+      "Text": "Manage Site Maps"
+    },
+    {
+      "Name": "screAuthConfirm",
+      "Text": "Are you sure you want to create a new site map?"
+    },
+    {
+      "Name": "screAuthLegend",
+      "Text": "Creates a site map"
+    },
+    {
+      "Name": "screAuthLink",
+      "Text": "Create Site Map"
+    },
+    {
+      "Name": "screAuthMenu",
+      "Text": "Create Site Map"
+    },
+    {
+      "Name": "screAuthPlsWait",
+      "Text": "Creating site map..."
+    },
+    {
+      "Name": "screAuthTT",
+      "Text": "Create a site map"
+    },
+    {
+      "Name": "sremAuthConfirm",
+      "Text": "Are you sure you want to remove the current site map?"
+    },
+    {
+      "Name": "sremAuthLegend",
+      "Text": "Removes the current site map"
+    },
+    {
+      "Name": "sremAuthLink",
+      "Text": "Remove Site Map"
+    },
+    {
+      "Name": "sremAuthMenu",
+      "Text": "Remove Site Map"
+    },
+    {
+      "Name": "sremAuthTT",
+      "Text": "Remove current site map"
+    },
+    {
+      "Name": "userRemItems",
+      "Text": "The user has permission to remove pages"
+    },
+    {
+      "Name": "userRemItemsC",
+      "Text": "Remove Pages"
+    },
+    {
+      "Name": "userSetAuth",
+      "Text": "The user has permission to set global authorization for all pages"
+    },
+    {
+      "Name": "userSetAuthC",
+      "Text": "Set Global Authorization"
+    },
+    {
+      "Name": "userSiteMaps",
+      "Text": "The user has permission to manage site maps"
+    },
+    {
+      "Name": "userSiteMapsC",
+      "Text": "Manage Site Maps"
+    }
+  ]
+}

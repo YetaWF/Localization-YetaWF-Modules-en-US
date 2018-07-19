@@ -1,266 +1,127 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--YetaWF.Core.Localize.LocalizationData-->
-<Object Type="YetaWF.Core.Localize.LocalizationData" Assembly="YetaWF.Core">
-  <Properties>
-    <Comment />
-    <Classes>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+ClassData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List />
-      </Object>
-    </Classes>
-    <Enums>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+EnumData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List />
-      </Object>
-    </Enums>
-    <Strings>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+StringData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="browseLegend" />
-                <Text Value="Displays and manages modules" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="browseLink" />
-                <Text Value="Modules" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="browseText" />
-                <Text Value="Modules" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="browseTooltip" />
-                <Text Value="Display and manage modules" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="displayLegend" />
-                <Text Value="Displays the module in a new window" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="displayLink" />
-                <Text Value="Show Module" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="displayMenu" />
-                <Text Value="Show Module" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="displayTT" />
-                <Text Value="Display the module in a new window" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="modName" />
-                <Text Value="Modules" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="modSummary" />
-                <Text Value="Displays and manages modules" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="modTitle" />
-                <Text Value="Modules" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="removeConfirm" />
-                <Text Value="Are you sure you want to remove this module?" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="removeLegend" />
-                <Text Value="Removes the module" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="removeLink" />
-                <Text Value="Remove Module" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="removeMenu" />
-                <Text Value="Remove Module" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="removeTT" />
-                <Text Value="Remove the module" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="restAuthConfirm" />
-                <Text Value="DEVELOPMENT FEATURE - Are you sure you want to restore the default authorizations for ALL modules - This will reset all modules to their &quot;factory&quot; authorization?" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="restAuthLegend" />
-                <Text Value="DEVELOPMENT FEATURE - Restores the default authorization for all modules" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="restAuthLink" />
-                <Text Value="Restore Default Authorization" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="restAuthMenu" />
-                <Text Value="Restore Default Authorization" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="restAuthPlsWait" />
-                <Text Value="Restoring default authorization for all modules..." />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="restAuthTT" />
-                <Text Value="DEVELOPMENT FEATURE - Restore the default authorization for all modules" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="roleRemItems" />
-                <Text Value="The role has permission to remove individual modules" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="roleRemItemsC" />
-                <Text Value="Remove Modules" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="roleRestAuth" />
-                <Text Value="The role has permission to restore the default authorizations for ALL modules" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="roleRestAuthC" />
-                <Text Value="Restore Default Authorization" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="userRemItems" />
-                <Text Value="The user has permission to remove individual modules" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="userRemItemsC" />
-                <Text Value="Remove Modules" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="userRestAuth" />
-                <Text Value="The user has permission to restore the default authorizations for ALL modules" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="userRestAuthC" />
-                <Text Value="Restore Default Authorization" />
-              </Properties>
-            </Object>
-          </Value>
-        </List>
-      </Object>
-    </Strings>
-  </Properties>
-</Object>
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "browseLegend",
+      "Text": "Displays and manages modules"
+    },
+    {
+      "Name": "browseLink",
+      "Text": "Modules"
+    },
+    {
+      "Name": "browseText",
+      "Text": "Modules"
+    },
+    {
+      "Name": "browseTooltip",
+      "Text": "Display and manage modules"
+    },
+    {
+      "Name": "displayLegend",
+      "Text": "Displays the module in a new window"
+    },
+    {
+      "Name": "displayLink",
+      "Text": "Show Module"
+    },
+    {
+      "Name": "displayMenu",
+      "Text": "Show Module"
+    },
+    {
+      "Name": "displayTT",
+      "Text": "Display the module in a new window"
+    },
+    {
+      "Name": "modName",
+      "Text": "Modules"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Displays and manages modules"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Modules"
+    },
+    {
+      "Name": "removeConfirm",
+      "Text": "Are you sure you want to remove this module?"
+    },
+    {
+      "Name": "removeLegend",
+      "Text": "Removes the module"
+    },
+    {
+      "Name": "removeLink",
+      "Text": "Remove Module"
+    },
+    {
+      "Name": "removeMenu",
+      "Text": "Remove Module"
+    },
+    {
+      "Name": "removeTT",
+      "Text": "Remove the module"
+    },
+    {
+      "Name": "restAuthConfirm",
+      "Text": "DEVELOPMENT FEATURE - Are you sure you want to restore the default authorizations for ALL modules - This will reset all modules to their \u0022factory\u0022 authorization?"
+    },
+    {
+      "Name": "restAuthLegend",
+      "Text": "DEVELOPMENT FEATURE - Restores the default authorization for all modules"
+    },
+    {
+      "Name": "restAuthLink",
+      "Text": "Restore Default Authorization"
+    },
+    {
+      "Name": "restAuthMenu",
+      "Text": "Restore Default Authorization"
+    },
+    {
+      "Name": "restAuthPlsWait",
+      "Text": "Restoring default authorization for all modules..."
+    },
+    {
+      "Name": "restAuthTT",
+      "Text": "DEVELOPMENT FEATURE - Restore the default authorization for all modules"
+    },
+    {
+      "Name": "roleRemItems",
+      "Text": "The role has permission to remove individual modules"
+    },
+    {
+      "Name": "roleRemItemsC",
+      "Text": "Remove Modules"
+    },
+    {
+      "Name": "roleRestAuth",
+      "Text": "The role has permission to restore the default authorizations for ALL modules"
+    },
+    {
+      "Name": "roleRestAuthC",
+      "Text": "Restore Default Authorization"
+    },
+    {
+      "Name": "userRemItems",
+      "Text": "The user has permission to remove individual modules"
+    },
+    {
+      "Name": "userRemItemsC",
+      "Text": "Remove Modules"
+    },
+    {
+      "Name": "userRestAuth",
+      "Text": "The user has permission to restore the default authorizations for ALL modules"
+    },
+    {
+      "Name": "userRestAuthC",
+      "Text": "Restore Default Authorization"
+    }
+  ]
+}

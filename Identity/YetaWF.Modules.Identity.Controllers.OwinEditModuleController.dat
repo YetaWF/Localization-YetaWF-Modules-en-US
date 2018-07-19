@@ -1,255 +1,150 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--YetaWF.Core.Localize.LocalizationData-->
-<Object Type="YetaWF.Core.Localize.LocalizationData" Assembly="YetaWF.Core">
-  <Properties>
-    <Comment />
-    <Classes>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+ClassData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+ClassData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="YetaWF.Modules.Identity.Controllers.OwinEditModuleController+EditModel" />
-                <BaseTypeName />
-                <Header Value="Login provider settings apply to all sites within this YetaWF instance." />
-                <Footer />
-                <Legend />
-                <Categories>
-                  <Object Type="YetaWF.Core.Serializers.SerializableDictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <Dictionary />
-                  </Object>
-                </Categories>
-                <Properties>
-                  <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+PropertyData, YetaWF.Core]]" Assembly="YetaWF.Core">
-                    <Properties />
-                    <List>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="ExpireTimeSpan" />
-                            <Caption Value="Expiration" />
-                            <Description Value="The time a cookie will remain valid from the point it is created" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="FacebookPrivate" />
-                            <Caption Value="Facebook App Secret" />
-                            <Description Value="The App Secret for authentication using Facebook (defined in Facebook)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="FacebookPublic" />
-                            <Caption Value="Facebook App ID" />
-                            <Description Value="The App ID for authentication using Facebook (defined in Facebook)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="FacebookUrl" />
-                            <Caption Value="Facebook" />
-                            <Description Value="Provides a link to Facebook to set up authentication for your sites" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="GooglePrivate" />
-                            <Caption Value="Google Client Secret" />
-                            <Description Value="The Client Secret for authentication using Google (defined using Google)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="GooglePublic" />
-                            <Caption Value="Google Client ID" />
-                            <Description Value="The Client ID for authentication using Google (defined using Google)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="GoogleUrl" />
-                            <Caption Value="Google" />
-                            <Description Value="Provides a link to Google to set up authentication for your sites" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="MicrosoftPrivate" />
-                            <Caption Value="Microsoft Private Key" />
-                            <Description Value="The private key for authentication using Microsoft" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="MicrosoftPublic" />
-                            <Caption Value="Microsoft Public Key" />
-                            <Description Value="The public key for authentication using Microsoft" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="MicrosoftUrl" />
-                            <Caption Value="Microsoft" />
-                            <Description Value="Provides a link to Microsoft to set up authentication for your sites" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="SecurityStampValidationInterval" />
-                            <Caption Value="Security Interval" />
-                            <Description Value="The time after which a logged on user is re-validated (in case the password changed) to insure the authenticated user is still valid" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="SlidingExpiration" />
-                            <Caption Value="Sliding Expiration" />
-                            <Description Value="Cookies are reissued with a new expiration time anytime a request is processed whose cookie is more than halfway through the expiration window" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="TwitterPrivate" />
-                            <Caption Value="Twitter Consumer Secret" />
-                            <Description Value="The Consumer Secret (API Secret) for authentication using Twitter (defined using Twitter)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="TwitterPublic" />
-                            <Caption Value="Twitter Consumer Key" />
-                            <Description Value="The Consumer Key (API Key) for authentication using Twitter (defined using Twitter)" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                      <Value>
-                        <Object Type="YetaWF.Core.Localize.LocalizationData+PropertyData" Assembly="YetaWF.Core">
-                          <Properties>
-                            <Name Value="TwitterUrl" />
-                            <Caption Value="Twitter" />
-                            <Description Value="Provides a link to Twitter to set up authentication for your sites" />
-                            <HelpLink />
-                            <TextAbove />
-                            <TextBelow />
-                          </Properties>
-                        </Object>
-                      </Value>
-                    </List>
-                  </Object>
-                </Properties>
-              </Properties>
-            </Object>
-          </Value>
-        </List>
-      </Object>
-    </Classes>
-    <Enums>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+EnumData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List />
-      </Object>
-    </Enums>
-    <Strings>
-      <Object Type="YetaWF.Core.Serializers.SerializableList`1[[YetaWF.Core.Localize.LocalizationData+StringData, YetaWF.Core]]" Assembly="YetaWF.Core">
-        <Properties />
-        <List>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="okSaved" />
-                <Text Value="Appsettings.json has been updated - These settings won't take effect until the site (including all instances) is restarted." />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="securityInterval" />
-                <Text Value="The minimum validation interval should be at least 1 minute" />
-              </Properties>
-            </Object>
-          </Value>
-          <Value>
-            <Object Type="YetaWF.Core.Localize.LocalizationData+StringData" Assembly="YetaWF.Core">
-              <Properties>
-                <Name Value="timeSpan" />
-                <Text Value="The minimum expiration timespan should be at least 10 minutes" />
-              </Properties>
-            </Object>
-          </Value>
-        </List>
-      </Object>
-    </Strings>
-  </Properties>
-</Object>
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Identity.Controllers.OwinEditModuleController+EditModel",
+      "BaseTypeName": null,
+      "Header": "Login provider settings apply to all sites within this YetaWF instance.",
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "ExpireTimeSpan",
+          "Caption": "Expiration",
+          "Description": "The time a cookie will remain valid from the point it is created",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "FacebookPrivate",
+          "Caption": "Facebook App Secret",
+          "Description": "The App Secret for authentication using Facebook (defined in Facebook)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "FacebookPublic",
+          "Caption": "Facebook App ID",
+          "Description": "The App ID for authentication using Facebook (defined in Facebook)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "FacebookUrl",
+          "Caption": "Facebook",
+          "Description": "Provides a link to Facebook to set up authentication for your sites",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "GooglePrivate",
+          "Caption": "Google Client Secret",
+          "Description": "The Client Secret for authentication using Google (defined using Google)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "GooglePublic",
+          "Caption": "Google Client ID",
+          "Description": "The Client ID for authentication using Google (defined using Google)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "GoogleUrl",
+          "Caption": "Google",
+          "Description": "Provides a link to Google to set up authentication for your sites",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MicrosoftPrivate",
+          "Caption": "Microsoft Private Key",
+          "Description": "The private key for authentication using Microsoft",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MicrosoftPublic",
+          "Caption": "Microsoft Public Key",
+          "Description": "The public key for authentication using Microsoft",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MicrosoftUrl",
+          "Caption": "Microsoft",
+          "Description": "Provides a link to Microsoft to set up authentication for your sites",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SecurityStampValidationInterval",
+          "Caption": "Security Interval",
+          "Description": "The time after which a logged on user is re-validated (in case the password changed) to insure the authenticated user is still valid",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SlidingExpiration",
+          "Caption": "Sliding Expiration",
+          "Description": "Cookies are reissued with a new expiration time anytime a request is processed whose cookie is more than halfway through the expiration window",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TwitterPrivate",
+          "Caption": "Twitter Consumer Secret",
+          "Description": "The Consumer Secret (API Secret) for authentication using Twitter (defined using Twitter)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TwitterPublic",
+          "Caption": "Twitter Consumer Key",
+          "Description": "The Consumer Key (API Key) for authentication using Twitter (defined using Twitter)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TwitterUrl",
+          "Caption": "Twitter",
+          "Description": "Provides a link to Twitter to set up authentication for your sites",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "okSaved",
+      "Text": "Appsettings.json has been updated - These settings won\u0027t take effect until the site (including all instances) is restarted."
+    },
+    {
+      "Name": "securityInterval",
+      "Text": "The minimum validation interval should be at least 1 minute"
+    },
+    {
+      "Name": "timeSpan",
+      "Text": "The minimum expiration timespan should be at least 10 minutes"
+    }
+  ]
+}
