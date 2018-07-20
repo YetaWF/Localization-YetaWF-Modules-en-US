@@ -69,7 +69,7 @@
     },
     {
       "Name": "restAuthConfirm",
-      "Text": "DEVELOPMENT FEATURE - Are you sure you want to restore the default authorizations for ALL modules - This will reset all modules to their \u0022factory\u0022 authorization?"
+      "Text": "DEVELOPMENT FEATURE - Are you sure you want to restore the default authorizations for ALL modules - This will reset all modules to their \"factory\" authorization?"
     },
     {
       "Name": "restAuthLegend",

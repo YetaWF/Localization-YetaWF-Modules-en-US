@@ -20,7 +20,7 @@
         {
           "Name": "Captcha",
           "Caption": "Use Captcha",
-          "Description": "The user has to pass a \u0022human\u0022 test",
+          "Description": "The user has to pass a \"human\" test",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

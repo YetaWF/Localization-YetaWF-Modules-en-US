@@ -28,7 +28,7 @@
         {
           "Name": "AuthorUrl",
           "Caption": "Author",
-          "Description": "The optional Url linking to the author\u0027s information",
+          "Description": "The optional Url linking to the author's information",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

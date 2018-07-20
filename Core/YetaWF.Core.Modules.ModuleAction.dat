@@ -20,7 +20,7 @@
         {
           "Name": "AuthorizationIgnore",
           "Caption": "Ignore Authorization",
-          "Description": "Defines whether the target page\u0027s authorization is ignored - Actions are only visible if the user has sufficient authorization to perform the action - This can be used to force display of actions even when there is insufficient authoriation - For anonymous users this forces the user to log in first - This setting is ignored for links to other sites",
+          "Description": "Defines whether the target page's authorization is ignored - Actions are only visible if the user has sufficient authorization to perform the action - This can be used to force display of actions even when there is insufficient authoriation - For anonymous users this forces the user to log in first - This setting is ignored for links to other sites",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -51,7 +51,7 @@
         },
         {
           "Name": "DontFollow",
-          "Caption": "Don\u0027t Follow",
+          "Caption": "Don't Follow",
           "Description": "Defines whether search engines and bots follow this link (select to disable)",
           "HelpLink": null,
           "TextAbove": null,
@@ -132,7 +132,7 @@
         {
           "Name": "PleaseWaitText",
           "Caption": "Please Wait",
-          "Description": "If specified, the \u0022Please Wait\u0022 dialog is shown when the action is selected - Only available for actions with Style=Normal",
+          "Description": "If specified, the \"Please Wait\" dialog is shown when the action is selected - Only available for actions with Style=Normal",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

@@ -28,7 +28,7 @@
         {
           "Name": "CssClass",
           "Caption": "CSS Class",
-          "Description": "The optional CSS classes to be added to the module\u0027s \u003cdiv\u003e tag for further customization through stylesheets",
+          "Description": "The optional CSS classes to be added to the module's <div> tag for further customization through stylesheets",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -84,7 +84,7 @@
         {
           "Name": "WantFocus",
           "Caption": "Wants Input Focus",
-          "Description": "Defines whether input fields in this module should receive the input focus if it\u0027s first on the page",
+          "Description": "Defines whether input fields in this module should receive the input focus if it's first on the page",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -92,7 +92,7 @@
         {
           "Name": "WantSearch",
           "Caption": "Search Keywords",
-          "Description": "Defines whether this module\u0027s contents should be added to the site\u0027s search keywords",
+          "Description": "Defines whether this module's contents should be added to the site's search keywords",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "editLegend",
-      "Text": "Edits the current user\u0027s account information"
+      "Text": "Edits the current user's account information"
     },
     {
       "Name": "editLink",
@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edits a user\u0027s account information"
+      "Text": "Edits a user's account information"
     },
     {
       "Name": "modTitle",

@@ -28,7 +28,7 @@
         {
           "Name": "Email",
           "Caption": "Email Address",
-          "Description": "The user\u0027s email address",
+          "Description": "The user's email address",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

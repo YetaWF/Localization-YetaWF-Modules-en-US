@@ -9,7 +9,7 @@
     },
     {
       "Name": "extAcct",
-      "Text": "You have successfully authenticated with \u003cstrong\u003e{0}\u003c/strong\u003e.\u003cbr/\u003ePlease enter a user name for this site below and click the SetupExternalAccount button to finish logging in."
+      "Text": "You have successfully authenticated with <strong>{0}</strong>.<br/>Please enter a user name for this site below and click the SetupExternalAccount button to finish logging in."
     }
   ]
 }

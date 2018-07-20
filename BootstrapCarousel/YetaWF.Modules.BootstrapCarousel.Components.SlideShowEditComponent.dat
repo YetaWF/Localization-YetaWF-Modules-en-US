@@ -17,7 +17,7 @@
     },
     {
       "Name": "btnDown",
-      "Text": "\u003e\u003e"
+      "Text": ">>"
     },
     {
       "Name": "btnIns",
@@ -25,7 +25,7 @@
     },
     {
       "Name": "btnUp",
-      "Text": "\u003c\u003c"
+      "Text": "<<"
     },
     {
       "Name": "tab",

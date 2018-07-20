@@ -24,7 +24,7 @@
   "Strings": [
     {
       "Name": "switchSite",
-      "Text": "Switch to site \u0022{0}\u0022"
+      "Text": "Switch to site \"{0}\""
     }
   ]
 }

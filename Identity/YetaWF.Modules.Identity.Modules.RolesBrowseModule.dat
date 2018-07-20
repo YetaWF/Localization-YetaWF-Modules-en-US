@@ -54,7 +54,7 @@
     },
     {
       "Name": "removeConfirm",
-      "Text": "Are you sure you want to remove role \u0022{0}\u0022?"
+      "Text": "Are you sure you want to remove role \"{0}\"?"
     },
     {
       "Name": "removeLegend",

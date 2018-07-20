@@ -31,7 +31,7 @@
         {
           "Name": "Feed",
           "Caption": "Feed",
-          "Description": "Publish this module\u0027s contents as an Rss feed",
+          "Description": "Publish this module's contents as an Rss feed",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -39,7 +39,7 @@
         {
           "Name": "FeedDetailUrl",
           "Caption": "Feed Detail URL",
-          "Description": "The optional Rss feed\u0027s detail page for this Text module",
+          "Description": "The optional Rss feed's detail page for this Text module",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -55,7 +55,7 @@
         {
           "Name": "FeedMainUrl",
           "Caption": "Feed Main URL",
-          "Description": "The optional Rss feed\u0027s main URL",
+          "Description": "The optional Rss feed's main URL",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -71,7 +71,7 @@
         {
           "Name": "FeedSummary",
           "Caption": "Feed Summary",
-          "Description": "The Rss feed\u0027s summary description",
+          "Description": "The Rss feed's summary description",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -79,7 +79,7 @@
         {
           "Name": "FeedTitle",
           "Caption": "Feed Title",
-          "Description": "The Rss feed\u0027s title",
+          "Description": "The Rss feed's title",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -99,7 +99,7 @@
   "Strings": [
     {
       "Name": "dateFeedUpdate",
-      "Text": "The last update date can\u0027t be earlier than the date this item was published"
+      "Text": "The last update date can't be earlier than the date this item was published"
     },
     {
       "Name": "modName",
@@ -151,11 +151,11 @@
     },
     {
       "Name": "urlDetail",
-      "Text": "The site\u0027s home page can\u0027t be used as the feed\u0027s detail URL (due to the use of human readable querystring arguments, which could be misinterpreted as the page name)"
+      "Text": "The site's home page can't be used as the feed's detail URL (due to the use of human readable querystring arguments, which could be misinterpreted as the page name)"
     },
     {
       "Name": "urlMain",
-      "Text": "The site\u0027s home page can\u0027t be used as the feed\u0027s main URL (due to the use of human readable querystring arguments, which could be misinterpreted as the page name)"
+      "Text": "The site's home page can't be used as the feed's main URL (due to the use of human readable querystring arguments, which could be misinterpreted as the page name)"
     }
   ]
 }

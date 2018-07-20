@@ -9,7 +9,7 @@
     },
     {
       "Name": "explain",
-      "Text": "\u003cp\u003eStatic pages are fast loading pages whose content typically doesn\u0027t change. The list below shows all currently loaded static pages. There may be additional pages which were defined as static pages (in their Page Settings) which haven\u0027t been loaded yet.\u003c/p\u003e\u003cp\u003eStatic pages are enabled per page (Page Settings) and site wide using Site Settings.\u003c/p\u003e"
+      "Text": "<p>Static pages are fast loading pages whose content typically doesn't change. The list below shows all currently loaded static pages. There may be additional pages which were defined as static pages (in their Page Settings) which haven't been loaded yet.</p><p>Static pages are enabled per page (Page Settings) and site wide using Site Settings.</p>"
     }
   ]
 }

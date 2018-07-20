@@ -28,7 +28,7 @@
         {
           "Name": "Name",
           "Caption": "Name",
-          "Description": "The AddOn\u0027s internal name",
+          "Description": "The AddOn's internal name",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -36,7 +36,7 @@
         {
           "Name": "Product",
           "Caption": "Product",
-          "Description": "The AddOn\u0027s product name",
+          "Description": "The AddOn's product name",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -52,7 +52,7 @@
         {
           "Name": "Url",
           "Caption": "Url",
-          "Description": "The AddOn\u0027s Url where its files are located",
+          "Description": "The AddOn's Url where its files are located",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -60,7 +60,7 @@
         {
           "Name": "Version",
           "Caption": "Version",
-          "Description": "The AddOn\u0027s version",
+          "Description": "The AddOn's version",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

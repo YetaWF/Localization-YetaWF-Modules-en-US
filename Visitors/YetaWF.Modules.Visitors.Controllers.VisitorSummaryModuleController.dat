@@ -11,7 +11,7 @@
       "Properties": [
         {
           "Name": "TodaysAnonymous",
-          "Caption": "Today\u0027s Anonymous Visitors",
+          "Caption": "Today's Anonymous Visitors",
           "Description": "Displays the number of anonymous visitors today (by reporting the number of distinct sessions without a logged on user)",
           "HelpLink": null,
           "TextAbove": null,
@@ -19,7 +19,7 @@
         },
         {
           "Name": "TodaysUsers",
-          "Caption": "Today\u0027s Visitors",
+          "Caption": "Today's Visitors",
           "Description": "Displays the number of logged on visitors today",
           "HelpLink": null,
           "TextAbove": null,
@@ -27,7 +27,7 @@
         },
         {
           "Name": "YesterdaysAnonymous",
-          "Caption": "Yesterday\u0027s Anonymous Visitors",
+          "Caption": "Yesterday's Anonymous Visitors",
           "Description": "Displays the number of anonymous visitors yesterday (by reporting the number of distinct sessions without a logged on user)",
           "HelpLink": null,
           "TextAbove": null,
@@ -35,7 +35,7 @@
         },
         {
           "Name": "YesterdaysUsers",
-          "Caption": "Yesterday\u0027s Visitors",
+          "Caption": "Yesterday's Visitors",
           "Description": "Displays the number of logged on visitors yesterday",
           "HelpLink": null,
           "TextAbove": null,

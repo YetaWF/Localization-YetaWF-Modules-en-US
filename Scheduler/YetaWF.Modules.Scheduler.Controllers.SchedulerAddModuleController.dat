@@ -44,7 +44,7 @@
         {
           "Name": "Frequency",
           "Caption": "Interval",
-          "Description": "The scheduler item\u0027s frequency",
+          "Description": "The scheduler item's frequency",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -88,7 +88,7 @@
   "Strings": [
     {
       "Name": "alreadyExists",
-      "Text": "A scheduler item named \u0022{0}\u0022 already exists."
+      "Text": "A scheduler item named \"{0}\" already exists."
     },
     {
       "Name": "okSaved",

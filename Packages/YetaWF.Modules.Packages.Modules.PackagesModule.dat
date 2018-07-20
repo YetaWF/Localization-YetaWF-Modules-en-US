@@ -53,7 +53,7 @@
     },
     {
       "Name": "infoLegend",
-      "Text": "Links to the product\u0027s website and display product information"
+      "Text": "Links to the product's website and display product information"
     },
     {
       "Name": "infoLink",
@@ -65,7 +65,7 @@
     },
     {
       "Name": "infoTT",
-      "Text": "Click to visit the product\u0027s website and display product information"
+      "Text": "Click to visit the product's website and display product information"
     },
     {
       "Name": "installLegend",
@@ -85,7 +85,7 @@
     },
     {
       "Name": "licenseLegend",
-      "Text": "Links to the product\u0027s website and displays the licensing information"
+      "Text": "Links to the product's website and displays the licensing information"
     },
     {
       "Name": "licenseLink",
@@ -97,7 +97,7 @@
     },
     {
       "Name": "licenseTT",
-      "Text": "Click to visit the product\u0027s website and display the licensing information"
+      "Text": "Click to visit the product's website and display the licensing information"
     },
     {
       "Name": "localizeAllConfirm",
@@ -153,7 +153,7 @@
     },
     {
       "Name": "noticeLegend",
-      "Text": "Links to the product\u0027s website and displays the release notice"
+      "Text": "Links to the product's website and displays the release notice"
     },
     {
       "Name": "noticeLink",
@@ -165,7 +165,7 @@
     },
     {
       "Name": "noticeTT",
-      "Text": "Click to visit the product\u0027s website and display the release notice"
+      "Text": "Click to visit the product's website and display the release notice"
     },
     {
       "Name": "pLegend",
@@ -229,7 +229,7 @@
     },
     {
       "Name": "supportLegend",
-      "Text": "Links to the product\u0027s website and displays the product\u0027s support page"
+      "Text": "Links to the product's website and displays the product's support page"
     },
     {
       "Name": "supportLink",
@@ -241,7 +241,7 @@
     },
     {
       "Name": "supportTT",
-      "Text": "Click to visit the product\u0027s website and display the product\u0027s support page"
+      "Text": "Click to visit the product's website and display the product's support page"
     },
     {
       "Name": "uninstallLegend",

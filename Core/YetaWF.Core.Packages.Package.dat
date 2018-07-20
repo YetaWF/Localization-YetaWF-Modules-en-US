@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "addProject",
-      "Text": "You now have to add the project to your Visual Studio solution and add a project reference to the YetaWF site (Website) so it is built correctly. Without this reference the site will not use the new package when it\u0027s rebuilt using Visual Studio."
+      "Text": "You now have to add the project to your Visual Studio solution and add a project reference to the YetaWF site (Website) so it is built correctly. Without this reference the site will not use the new package when it's rebuilt using Visual Studio."
     },
     {
       "Name": "cantDelete",
@@ -17,7 +17,7 @@
     },
     {
       "Name": "cantInstallModels",
-      "Text": "Can\u0027t install models for package {0}:(+nl)"
+      "Text": "Can't install models for package {0}:(+nl)"
     },
     {
       "Name": "cantRemove",
@@ -25,7 +25,7 @@
     },
     {
       "Name": "cantRemoveExtraAsm",
-      "Text": "Can\u0027t delete file {0}: {1}"
+      "Text": "Can't delete file {0}: {1}"
     },
     {
       "Name": "cantRemoveHierarchy",
@@ -33,7 +33,7 @@
     },
     {
       "Name": "cantRemoveMainAsm",
-      "Text": "Can\u0027t delete file {0}: {1}"
+      "Text": "Can't delete file {0}: {1}"
     },
     {
       "Name": "errCantImport",
@@ -69,7 +69,7 @@
     },
     {
       "Name": "errSymlink",
-      "Text": "Couldn\u0027t create symbolic link/junction from {0} to {1} - You will have to investigate the failure and manually create the link using:(+nl)mklink /D \u0022{0}\u0022,\u0022{1}\u0022"
+      "Text": "Couldn't create symbolic link/junction from {0} to {1} - You will have to investigate the failure and manually create the link using:(+nl)mklink /D \"{0}\",\"{1}\""
     },
     {
       "Name": "invCore",

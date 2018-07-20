@@ -28,7 +28,7 @@
         {
           "Name": "ShortName",
           "Caption": "Name",
-          "Description": "The language\u0027s name, which is displayed in language selection controls so the user can select a language",
+          "Description": "The language's name, which is displayed in language selection controls so the user can select a language",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -40,11 +40,11 @@
   "Strings": [
     {
       "Name": "modTitle",
-      "Text": "Language \u0022{0}\u0022"
+      "Text": "Language \"{0}\""
     },
     {
       "Name": "notFound",
-      "Text": "Language \u0022{0}\u0022 not found"
+      "Text": "Language \"{0}\" not found"
     }
   ]
 }

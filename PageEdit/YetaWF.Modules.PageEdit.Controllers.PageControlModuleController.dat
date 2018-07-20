@@ -296,11 +296,11 @@
     },
     {
       "Name": "cantImport",
-      "Text": "Can\u0027t import {0}:(+nl)"
+      "Text": "Can't import {0}:(+nl)"
     },
     {
       "Name": "imported",
-      "Text": "\u0022{0}\u0022 successfully imported(+nl)"
+      "Text": "\"{0}\" successfully imported(+nl)"
     },
     {
       "Name": "okExisting",
@@ -320,11 +320,11 @@
     },
     {
       "Name": "okSavedRestart",
-      "Text": "Site settings updated - These settings won\u0027t take effect until the site is restarted"
+      "Text": "Site settings updated - These settings won't take effect until the site is restarted"
     },
     {
       "Name": "switchSite",
-      "Text": "Switch to site \u0022{0}\u0022"
+      "Text": "Switch to site \"{0}\""
     }
   ]
 }

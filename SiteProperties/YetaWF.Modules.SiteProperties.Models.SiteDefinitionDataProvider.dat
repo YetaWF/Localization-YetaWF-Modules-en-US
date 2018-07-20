@@ -9,11 +9,11 @@
     },
     {
       "Name": "siteExists",
-      "Text": "Can\u0027t add new site \u0022{0}\u0022 - site already exists"
+      "Text": "Can't add new site \"{0}\" - site already exists"
     },
     {
       "Name": "updFail",
-      "Text": "Can\u0027t update site definition - it may have already been removed"
+      "Text": "Can't update site definition - it may have already been removed"
     }
   ]
 }

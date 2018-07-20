@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "editLegend",
-      "Text": "Edits the site\u0027s RecaptchaV2 settings"
+      "Text": "Edits the site's RecaptchaV2 settings"
     },
     {
       "Name": "editLink",
@@ -17,7 +17,7 @@
     },
     {
       "Name": "editTooltip",
-      "Text": "Edit the site\u0027s RecaptchaV2 settings"
+      "Text": "Edit the site's RecaptchaV2 settings"
     },
     {
       "Name": "modName",

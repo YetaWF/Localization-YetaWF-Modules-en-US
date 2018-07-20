@@ -104,7 +104,7 @@
   "Strings": [
     {
       "Name": "notFound",
-      "Text": "Audit Info \u0022{0}\u0022 not found"
+      "Text": "Audit Info \"{0}\" not found"
     }
   ]
 }

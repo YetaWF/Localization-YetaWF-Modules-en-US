@@ -17,7 +17,7 @@
     },
     {
       "Name": "resultsLegend",
-      "Text": "Displays the search results for \u0022{0}\u0022"
+      "Text": "Displays the search results for \"{0}\""
     },
     {
       "Name": "resultsLink",
@@ -29,7 +29,7 @@
     },
     {
       "Name": "resultsTooltip",
-      "Text": "Display the search results for \u0022{0}\u0022"
+      "Text": "Display the search results for \"{0}\""
     }
   ]
 }

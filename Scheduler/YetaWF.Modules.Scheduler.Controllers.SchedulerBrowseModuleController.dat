@@ -52,7 +52,7 @@
         {
           "Name": "Frequency",
           "Caption": "Interval",
-          "Description": "The scheduler item\u0027s frequency",
+          "Description": "The scheduler item's frequency",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

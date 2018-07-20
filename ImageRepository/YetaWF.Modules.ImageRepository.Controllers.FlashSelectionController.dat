@@ -5,11 +5,11 @@
   "Strings": [
     {
       "Name": "removeImageOK",
-      "Text": "Image \\\\\\\u0022{0}\\\\\\\u0022 successfully removed"
+      "Text": "Image \\\\\\\"{0}\\\\\\\" successfully removed"
     },
     {
       "Name": "saveImageOK",
-      "Text": "Image \\\\\\\u0022{0}\\\\\\\u0022 successfully uploaded"
+      "Text": "Image \\\\\\\"{0}\\\\\\\" successfully uploaded"
     }
   ]
 }

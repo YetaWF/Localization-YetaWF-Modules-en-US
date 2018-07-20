@@ -42,19 +42,19 @@
     },
     {
       "Name": "dispLegend",
-      "Text": "Displays the site \u0022{0}\u0022"
+      "Text": "Displays the site \"{0}\""
     },
     {
       "Name": "dispLink",
-      "Text": "Display Site \u0022{0}\u0022"
+      "Text": "Display Site \"{0}\""
     },
     {
       "Name": "dispText",
-      "Text": "Display Site \u0022{0}\u0022"
+      "Text": "Display Site \"{0}\""
     },
     {
       "Name": "dispTooltip",
-      "Text": "Display the site \u0022{0}\u0022"
+      "Text": "Display the site \"{0}\""
     },
     {
       "Name": "modName",

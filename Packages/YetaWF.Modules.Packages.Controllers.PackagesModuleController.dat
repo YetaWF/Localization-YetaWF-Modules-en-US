@@ -12,7 +12,7 @@
         {
           "Name": "AreaName",
           "Caption": "Area",
-          "Description": "The MVC area for this product\u0027s modules, used internally by YetaWF",
+          "Description": "The MVC area for this product's modules, used internally by YetaWF",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -76,7 +76,7 @@
         {
           "Name": "Version",
           "Caption": "Product Version",
-          "Description": "The product\u0027s version",
+          "Description": "The product's version",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -88,19 +88,19 @@
   "Strings": [
     {
       "Name": "cantInstallModels",
-      "Text": "Can\u0027t install models for package {0}:(+nl)"
+      "Text": "Can't install models for package {0}:(+nl)"
     },
     {
       "Name": "cantLocalize",
-      "Text": "Can\u0027t localize package {0}:(+nl)"
+      "Text": "Can't localize package {0}:(+nl)"
     },
     {
       "Name": "cantRemove",
-      "Text": "Can\u0027t remove package {0}:(+nl)"
+      "Text": "Can't remove package {0}:(+nl)"
     },
     {
       "Name": "cantUninstallModels",
-      "Text": "Can\u0027t uninstall models for package {0}:(+nl)"
+      "Text": "Can't uninstall models for package {0}:(+nl)"
     },
     {
       "Name": "generated",
@@ -116,11 +116,11 @@
     },
     {
       "Name": "okRemoved",
-      "Text": "Package successfully removed - These settings won\u0027t take effect until the site is restarted"
+      "Text": "Package successfully removed - These settings won't take effect until the site is restarted"
     },
     {
       "Name": "okRemovedSrc",
-      "Text": "Package successfully removed - These settings won\u0027t take effect until the site is restarted(+nl)(+nl)This package includes source code. The source code, project and project references have to be removed manually in the Visual Studio solution for this YetaWF site."
+      "Text": "Package successfully removed - These settings won't take effect until the site is restarted(+nl)(+nl)This package includes source code. The source code, project and project references have to be removed manually in the Visual Studio solution for this YetaWF site."
     },
     {
       "Name": "removed",

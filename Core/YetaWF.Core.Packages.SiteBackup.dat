@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "backupNotFound",
-      "Text": "The backup \u0027{0}\u0027 cannot be located."
+      "Text": "The backup '{0}' cannot be located."
     }
   ]
 }

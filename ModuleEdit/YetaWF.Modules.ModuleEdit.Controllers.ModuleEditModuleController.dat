@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "modEditTitle",
-      "Text": "Module \u0022{0}\u0022"
+      "Text": "Module \"{0}\""
     },
     {
       "Name": "okSaved",

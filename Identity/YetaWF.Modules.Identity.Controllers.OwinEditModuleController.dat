@@ -136,7 +136,7 @@
   "Strings": [
     {
       "Name": "okSaved",
-      "Text": "Appsettings.json has been updated - These settings won\u0027t take effect until the site (including all instances) is restarted."
+      "Text": "Appsettings.json has been updated - These settings won't take effect until the site (including all instances) is restarted."
     },
     {
       "Name": "securityInterval",

@@ -48,23 +48,23 @@
   "Strings": [
     {
       "Name": "alreadyDeleted",
-      "Text": "The resource named \u0022{0}\u0022 has been removed and can no longer be updated."
+      "Text": "The resource named \"{0}\" has been removed and can no longer be updated."
     },
     {
       "Name": "alreadyExists",
-      "Text": "A resource named \u0022{0}\u0022 already exists."
+      "Text": "A resource named \"{0}\" already exists."
     },
     {
       "Name": "modEditTitle",
-      "Text": "Resource \u0022{0}\u0022"
+      "Text": "Resource \"{0}\""
     },
     {
       "Name": "notFound",
-      "Text": "Resource \u0022{0}\u0022 not found."
+      "Text": "Resource \"{0}\" not found."
     },
     {
       "Name": "okSaved",
-      "Text": "Resource \u0022{0}\u0022 saved"
+      "Text": "Resource \"{0}\" saved"
     }
   ]
 }

@@ -13,11 +13,11 @@
     },
     {
       "Name": "cantRemoveUser",
-      "Text": "The {0} role can\u0027t be removed"
+      "Text": "The {0} role can't be removed"
     },
     {
       "Name": "cantUpdateUser",
-      "Text": "The {0} role can\u0027t be updated"
+      "Text": "The {0} role can't be updated"
     },
     {
       "Name": "editorRole",

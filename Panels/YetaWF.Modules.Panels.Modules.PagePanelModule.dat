@@ -14,7 +14,7 @@
         {
           "Name": "DefaultImage",
           "Caption": "Default Image",
-          "Description": "The default image used when a page doesn\u0027t define its own FavIcon",
+          "Description": "The default image used when a page doesn't define its own FavIcon",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -102,7 +102,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Page Panel - used to display multiple links to pages using the pages\u0027 FavIcon"
+      "Text": "Page Panel - used to display multiple links to pages using the pages' FavIcon"
     },
     {
       "Name": "modTitle",

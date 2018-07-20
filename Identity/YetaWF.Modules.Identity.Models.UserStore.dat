@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "delUser",
-      "Text": "Can\u0027t update user {0}, because the user has been deleted."
+      "Text": "Can't update user {0}, because the user has been deleted."
     },
     {
       "Name": "userDeleted",

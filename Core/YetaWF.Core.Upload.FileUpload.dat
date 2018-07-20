@@ -9,11 +9,11 @@
     },
     {
       "Name": "errDownloadPkgType",
-      "Text": "Download not allowed - The file type \u0027{0}\u0027 is not an allowable file type"
+      "Text": "Download not allowed - The file type '{0}' is not an allowable file type"
     },
     {
       "Name": "errPkgType",
-      "Text": "Upload not allowed - The file type \u0027{0}\u0027 is not an allowable file type"
+      "Text": "Upload not allowed - The file type '{0}' is not an allowable file type"
     }
   ]
 }

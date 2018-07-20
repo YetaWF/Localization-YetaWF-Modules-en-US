@@ -9,13 +9,13 @@
           "Name": "Top",
           "Value": "Top",
           "Caption": "Top of Page",
-          "Description": "All Css files are included at the top of the page (in the \u003cHEAD\u003e section)"
+          "Description": "All Css files are included at the top of the page (in the <HEAD> section)"
         },
         {
           "Name": "Bottom",
           "Value": "Bottom",
           "Caption": "Bottom of Page",
-          "Description": "All Css files are included at the bottom of the page (right in front of the \u003c/BODY\u003e tag)"
+          "Description": "All Css files are included at the bottom of the page (right in front of the </BODY> tag)"
         }
       ]
     }

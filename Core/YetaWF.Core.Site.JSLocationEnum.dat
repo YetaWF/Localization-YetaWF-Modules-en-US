@@ -9,13 +9,13 @@
           "Name": "Top",
           "Value": "Top",
           "Caption": "Top of Page",
-          "Description": "All JavaScript files are included at the top of the page (in the \u003cHEAD\u003e section) - This reduces the \u0022Flash of Unformatted Content\u0022 effect - This is the preferred setting"
+          "Description": "All JavaScript files are included at the top of the page (in the <HEAD> section) - This reduces the \"Flash of Unformatted Content\" effect - This is the preferred setting"
         },
         {
           "Name": "Bottom",
           "Value": "Bottom",
           "Caption": "Bottom of Page",
-          "Description": "All JavaScript files are included at the bottom of the page (right in front of the \u003c/BODY\u003e tag) - This may increase the \u0022Flash of Unformatted Content\u0022 effect"
+          "Description": "All JavaScript files are included at the bottom of the page (right in front of the </BODY> tag) - This may increase the \"Flash of Unformatted Content\" effect"
         }
       ]
     }

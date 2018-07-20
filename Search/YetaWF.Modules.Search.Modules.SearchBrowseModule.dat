@@ -62,7 +62,7 @@
     },
     {
       "Name": "collectLegend",
-      "Text": "Collects a site\u0027s search keywords by examining all pages - only considers pages modified since last search"
+      "Text": "Collects a site's search keywords by examining all pages - only considers pages modified since last search"
     },
     {
       "Name": "collectLink",
@@ -78,7 +78,7 @@
     },
     {
       "Name": "collectTT",
-      "Text": "Collect the site\u0027s search keywords by examining all pages - only considers pages modified since last search"
+      "Text": "Collect the site's search keywords by examining all pages - only considers pages modified since last search"
     },
     {
       "Name": "modName",
@@ -138,7 +138,7 @@
     },
     {
       "Name": "roleCollect",
-      "Text": "The role has permission to collect a site\u0027s search keywords"
+      "Text": "The role has permission to collect a site's search keywords"
     },
     {
       "Name": "roleCollectC",
@@ -154,7 +154,7 @@
     },
     {
       "Name": "userCollect",
-      "Text": "The user has permission to collect a site\u0027s search keywords"
+      "Text": "The user has permission to collect a site's search keywords"
     },
     {
       "Name": "userCollectC",

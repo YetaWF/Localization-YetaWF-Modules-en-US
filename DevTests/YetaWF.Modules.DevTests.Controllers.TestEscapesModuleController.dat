@@ -4,18 +4,18 @@
     {
       "Name": "YetaWF.Modules.DevTests.Controllers.TestEscapesModuleController+EditModel",
       "BaseTypeName": null,
-      "Header": "This test page is used to test correct character encoding - header (HeaderAttribute) \u003cA\u003e \u0026amp; \u0026 @ {0}",
-      "Footer": "Special characters in the footer (FooterAttribute) \u003cA\u003e \u0026amp; \u0026 @ {0}",
+      "Header": "This test page is used to test correct character encoding - header (HeaderAttribute) <A> &amp; & @ {0}",
+      "Footer": "Special characters in the footer (FooterAttribute) <A> &amp; & @ {0}",
       "Legend": null,
       "Categories": {},
       "Properties": [
         {
           "Name": "String1",
-          "Caption": "Caption \u003cA\u003e \u0026amp; \u0026 @ {0}",
-          "Description": "A description \u003cA\u003e \u0026amp; \u0026 @ {0}",
+          "Caption": "Caption <A> &amp; & @ {0}",
+          "Description": "A description <A> &amp; & @ {0}",
           "HelpLink": null,
-          "TextAbove": "Special characters in the text above the field (TextAboveAttribute) \u003cA\u003e \u0026amp; \u0026 @ {0}",
-          "TextBelow": "Special characters in the text below the field (TextBelowAttribute) \u003cA\u003e \u0026amp; \u0026 @ {0}"
+          "TextAbove": "Special characters in the text above the field (TextAboveAttribute) <A> &amp; & @ {0}",
+          "TextBelow": "Special characters in the text below the field (TextBelowAttribute) <A> &amp; & @ {0}"
         }
       ]
     }
@@ -24,7 +24,7 @@
   "Strings": [
     {
       "Name": "okSaved",
-      "Text": "Test Done - Here are some special characters in a message: \u003cA\u003e \u0026amp; \u0026 @ {0}"
+      "Text": "Test Done - Here are some special characters in a message: <A> &amp; & @ {0}"
     }
   ]
 }

@@ -4,7 +4,7 @@
     {
       "Name": "YetaWF.Modules.Identity.Controllers.LoginModuleController+LoginModel",
       "BaseTypeName": null,
-      "Header": "-\u003cp\u003eYou are entering an area of our web site, for which you need to register using your name/email address and password.\u003c/p\u003e\u003cp\u003eIf you are a new user, please register a new account now. If you already established an account earlier, please enter this information here and click \u0022Log In\u0022.\u003c/p\u003e",
+      "Header": "-<p>You are entering an area of our web site, for which you need to register using your name/email address and password.</p><p>If you are a new user, please register a new account now. If you already established an account earlier, please enter this information here and click \"Log In\".</p>",
       "Footer": null,
       "Legend": "Account Information",
       "Categories": {},
@@ -12,7 +12,7 @@
         {
           "Name": "Captcha",
           "Caption": "Captcha",
-          "Description": "Please verify that you\u0027re a human and not a spam bot",
+          "Description": "Please verify that you're a human and not a spam bot",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -28,7 +28,7 @@
         {
           "Name": "RememberMe",
           "Caption": "Remember Me",
-          "Description": "Select this option so your information is saved and you don\u0027t need to login again when you return to this site (when using the same browser)",
+          "Description": "Select this option so your information is saved and you don't need to login again when you return to this site (when using the same browser)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

@@ -13,7 +13,7 @@
     },
     {
       "Name": "noResults",
-      "Text": "Your search for \u0022{0}\u0022 did not match any documents."
+      "Text": "Your search for \"{0}\" did not match any documents."
     },
     {
       "Name": "noResultsAdmin",
@@ -21,19 +21,19 @@
     },
     {
       "Name": "results",
-      "Text": "Your search for \u0022{0}\u0022 found {1} matches."
+      "Text": "Your search for \"{0}\" found {1} matches."
     },
     {
       "Name": "results1",
-      "Text": "Your search for \u0022{0}\u0022 found {1} match."
+      "Text": "Your search for \"{0}\" found {1} match."
     },
     {
       "Name": "resultsMore",
-      "Text": "Your search for \u0022{0}\u0022 found {1} matches - more are available."
+      "Text": "Your search for \"{0}\" found {1} matches - more are available."
     },
     {
       "Name": "resultsMore1",
-      "Text": "Your search for \u0022{0}\u0022 found {1} match - more are available."
+      "Text": "Your search for \"{0}\" found {1} match - more are available."
     }
   ]
 }

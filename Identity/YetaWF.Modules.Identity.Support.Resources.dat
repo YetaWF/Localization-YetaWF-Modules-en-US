@@ -5,15 +5,15 @@
   "Strings": [
     {
       "Name": "valResourceName",
-      "Text": "The resource name must follow this naming convention: AreaName-ResourceName - An example of a valid resource name is \u0022YetaWF_Identity-Authorization Admin (Display)\u0022"
+      "Text": "The resource name must follow this naming convention: AreaName-ResourceName - An example of a valid resource name is \"YetaWF_Identity-Authorization Admin (Display)\""
     },
     {
       "Name": "valResourceName2",
-      "Text": "The resource name is invalid (\u0027{0}\u0027 property) - It must follow this naming convention: AreaName-ResourceName - An example of a valid resource name is \u0022YetaWF_Identity-Authorization Admin (Display)\u0022"
+      "Text": "The resource name is invalid ('{0}' property) - It must follow this naming convention: AreaName-ResourceName - An example of a valid resource name is \"YetaWF_Identity-Authorization Admin (Display)\""
     },
     {
       "Name": "valResourceName3",
-      "Text": "The resource name \u0027{0}\u0027 is invalid - It must follow this naming convention: AreaName-ResourceName - An example of a valid resource name is \u0022YetaWF_Identity-Authorization Admin (Display)\u0022"
+      "Text": "The resource name '{0}' is invalid - It must follow this naming convention: AreaName-ResourceName - An example of a valid resource name is \"YetaWF_Identity-Authorization Admin (Display)\""
     },
     {
       "Name": "valRoleName",
@@ -21,23 +21,23 @@
     },
     {
       "Name": "valRoleName2",
-      "Text": "The role name is invalid (\u0027{0}\u0027 property) - It must consist of one word containing letters and numbers, underscores and periods, without spaces"
+      "Text": "The role name is invalid ('{0}' property) - It must consist of one word containing letters and numbers, underscores and periods, without spaces"
     },
     {
       "Name": "valRoleName3",
-      "Text": "The role name \u0027{0}\u0027 is invalid - It must consist of one word containing letters and numbers, underscores and periods, without spaces"
+      "Text": "The role name '{0}' is invalid - It must consist of one word containing letters and numbers, underscores and periods, without spaces"
     },
     {
       "Name": "valuserName",
-      "Text": "The user name can\u0027t start with characters like a tab or a space"
+      "Text": "The user name can't start with characters like a tab or a space"
     },
     {
       "Name": "valuserName2",
-      "Text": "The user name is invalid (\u0027{0}\u0027 property) - The user name can\u0027t start with characters like a tab or a space"
+      "Text": "The user name is invalid ('{0}' property) - The user name can't start with characters like a tab or a space"
     },
     {
       "Name": "valuserName3",
-      "Text": "The user name \u0027{0}\u0027 is invalid - The user name can\u0027t start with characters like a tab or a space"
+      "Text": "The user name '{0}' is invalid - The user name can't start with characters like a tab or a space"
     }
   ]
 }

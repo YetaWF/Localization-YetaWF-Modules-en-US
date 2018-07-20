@@ -5,11 +5,11 @@
   "Strings": [
     {
       "Name": "badStringLengthMax",
-      "Text": "The length for \u0027{0}\u0027 can\u0027t exceed {1} characters"
+      "Text": "The length for '{0}' can't exceed {1} characters"
     },
     {
       "Name": "badStringLengthMinMax",
-      "Text": "The length for \u0027{0}\u0027 must be between {1} and {2} characters"
+      "Text": "The length for '{0}' must be between {1} and {2} characters"
     },
     {
       "Name": "dup",
@@ -21,27 +21,27 @@
     },
     {
       "Name": "errInvMeta",
-      "Text": "The meta tag is invalid - It should be in the format \u003cmeta name=\u0022google-site-verification\u0022 content=\u0022....your-code....\u0022 /\u003e"
+      "Text": "The meta tag is invalid - It should be in the format <meta name=\"google-site-verification\" content=\"....your-code....\" />"
     },
     {
       "Name": "errInvMeta2",
-      "Text": "The meta tag is invalid (field \u0027{0}\u0027) - It should be in the format \u003cmeta name=\u0022google-site-verification\u0022 content=\u0022....your-code....\u0022 /\u003e"
+      "Text": "The meta tag is invalid (field '{0}') - It should be in the format <meta name=\"google-site-verification\" content=\"....your-code....\" />"
     },
     {
       "Name": "errInvMeta3",
-      "Text": "The meta tag \u0027{0}\u0027 is invalid - It should be in the format \u003cmeta name=\u0022google-site-verification\u0022 content=\u0022....your-code....\u0022 /\u003e"
+      "Text": "The meta tag '{0}' is invalid - It should be in the format <meta name=\"google-site-verification\" content=\"....your-code....\" />"
     },
     {
       "Name": "errInvSite",
-      "Text": "The site\u0027s domain name is invalid - It cannot use http:// or https:// and it can only contain letters, numbers and these characters: - ."
+      "Text": "The site's domain name is invalid - It cannot use http:// or https:// and it can only contain letters, numbers and these characters: - ."
     },
     {
       "Name": "errInvSite2",
-      "Text": "The site\u0027s domain name is invalid (field \u0027{0}\u0027) - It cannot use http:// or https:// and it can only contain letters, numbers and these characters: - ."
+      "Text": "The site's domain name is invalid (field '{0}') - It cannot use http:// or https:// and it can only contain letters, numbers and these characters: - ."
     },
     {
       "Name": "errInvSite3",
-      "Text": "The site\u0027s domain name \u0027{0}\u0027 is invalid - It cannot use http:// or https:// and it can only contain letters, numbers and these characters: - ."
+      "Text": "The site's domain name '{0}' is invalid - It cannot use http:// or https:// and it can only contain letters, numbers and these characters: - ."
     },
     {
       "Name": "errPrivateKey",
@@ -49,11 +49,11 @@
     },
     {
       "Name": "range",
-      "Text": "The \u0027{0}\u0027 value must be between {1} and {2}"
+      "Text": "The '{0}' value must be between {1} and {2}"
     },
     {
       "Name": "required",
-      "Text": "The \u0027{0}\u0027 field is required"
+      "Text": "The '{0}' field is required"
     },
     {
       "Name": "requiredIf",
@@ -69,11 +69,11 @@
     },
     {
       "Name": "SameAs",
-      "Text": "The {0} field doesn\u0027t match"
+      "Text": "The {0} field doesn't match"
     },
     {
       "Name": "selectionRequired",
-      "Text": "The \u0027{0}\u0027 field is required - Please select one of the available options"
+      "Text": "The '{0}' field is required - Please select one of the available options"
     },
     {
       "Name": "valAnchor",
@@ -81,11 +81,11 @@
     },
     {
       "Name": "valAnchor2",
-      "Text": "The anchor id is invalid (\u0027{0}\u0027 property) - use only the letters a-z, A-Z, _, - and 0-9 for ids"
+      "Text": "The anchor id is invalid ('{0}' property) - use only the letters a-z, A-Z, _, - and 0-9 for ids"
     },
     {
       "Name": "valAnchor3",
-      "Text": "The anchor id \u0027{0}\u0027 is invalid - use only the letters a-z, A-Z, _, - and 0-9 for ids"
+      "Text": "The anchor id '{0}' is invalid - use only the letters a-z, A-Z, _, - and 0-9 for ids"
     },
     {
       "Name": "valArea",
@@ -93,11 +93,11 @@
     },
     {
       "Name": "valArea2",
-      "Text": "The area specified is invalid (\u0027{0}\u0027 property) - Please use only letters and numbers in the format domain_product"
+      "Text": "The area specified is invalid ('{0}' property) - Please use only letters and numbers in the format domain_product"
     },
     {
       "Name": "valArea3",
-      "Text": "The area \u0027{0}\u0027 is invalid - Please use only letters and numbers in the format domain_product"
+      "Text": "The area '{0}' is invalid - Please use only letters and numbers in the format domain_product"
     },
     {
       "Name": "valCCNum",
@@ -105,7 +105,7 @@
     },
     {
       "Name": "valCCNum2",
-      "Text": "The credit card number is invalid (field \u0027{0}\u0027)"
+      "Text": "The credit card number is invalid (field '{0}')"
     },
     {
       "Name": "valCCV",
@@ -113,39 +113,39 @@
     },
     {
       "Name": "valCCV2",
-      "Text": "The CCV (Card Verification Value) is invalid (field \u0027{0}\u0027) - The CVV is printed on the back of your credit card - Usually the last 4 digits of your card number, followed by the CVV (3-4 digits) are shown. If your credit card has such a security code, please enter it here (if you do not enter it, your order may be delayed or rejected) - If your card has no such code, simply leave this field empty"
+      "Text": "The CCV (Card Verification Value) is invalid (field '{0}') - The CVV is printed on the back of your credit card - Usually the last 4 digits of your card number, followed by the CVV (3-4 digits) are shown. If your credit card has such a security code, please enter it here (if you do not enter it, your order may be delayed or rejected) - If your card has no such code, simply leave this field empty"
     },
     {
       "Name": "valCssClass",
-      "Text": "The class listed is invalid - Use only the letters a-z, A-Z, _ and 0-9 for a class name - The class name can\u0027t start with a digit"
+      "Text": "The class listed is invalid - Use only the letters a-z, A-Z, _ and 0-9 for a class name - The class name can't start with a digit"
     },
     {
       "Name": "valCssClass2",
-      "Text": "The class listed is invalid (field \u0027{0}\u0027) - Use only the letters a-z, A-Z, _ and 0-9 for a class name - The class name can\u0027t start with a digit"
+      "Text": "The class listed is invalid (field '{0}') - Use only the letters a-z, A-Z, _ and 0-9 for a class name - The class name can't start with a digit"
     },
     {
       "Name": "valCssClass3",
-      "Text": "The class \u0027{0}\u0027 is invalid - Use only the letters a-z, A-Z, _ and 0-9 for a class name - The class name can\u0027t start with a digit"
+      "Text": "The class '{0}' is invalid - Use only the letters a-z, A-Z, _ and 0-9 for a class name - The class name can't start with a digit"
     },
     {
       "Name": "valCssClasses",
-      "Text": "The classes listed are invalid - Please separate classes using spaces (not commas) and use only the letters a-z, A-Z, _ and 0-9 for class names - Class names can\u0027t start with a digit"
+      "Text": "The classes listed are invalid - Please separate classes using spaces (not commas) and use only the letters a-z, A-Z, _ and 0-9 for class names - Class names can't start with a digit"
     },
     {
       "Name": "valCssClasses2",
-      "Text": "The classes listed are invalid (field \u0027{0}\u0027) - Please separate classes using spaces (not commas) and use only the letters a-z, A-Z, _ and 0-9 for class names - Class names can\u0027t start with a digit"
+      "Text": "The classes listed are invalid (field '{0}') - Please separate classes using spaces (not commas) and use only the letters a-z, A-Z, _ and 0-9 for class names - Class names can't start with a digit"
     },
     {
       "Name": "valCssClasses3",
-      "Text": "The classes \u0027{0}\u0027 are invalid - Please separate classes using spaces (not commas) and use only the letters a-z, A-Z, _ and 0-9 for class names - Class names can\u0027t start with a digit"
+      "Text": "The classes '{0}' are invalid - Please separate classes using spaces (not commas) and use only the letters a-z, A-Z, _ and 0-9 for class names - Class names can't start with a digit"
     },
     {
       "Name": "valDateMax",
-      "Text": "The date is invalid - it\u0027s after the allowed end date of {0}"
+      "Text": "The date is invalid - it's after the allowed end date of {0}"
     },
     {
       "Name": "valDateMin",
-      "Text": "The date is invalid - it\u0027s before the allowed start date of {0}"
+      "Text": "The date is invalid - it's before the allowed start date of {0}"
     },
     {
       "Name": "valDomain",
@@ -153,35 +153,35 @@
     },
     {
       "Name": "valDomain2",
-      "Text": "The domain (field \u0027{0}\u0027) is invalid"
+      "Text": "The domain (field '{0}') is invalid"
     },
     {
       "Name": "valDomain3",
-      "Text": "The domain \u0027{0}\u0027 is invalid"
+      "Text": "The domain '{0}' is invalid"
     },
     {
       "Name": "valEmail",
-      "Text": "The email address is invalid - it should be in the format \u0027user@domain.com\u0027"
+      "Text": "The email address is invalid - it should be in the format 'user@domain.com'"
     },
     {
       "Name": "valEmail2",
-      "Text": "The email address for the field labeled \u0027{0}\u0027 is invalid - it should be in the format \u0027user@domain.com\u0027"
+      "Text": "The email address for the field labeled '{0}' is invalid - it should be in the format 'user@domain.com'"
     },
     {
       "Name": "valEmail3",
-      "Text": "The email address {0} is invalid - it should be in the format \u0027user@domain.com\u0027"
+      "Text": "The email address {0} is invalid - it should be in the format 'user@domain.com'"
     },
     {
       "Name": "valGuid",
-      "Text": "The guid is invalid - it should be in the format \u002700000000-0000-0000-0000-000000000000\u0027"
+      "Text": "The guid is invalid - it should be in the format '00000000-0000-0000-0000-000000000000'"
     },
     {
       "Name": "valGuid2",
-      "Text": "The guid (field \u0027{0}\u0027) is invalid - it should be in the format \u002700000000-0000-0000-0000-000000000000\u0027"
+      "Text": "The guid (field '{0}') is invalid - it should be in the format '00000000-0000-0000-0000-000000000000'"
     },
     {
       "Name": "valGuid3",
-      "Text": "The guid \u0027{0}\u0027 is invalid - it should be in the format \u002700000000-0000-0000-0000-000000000000\u0027"
+      "Text": "The guid '{0}' is invalid - it should be in the format '00000000-0000-0000-0000-000000000000'"
     },
     {
       "Name": "valPkgDomain",
@@ -193,103 +193,103 @@
     },
     {
       "Name": "valPkgDomain3",
-      "Text": "The domain \u0027{0}\u0027 is invalid - Please use only letters and numbers"
+      "Text": "The domain '{0}' is invalid - Please use only letters and numbers"
     },
     {
       "Name": "valUrl1",
-      "Text": "The Url is invalid - It should be in the format \u0027/someLocalPage\u0027, \u0027//somedomain.com/page\u0027, \u0027http://somedomain.com/page\u0027 or \u0027https://somedomain.com/page\u0027"
+      "Text": "The Url is invalid - It should be in the format '/someLocalPage', '//somedomain.com/page', 'http://somedomain.com/page' or 'https://somedomain.com/page'"
     },
     {
       "Name": "valUrl2",
-      "Text": "The Url is invalid - It should be in the format \u0027/someLocalPage\u0027 or \u0027http://somedomain.com/page\u0027 - https is not allowed"
+      "Text": "The Url is invalid - It should be in the format '/someLocalPage' or 'http://somedomain.com/page' - https is not allowed"
     },
     {
       "Name": "valUrl3",
-      "Text": "The Url is invalid - It should be in the format \u0027/someLocalPage\u0027 or \u0027https://somedomain.com/page\u0027 - It must be secure - http is not allowed"
+      "Text": "The Url is invalid - It should be in the format '/someLocalPage' or 'https://somedomain.com/page' - It must be secure - http is not allowed"
     },
     {
       "Name": "valUrl4",
-      "Text": "The Url is invalid - It should be in the format \u0027//somedomain.com/page\u0027, \u0027http://somedomain.com/page\u0027 or \u0027https://somedomain.com/page\u0027"
+      "Text": "The Url is invalid - It should be in the format '//somedomain.com/page', 'http://somedomain.com/page' or 'https://somedomain.com/page'"
     },
     {
       "Name": "valUrl5",
-      "Text": "The Url is invalid - It should be in the format \u0027http://somedomain.com/page\u0027 - https is not allowed"
+      "Text": "The Url is invalid - It should be in the format 'http://somedomain.com/page' - https is not allowed"
     },
     {
       "Name": "valUrl6",
-      "Text": "The Url is invalid - It should be in the format \u0027https://somedomain.com/page\u0027 - It must be secure - http is not allowed"
+      "Text": "The Url is invalid - It should be in the format 'https://somedomain.com/page' - It must be secure - http is not allowed"
     },
     {
       "Name": "valUrl7",
-      "Text": "The Url is invalid - It should be in the format \u0027/someLocalPage\u0027 defining a local Url on the current site"
+      "Text": "The Url is invalid - It should be in the format '/someLocalPage' defining a local Url on the current site"
     },
     {
       "Name": "valUrl8",
-      "Text": "The Url is invalid - It should be in the format \u0027/someLocalPage\u0027 defining a new local page - local pages must start with \u0027/\u0027 and can\u0027t use certain special characters like . , * ? \u0026 etc."
+      "Text": "The Url is invalid - It should be in the format '/someLocalPage' defining a new local page - local pages must start with '/' and can't use certain special characters like . , * ? & etc."
     },
     {
       "Name": "valUrlD1",
-      "Text": "The Url \u0027{0}\u0027 is invalid - It should be in the format \u0027/someLocalPage\u0027, \u0027//somedomain.com/page\u0027, \u0027http://somedomain.com/page\u0027 or \u0027https://somedomain.com/page\u0027"
+      "Text": "The Url '{0}' is invalid - It should be in the format '/someLocalPage', '//somedomain.com/page', 'http://somedomain.com/page' or 'https://somedomain.com/page'"
     },
     {
       "Name": "valUrlD2",
-      "Text": "The Url \u0027{0}\u0027 is invalid - It should be in the format \u0027/someLocalPage\u0027 or \u0027http://somedomain.com/page\u0027 - https is not allowed"
+      "Text": "The Url '{0}' is invalid - It should be in the format '/someLocalPage' or 'http://somedomain.com/page' - https is not allowed"
     },
     {
       "Name": "valUrlD3",
-      "Text": "The Url \u0027{0}\u0027 is invalid - It should be in the format \u0027/someLocalPage\u0027 or \u0027https://somedomain.com/page\u0027 - It must be secure - http is not allowed"
+      "Text": "The Url '{0}' is invalid - It should be in the format '/someLocalPage' or 'https://somedomain.com/page' - It must be secure - http is not allowed"
     },
     {
       "Name": "valUrlD4",
-      "Text": "The Url \u0027{0}\u0027 is invalid - It should be in the format \u0027//somedomain.com/page\u0027, \u0027http://somedomain.com/page\u0027 or \u0027https://somedomain.com/page\u0027"
+      "Text": "The Url '{0}' is invalid - It should be in the format '//somedomain.com/page', 'http://somedomain.com/page' or 'https://somedomain.com/page'"
     },
     {
       "Name": "valUrlD5",
-      "Text": "The Url \u0027{0}\u0027 is invalid - It should be in the format \u0027http://somedomain.com/page\u0027 - https is not allowed"
+      "Text": "The Url '{0}' is invalid - It should be in the format 'http://somedomain.com/page' - https is not allowed"
     },
     {
       "Name": "valUrlD6",
-      "Text": "The Url \u0027{0}\u0027 is invalid - It should be in the format \u0027https://somedomain.com/page\u0027 - It must be secure - http is not allowed"
+      "Text": "The Url '{0}' is invalid - It should be in the format 'https://somedomain.com/page' - It must be secure - http is not allowed"
     },
     {
       "Name": "valUrlD7",
-      "Text": "The Url \u0027{0}\u0027 is invalid - It should be in the format \u0027/someLocalPage\u0027 defining a local Url on the current site"
+      "Text": "The Url '{0}' is invalid - It should be in the format '/someLocalPage' defining a local Url on the current site"
     },
     {
       "Name": "valUrlD8",
-      "Text": "The Url \u0027{0}\u0027 is invalid - It should be in the format \u0027/someLocalPage\u0027 defining a new local page - local pages must start with \u0027/\u0027 and can\u0027t use certain special characters like . , * ? \u0026 etc."
+      "Text": "The Url '{0}' is invalid - It should be in the format '/someLocalPage' defining a new local page - local pages must start with '/' and can't use certain special characters like . , * ? & etc."
     },
     {
       "Name": "valUrlF1",
-      "Text": "The Url is invalid (field \u0027{0}\u0027) - It should be in the format \u0027/someLocalPage\u0027, \u0027//somedomain.com/page\u0027, \u0027http://somedomain.com/page\u0027 or \u0027https://somedomain.com/page\u0027"
+      "Text": "The Url is invalid (field '{0}') - It should be in the format '/someLocalPage', '//somedomain.com/page', 'http://somedomain.com/page' or 'https://somedomain.com/page'"
     },
     {
       "Name": "valUrlF2",
-      "Text": "The Url is invalid (field \u0027{0}\u0027) - It should be in the format \u0027/someLocalPage\u0027 or \u0027http://somedomain.com/page\u0027 - https is not allowed"
+      "Text": "The Url is invalid (field '{0}') - It should be in the format '/someLocalPage' or 'http://somedomain.com/page' - https is not allowed"
     },
     {
       "Name": "valUrlF3",
-      "Text": "The Url is invalid (field \u0027{0}\u0027) - It should be in the format \u0027/someLocalPage\u0027 or \u0027https://somedomain.com/page\u0027 - It must be secure - http is not allowed"
+      "Text": "The Url is invalid (field '{0}') - It should be in the format '/someLocalPage' or 'https://somedomain.com/page' - It must be secure - http is not allowed"
     },
     {
       "Name": "valUrlF4",
-      "Text": "The Url is invalid (field \u0027{0}\u0027) - It should be in the format \u0027//somedomain.com/page\u0027, \u0027http://somedomain.com/page\u0027 or \u0027https://somedomain.com/page\u0027"
+      "Text": "The Url is invalid (field '{0}') - It should be in the format '//somedomain.com/page', 'http://somedomain.com/page' or 'https://somedomain.com/page'"
     },
     {
       "Name": "valUrlF5",
-      "Text": "The Url is invalid (field \u0027{0}\u0027) - It should be in the format \u0027http://somedomain.com/page\u0027 - https is not allowed"
+      "Text": "The Url is invalid (field '{0}') - It should be in the format 'http://somedomain.com/page' - https is not allowed"
     },
     {
       "Name": "valUrlF6",
-      "Text": "The Url is invalid (field \u0027{0}\u0027) - It should be in the format \u0027https://somedomain.com/page\u0027 - It must be secure - http is not allowed"
+      "Text": "The Url is invalid (field '{0}') - It should be in the format 'https://somedomain.com/page' - It must be secure - http is not allowed"
     },
     {
       "Name": "valUrlF7",
-      "Text": "The Url is invalid (field \u0027{0}\u0027) - It should be in the format \u0027/someLocalPage\u0027 defining a local Url on the current site"
+      "Text": "The Url is invalid (field '{0}') - It should be in the format '/someLocalPage' defining a local Url on the current site"
     },
     {
       "Name": "valUrlF8",
-      "Text": "The Url is invalid (field \u0027{0}\u0027) - It should be in the format \u0027/someLocalPage\u0027 defining a new local page - local pages must start with \u0027/\u0027 and can\u0027t use certain special characters like . , * ? \u0026 etc."
+      "Text": "The Url is invalid (field '{0}') - It should be in the format '/someLocalPage' defining a new local page - local pages must start with '/' and can't use certain special characters like . , * ? & etc."
     }
   ]
 }

@@ -124,7 +124,7 @@
         {
           "Name": "UserId",
           "Caption": "User",
-          "Description": "The user\u0027s name/email address (if available)",
+          "Description": "The user's name/email address (if available)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -140,7 +140,7 @@
     },
     {
       "Name": "logNotFound",
-      "Text": "The log file \u0027{0}\u0027 cannot be located"
+      "Text": "The log file '{0}' cannot be located"
     }
   ]
 }

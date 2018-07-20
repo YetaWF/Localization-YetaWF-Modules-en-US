@@ -78,7 +78,7 @@
     },
     {
       "Name": "removeConfirm",
-      "Text": "Are you sure you want to remove scheduler item \u0022{0}\u0022?"
+      "Text": "Are you sure you want to remove scheduler item \"{0}\"?"
     },
     {
       "Name": "removeLegend",
@@ -114,7 +114,7 @@
     },
     {
       "Name": "runConfirm",
-      "Text": "Are you sure you want to run scheduler item \u0022{0}\u0022?"
+      "Text": "Are you sure you want to run scheduler item \"{0}\"?"
     },
     {
       "Name": "runLegend",

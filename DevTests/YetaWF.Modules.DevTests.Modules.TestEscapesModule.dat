@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "editLegend",
-      "Text": "Tests various client-side \u0026 server side character translations/escapes"
+      "Text": "Tests various client-side & server side character translations/escapes"
     },
     {
       "Name": "editLink",
@@ -17,7 +17,7 @@
     },
     {
       "Name": "editTooltip",
-      "Text": "Test various client-side \u0026 server side character translations/escapes"
+      "Text": "Test various client-side & server side character translations/escapes"
     },
     {
       "Name": "modName",
@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Tests various client-side \u0026 server side character translations/escapes"
+      "Text": "Tests various client-side & server side character translations/escapes"
     },
     {
       "Name": "modTitle",

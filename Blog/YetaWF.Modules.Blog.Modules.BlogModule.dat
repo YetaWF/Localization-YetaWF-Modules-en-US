@@ -53,7 +53,7 @@
     },
     {
       "Name": "rssLegend",
-      "Text": "Displays the blog\u0027s RSS Feed"
+      "Text": "Displays the blog's RSS Feed"
     },
     {
       "Name": "rssLink",
@@ -65,7 +65,7 @@
     },
     {
       "Name": "rssTT",
-      "Text": "Display the blog\u0027s RSS Feed"
+      "Text": "Display the blog's RSS Feed"
     }
   ]
 }

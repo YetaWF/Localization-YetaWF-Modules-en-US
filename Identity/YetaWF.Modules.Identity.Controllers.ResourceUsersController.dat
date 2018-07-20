@@ -9,7 +9,7 @@
     },
     {
       "Name": "noUser",
-      "Text": "User {0} doesn\u0027t exist."
+      "Text": "User {0} doesn't exist."
     }
   ]
 }

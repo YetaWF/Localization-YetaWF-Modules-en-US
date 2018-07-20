@@ -44,7 +44,7 @@
         {
           "Name": "Frequency",
           "Caption": "Interval",
-          "Description": "The scheduler item\u0027s frequency",
+          "Description": "The scheduler item's frequency",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -88,19 +88,19 @@
   "Strings": [
     {
       "Name": "alreadyDeleted",
-      "Text": "The scheduler item named \u0022{0}\u0022 has been removed and can no longer be updated."
+      "Text": "The scheduler item named \"{0}\" has been removed and can no longer be updated."
     },
     {
       "Name": "alreadyExists",
-      "Text": "A scheduler item named \u0022{0}\u0022 already exists."
+      "Text": "A scheduler item named \"{0}\" already exists."
     },
     {
       "Name": "modTitle",
-      "Text": "Scheduler Item \u0022{0}\u0022"
+      "Text": "Scheduler Item \"{0}\""
     },
     {
       "Name": "notFound",
-      "Text": "Scheduler item \u0022{0}\u0022 not found."
+      "Text": "Scheduler item \"{0}\" not found."
     },
     {
       "Name": "okSaved",

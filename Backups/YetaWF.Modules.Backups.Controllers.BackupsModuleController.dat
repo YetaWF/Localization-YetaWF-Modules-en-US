@@ -60,11 +60,11 @@
     },
     {
       "Name": "backupNotFound",
-      "Text": "The backup \u0027{0}\u0027 cannot be located."
+      "Text": "The backup '{0}' cannot be located."
     },
     {
       "Name": "cantBackup",
-      "Text": "Can\u0027t create a site backup for site {0}:(+nl)"
+      "Text": "Can't create a site backup for site {0}:(+nl)"
     },
     {
       "Name": "templatesCreated",

@@ -9,7 +9,7 @@
     },
     {
       "Name": "feedbackSubject2",
-      "Text": "Feedback \u0022{0}\u0022 from {1} - {2}"
+      "Text": "Feedback \"{0}\" from {1} - {2}"
     }
   ]
 }

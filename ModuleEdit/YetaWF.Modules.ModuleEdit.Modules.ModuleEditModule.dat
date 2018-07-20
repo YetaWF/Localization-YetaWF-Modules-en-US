@@ -34,7 +34,7 @@
   "Strings": [
     {
       "Name": "editLegend",
-      "Text": "Edits the module\u0027s settings"
+      "Text": "Edits the module's settings"
     },
     {
       "Name": "editLink",
@@ -46,7 +46,7 @@
     },
     {
       "Name": "editTooltip",
-      "Text": "Edit the module\u0027s settings"
+      "Text": "Edit the module's settings"
     },
     {
       "Name": "modName",

@@ -17,7 +17,7 @@
     },
     {
       "Name": "removeLegend",
-      "Text": "Removes the site \u0022{0}\u0022"
+      "Text": "Removes the site \"{0}\""
     },
     {
       "Name": "removeLink",
@@ -29,7 +29,7 @@
     },
     {
       "Name": "removeTT",
-      "Text": "Remove the site \u0022{0}\u0022"
+      "Text": "Remove the site \"{0}\""
     }
   ]
 }

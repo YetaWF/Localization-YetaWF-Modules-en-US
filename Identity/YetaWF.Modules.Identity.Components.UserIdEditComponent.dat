@@ -12,7 +12,7 @@
         {
           "Name": "Email",
           "Caption": "Email Address",
-          "Description": "Displays the user\u0027s email address",
+          "Description": "Displays the user's email address",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -20,7 +20,7 @@
         {
           "Name": "UserId",
           "Caption": "Used Id",
-          "Description": "Displays the user\u0027s internal Id",
+          "Description": "Displays the user's internal Id",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -28,7 +28,7 @@
         {
           "Name": "UserName",
           "Caption": "Name",
-          "Description": "Displays the user\u0027s name",
+          "Description": "Displays the user's name",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -36,7 +36,7 @@
         {
           "Name": "UserStatus",
           "Caption": "Status",
-          "Description": "The user\u0027s current account status",
+          "Description": "The user's current account status",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

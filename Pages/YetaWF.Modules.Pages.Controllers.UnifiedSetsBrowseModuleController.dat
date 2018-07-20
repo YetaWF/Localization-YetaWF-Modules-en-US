@@ -98,7 +98,7 @@
   "Strings": [
     {
       "Name": "cantRemove",
-      "Text": "Couldn\u0027t remove {0}"
+      "Text": "Couldn't remove {0}"
     }
   ]
 }

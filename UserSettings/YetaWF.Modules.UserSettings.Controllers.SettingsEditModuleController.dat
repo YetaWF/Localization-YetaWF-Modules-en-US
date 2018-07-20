@@ -76,7 +76,7 @@
         {
           "Name": "ShowModuleOwnership",
           "Caption": "Show Module Ownership",
-          "Description": "Defines whether modules that can\u0027t be seen by anonymous users or regular users are shown with special background colors - Requires a skin that supports ownership display",
+          "Description": "Defines whether modules that can't be seen by anonymous users or regular users are shown with special background colors - Requires a skin that supports ownership display",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -84,7 +84,7 @@
         {
           "Name": "ShowPageOwnership",
           "Caption": "Show Page Ownership",
-          "Description": "Defines whether pages that can\u0027t be seen by anonymous users or regular users are shown with special background colors - Requires a skin that supports ownership display",
+          "Description": "Defines whether pages that can't be seen by anonymous users or regular users are shown with special background colors - Requires a skin that supports ownership display",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

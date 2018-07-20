@@ -60,7 +60,7 @@
         {
           "Name": "UserAgent",
           "Caption": "User Agent",
-          "Description": "The web browser\u0027s user agent",
+          "Description": "The web browser's user agent",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -68,7 +68,7 @@
         {
           "Name": "UserId",
           "Caption": "User Id",
-          "Description": "The user\u0027s email address (if available)",
+          "Description": "The user's email address (if available)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

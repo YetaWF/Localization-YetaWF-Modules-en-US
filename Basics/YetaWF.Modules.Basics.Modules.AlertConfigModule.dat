@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "editLegend",
-      "Text": "Edits the site\u0027s Alert settings"
+      "Text": "Edits the site's Alert settings"
     },
     {
       "Name": "editLink",
@@ -17,7 +17,7 @@
     },
     {
       "Name": "editTooltip",
-      "Text": "Edit the site\u0027s Alert settings"
+      "Text": "Edit the site's Alert settings"
     },
     {
       "Name": "modName",
@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edits a site\u0027s Alert settings"
+      "Text": "Edits a site's Alert settings"
     },
     {
       "Name": "modTitle",

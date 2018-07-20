@@ -44,7 +44,7 @@
         {
           "Name": "Description",
           "Caption": "Description",
-          "Description": "The description of the blog category - the category\u0027s description is shown at the top of each blog entry to describe your blog",
+          "Description": "The description of the blog category - the category's description is shown at the top of each blog entry to describe your blog",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -100,7 +100,7 @@
     },
     {
       "Name": "sitemapNotFound",
-      "Text": "News site map not found - File \u0027{0}\u0027 cannot be located"
+      "Text": "News site map not found - File '{0}' cannot be located"
     },
     {
       "Name": "sremDone",

@@ -4,7 +4,7 @@
     {
       "Name": "YetaWF.Modules.SyntaxHighlighter.Controllers.SyntaxHighlighterConfigModuleController+Model",
       "BaseTypeName": null,
-      "Header": "The settings are used to define syntax highlighting for the entire site. If more than one syntax highlighter is available, both can be used, but should not be used on the same page. To activate syntax highlighting, the Site, Page or Module Settings must reference one of the available skin modules. The \u003cpre\u003e and/or \u003ccode\u003e tags must be used to define the desired syntax coloring language.",
+      "Header": "The settings are used to define syntax highlighting for the entire site. If more than one syntax highlighter is available, both can be used, but should not be used on the same page. To activate syntax highlighting, the Site, Page or Module Settings must reference one of the available skin modules. The <pre> and/or <code> tags must be used to define the desired syntax coloring language.",
       "Footer": null,
       "Legend": null,
       "Categories": {
@@ -39,7 +39,7 @@
         {
           "Name": "LanguagesSyntaxHighlighterUrl",
           "Caption": "Languages",
-          "Description": "Displays help for the languages (brushes) that can be used by Alex Gorbatchev\u0027s syntax highlighter - Not all may be installed and available",
+          "Description": "Displays help for the languages (brushes) that can be used by Alex Gorbatchev's syntax highlighter - Not all may be installed and available",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -55,9 +55,9 @@
         {
           "Name": "SyntaxHighlighterUrl",
           "Caption": "Help",
-          "Description": "The syntax highlighter uses Alex Gorbatchev\u0027s SyntaxHighlighter",
+          "Description": "The syntax highlighter uses Alex Gorbatchev's SyntaxHighlighter",
           "HelpLink": null,
-          "TextAbove": "The syntax highlighter uses Alex Gorbatchev\u0027s SyntaxHighlighter.",
+          "TextAbove": "The syntax highlighter uses Alex Gorbatchev's SyntaxHighlighter.",
           "TextBelow": null
         }
       ]

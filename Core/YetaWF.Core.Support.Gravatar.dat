@@ -27,7 +27,7 @@
           "Name": "monsterid",
           "Value": "monsterid",
           "Caption": "Monsterid",
-          "Description": "A generated \u0027monster\u0027 with different colors, faces, etc. - varies by email address"
+          "Description": "A generated 'monster' with different colors, faces, etc. - varies by email address"
         },
         {
           "Name": "wavatar",

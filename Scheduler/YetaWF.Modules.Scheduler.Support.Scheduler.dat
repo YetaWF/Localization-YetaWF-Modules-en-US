@@ -5,15 +5,15 @@
   "Strings": [
     {
       "Name": "errItemDisabled",
-      "Text": "Scheduler item \u0027{0}\u0027 is currently disabled and cannot be scheduled."
+      "Text": "Scheduler item '{0}' is currently disabled and cannot be scheduled."
     },
     {
       "Name": "errItemNotFound",
-      "Text": "Scheduler item \u0027{0}\u0027 does not exist."
+      "Text": "Scheduler item '{0}' does not exist."
     },
     {
       "Name": "errItemUpdFail",
-      "Text": "Scheduler item \u0027{0}\u0027 couldn\u0027t be updated."
+      "Text": "Scheduler item '{0}' couldn't be updated."
     },
     {
       "Name": "errUpdate",

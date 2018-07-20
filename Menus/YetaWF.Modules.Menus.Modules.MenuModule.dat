@@ -37,8 +37,8 @@
         },
         {
           "Name": "LICssClass",
-          "Caption": "\u003cLI\u003e Css Class",
-          "Description": "The optional Css class added to every \u003cLI\u003e tag in the menu",
+          "Caption": "<LI> Css Class",
+          "Description": "The optional Css class added to every <LI> tag in the menu",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -54,7 +54,7 @@
         {
           "Name": "ShowPath",
           "Caption": "Show Path",
-          "Description": "Mark entries that partially or completely match the current page\u0027s Url as active (highlight)",
+          "Description": "Mark entries that partially or completely match the current page's Url as active (highlight)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

@@ -9,19 +9,19 @@
           "Name": "NameOnly",
           "Value": "NameOnly",
           "Caption": "Name Only",
-          "Description": "The user\u0027s name is used to register on this site"
+          "Description": "The user's name is used to register on this site"
         },
         {
           "Name": "EmailOnly",
           "Value": "EmailOnly",
           "Caption": "Email Only",
-          "Description": "The user\u0027s email address is used to register on this site"
+          "Description": "The user's email address is used to register on this site"
         },
         {
           "Name": "NameAndEmail",
           "Value": "NameAndEmail",
           "Caption": "Name and Email",
-          "Description": "The user\u0027s name and email address are used to register on this site"
+          "Description": "The user's name and email address are used to register on this site"
         }
       ]
     }

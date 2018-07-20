@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "editLegend",
-      "Text": "Changes settings for site \u0022{0}\u0022"
+      "Text": "Changes settings for site \"{0}\""
     },
     {
       "Name": "editLink",
@@ -33,7 +33,7 @@
     },
     {
       "Name": "editTooltip",
-      "Text": "Change settings for site \u0022{0}\u0022"
+      "Text": "Change settings for site \"{0}\""
     },
     {
       "Name": "modName",

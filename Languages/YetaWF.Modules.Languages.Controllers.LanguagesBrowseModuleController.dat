@@ -36,7 +36,7 @@
         {
           "Name": "ShortName",
           "Caption": "Name",
-          "Description": "The language\u0027s short name, which is displayed in language selection controls so the user can select a language",
+          "Description": "The language's short name, which is displayed in language selection controls so the user can select a language",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

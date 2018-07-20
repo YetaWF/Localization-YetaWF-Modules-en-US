@@ -49,11 +49,11 @@
     },
     {
       "Name": "removeConfirm",
-      "Text": "Are you sure you want to unload static page \u0022{0}\u0022?"
+      "Text": "Are you sure you want to unload static page \"{0}\"?"
     },
     {
       "Name": "removeLegend",
-      "Text": "Unloads the static page so it is regenerated the next time it\u0027s requested"
+      "Text": "Unloads the static page so it is regenerated the next time it's requested"
     },
     {
       "Name": "removeLink",
@@ -65,7 +65,7 @@
     },
     {
       "Name": "removeTT",
-      "Text": "Unload the static page so it is regenerated the next time it\u0027s requested"
+      "Text": "Unload the static page so it is regenerated the next time it's requested"
     },
     {
       "Name": "toggleremoveAll",

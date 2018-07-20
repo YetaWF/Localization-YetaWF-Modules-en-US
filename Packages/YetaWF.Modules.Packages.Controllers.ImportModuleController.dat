@@ -47,11 +47,11 @@
     },
     {
       "Name": "cantImport",
-      "Text": "Can\u0027t import {0}:{1}"
+      "Text": "Can't import {0}:{1}"
     },
     {
       "Name": "imported",
-      "Text": "\u0022{0}\u0022 successfully imported - YOU MUST RESTART THE SITE FOR PROPER OPERATION"
+      "Text": "\"{0}\" successfully imported - YOU MUST RESTART THE SITE FOR PROPER OPERATION"
     }
   ]
 }

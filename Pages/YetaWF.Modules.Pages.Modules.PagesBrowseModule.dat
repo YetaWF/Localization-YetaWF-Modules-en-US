@@ -81,7 +81,7 @@
     },
     {
       "Name": "removeConfirm",
-      "Text": "Are you sure you want to remove page \u0022{0}\u0022?"
+      "Text": "Are you sure you want to remove page \"{0}\"?"
     },
     {
       "Name": "removeLegend",
@@ -101,27 +101,27 @@
     },
     {
       "Name": "restAuthConfirm",
-      "Text": "DEVELOPMENT FEATURE - Are you sure you want to add permission to all pages for the Administrator to have full control and the Editor can View \u0026 Edit?"
+      "Text": "DEVELOPMENT FEATURE - Are you sure you want to add permission to all pages for the Administrator to have full control and the Editor can View & Edit?"
     },
     {
       "Name": "restAuthLegend",
-      "Text": "DEVELOPMENT FEATURE - Add permission to all pages for the Administrator to have full control and the Editor can View \u0026 Edit"
+      "Text": "DEVELOPMENT FEATURE - Add permission to all pages for the Administrator to have full control and the Editor can View & Edit"
     },
     {
       "Name": "restAuthLink",
-      "Text": "Admin \u0026 Editor Authorization"
+      "Text": "Admin & Editor Authorization"
     },
     {
       "Name": "restAuthMenu",
-      "Text": "Admin \u0026 Editor Authorization"
+      "Text": "Admin & Editor Authorization"
     },
     {
       "Name": "restAuthPlsWait",
-      "Text": "Updating all pages so the Administrator has full control and the Editor can View \u0026 Edit..."
+      "Text": "Updating all pages so the Administrator has full control and the Editor can View & Edit..."
     },
     {
       "Name": "restAuthTT",
-      "Text": "DEVELOPMENT FEATURE - Add permission to all pages for the Administrator to have full control and the Editor can View \u0026 Edit"
+      "Text": "DEVELOPMENT FEATURE - Add permission to all pages for the Administrator to have full control and the Editor can View & Edit"
     },
     {
       "Name": "roleRemItems",

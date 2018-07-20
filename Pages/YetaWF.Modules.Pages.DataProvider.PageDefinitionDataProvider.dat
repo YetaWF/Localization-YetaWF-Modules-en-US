@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "pageDeleted",
-      "Text": "Page \u0027{0}\u0027 has been deleted and can no longer be updated."
+      "Text": "Page '{0}' has been deleted and can no longer be updated."
     },
     {
       "Name": "pageGuidErr",
@@ -13,7 +13,7 @@
     },
     {
       "Name": "pageRename",
-      "Text": "A page with Url \u0027{0}\u0027 already exists."
+      "Text": "A page with Url '{0}' already exists."
     },
     {
       "Name": "pageUrlErr",

@@ -5,15 +5,15 @@
   "Strings": [
     {
       "Name": "cantImportData",
-      "Text": "Can\u0027t import data from file {0}:(+nl)"
+      "Text": "Can't import data from file {0}:(+nl)"
     },
     {
       "Name": "cantInstallModels",
-      "Text": "Can\u0027t install models for package {0}:(+nl)"
+      "Text": "Can't install models for package {0}:(+nl)"
     },
     {
       "Name": "cantInstallPackage",
-      "Text": "Can\u0027t install package {0}:(+nl)"
+      "Text": "Can't install package {0}:(+nl)"
     }
   ]
 }

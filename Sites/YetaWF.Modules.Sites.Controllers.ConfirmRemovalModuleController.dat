@@ -24,7 +24,7 @@
   "Strings": [
     {
       "Name": "okRemoved",
-      "Text": "Site \u0022{0}\u0022 has been removed(+nl)(+nl)The site is now restarting"
+      "Text": "Site \"{0}\" has been removed(+nl)(+nl)The site is now restarting"
     }
   ]
 }

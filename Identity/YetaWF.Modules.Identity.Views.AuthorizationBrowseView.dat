@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "explain",
-      "Text": "\u003cp\u003eResources are predefined by modules and packages. If a resource is deleted that is defined by an existing package, it is restored to its default state.\u003c/p\u003e"
+      "Text": "<p>Resources are predefined by modules and packages. If a resource is deleted that is defined by an existing package, it is restored to its default state.</p>"
     }
   ]
 }

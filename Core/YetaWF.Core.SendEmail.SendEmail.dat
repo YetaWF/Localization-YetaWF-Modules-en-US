@@ -21,7 +21,7 @@
     },
     {
       "Name": "errNoRecv",
-      "Text": "No receiving email address specified - The site administrator\u0027s email address is used as receiving email address - The site administrator\u0027s email address can be defined using the Site Properties"
+      "Text": "No receiving email address specified - The site administrator's email address is used as receiving email address - The site administrator's email address can be defined using the Site Properties"
     },
     {
       "Name": "errNoSender",

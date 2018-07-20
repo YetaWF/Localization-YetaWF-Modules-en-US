@@ -72,7 +72,7 @@
   "Strings": [
     {
       "Name": "logNotFound",
-      "Text": "The scheduler log file \u0027{0}\u0027 cannot be located"
+      "Text": "The scheduler log file '{0}' cannot be located"
     }
   ]
 }

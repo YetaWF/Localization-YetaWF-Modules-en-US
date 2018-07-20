@@ -5,11 +5,11 @@
   "Strings": [
     {
       "Name": "invQueryCloseParen",
-      "Text": "Invalid query - too many \u0027)\u0027"
+      "Text": "Invalid query - too many ')'"
     },
     {
       "Name": "invQueryOpenParen",
-      "Text": "Invalid query - unmatched \u0027(\u0027"
+      "Text": "Invalid query - unmatched '('"
     },
     {
       "Name": "keyWordAnd",

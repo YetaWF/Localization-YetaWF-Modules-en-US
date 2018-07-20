@@ -25,7 +25,7 @@
         {
           "Name": "BlogUrl",
           "Caption": "Blog Main Url",
-          "Description": "Main entry point for the site\u0027s blog",
+          "Description": "Main entry point for the site's blog",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -49,7 +49,7 @@
         {
           "Name": "Feed",
           "Caption": "Feed",
-          "Description": "Publish this blog\u0027s contents as an Rss feed",
+          "Description": "Publish this blog's contents as an Rss feed",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -57,7 +57,7 @@
         {
           "Name": "FeedDetailUrl",
           "Caption": "Feed Detail URL",
-          "Description": "The optional Rss feed\u0027s detail page for a blog entry",
+          "Description": "The optional Rss feed's detail page for a blog entry",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -73,7 +73,7 @@
         {
           "Name": "FeedMainUrl",
           "Caption": "Feed Main URL",
-          "Description": "The optional Rss feed\u0027s main URL",
+          "Description": "The optional Rss feed's main URL",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -81,7 +81,7 @@
         {
           "Name": "FeedSummary",
           "Caption": "Feed Summary",
-          "Description": "The Rss feed\u0027s summary description",
+          "Description": "The Rss feed's summary description",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -89,7 +89,7 @@
         {
           "Name": "FeedTitle",
           "Caption": "Feed Title",
-          "Description": "The Rss feed\u0027s title",
+          "Description": "The Rss feed's title",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

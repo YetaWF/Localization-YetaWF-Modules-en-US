@@ -69,7 +69,7 @@
     },
     {
       "Name": "removeConfirm",
-      "Text": "Are you sure you want to remove \u0022{0}\u0022?"
+      "Text": "Are you sure you want to remove \"{0}\"?"
     },
     {
       "Name": "removeLegend",

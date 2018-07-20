@@ -9,7 +9,7 @@
     },
     {
       "Name": "brushNotHtmlScript",
-      "Text": "Brush wasn\u0027t made for html-script option "
+      "Text": "Brush wasn't made for html-script option "
     },
     {
       "Name": "copyToClipboard",
@@ -29,7 +29,7 @@
     },
     {
       "Name": "noBrush",
-      "Text": "Can\u0027t find brush for "
+      "Text": "Can't find brush for "
     },
     {
       "Name": "print",

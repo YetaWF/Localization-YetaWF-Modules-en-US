@@ -12,7 +12,7 @@
         {
           "Name": "Captcha",
           "Caption": "Captcha",
-          "Description": "Please verify that you\u0027re a human and not a spam bot",
+          "Description": "Please verify that you're a human and not a spam bot",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -88,7 +88,7 @@
     },
     {
       "Name": "okAwaitRegistration",
-      "Text": "An email has just been sent to your email address \u0022{0}\u0022 to complete the registration. Allow a few minutes for delivery. Once received, use the information in the email to complete the registration."
+      "Text": "An email has just been sent to your email address \"{0}\" to complete the registration. Allow a few minutes for delivery. Once received, use the information in the email to complete the registration."
     },
     {
       "Name": "okRegText",

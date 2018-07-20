@@ -44,7 +44,7 @@
     },
     {
       "Name": "notFound",
-      "Text": "Role \u0022{0}\u0022 not found."
+      "Text": "Role \"{0}\" not found."
     }
   ]
 }

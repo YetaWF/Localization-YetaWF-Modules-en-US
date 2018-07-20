@@ -20,7 +20,7 @@
         {
           "Name": "Email",
           "Caption": "Email Address",
-          "Description": "The user\u0027s email address",
+          "Description": "The user's email address",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -56,7 +56,7 @@
   "Strings": [
     {
       "Name": "notFound",
-      "Text": "Feedback \u0022{0}\u0022 not found."
+      "Text": "Feedback \"{0}\" not found."
     }
   ]
 }

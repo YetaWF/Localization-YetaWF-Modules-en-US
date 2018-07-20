@@ -32,11 +32,11 @@
   "Strings": [
     {
       "Name": "alreadyExists",
-      "Text": "A role named \u0022{0}\u0022 already exists."
+      "Text": "A role named \"{0}\" already exists."
     },
     {
       "Name": "okSaved",
-      "Text": "New role \u0022{0}\u0022 saved"
+      "Text": "New role \"{0}\" saved"
     }
   ]
 }

@@ -44,7 +44,7 @@
         {
           "Name": "Email",
           "Caption": "Email Address",
-          "Description": "The author\u0027s email address",
+          "Description": "The author's email address",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -52,7 +52,7 @@
         {
           "Name": "Name",
           "Caption": "Name",
-          "Description": "The author\u0027s name",
+          "Description": "The author's name",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -76,7 +76,7 @@
         {
           "Name": "Website",
           "Caption": "Website",
-          "Description": "The author\u0027s optional website",
+          "Description": "The author's optional website",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

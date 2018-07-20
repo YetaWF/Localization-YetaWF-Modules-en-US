@@ -37,7 +37,7 @@
         {
           "Name": "Analytics",
           "Caption": "Analytics",
-          "Description": "Add analytics Javascript code (for example, the Universal Analytics tracking code used by Google Analytics or the code used by Clicky) - Any code that should be added at the end of the HTML page can be added here including \u003cscript\u003e\u003c/script\u003e tags - If omitted, the site defined analytics code is used (Site Settings)",
+          "Description": "Add analytics Javascript code (for example, the Universal Analytics tracking code used by Google Analytics or the code used by Clicky) - Any code that should be added at the end of the HTML page can be added here including <script></script> tags - If omitted, the site defined analytics code is used (Site Settings)",
           "HelpLink": null,
           "TextAbove": "Analytics code is only available in deployed production sites and is ignored in debug builds (not marked deployed).",
           "TextBelow": null
@@ -45,7 +45,7 @@
         {
           "Name": "AnalyticsContent",
           "Caption": "Analytics (Content)",
-          "Description": "Add analytics Javascript code that should be executed when a new page becomes active in an active Unified Page Set - Do not include \u003cscript\u003e\u003c/script\u003e tags - Use \u003c\u003cUrl\u003e\u003e to substitute the actual Url - If omitted, the site defined analytics code is used (Site Settings)",
+          "Description": "Add analytics Javascript code that should be executed when a new page becomes active in an active Unified Page Set - Do not include <script></script> tags - Use <<Url>> to substitute the actual Url - If omitted, the site defined analytics code is used (Site Settings)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -69,7 +69,7 @@
         {
           "Name": "ChangeFrequency",
           "Caption": "Change Frequency",
-          "Description": "Defines the page\u0027s change frequency used for the site map",
+          "Description": "Defines the page's change frequency used for the site map",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -93,7 +93,7 @@
         {
           "Name": "CssClass",
           "Caption": "CSS Class",
-          "Description": "The optional CSS classes to be added to the page\u0027s \u003cbody\u003e tag for further customization through stylesheets",
+          "Description": "The optional CSS classes to be added to the page's <body> tag for further customization through stylesheets",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -108,24 +108,24 @@
         },
         {
           "Name": "ExtraBodyBottom",
-          "Caption": "\u003cBODY\u003e Bottom",
-          "Description": "Any tags that should be added to the bottom of the \u003cBODY\u003e tag of each page can be added here",
+          "Caption": "<BODY> Bottom",
+          "Description": "Any tags that should be added to the bottom of the <BODY> tag of each page can be added here",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
           "Name": "ExtraBodyTop",
-          "Caption": "\u003cBODY\u003e Top",
-          "Description": "Any tags that should be added to the top of the \u003cBODY\u003e tag of each page can be added here",
+          "Caption": "<BODY> Top",
+          "Description": "Any tags that should be added to the top of the <BODY> tag of each page can be added here",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
           "Name": "ExtraHead",
-          "Caption": "\u003cHEAD\u003e",
-          "Description": "Any tags that should be added to the \u003cHEAD\u003e tag of each page can be added here",
+          "Caption": "<HEAD>",
+          "Description": "Any tags that should be added to the <HEAD> tag of each page can be added here",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -173,7 +173,7 @@
         {
           "Name": "LanguageId",
           "Caption": "Page Language",
-          "Description": "Defines the page\u0027s language - Specify a specific language if this page is not available in multiple languages",
+          "Description": "Defines the page's language - Specify a specific language if this page is not available in multiple languages",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -197,7 +197,7 @@
         {
           "Name": "PageMetaTags",
           "Caption": "Meta Tags",
-          "Description": "Defines \u003cmeta\u003e tags that are added to the page - If specified, this replaces the site meta tags defined using the PageMetaTags property (Site Settings)",
+          "Description": "Defines <meta> tags that are added to the page - If specified, this replaces the site meta tags defined using the PageMetaTags property (Site Settings)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -269,7 +269,7 @@
         {
           "Name": "RobotNoSnippet",
           "Caption": "Robots - NoSnippet",
-          "Description": "Instructs search engines not include a snippet from the page along with the page\u0027s listing in search results - not supported by all search engines",
+          "Description": "Instructs search engines not include a snippet from the page along with the page's listing in search results - not supported by all search engines",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -301,7 +301,7 @@
         {
           "Name": "StaticPage",
           "Caption": "Static Page",
-          "Description": "Defines whether the page is rendered as a static page (for anonymous users only) - A page whose content doesn\u0027t changed can be marked as a static page, which results in faster page load for the end-user - Site Settings can be used to enable/disable the use of static pages globally using the StaticPages property- Static pages are only used with deployed sites",
+          "Description": "Defines whether the page is rendered as a static page (for anonymous users only) - A page whose content doesn't changed can be marked as a static page, which results in faster page load for the end-user - Site Settings can be used to enable/disable the use of static pages globally using the StaticPages property- Static pages are only used with deployed sites",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -349,7 +349,7 @@
         {
           "Name": "WantSearch",
           "Caption": "Search Keywords",
-          "Description": "Defines whether this page\u0027s contents should be added to the site\u0027s search keywords",
+          "Description": "Defines whether this page's contents should be added to the site's search keywords",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -369,7 +369,7 @@
     },
     {
       "Name": "notFound",
-      "Text": "Page {0} doesn\u0027t exist"
+      "Text": "Page {0} doesn't exist"
     },
     {
       "Name": "okSaved",

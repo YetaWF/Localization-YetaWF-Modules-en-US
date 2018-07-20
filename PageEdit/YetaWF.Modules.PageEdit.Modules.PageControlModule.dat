@@ -22,7 +22,7 @@
         {
           "Name": "ModuleHtmlId",
           "Caption": "ModuleHtmlId",
-          "Description": "The HTML id used by this module - this id doesn\u0027t change for this module and can be used for skinning purposes",
+          "Description": "The HTML id used by this module - this id doesn't change for this module and can be used for skinning purposes",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

@@ -21,11 +21,11 @@
     },
     {
       "Name": "regTooltip",
-      "Text": "If you don\u0027t have an account on this site, click to register"
+      "Text": "If you don't have an account on this site, click to register"
     },
     {
       "Name": "roleChange",
-      "Text": "The role has permission to change other users\u0027 account status"
+      "Text": "The role has permission to change other users' account status"
     },
     {
       "Name": "roleChangeC",
@@ -69,7 +69,7 @@
     },
     {
       "Name": "userChange",
-      "Text": "The user has permission to change other users\u0027 account status"
+      "Text": "The user has permission to change other users' account status"
     },
     {
       "Name": "userChangeC",

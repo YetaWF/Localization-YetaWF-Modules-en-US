@@ -32,23 +32,23 @@
   "Strings": [
     {
       "Name": "alreadyDeleted",
-      "Text": "The role named \u0022{0}\u0022 has been removed and can no longer be updated."
+      "Text": "The role named \"{0}\" has been removed and can no longer be updated."
     },
     {
       "Name": "alreadyExists",
-      "Text": "A role named \u0022{0}\u0022 already exists."
+      "Text": "A role named \"{0}\" already exists."
     },
     {
       "Name": "modEditTitle",
-      "Text": "Role \u0022{0}\u0022"
+      "Text": "Role \"{0}\""
     },
     {
       "Name": "notFound",
-      "Text": "Role \u0022{0}\u0022 not found."
+      "Text": "Role \"{0}\" not found."
     },
     {
       "Name": "okSaved",
-      "Text": "Role \u0022{0}\u0022 saved"
+      "Text": "Role \"{0}\" saved"
     }
   ]
 }

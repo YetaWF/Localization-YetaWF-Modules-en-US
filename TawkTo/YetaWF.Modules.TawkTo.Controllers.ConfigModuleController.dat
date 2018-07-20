@@ -12,18 +12,18 @@
         {
           "Name": "Account",
           "Caption": "Site ID",
-          "Description": "Defines the account used for the chat window - The Site ID can be obtained from your Tawk.to dashboard (Administration \u003e Property Settings)",
+          "Description": "Defines the account used for the chat window - The Site ID can be obtained from your Tawk.to dashboard (Administration > Property Settings)",
           "HelpLink": "https://dashboard.tawk.to",
           "TextAbove": null,
-          "TextBelow": "The Site ID can be obtained from your Tawk.to dashboard (Administration \u003e Property Settings)"
+          "TextBelow": "The Site ID can be obtained from your Tawk.to dashboard (Administration > Property Settings)"
         },
         {
           "Name": "APIKey",
           "Caption": "API Key",
-          "Description": "Defines the API Key used for the chat window - The API Key can be obtained from your Tawk.to dashboard (Administration \u003e Property Settings)",
+          "Description": "Defines the API Key used for the chat window - The API Key can be obtained from your Tawk.to dashboard (Administration > Property Settings)",
           "HelpLink": "https://dashboard.tawk.to",
           "TextAbove": null,
-          "TextBelow": "The API Key can be obtained from your Tawk.to dashboard (Administration \u003e Property Settings)"
+          "TextBelow": "The API Key can be obtained from your Tawk.to dashboard (Administration > Property Settings)"
         },
         {
           "Name": "Description",
@@ -36,7 +36,7 @@
         {
           "Name": "ExcludedPagesCss",
           "Caption": "Page Css (Exclude)",
-          "Description": "Defines the Css classes (space separated) for pages where the Tawk.to chat window is not shown - Pages can be prevented from showing the chat invitation by specifying their Css class found on the \u003cbody\u003e tag - If no Css class is specified, all pages show the chat invitation",
+          "Description": "Defines the Css classes (space separated) for pages where the Tawk.to chat window is not shown - Pages can be prevented from showing the chat invitation by specifying their Css class found on the <body> tag - If no Css class is specified, all pages show the chat invitation",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

@@ -5,11 +5,11 @@
   "Strings": [
     {
       "Name": "strNameTT",
-      "Text": "Text found in __ResStr(\u0022{0}\u0022, ...)"
+      "Text": "Text found in __ResStr(\"{0}\", ...)"
     },
     {
       "Name": "strTextTT",
-      "Text": "Text found in __ResStr(\u0022{0}\u0022, ...)"
+      "Text": "Text found in __ResStr(\"{0}\", ...)"
     }
   ]
 }

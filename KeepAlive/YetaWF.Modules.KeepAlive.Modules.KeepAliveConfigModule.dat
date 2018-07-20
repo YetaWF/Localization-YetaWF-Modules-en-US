@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "editLegend",
-      "Text": "Edits the YetaWF instance\u0027s keep alive settings"
+      "Text": "Edits the YetaWF instance's keep alive settings"
     },
     {
       "Name": "editLink",
@@ -17,7 +17,7 @@
     },
     {
       "Name": "editTooltip",
-      "Text": "Edit the YetaWF instance\u0027s keep alive settings"
+      "Text": "Edit the YetaWF instance's keep alive settings"
     },
     {
       "Name": "keepAliveConfirm",
@@ -45,7 +45,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edits a YetaWF instance\u0027s keep alive settings"
+      "Text": "Edits a YetaWF instance's keep alive settings"
     },
     {
       "Name": "modTitle",

@@ -28,7 +28,7 @@
         {
           "Name": "Description",
           "Caption": "Description",
-          "Description": "The description of the blog category - the category\u0027s description is shown at the top of each blog entry to describe your blog",
+          "Description": "The description of the blog category - the category's description is shown at the top of each blog entry to describe your blog",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -80,7 +80,7 @@
   "Strings": [
     {
       "Name": "alreadyDeleted",
-      "Text": "The blog category named \u0022{0}\u0022 has been removed and can no longer be updated."
+      "Text": "The blog category named \"{0}\" has been removed and can no longer be updated."
     },
     {
       "Name": "alreadyDeletedId",
@@ -88,11 +88,11 @@
     },
     {
       "Name": "alreadyExists",
-      "Text": "An blog category named \u0022{0}\u0022 already exists."
+      "Text": "An blog category named \"{0}\" already exists."
     },
     {
       "Name": "modTitle",
-      "Text": "Blog Category \u0022{0}\u0022"
+      "Text": "Blog Category \"{0}\""
     },
     {
       "Name": "notFound",

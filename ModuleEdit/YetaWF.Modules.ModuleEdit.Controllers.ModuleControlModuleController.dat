@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "pageNotFound",
-      "Text": "Page {0} doesn\u0027t exist"
+      "Text": "Page {0} doesn't exist"
     }
   ]
 }

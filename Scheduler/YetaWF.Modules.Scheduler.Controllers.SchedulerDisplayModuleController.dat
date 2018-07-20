@@ -36,7 +36,7 @@
         {
           "Name": "Errors",
           "Caption": "Errors",
-          "Description": "The errors that occurred during the scheduler item\u0027s last run",
+          "Description": "The errors that occurred during the scheduler item's last run",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -52,7 +52,7 @@
         {
           "Name": "Frequency",
           "Caption": "Interval",
-          "Description": "The scheduler item\u0027s frequency",
+          "Description": "The scheduler item's frequency",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -120,11 +120,11 @@
   "Strings": [
     {
       "Name": "modTitle",
-      "Text": "Scheduler Item \u0022{0}\u0022"
+      "Text": "Scheduler Item \"{0}\""
     },
     {
       "Name": "notFound",
-      "Text": "Scheduler item \u0022{0}\u0022 not found."
+      "Text": "Scheduler item \"{0}\" not found."
     }
   ]
 }

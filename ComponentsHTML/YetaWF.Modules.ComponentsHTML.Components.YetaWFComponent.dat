@@ -5,11 +5,11 @@
   "Strings": [
     {
       "Name": "valDate",
-      "Text": "Please enter a valid date for field \u0027{0}\u0027"
+      "Text": "Please enter a valid date for field '{0}'"
     },
     {
       "Name": "valNumber",
-      "Text": "Please enter a valid number for field \u0027{0}\u0027"
+      "Text": "Please enter a valid number for field '{0}'"
     }
   ]
 }

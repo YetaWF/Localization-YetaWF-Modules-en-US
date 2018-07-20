@@ -9,11 +9,11 @@
     },
     {
       "Name": "cantImportData",
-      "Text": "Can\u0027t import {0}:(+nl)"
+      "Text": "Can't import {0}:(+nl)"
     },
     {
       "Name": "importedData",
-      "Text": "\u0022{0}\u0022 successfully imported - These settings won\u0027t take effect until the site is restarted(+nl)"
+      "Text": "\"{0}\" successfully imported - These settings won't take effect until the site is restarted(+nl)"
     }
   ]
 }

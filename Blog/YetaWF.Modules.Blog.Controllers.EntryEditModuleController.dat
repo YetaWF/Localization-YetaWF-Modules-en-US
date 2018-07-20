@@ -19,8 +19,8 @@
         },
         {
           "Name": "AuthorUrl",
-          "Caption": "Author\u0027s Url",
-          "Description": "The optional Url linking to the author\u0027s information",
+          "Caption": "Author's Url",
+          "Description": "The optional Url linking to the author's information",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

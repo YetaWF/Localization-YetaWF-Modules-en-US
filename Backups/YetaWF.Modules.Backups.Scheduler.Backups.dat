@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "eventDescDaily",
-      "Text": "Creates a site backup and stores it in the site\u0027s Backup folder"
+      "Text": "Creates a site backup and stores it in the site's Backup folder"
     },
     {
       "Name": "eventDescRemove",

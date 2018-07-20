@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "unavailable",
-      "Text": "Search data is not available - See \u003ca href=\u0027https://yetawf.com/Documentation/YetaWF/Search\u0027 target=\u0027_blank\u0027 rel=\u0027noopener noreferrer\u0027\u003ehttps://yetawf.com/Documentation/YetaWF/Search\u003c/a\u003e for additional information."
+      "Text": "Search data is not available - See <a href='https://yetawf.com/Documentation/YetaWF/Search' target='_blank' rel='noopener noreferrer'>https://yetawf.com/Documentation/YetaWF/Search</a> for additional information."
     }
   ]
 }

@@ -9,7 +9,7 @@
     },
     {
       "Name": "cantRenameSuper",
-      "Text": "The user \u0022{0}\u0022 can\u0027t be renamed. It is defined in the site\u0027s Appsettings.json"
+      "Text": "The user \"{0}\" can't be renamed. It is defined in the site's Appsettings.json"
     },
     {
       "Name": "editor",

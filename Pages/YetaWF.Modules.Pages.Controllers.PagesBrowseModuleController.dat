@@ -44,7 +44,7 @@
         {
           "Name": "CssClass",
           "Caption": null,
-          "Description": "The optional CSS classes to be added to the page\u0027s \u003cbody\u003e tag for further customization through stylesheets",
+          "Description": "The optional CSS classes to be added to the page's <body> tag for further customization through stylesheets",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -124,7 +124,7 @@
         {
           "Name": "StaticPage",
           "Caption": "Static Page",
-          "Description": "Defines whether the page is rendered as a static page (for anonymous users only) - A page whose content doesn\u0027t changed can be marked as a static page, which results in faster page load for the end-user - Site Settings can be used to enable/disable the use of static pages globally using the StaticPages property - Static pages are only used with deployed sites",
+          "Description": "Defines whether the page is rendered as a static page (for anonymous users only) - A page whose content doesn't changed can be marked as a static page, which results in faster page load for the end-user - Site Settings can be used to enable/disable the use of static pages globally using the StaticPages property - Static pages are only used with deployed sites",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -168,7 +168,7 @@
   "Strings": [
     {
       "Name": "noPage",
-      "Text": "Page \u0022{0}\u0022 not found"
+      "Text": "Page \"{0}\" not found"
     },
     {
       "Name": "noPageName",
@@ -180,7 +180,7 @@
     },
     {
       "Name": "sitemapNotFound",
-      "Text": "Site map not found - File \u0027{0}\u0027 cannot be located"
+      "Text": "Site map not found - File '{0}' cannot be located"
     },
     {
       "Name": "sremDone",

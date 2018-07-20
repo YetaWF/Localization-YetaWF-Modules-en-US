@@ -9,11 +9,11 @@
     },
     {
       "Name": "valZipCode2",
-      "Text": "The specified ZIP code is invalid (\u0027{0}\u0027 property) - Use ZIP code format 00000 or 00000-0000"
+      "Text": "The specified ZIP code is invalid ('{0}' property) - Use ZIP code format 00000 or 00000-0000"
     },
     {
       "Name": "valZipCode3",
-      "Text": "The ZIP code \u0027{0}\u0027 is invalid - Use ZIP code format 00000 or 00000-0000"
+      "Text": "The ZIP code '{0}' is invalid - Use ZIP code format 00000 or 00000-0000"
     }
   ]
 }

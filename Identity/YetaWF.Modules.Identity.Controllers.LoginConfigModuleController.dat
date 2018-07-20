@@ -59,7 +59,7 @@
         {
           "Name": "Captcha",
           "Caption": "Use Captcha",
-          "Description": "Defines whether the user has to pass a \u0022human\u0022 test when logging in or registering a new account (Yes), otherwise no test is performed (No)",
+          "Description": "Defines whether the user has to pass a \"human\" test when logging in or registering a new account (Yes), otherwise no test is performed (No)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -67,7 +67,7 @@
         {
           "Name": "CaptchaForgotPassword",
           "Caption": "Use Captcha (Forgot Pswd)",
-          "Description": "For forgotten passwords, defines whether the user has to pass a \u0022human\u0022 test (Yes), otherwise no test is performed (No)",
+          "Description": "For forgotten passwords, defines whether the user has to pass a \"human\" test (Yes), otherwise no test is performed (No)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -147,7 +147,7 @@
         {
           "Name": "SavePlainTextPassword",
           "Caption": "Save Password",
-          "Description": "Defines whether the user\u0027s password is saved so it can be recovered (and emailed to the user if necessary) - Not used for external login providers",
+          "Description": "Defines whether the user's password is saved so it can be recovered (and emailed to the user if necessary) - Not used for external login providers",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -171,7 +171,7 @@
         {
           "Name": "TwoStepAuthUrl",
           "Caption": "Two-Step Authentication Url",
-          "Description": "The Url where the user is redirected if two-step authentication hasn\u0027t been set up yet",
+          "Description": "The Url where the user is redirected if two-step authentication hasn't been set up yet",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -179,7 +179,7 @@
         {
           "Name": "UseFacebook",
           "Caption": "Facebook",
-          "Description": "Allow login using a user\u0027s Facebook account",
+          "Description": "Allow login using a user's Facebook account",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -187,7 +187,7 @@
         {
           "Name": "UseGoogle",
           "Caption": "Google",
-          "Description": "Allow login using a user\u0027s Google account",
+          "Description": "Allow login using a user's Google account",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -195,7 +195,7 @@
         {
           "Name": "UseMicrosoft",
           "Caption": "Microsoft",
-          "Description": "Allow login using a user\u0027s Microsoft account",
+          "Description": "Allow login using a user's Microsoft account",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -203,7 +203,7 @@
         {
           "Name": "UseTwitter",
           "Caption": "Twitter",
-          "Description": "Allow login using a user\u0027s Twitter account",
+          "Description": "Allow login using a user's Twitter account",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

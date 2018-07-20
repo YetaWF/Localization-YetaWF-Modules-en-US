@@ -5,11 +5,11 @@
   "Strings": [
     {
       "Name": "notApproved",
-      "Text": "User account for user {0} has not been approved - can\u0027t log in"
+      "Text": "User account for user {0} has not been approved - can't log in"
     },
     {
       "Name": "noUser",
-      "Text": "User with id {0} doesn\u0027t exist"
+      "Text": "User with id {0} doesn't exist"
     }
   ]
 }

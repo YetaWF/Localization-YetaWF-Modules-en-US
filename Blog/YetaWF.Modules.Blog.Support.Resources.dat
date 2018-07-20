@@ -9,11 +9,11 @@
     },
     {
       "Name": "valShortName2",
-      "Text": "The shortname is invalid (\u0027{0}\u0027 property) - it must consist of letters, numbers, underscores or dashes, without spaces"
+      "Text": "The shortname is invalid ('{0}' property) - it must consist of letters, numbers, underscores or dashes, without spaces"
     },
     {
       "Name": "valShortName3",
-      "Text": "The shortname \u0027{0}\u0027 is invalid - it must consist of letters, numbers, underscores or dashes, without spaces"
+      "Text": "The shortname '{0}' is invalid - it must consist of letters, numbers, underscores or dashes, without spaces"
     }
   ]
 }

@@ -12,7 +12,7 @@
         {
           "Name": "Classes",
           "Caption": "Classes",
-          "Description": "Shows all the localizable string fragments found in class properties and the class\u0027s Header, Footer and Legend attributes",
+          "Description": "Shows all the localizable string fragments found in class properties and the class's Header, Footer and Legend attributes",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -72,7 +72,7 @@
   "Strings": [
     {
       "Name": "modTitle",
-      "Text": "Localization Resource \u0022{0}\u0022"
+      "Text": "Localization Resource \"{0}\""
     },
     {
       "Name": "okReset",

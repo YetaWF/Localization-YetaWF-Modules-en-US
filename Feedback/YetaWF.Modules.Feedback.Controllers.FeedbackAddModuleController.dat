@@ -12,7 +12,7 @@
         {
           "Name": "Captcha",
           "Caption": "Captcha",
-          "Description": "Please verify that you\u0027re a human and not a spam bot",
+          "Description": "Please verify that you're a human and not a spam bot",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

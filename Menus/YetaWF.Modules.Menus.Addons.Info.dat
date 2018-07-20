@@ -13,11 +13,11 @@
     },
     {
       "Name": "NoRemoveMenu",
-      "Text": "You can\u0027t remove the entire menu"
+      "Text": "You can't remove the entire menu"
     },
     {
       "Name": "NoResetMenu",
-      "Text": "You can\u0027t reset the entire menu"
+      "Text": "You can't reset the entire menu"
     },
     {
       "Name": "Separator",

@@ -100,7 +100,7 @@
         {
           "Name": "RolesList",
           "Caption": "Roles",
-          "Description": "The user\u0027s roles",
+          "Description": "The user's roles",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -124,7 +124,7 @@
         {
           "Name": "UserStatus",
           "Caption": "Status",
-          "Description": "The user\u0027s current account status",
+          "Description": "The user's current account status",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -148,7 +148,7 @@
     },
     {
       "Name": "notFound",
-      "Text": "User \u0022{0}\u0022 not found."
+      "Text": "User \"{0}\" not found."
     }
   ]
 }
