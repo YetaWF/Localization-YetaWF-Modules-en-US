@@ -65,38 +65,5 @@
     }
   ],
   "Enums": [],
-  "Strings": [
-    {
-      "Name": "addedmsg",
-      "Text": "User name {0} has been added"
-    },
-    {
-      "Name": "dupmsg",
-      "Text": "User name {0} has already been added"
-    },
-    {
-      "Name": "lblAllUserNames",
-      "Text": "All User Names"
-    },
-    {
-      "Name": "lblFindUsers",
-      "Text": "Find Users"
-    },
-    {
-      "Name": "noUser",
-      "Text": "({0})"
-    },
-    {
-      "Name": "remmsg",
-      "Text": "User name {0} has been removed"
-    },
-    {
-      "Name": "ttAllUserNames",
-      "Text": "Shows all user names available on this site - Select a user name to update the text box above, so the user name can be added to the list of user names - Click to close"
-    },
-    {
-      "Name": "ttFindUsers",
-      "Text": "Expand to find user names available on this site"
-    }
-  ]
+  "Strings": []
 }

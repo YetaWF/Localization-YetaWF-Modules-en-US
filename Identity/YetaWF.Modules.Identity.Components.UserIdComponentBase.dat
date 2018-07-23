@@ -1,0 +1,27 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "altClear",
+      "Text": "Clear the current selection"
+    },
+    {
+      "Name": "noUser",
+      "Text": "(none)"
+    },
+    {
+      "Name": "select",
+      "Text": "(select)"
+    },
+    {
+      "Name": "ttClear",
+      "Text": "Clear the current selection"
+    },
+    {
+      "Name": "unknownUser",
+      "Text": "({0})"
+    }
+  ]
+}
