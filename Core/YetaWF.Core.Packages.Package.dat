@@ -72,8 +72,16 @@
       "Text": "Couldn't create symbolic link/junction from {0} to {1} - You will have to investigate the failure and manually create the link using:(+nl)mklink /D \"{0}\",\"{1}\""
     },
     {
+      "Name": "invContentsFormat",
+      "Text": "{0} is not a valid binary or source code package file - No contents file found."
+    },
+    {
       "Name": "invCore",
       "Text": "This package requires YetaWF version {0} - Current version found is {1}"
+    },
+    {
+      "Name": "invDataContentsFormat",
+      "Text": "{0} is not a valid package data file - No contents file found."
     },
     {
       "Name": "invDataFormat",

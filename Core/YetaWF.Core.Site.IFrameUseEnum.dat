@@ -1,0 +1,30 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [
+    {
+      "Name": "YetaWF.Core.Site.IFrameUseEnum",
+      "Entries": [
+        {
+          "Name": "No",
+          "Value": "No",
+          "Caption": "No",
+          "Description": "Pages cannot be used in an IFrame (X-Frame-Options: deny)"
+        },
+        {
+          "Name": "ThisSite",
+          "Value": "ThisSite",
+          "Caption": "This Site",
+          "Description": "The page can only be used by this site in an IFrame (X-Frame-Options: sameorigin)"
+        },
+        {
+          "Name": "Yes",
+          "Value": "Yes",
+          "Caption": "Yes",
+          "Description": "The page can be used by any site in an IFrame - No X-Frame-Options header is set by YetaWF, allowing external applications to control the setting"
+        }
+      ]
+    }
+  ],
+  "Strings": []
+}

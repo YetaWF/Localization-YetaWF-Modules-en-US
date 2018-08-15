@@ -374,6 +374,14 @@
           "TextBelow": null
         },
         {
+          "Name": "IFrameUse",
+          "Caption": "IFrame Use",
+          "Description": "Defines whether pages can be used in an IFrame by this and other sites (by setting the X-Frame-Options HTTP header) - Individual pages can override this default setting",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "IsDefaultSite",
           "Caption": "Default Site",
           "Description": "Returns whether the current site is the default site for this instance of YetaWF",

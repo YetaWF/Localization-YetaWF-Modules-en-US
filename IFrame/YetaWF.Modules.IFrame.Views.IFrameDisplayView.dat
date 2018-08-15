@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "editMode",
-      "Text": "Url contents({ 0}) not shown in Site Edit Mode"
+      "Text": "Url contents({0}) not shown in Site Edit Mode"
     }
   ]
 }
