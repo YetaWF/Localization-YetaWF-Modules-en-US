@@ -117,12 +117,72 @@
   ],
   "Strings": [
     {
-      "Name": "errInvMonths",
-      "Text": "(Months string invalid)"
+      "Name": "April",
+      "Text": "April"
+    },
+    {
+      "Name": "August",
+      "Text": "August"
+    },
+    {
+      "Name": "December",
+      "Text": "December"
+    },
+    {
+      "Name": "February",
+      "Text": "February"
+    },
+    {
+      "Name": "Friday",
+      "Text": "Friday"
+    },
+    {
+      "Name": "January",
+      "Text": "January"
+    },
+    {
+      "Name": "July",
+      "Text": "July"
+    },
+    {
+      "Name": "June",
+      "Text": "June"
     },
     {
       "Name": "less1KB",
       "Text": "< 1K"
+    },
+    {
+      "Name": "longDate",
+      "Text": "{0}, {1} {2}, {3}"
+    },
+    {
+      "Name": "March",
+      "Text": "March"
+    },
+    {
+      "Name": "May",
+      "Text": "May"
+    },
+    {
+      "Name": "Monday",
+      "Text": "Monday"
+    },
+    {
+      "Name": "November",
+      "Text": "November"
+    },
+    {
+      "Name": "October",
+      "Text": "October"
+    },
+    {
+      "Name": "Saturday",
+      "Text": "Saturday"
+    },
+    {
+      "Name": "September",
+      "Text": "September"
     },
     {
       "Name": "str0MB",
@@ -149,12 +209,20 @@
       "Text": "< 1 MB"
     },
     {
+      "Name": "strMonth_Day",
+      "Text": "{0} {1}"
+    },
+    {
       "Name": "strMonth_YYYY",
       "Text": "{0} {1}"
     },
     {
-      "Name": "strMonths",
-      "Text": "January,February,March,April,May,June,July,August,September,October,November,December"
+      "Name": "Sunday",
+      "Text": "Sunday"
+    },
+    {
+      "Name": "Thursday",
+      "Text": "Thursday"
     },
     {
       "Name": "timeSpan",
@@ -165,8 +233,16 @@
       "Text": "{0} Days {1:D2}:{2:D2}:{3:D2}"
     },
     {
+      "Name": "Tuesday",
+      "Text": "Tuesday"
+    },
+    {
       "Name": "unknownKB",
       "Text": "(unknown)"
+    },
+    {
+      "Name": "Wednesday",
+      "Text": "Wednesday"
     }
   ]
 }

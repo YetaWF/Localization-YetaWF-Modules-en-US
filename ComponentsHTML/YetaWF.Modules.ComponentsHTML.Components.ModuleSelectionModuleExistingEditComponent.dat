@@ -4,8 +4,8 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "selectPackage",
-      "Text": "(select)"
+      "Name": "none",
+      "Text": "(none)"
     }
   ]
 }

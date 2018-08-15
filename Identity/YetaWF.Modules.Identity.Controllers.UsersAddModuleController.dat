@@ -26,6 +26,14 @@
           "TextBelow": null
         },
         {
+          "Name": "NeedsNewPassword",
+          "Caption": "New Password",
+          "Description": "Defines whether the user must change the password",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "Password",
           "Caption": "Password",
           "Description": "The password for this user",

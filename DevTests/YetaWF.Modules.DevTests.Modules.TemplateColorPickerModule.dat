@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "modName",
+      "Text": "Template Test - ColorPicker"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "ColorPicker test template"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "ColorPicker Test Template"
+    }
+  ]
+}

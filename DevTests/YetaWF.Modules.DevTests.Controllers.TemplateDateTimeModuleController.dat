@@ -7,7 +7,11 @@
       "Header": null,
       "Footer": null,
       "Legend": null,
-      "Categories": {},
+      "Categories": {
+        "Date/Time": "Date/Time",
+        "Hours": "Hours",
+        "TimeSpan": "TimeSpan"
+      },
       "Properties": [
         {
           "Name": "DateOpt",
@@ -53,6 +57,62 @@
           "Name": "DateTimeRO",
           "Caption": "Date/Time (Read/Only)",
           "Description": "Date/Time (Read/only)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "OpeningHours",
+          "Caption": "",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": "Weekly Hours",
+          "TextBelow": null
+        },
+        {
+          "Name": "TimeOfDay",
+          "Caption": "Time Of Day (Required)",
+          "Description": "Time Of Day",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TimeOfDayReq",
+          "Caption": "Time Of Day (Required)",
+          "Description": "Time Of Day (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TimeOfDayRO",
+          "Caption": "Time Of Day (Read/Only)",
+          "Description": "Time Of Day (Read/Only)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TimeOpt",
+          "Caption": "Time",
+          "Description": "Time",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TimeReq",
+          "Caption": "Time (Required)",
+          "Description": "Time (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TimeRO",
+          "Caption": "Time (Read/Only)",
+          "Description": "Time (Read/only)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

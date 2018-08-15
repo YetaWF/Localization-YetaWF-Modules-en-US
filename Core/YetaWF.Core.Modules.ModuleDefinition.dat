@@ -50,7 +50,7 @@
           "TextBelow": null
         },
         {
-          "Name": "Area",
+          "Name": "AreaName",
           "Caption": "Area",
           "Description": "The MVC area name of the module",
           "HelpLink": null,

@@ -1,0 +1,43 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "additional",
+      "Text": "Additional"
+    },
+    {
+      "Name": "additionalDesc",
+      "Text": "Select to enable an additional time range"
+    },
+    {
+      "Name": "closed",
+      "Text": "Closed"
+    },
+    {
+      "Name": "closedDesc",
+      "Text": "Select to indicate when closed all day"
+    },
+    {
+      "Name": "dtrFrom2",
+      "Text": "The starting time in the field labeled '{0}' must be later than the start and end time of the first time range"
+    },
+    {
+      "Name": "dtrTo",
+      "Text": "The end time in the field labeled '{0}' must be later than the start time"
+    },
+    {
+      "Name": "time0",
+      "Text": ""
+    },
+    {
+      "Name": "time1",
+      "Text": "{0} - {1}"
+    },
+    {
+      "Name": "time2",
+      "Text": "{0} - {1}, {2} - {3} "
+    }
+  ]
+}

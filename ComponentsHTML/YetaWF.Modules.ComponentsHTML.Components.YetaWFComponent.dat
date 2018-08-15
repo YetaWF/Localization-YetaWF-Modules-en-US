@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "valDate",
-      "Text": "Please enter a valid date for field '{0}'"
+      "Text": "Please enter a valid value for field '{0}'"
     },
     {
       "Name": "valNumber",

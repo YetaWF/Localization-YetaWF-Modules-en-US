@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "apply",
+      "Text": "Apply"
+    },
+    {
+      "Name": "cancel",
+      "Text": "Cancel"
+    },
+    {
+      "Name": "editColor",
+      "Text": "Edit Color using hex values or names"
+    }
+  ]
+}

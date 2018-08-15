@@ -4,6 +4,10 @@
   "Enums": [],
   "Strings": [
     {
+      "Name": "emailUsed",
+      "Text": "An account with email address {0} already exists."
+    },
+    {
       "Name": "notApproved",
       "Text": "User account for user {0} has not been approved - can't log in"
     },

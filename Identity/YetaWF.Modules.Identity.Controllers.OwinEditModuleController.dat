@@ -90,6 +90,14 @@
           "TextBelow": null
         },
         {
+          "Name": "PasswordRenewal",
+          "Caption": "Password Renewal",
+          "Description": "The time after which a user must change the password - Set to 0 to allow passwords to remain valid indefinitely",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "SecurityStampValidationInterval",
           "Caption": "Security Interval",
           "Description": "The time after which a logged on user is re-validated (in case the password changed) to insure the authenticated user is still valid",
