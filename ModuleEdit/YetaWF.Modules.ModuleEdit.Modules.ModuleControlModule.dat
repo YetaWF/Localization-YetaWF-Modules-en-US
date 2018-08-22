@@ -169,24 +169,8 @@
       "Text": "Module Control"
     },
     {
-      "Name": "roleExports",
-      "Text": "The role has permission to export module data"
-    },
-    {
-      "Name": "roleExportsC",
-      "Text": "Export Module Data"
-    },
-    {
       "Name": "ttMoveToPane",
       "Text": "Move the module to the {0} pane"
-    },
-    {
-      "Name": "userExports",
-      "Text": "The user has permission to export module data"
-    },
-    {
-      "Name": "userExportsC",
-      "Text": "Export Module Data"
     }
   ]
 }

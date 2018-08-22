@@ -10,6 +10,10 @@
     {
       "Name": "errUnknownAction",
       "Text": "Unknown action {0} attempted in Controller {1}."
+    },
+    {
+      "Name": "notAuth",
+      "Text": "Not Authorized"
     }
   ]
 }

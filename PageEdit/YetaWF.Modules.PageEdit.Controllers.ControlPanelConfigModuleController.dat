@@ -39,6 +39,10 @@
     {
       "Name": "okSaved",
       "Text": "Control Panel settings saved"
+    },
+    {
+      "Name": "okSavedRestart",
+      "Text": "Control Panel settings saved - These settings won't take effect until the site is restarted"
     }
   ]
 }
