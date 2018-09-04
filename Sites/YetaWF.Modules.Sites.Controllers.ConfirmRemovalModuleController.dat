@@ -10,7 +10,7 @@
       "Categories": {},
       "Properties": [
         {
-          "Name": "SiteDomain",
+          "Name": "SiteDomainDisplay",
           "Caption": "Site",
           "Description": "The domain name of the site to remove",
           "HelpLink": null,

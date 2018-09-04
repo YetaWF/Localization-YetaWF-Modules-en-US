@@ -13,7 +13,7 @@
     },
     {
       "Name": "testMode",
-      "Text": "The {0} SMS processor is in TEST/Sandbox mode - messages are simulated."
+      "Text": "The {0} SMS processor is in TEST/Sandbox mode."
     }
   ]
 }
