@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "confimMsg",
-      "Text": "Are you sure you want to remove user name {0}?"
+      "Text": "Are you sure you want to remove user {0}?"
     },
     {
       "Name": "lblAllUserNames",
@@ -16,12 +16,8 @@
       "Text": "Find Users"
     },
     {
-      "Name": "noUser",
-      "Text": "({0})"
-    },
-    {
       "Name": "removeMsg",
-      "Text": "User name {0} has been removed"
+      "Text": "User {0} has been removed"
     },
     {
       "Name": "ttAllUserNames",

@@ -103,6 +103,10 @@
       "Text": "An unified page set named \"{0}\" already exists"
     },
     {
+      "Name": "dupUrl",
+      "Text": "Url {0} has already been added"
+    },
+    {
       "Name": "notFound",
       "Text": "Unified page set with id \"{0}\" not found"
     },

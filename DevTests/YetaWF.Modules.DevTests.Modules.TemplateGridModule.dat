@@ -1,0 +1,35 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "displayLegend",
+      "Text": "Displays a sample grid"
+    },
+    {
+      "Name": "displayLink",
+      "Text": "Grid (Static Data)"
+    },
+    {
+      "Name": "displayText",
+      "Text": "Grid (Static Data)"
+    },
+    {
+      "Name": "displayTooltip",
+      "Text": "Display a sample grid"
+    },
+    {
+      "Name": "modName",
+      "Text": "Template Test - Grid (Static)"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Grid (Static) test template"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Grid (Static) Test Template"
+    }
+  ]
+}

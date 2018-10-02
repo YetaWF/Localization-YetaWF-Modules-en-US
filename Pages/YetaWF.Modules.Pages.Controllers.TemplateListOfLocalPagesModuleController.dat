@@ -39,6 +39,10 @@
   "Enums": [],
   "Strings": [
     {
+      "Name": "dupUrl",
+      "Text": "Page {0} has already been added"
+    },
+    {
       "Name": "ok",
       "Text": "OK"
     }

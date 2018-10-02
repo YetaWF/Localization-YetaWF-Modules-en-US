@@ -1,0 +1,31 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "confimMsg",
+      "Text": "Are you sure you want to remove page {0}?"
+    },
+    {
+      "Name": "lblAllPages",
+      "Text": "All Pages"
+    },
+    {
+      "Name": "lblFindPages",
+      "Text": "Find Pages"
+    },
+    {
+      "Name": "removeMsg",
+      "Text": "Page {0} has been removed"
+    },
+    {
+      "Name": "ttAllPages",
+      "Text": "Shows all designed pages available in the site - Select a page to update the dropdown list above, so the page can be added to the list of pages"
+    },
+    {
+      "Name": "ttFindPages",
+      "Text": "Expand to find pages available for this site"
+    }
+  ]
+}

@@ -18,10 +18,6 @@
     {
       "Name": "ttClear",
       "Text": "Clear the current selection"
-    },
-    {
-      "Name": "unknownUser",
-      "Text": "({0})"
     }
   ]
 }

@@ -10,14 +10,6 @@
       "Categories": {},
       "Properties": [
         {
-          "Name": "Commands",
-          "Caption": "Actions",
-          "Description": "The available actions",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
           "Name": "Name",
           "Caption": "Module",
           "Description": "The module name",

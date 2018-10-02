@@ -2,7 +2,7 @@
   "Comment": null,
   "Classes": [
     {
-      "Name": "YetaWF.Modules.Identity.Components.ListOfUserNamesDisplayComponent+GridDisplay",
+      "Name": "YetaWF.Modules.Identity.Components.ListOfUserNamesDisplayComponent+Entry",
       "BaseTypeName": null,
       "Header": null,
       "Footer": null,

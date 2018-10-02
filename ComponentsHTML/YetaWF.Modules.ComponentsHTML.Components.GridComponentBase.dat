@@ -4,20 +4,92 @@
   "Enums": [],
   "Strings": [
     {
+      "Name": "btnFilter",
+      "Text": "Turn the search bar on or off"
+    },
+    {
+      "Name": "btnFirst",
+      "Text": "Go to the first page"
+    },
+    {
+      "Name": "btnLast",
+      "Text": "Go to the last page"
+    },
+    {
+      "Name": "btnNext",
+      "Text": "Go to the next page"
+    },
+    {
+      "Name": "btnPrev",
+      "Text": "Go to the previous page"
+    },
+    {
+      "Name": "btnTop",
+      "Text": "Reload the current page"
+    },
+    {
       "Name": "dropdownWidth",
       "Text": "11"
+    },
+    {
+      "Name": "f_bw",
+      "Text": "Begins with"
+    },
+    {
+      "Name": "f_contains",
+      "Text": "Contains"
+    },
+    {
+      "Name": "f_endswith",
+      "Text": "Ends with"
+    },
+    {
+      "Name": "f_equals",
+      "Text": "Equal"
+    },
+    {
+      "Name": "f_g",
+      "Text": "Greater"
+    },
+    {
+      "Name": "f_ge",
+      "Text": "Greater or equal"
+    },
+    {
+      "Name": "f_l",
+      "Text": "Less"
+    },
+    {
+      "Name": "f_le",
+      "Text": "Less or equal"
+    },
+    {
+      "Name": "f_nbw",
+      "Text": "Does not begin with"
+    },
+    {
+      "Name": "f_ncontains",
+      "Text": "Does not contain"
+    },
+    {
+      "Name": "f_ne",
+      "Text": "Not equal"
+    },
+    {
+      "Name": "f_nendswith",
+      "Text": "Does not end with"
     },
     {
       "Name": "noSel",
       "Text": "(no selection)"
     },
     {
-      "Name": "refreshtext",
-      "Text": ""
+      "Name": "pages",
+      "Text": "Show {0} entries"
     },
     {
-      "Name": "refreshtitle",
-      "Text": "Reload data"
+      "Name": "searchTT",
+      "Text": "Select search method"
     }
   ]
 }

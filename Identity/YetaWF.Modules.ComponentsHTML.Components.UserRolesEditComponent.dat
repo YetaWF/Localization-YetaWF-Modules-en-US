@@ -2,7 +2,7 @@
   "Comment": null,
   "Classes": [
     {
-      "Name": "YetaWF.Modules.Identity.Components.ResourceRolesComponentBase+GridAllowedRole",
+      "Name": "YetaWF.Modules.ComponentsHTML.Components.UserRolesEditComponent+Entry",
       "BaseTypeName": null,
       "Header": null,
       "Footer": null,

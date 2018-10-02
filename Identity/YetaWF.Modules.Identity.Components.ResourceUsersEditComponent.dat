@@ -2,7 +2,7 @@
   "Comment": null,
   "Classes": [
     {
-      "Name": "YetaWF.Modules.Identity.Components.ResourceUsersEditComponent+GridAllEntry",
+      "Name": "YetaWF.Modules.Identity.Components.ResourceUsersEditComponent+AllEntry",
       "BaseTypeName": null,
       "Header": null,
       "Footer": null,
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "Name": "YetaWF.Modules.Identity.Components.ResourceUsersEditComponent+GridAllowedUser",
+      "Name": "YetaWF.Modules.Identity.Components.ResourceUsersEditComponent+Entry",
       "BaseTypeName": null,
       "Header": null,
       "Footer": null,
@@ -28,7 +28,7 @@
       "Categories": {},
       "Properties": [
         {
-          "Name": "DeleteMe",
+          "Name": "Delete",
           "Caption": "Delete",
           "Description": "Click to delete a user",
           "HelpLink": null,

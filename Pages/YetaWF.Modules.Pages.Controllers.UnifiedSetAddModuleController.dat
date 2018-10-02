@@ -83,6 +83,10 @@
       "Text": "A Unified Page Set named \"{0}\" already exists"
     },
     {
+      "Name": "dupUrl",
+      "Text": "Url {0} has already been added"
+    },
+    {
       "Name": "okSaved",
       "Text": "New Unified Page Set saved"
     }

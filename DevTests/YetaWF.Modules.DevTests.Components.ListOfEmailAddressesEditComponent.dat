@@ -2,7 +2,7 @@
   "Comment": null,
   "Classes": [
     {
-      "Name": "YetaWF.Modules.DevTests.Components.ListOfEmailAddressesEditComponent+GridEdit",
+      "Name": "YetaWF.Modules.DevTests.Components.ListOfEmailAddressesEditComponent+Entry",
       "BaseTypeName": null,
       "Header": null,
       "Footer": null,
@@ -10,17 +10,17 @@
       "Categories": {},
       "Properties": [
         {
-          "Name": "__Value",
-          "Caption": "Email Address",
-          "Description": "Shows all defined email addresses",
+          "Name": "Delete",
+          "Caption": "Delete",
+          "Description": "Click to remove this email address from the list",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
-          "Name": "DeleteMe",
-          "Caption": "Delete",
-          "Description": "Click to remove this email address from the list",
+          "Name": "EmailAddress",
+          "Caption": "Email Address",
+          "Description": "Shows all defined email addresses",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -47,18 +47,5 @@
     }
   ],
   "Enums": [],
-  "Strings": [
-    {
-      "Name": "addedmsg",
-      "Text": "Email address {0} has been added"
-    },
-    {
-      "Name": "dupmsg",
-      "Text": "Email address {0} has already been added"
-    },
-    {
-      "Name": "remmsg",
-      "Text": "Email address {0} has been removed"
-    }
-  ]
+  "Strings": []
 }

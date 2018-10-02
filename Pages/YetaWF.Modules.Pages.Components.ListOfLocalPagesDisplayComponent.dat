@@ -2,7 +2,7 @@
   "Comment": null,
   "Classes": [
     {
-      "Name": "YetaWF.Modules.Pages.Components.ListOfLocalPagesDisplayComponent+GridEntryDisplay",
+      "Name": "YetaWF.Modules.Pages.Components.ListOfLocalPagesDisplayComponent+Entry",
       "BaseTypeName": null,
       "Header": null,
       "Footer": null,

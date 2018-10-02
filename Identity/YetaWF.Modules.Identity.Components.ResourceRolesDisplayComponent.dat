@@ -2,7 +2,7 @@
   "Comment": null,
   "Classes": [
     {
-      "Name": "YetaWF.Modules.ComponentsHTML.Components.ReferencedModulesEditComponent+Entry",
+      "Name": "YetaWF.Modules.Identity.Components.ResourceRolesDisplayComponent+Entry",
       "BaseTypeName": null,
       "Header": null,
       "Footer": null,
@@ -12,7 +12,23 @@
         {
           "Name": "Description",
           "Caption": "Description",
-          "Description": "Module Description",
+          "Description": "Role Description",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DisplayRoleId",
+          "Caption": "Role Id",
+          "Description": "The id used internally to identify the role",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "InRole",
+          "Caption": "Apply",
+          "Description": "The role applies to the user if selected",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -20,23 +36,7 @@
         {
           "Name": "Name",
           "Caption": "Name",
-          "Description": "Module Name",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "PermanentName",
-          "Caption": "Module",
-          "Description": "Module",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "UsesModule",
-          "Caption": "Use",
-          "Description": "Select to include this module",
+          "Description": "Role Name",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

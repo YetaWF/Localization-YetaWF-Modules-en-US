@@ -462,7 +462,7 @@
       "Categories": {},
       "Properties": [
         {
-          "Name": "DeleteMe",
+          "Name": "Delete",
           "Caption": "Delete",
           "Description": "Click to delete a user",
           "HelpLink": null,

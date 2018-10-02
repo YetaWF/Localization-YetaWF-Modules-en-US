@@ -4,6 +4,10 @@
   "Enums": [],
   "Strings": [
     {
+      "Name": "dupUser",
+      "Text": "User {0} has already been added"
+    },
+    {
       "Name": "noParm",
       "Text": "No user name specified."
     },

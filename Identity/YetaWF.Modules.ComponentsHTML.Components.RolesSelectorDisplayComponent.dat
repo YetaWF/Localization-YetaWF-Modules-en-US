@@ -2,7 +2,7 @@
   "Comment": null,
   "Classes": [
     {
-      "Name": "YetaWF.Modules.ComponentsHTML.Components.RolesSelectorDisplayComponent+GridDisplay",
+      "Name": "YetaWF.Modules.ComponentsHTML.Components.RolesSelectorDisplayComponent+Entry",
       "BaseTypeName": null,
       "Header": null,
       "Footer": null,
@@ -18,17 +18,17 @@
           "TextBelow": null
         },
         {
-          "Name": "ForceTwoStep",
-          "Caption": "Use",
-          "Description": "Checkbox indicates selection",
+          "Name": "Name",
+          "Caption": "Name",
+          "Description": "Role Name",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
-          "Name": "Name",
-          "Caption": "Name",
-          "Description": "Role Name",
+          "Name": "Used",
+          "Caption": "Use",
+          "Description": "Checkbox indicates selection",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

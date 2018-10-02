@@ -2,7 +2,7 @@
   "Comment": null,
   "Classes": [
     {
-      "Name": "YetaWF.Modules.Panels.Components.ListOfLocalPagesEditComponent+GridAllEntry",
+      "Name": "YetaWF.Modules.Panels.Components.ListOfLocalPagesEditComponent+AllEntry",
       "BaseTypeName": null,
       "Header": null,
       "Footer": null,
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "Name": "YetaWF.Modules.Panels.Components.ListOfLocalPagesEditComponent+GridEntryEdit",
+      "Name": "YetaWF.Modules.Panels.Components.ListOfLocalPagesEditComponent+Entry",
       "BaseTypeName": null,
       "Header": null,
       "Footer": null,
@@ -52,7 +52,7 @@
       "Categories": {},
       "Properties": [
         {
-          "Name": "DeleteMe",
+          "Name": "Delete",
           "Caption": "Delete",
           "Description": "Click to remove this page from the list",
           "HelpLink": null,
@@ -97,34 +97,5 @@
     }
   ],
   "Enums": [],
-  "Strings": [
-    {
-      "Name": "addedmsg",
-      "Text": "Page {0} has been added"
-    },
-    {
-      "Name": "dupmsg",
-      "Text": "Page {0} has already been added"
-    },
-    {
-      "Name": "lblAllPages",
-      "Text": "All Pages"
-    },
-    {
-      "Name": "lblFindPages",
-      "Text": "Find Pages"
-    },
-    {
-      "Name": "remmsg",
-      "Text": "Page {0} has been removed"
-    },
-    {
-      "Name": "ttAllPages",
-      "Text": "Shows all designed pages available in the site - Select a page to update the dropdown list above, so the page can be added to the list of pages"
-    },
-    {
-      "Name": "ttFindPages",
-      "Text": "Expand to find pages available for this site"
-    }
-  ]
+  "Strings": []
 }

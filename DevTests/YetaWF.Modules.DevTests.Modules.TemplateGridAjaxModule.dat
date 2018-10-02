@@ -1,0 +1,35 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "displayLegend",
+      "Text": "Displays a sample grid"
+    },
+    {
+      "Name": "displayLink",
+      "Text": "Grid (Ajax)"
+    },
+    {
+      "Name": "displayText",
+      "Text": "Grid (Ajax)"
+    },
+    {
+      "Name": "displayTooltip",
+      "Text": "Display a sample grid"
+    },
+    {
+      "Name": "modName",
+      "Text": "Template Test - Grid (Ajax)"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Grid (Ajax) test template"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Grid (Ajax) Test Template"
+    }
+  ]
+}

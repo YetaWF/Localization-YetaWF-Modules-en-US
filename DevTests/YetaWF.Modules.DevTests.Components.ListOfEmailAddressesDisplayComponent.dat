@@ -2,7 +2,7 @@
   "Comment": null,
   "Classes": [
     {
-      "Name": "YetaWF.Modules.DevTests.Components.ListOfEmailAddressesDisplayComponent+GridDisplay",
+      "Name": "YetaWF.Modules.DevTests.Components.ListOfEmailAddressesDisplayComponent+Entry",
       "BaseTypeName": null,
       "Header": null,
       "Footer": null,

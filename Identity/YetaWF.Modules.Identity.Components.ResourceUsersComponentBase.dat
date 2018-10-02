@@ -4,12 +4,8 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "addedmsg",
-      "Text": "User {0} has been added"
-    },
-    {
-      "Name": "dupmsg",
-      "Text": "User {0} has already been added"
+      "Name": "confimMsg",
+      "Text": "Are you sure you want to remove user name {0}?"
     },
     {
       "Name": "lblAllUserNames",
@@ -20,8 +16,8 @@
       "Text": "Find Users"
     },
     {
-      "Name": "remmsg",
-      "Text": "User {0} has been removed"
+      "Name": "removeMsg",
+      "Text": "User name {0} has been removed"
     },
     {
       "Name": "ttAllUserNames",

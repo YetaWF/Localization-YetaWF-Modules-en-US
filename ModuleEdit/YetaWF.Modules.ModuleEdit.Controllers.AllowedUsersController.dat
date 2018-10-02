@@ -4,12 +4,16 @@
   "Enums": [],
   "Strings": [
     {
+      "Name": "dupUser",
+      "Text": "User {0} has already been added"
+    },
+    {
       "Name": "noParm",
       "Text": "No user name specified"
     },
     {
       "Name": "noUser",
-      "Text": "User {0} doesn't exist"
+      "Text": "User {0} doesn't exist."
     }
   ]
 }

@@ -1,0 +1,57 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.ComponentsHTML.Components.GridDisplayComponent+PagerUI",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "__Page",
+          "Caption": "Page",
+          "Description": "Enter the page to show and hit the Return key to go to the page",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "__PageSelection",
+          "Caption": "Entries",
+          "Description": "Select the number of entries per page",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [
+    {
+      "Name": "YetaWF.Modules.ComponentsHTML.Components.GridDisplayComponent+FilterBoolEnum",
+      "Entries": [
+        {
+          "Name": "All",
+          "Value": "All",
+          "Caption": "All",
+          "Description": "Select all"
+        },
+        {
+          "Name": "Yes",
+          "Value": "Yes",
+          "Caption": "Yes",
+          "Description": "Select selected/enabled entries"
+        },
+        {
+          "Name": "No",
+          "Value": "No",
+          "Caption": "No",
+          "Description": "Select deselected/disabled entries"
+        }
+      ]
+    }
+  ],
+  "Strings": []
+}

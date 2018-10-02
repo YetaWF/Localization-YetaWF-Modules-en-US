@@ -2,7 +2,7 @@
   "Comment": null,
   "Classes": [
     {
-      "Name": "YetaWF.Modules.Identity.Components.UserIdEditComponent+GridAllEntry",
+      "Name": "YetaWF.Modules.Identity.Components.UserIdEditComponent+AllEntry",
       "BaseTypeName": null,
       "Header": null,
       "Footer": null,
@@ -18,7 +18,7 @@
           "TextBelow": null
         },
         {
-          "Name": "UserId",
+          "Name": "UserIdDisplay",
           "Caption": "Used Id",
           "Description": "Displays the user's internal Id",
           "HelpLink": null,
@@ -37,50 +37,6 @@
           "Name": "UserStatus",
           "Caption": "Status",
           "Description": "The user's current account status",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        }
-      ]
-    },
-    {
-      "Name": "YetaWF.Modules.Identity.Components.UserIdEditComponent+GridEdit",
-      "BaseTypeName": null,
-      "Header": null,
-      "Footer": null,
-      "Legend": null,
-      "Categories": {},
-      "Properties": [
-        {
-          "Name": "DeleteMe",
-          "Caption": "Delete",
-          "Description": "Click to remove this user name from the list",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "UserName",
-          "Caption": "User Name",
-          "Description": "Shows all defined user names",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        }
-      ]
-    },
-    {
-      "Name": "YetaWF.Modules.Identity.Components.UserIdEditComponent+NewModel",
-      "BaseTypeName": null,
-      "Header": null,
-      "Footer": null,
-      "Legend": null,
-      "Categories": {},
-      "Properties": [
-        {
-          "Name": "NewValue",
-          "Caption": "User Name",
-          "Description": "Please enter a new user name and click Add",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

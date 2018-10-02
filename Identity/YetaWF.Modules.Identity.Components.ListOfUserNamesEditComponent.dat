@@ -2,7 +2,7 @@
   "Comment": null,
   "Classes": [
     {
-      "Name": "YetaWF.Modules.Identity.Components.ListOfUserNamesEditComponent+GridAllEntry",
+      "Name": "YetaWF.Modules.Identity.Components.ListOfUserNamesEditComponent+AllEntry",
       "BaseTypeName": null,
       "Header": null,
       "Footer": null,
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "Name": "YetaWF.Modules.Identity.Components.ListOfUserNamesEditComponent+GridEdit",
+      "Name": "YetaWF.Modules.Identity.Components.ListOfUserNamesEditComponent+Entry",
       "BaseTypeName": null,
       "Header": null,
       "Footer": null,
@@ -28,7 +28,7 @@
       "Categories": {},
       "Properties": [
         {
-          "Name": "DeleteMe",
+          "Name": "Delete",
           "Caption": "Delete",
           "Description": "Click to remove this user name from the list",
           "HelpLink": null,

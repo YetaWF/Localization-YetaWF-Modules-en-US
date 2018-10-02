@@ -4,111 +4,15 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "allRecords",
-      "Text": "All"
+      "Name": "gridTotal0",
+      "Text": "None of {0} items"
     },
     {
-      "Name": "bn",
-      "Text": "Does not begin with"
+      "Name": "gridTotalNone",
+      "Text": "No items"
     },
     {
-      "Name": "bw",
-      "Text": "Begins with"
-    },
-    {
-      "Name": "cn",
-      "Text": "Contains"
-    },
-    {
-      "Name": "emptyrecords",
-      "Text": "No items to display"
-    },
-    {
-      "Name": "en",
-      "Text": "Does not end with"
-    },
-    {
-      "Name": "eq",
-      "Text": "Equal"
-    },
-    {
-      "Name": "ew",
-      "Text": "Ends with"
-    },
-    {
-      "Name": "ge",
-      "Text": "Greater or equal"
-    },
-    {
-      "Name": "gt",
-      "Text": "Greater"
-    },
-    {
-      "Name": "in",
-      "Text": "Is in"
-    },
-    {
-      "Name": "le",
-      "Text": "Less or equal"
-    },
-    {
-      "Name": "loadtext",
-      "Text": "Loading..."
-    },
-    {
-      "Name": "lt",
-      "Text": "Less"
-    },
-    {
-      "Name": "nc",
-      "Text": "Does not contain"
-    },
-    {
-      "Name": "ne",
-      "Text": "Not equal"
-    },
-    {
-      "Name": "ni",
-      "Text": "Is not in"
-    },
-    {
-      "Name": "nn",
-      "Text": "Is not null"
-    },
-    {
-      "Name": "nu",
-      "Text": "Is null"
-    },
-    {
-      "Name": "pgfirst",
-      "Text": "Display first page"
-    },
-    {
-      "Name": "pglast",
-      "Text": "Display last page"
-    },
-    {
-      "Name": "pgnext",
-      "Text": "Display next page"
-    },
-    {
-      "Name": "pgprev",
-      "Text": "Display previous page"
-    },
-    {
-      "Name": "pgrecs",
-      "Text": "Select number of items shown per page"
-    },
-    {
-      "Name": "pgsearchTB",
-      "Text": "Show/hide search toolbar"
-    },
-    {
-      "Name": "pgtext",
-      "Text": "Page {0} of {1}"
-    },
-    {
-      "Name": "recordtext",
+      "Name": "gridTotals",
       "Text": "{0} - {1} of {2} items"
     }
   ]
