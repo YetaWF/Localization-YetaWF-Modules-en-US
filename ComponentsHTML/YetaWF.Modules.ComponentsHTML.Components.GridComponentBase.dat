@@ -80,6 +80,10 @@
       "Text": "Does not end with"
     },
     {
+      "Name": "loading",
+      "Text": "Loading ..."
+    },
+    {
       "Name": "noSel",
       "Text": "(no selection)"
     },
