@@ -64,6 +64,14 @@
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
+        },
+        {
+          "Name": "Url2",
+          "Caption": "Url",
+          "Description": "Url",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
         }
       ]
     }

@@ -21,7 +21,7 @@
     },
     {
       "Name": "select",
-      "Text": "(Select)"
+      "Text": "(select)"
     },
     {
       "Name": "selectTT",
