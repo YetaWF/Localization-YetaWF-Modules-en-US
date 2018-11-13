@@ -54,7 +54,7 @@
         {
           "Name": "ShowPath",
           "Caption": "Show Path",
-          "Description": "Mark entries that partially or completely match the current page's Url as active (highlight)",
+          "Description": "!!!Currently Broken!!! - Mark entries that partially or completely match the current page's Url as active (highlight)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

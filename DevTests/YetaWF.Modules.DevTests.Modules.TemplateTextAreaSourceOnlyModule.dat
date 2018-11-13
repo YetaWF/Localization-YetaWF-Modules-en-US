@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "modName",
+      "Text": "Template Test - TextAreaSourceOnly"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "TextAreaSourceOnly test template"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "TextAreaSourceOnly Test Template"
+    }
+  ]
+}

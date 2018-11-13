@@ -9,7 +9,7 @@
     },
     {
       "Name": "saveImageOK",
-      "Text": "Image \\\\\\\"{0}\\\\\\\" successfully uploaded"
+      "Text": "Image \"{0}\" successfully uploaded"
     }
   ]
 }
