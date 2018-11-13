@@ -136,7 +136,7 @@
         {
           "Name": "CompressCSSFiles",
           "Caption": "Compress CSS Files",
-          "Description": "Defines whether minified stylesheets (CSS files) are used (Yes). Otherwise, stylesheets are not minified (No)",
+          "Description": "Defines whether minified stylesheets (CSS files) are used (Yes) - Otherwise, stylesheets are not minified (No)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -144,7 +144,7 @@
         {
           "Name": "Compression",
           "Caption": "Compression",
-          "Description": "Defines whether whitespace compression is used for all pages. Individual pages can override this setting (see Page Properties)",
+          "Description": "Defines whether whitespace compression is used for all pages",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -152,7 +152,7 @@
         {
           "Name": "CompressJSFiles",
           "Caption": "Compress JavaScript Files",
-          "Description": "Defines whether minified JavaScript files are used (Yes). Otherwise, JavaScript files are not minified (No)",
+          "Description": "Defines whether minified JavaScript files are used (Yes) - Otherwise, JavaScript files are not minified (No)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -249,6 +249,14 @@
           "Name": "DefaultSiteDomain",
           "Caption": "Default Site Domain",
           "Description": "The domain name of the default site for this instance of YetaWF",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DiagnosticsMode",
+          "Caption": "Diagnostics Mode",
+          "Description": "Defines whether additional debug diagnostics are active, such as verifying file existence, etc. - Typically used for debugging (can only be set using Appsettings.json)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
