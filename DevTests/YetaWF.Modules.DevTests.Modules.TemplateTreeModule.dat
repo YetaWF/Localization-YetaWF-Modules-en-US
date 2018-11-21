@@ -1,0 +1,35 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "displayLegend",
+      "Text": "Displays a sample tree"
+    },
+    {
+      "Name": "displayLink",
+      "Text": "Tree (Static Data)"
+    },
+    {
+      "Name": "displayText",
+      "Text": "Tree (Static Data)"
+    },
+    {
+      "Name": "displayTooltip",
+      "Text": "Display a sample tree"
+    },
+    {
+      "Name": "modName",
+      "Text": "Template Test - Tree (Static)"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Tree (Static) test template"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Tree (Static) Test Template"
+    }
+  ]
+}

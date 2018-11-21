@@ -8,10 +8,6 @@
       "Text": "The menu has been changed by someone else - Your changes can't be saved - Please refresh the current page before proceeding"
     },
     {
-      "Name": "menuRoot",
-      "Text": "Menu"
-    },
-    {
       "Name": "newUrl",
       "Text": "(new)"
     }
