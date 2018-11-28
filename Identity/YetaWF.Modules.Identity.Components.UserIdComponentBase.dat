@@ -4,10 +4,6 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "altClear",
-      "Text": "Clear the current selection"
-    },
-    {
       "Name": "noUser",
       "Text": "(none)"
     },

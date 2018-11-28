@@ -4,10 +4,6 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "altCopy",
-      "Text": "Copy to Clipboard"
-    },
-    {
       "Name": "ttCopy",
       "Text": "Copy to Clipboard"
     }
