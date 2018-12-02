@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "modName",
+      "Text": "Display Steps"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Displays steps to complete an action, usually a sequence of forms or pages"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Steps"
+    }
+  ]
+}

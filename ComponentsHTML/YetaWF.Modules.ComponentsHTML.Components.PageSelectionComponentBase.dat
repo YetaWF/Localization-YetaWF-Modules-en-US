@@ -4,10 +4,6 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "linkAlt",
-      "Text": "Preview"
-    },
-    {
       "Name": "linkTT",
       "Text": "Click to preview the page in a new window - not all pages can be displayed correctly and may require additional parameters"
     },

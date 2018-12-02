@@ -1,0 +1,63 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "btnAdd",
+      "Text": "Add"
+    },
+    {
+      "Name": "btnApply",
+      "Text": "Apply"
+    },
+    {
+      "Name": "btnDelete",
+      "Text": "Remove"
+    },
+    {
+      "Name": "btnDown",
+      "Text": ">>"
+    },
+    {
+      "Name": "btnIns",
+      "Text": "Insert"
+    },
+    {
+      "Name": "btnUp",
+      "Text": "<<"
+    },
+    {
+      "Name": "noCaption",
+      "Text": "(no caption)"
+    },
+    {
+      "Name": "noDesc",
+      "Text": "(no description)"
+    },
+    {
+      "Name": "txtAdd",
+      "Text": "Click to add a new step after the current step"
+    },
+    {
+      "Name": "txtApply",
+      "Text": "Click to apply the current changes"
+    },
+    {
+      "Name": "txtDelete",
+      "Text": "Click to remove the current step"
+    },
+    {
+      "Name": "txtDown",
+      "Text": "Click to move the current step"
+    },
+    {
+      "Name": "txtIns",
+      "Text": "Click to insert a new step before the current step"
+    },
+    {
+      "Name": "txtUp",
+      "Text": "Click to move the current step"
+    }
+  ]
+}

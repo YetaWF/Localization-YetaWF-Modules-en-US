@@ -1,0 +1,50 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Panels.Models.StepInfo+StepEntry",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Caption",
+          "Caption": "Caption",
+          "Description": "The caption for this step",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Description",
+          "Caption": "Description",
+          "Description": "The description for this step",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Name",
+          "Caption": "Name",
+          "Description": "The name for this step - This name is used by other modules for notification purposes - Modules that support displaying steps have standardized names for steps, which should be documented in their documentation",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "dfltCaption",
+      "Text": "(Caption)"
+    },
+    {
+      "Name": "dfltDesription",
+      "Text": "(Description)"
+    }
+  ]
+}

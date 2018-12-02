@@ -4,12 +4,20 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "removeConfirm",
+      "Name": "removePanelConfirm",
       "Text": "Are you sure you want to remove this panel?"
     },
     {
-      "Name": "removeTitle",
+      "Name": "removePanelTitle",
       "Text": "Remove Panel"
+    },
+    {
+      "Name": "removeStepConfirm",
+      "Text": "Are you sure you want to remove this step?"
+    },
+    {
+      "Name": "removeStepTitle",
+      "Text": "Remove Step"
     }
   ]
 }
