@@ -136,7 +136,7 @@
         {
           "Name": "CompressCSSFiles",
           "Caption": "Compress CSS Files",
-          "Description": "Defines whether minified stylesheets (CSS files) are used (Yes) - Otherwise, stylesheets are not minified (No)",
+          "Description": "Defines whether minified stylesheets (CSS files) are used (Yes) - Otherwise, non-minified stylesheets are used (No)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -152,7 +152,7 @@
         {
           "Name": "CompressJSFiles",
           "Caption": "Compress JavaScript Files",
-          "Description": "Defines whether minified JavaScript files are used (Yes) - Otherwise, JavaScript files are not minified (No)",
+          "Description": "Defines whether minified JavaScript files are used (Yes) - Otherwise, non-minified JavaScript files are used (No)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

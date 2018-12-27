@@ -1,0 +1,15 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "default",
+      "Text": "(select)"
+    },
+    {
+      "Name": "defaultTT",
+      "Text": "Please make a selection"
+    }
+  ]
+}
