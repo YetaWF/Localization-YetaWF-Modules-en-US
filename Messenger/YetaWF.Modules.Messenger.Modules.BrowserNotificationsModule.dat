@@ -1,0 +1,35 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "displayLegend",
+      "Text": "Displays the web browser notification test"
+    },
+    {
+      "Name": "displayLink",
+      "Text": "Browser Notification"
+    },
+    {
+      "Name": "displayText",
+      "Text": "Browser Notification"
+    },
+    {
+      "Name": "displayTooltip",
+      "Text": "Display the web browser notification test"
+    },
+    {
+      "Name": "modName",
+      "Text": "Test - Web Browser Notification"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Web browser notification test"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Web Browser Notification Test"
+    }
+  ]
+}

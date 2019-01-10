@@ -20,6 +20,22 @@
           "TextBelow": null
         },
         {
+          "Name": "BooleanText",
+          "Caption": "BooleanText",
+          "Description": "BooleanText (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CAProvince",
+          "Caption": "CAProvince",
+          "Description": "CAProvince (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "Country",
           "Caption": "CountryISO3166",
           "Description": "CountryISO3166 (Required)",

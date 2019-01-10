@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "btnSend",
+      "Text": "Send"
+    },
+    {
+      "Name": "btnSendClose",
+      "Text": "Send & Close"
+    },
+    {
+      "Name": "noMsg",
+      "Text": "Messaging services are not available (add a reference to the \"Web Browser Notifications (Skin)\" module in Site Settings)."
+    }
+  ]
+}

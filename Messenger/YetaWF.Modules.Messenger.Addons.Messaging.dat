@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "notSeen",
+      "Text": "This message has not been seen"
+    },
+    {
+      "Name": "offline",
+      "Text": "User is offline and can't receive messages - If you send a message it will be stored and shown to the user at a later time"
+    },
+    {
+      "Name": "online",
+      "Text": "User is online and can receive messages"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Messenger.Controllers.BrowserNotificationsModuleController+Model",
+      "BaseTypeName": null,
+      "Header": "The module Web Browser Notifications (Skin) must be defined as a site-wide reference in order for notifications to be sent to the desktop.",
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Message",
+          "Caption": "Message",
+          "Description": "Defines the message to be sent",
+          "HelpLink": null,
+          "TextAbove": "Please enter the message to be sent as a desktop notification.",
+          "TextBelow": null
+        },
+        {
+          "Name": "Title",
+          "Caption": "Title",
+          "Description": "Defines the title of the message to be sent",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": []
+}

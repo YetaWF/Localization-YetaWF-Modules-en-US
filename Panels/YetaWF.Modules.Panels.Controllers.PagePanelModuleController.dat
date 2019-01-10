@@ -2,7 +2,7 @@
   "Comment": null,
   "Classes": [
     {
-      "Name": "YetaWF.Modules.Panels.Controllers.PagePanelModuleController+ModelEdit",
+      "Name": "YetaWF.Modules.Panels.Controllers.PagePanelModuleController+Model",
       "BaseTypeName": null,
       "Header": null,
       "Footer": null,

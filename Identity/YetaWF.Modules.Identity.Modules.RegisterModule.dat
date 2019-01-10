@@ -12,6 +12,14 @@
       },
       "Properties": [
         {
+          "Name": "PostRegisterQueryString",
+          "Caption": "Post Login Query String",
+          "Description": "Defines whether the original query string is forwarded with the Post Login Url",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "PostRegisterUrl",
           "Caption": "Post Login Url",
           "Description": "Defines the page to display once the user is logged on - If omitted, the Url to return to is determined automatically",

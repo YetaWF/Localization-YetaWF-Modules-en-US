@@ -1,0 +1,35 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "addLegend",
+      "Text": "Sends a new site announcement to all users"
+    },
+    {
+      "Name": "addLink",
+      "Text": "Send Announcement"
+    },
+    {
+      "Name": "addText",
+      "Text": "Send Announcement"
+    },
+    {
+      "Name": "addTooltip",
+      "Text": "Send a new site announcement to all users"
+    },
+    {
+      "Name": "modName",
+      "Text": "Site Announcement"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Sends a new site announcement to all users"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "New Site Announcement"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "btnSend",
+      "Text": "Send"
+    },
+    {
+      "Name": "noMsg",
+      "Text": "Messaging services are not available (add a reference to the \"Site Announcements (Skin)\" module in Site Settings)."
+    }
+  ]
+}

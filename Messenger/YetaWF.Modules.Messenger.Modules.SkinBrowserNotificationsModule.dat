@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "modName",
+      "Text": "Web Browser Notifications (Skin)"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Skin module used to support web browser notifications"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Skin Web Browser Notifications"
+    }
+  ]
+}

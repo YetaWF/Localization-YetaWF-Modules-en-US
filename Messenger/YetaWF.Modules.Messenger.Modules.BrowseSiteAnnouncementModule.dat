@@ -1,0 +1,56 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Messenger.Modules.BrowseSiteAnnouncementModule",
+      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition",
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "General": "General"
+      },
+      "Properties": [
+        {
+          "Name": "SendUrl",
+          "Caption": "Send Message Url",
+          "Description": "The Url to send a new site announcement - if omitted, a default page is generated",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "browseLegend",
+      "Text": "Displays and manages site announcements"
+    },
+    {
+      "Name": "browseLink",
+      "Text": "Site Announcements"
+    },
+    {
+      "Name": "browseText",
+      "Text": "Site Announcements"
+    },
+    {
+      "Name": "browseTooltip",
+      "Text": "Display and manage site announcements"
+    },
+    {
+      "Name": "modName",
+      "Text": "Site Announcements"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Displays and manages site announcements"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Site Announcements"
+    }
+  ]
+}

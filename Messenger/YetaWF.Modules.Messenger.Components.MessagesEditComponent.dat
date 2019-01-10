@@ -1,0 +1,15 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "none",
+      "Text": "(None)"
+    },
+    {
+      "Name": "seen",
+      "Text": "This message has not been seen"
+    }
+  ]
+}
