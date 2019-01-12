@@ -28,6 +28,14 @@
           "TextBelow": null
         },
         {
+          "Name": "RefreshInterval",
+          "Caption": "Refresh Interval",
+          "Description": "Defines at which interval new currency rates are retrieved - Check the maximum allowed under your rate plan at openexchangerates.org",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "UseHttps",
           "Caption": "Use Https",
           "Description": "Use https to access openexchangerates.org (requires a paid account) - This setting is used for all sites within this YetaWF instance",

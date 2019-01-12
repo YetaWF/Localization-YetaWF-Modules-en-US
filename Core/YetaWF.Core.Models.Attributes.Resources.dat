@@ -12,6 +12,10 @@
       "Text": "The length for '{0}' must be between {1} and {2} characters"
     },
     {
+      "Name": "badTimeSpan",
+      "Text": "The valid range is {0} through {1}"
+    },
+    {
       "Name": "dup",
       "Text": "Duplicate entry found - {0}"
     },
