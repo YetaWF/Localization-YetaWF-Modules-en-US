@@ -96,6 +96,10 @@
       "Text": "This package was built for {0}, but this site is running {1}"
     },
     {
+      "Name": "need400",
+      "Text": "This package was created using an earlier YetaWF version {0} - With YetaWF 4.0.0 a new package format was introduced, making older packages incompatible"
+    },
+    {
       "Name": "noCompany",
       "Text": "Incorrectly packaged module - no company name available - Package {0}"
     },
