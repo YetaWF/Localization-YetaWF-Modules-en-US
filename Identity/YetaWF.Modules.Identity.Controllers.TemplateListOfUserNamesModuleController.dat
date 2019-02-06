@@ -39,14 +39,6 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "dupUser",
-      "Text": "User {0} has already been added"
-    },
-    {
-      "Name": "noUser",
-      "Text": "User {0} not found"
-    },
-    {
       "Name": "ok",
       "Text": "OK"
     }
