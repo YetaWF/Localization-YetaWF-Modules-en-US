@@ -1,0 +1,35 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "editLegend",
+      "Text": "Edits the IVR settings"
+    },
+    {
+      "Name": "editLink",
+      "Text": "IVR Settings"
+    },
+    {
+      "Name": "editText",
+      "Text": "IVR Settings"
+    },
+    {
+      "Name": "editTooltip",
+      "Text": "Edit the IVR settings"
+    },
+    {
+      "Name": "modName",
+      "Text": "IVR Settings"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Edits a site's IVR settings"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "IVR Settings"
+    }
+  ]
+}

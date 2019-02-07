@@ -1,0 +1,11 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "notConfigured",
+      "Text": "Twilio is not configured."
+    }
+  ]
+}

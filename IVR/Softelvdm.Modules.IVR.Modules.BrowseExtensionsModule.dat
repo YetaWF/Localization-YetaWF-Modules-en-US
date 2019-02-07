@@ -1,0 +1,100 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "Softelvdm.Modules.IVR.Modules.BrowseExtensionsModule",
+      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition",
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "General": "General"
+      },
+      "Properties": [
+        {
+          "Name": "AddUrl",
+          "Caption": "Add Url",
+          "Description": "The Url to add a new extension - if omitted, a default page is generated",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "EditUrl",
+          "Caption": "Edit Url",
+          "Description": "The Url to edit a extension - if omitted, a default page is generated",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "browseLegend",
+      "Text": "Displays and manages extensions"
+    },
+    {
+      "Name": "browseLink",
+      "Text": "Extensions"
+    },
+    {
+      "Name": "browseText",
+      "Text": "Extensions"
+    },
+    {
+      "Name": "browseTooltip",
+      "Text": "Display and manage extensions"
+    },
+    {
+      "Name": "modName",
+      "Text": "Extensions"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Displays and manages extensions"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Extensions"
+    },
+    {
+      "Name": "removeConfirm",
+      "Text": "Are you sure you want to remove extension with id \"{0}\"?"
+    },
+    {
+      "Name": "removeLegend",
+      "Text": "Removes the extension"
+    },
+    {
+      "Name": "removeLink",
+      "Text": "Remove Extension"
+    },
+    {
+      "Name": "removeMenu",
+      "Text": "Remove Extension"
+    },
+    {
+      "Name": "removeTT",
+      "Text": "Remove the extension"
+    },
+    {
+      "Name": "roleRemItems",
+      "Text": "The role has permission to remove individual extensions"
+    },
+    {
+      "Name": "roleRemItemsC",
+      "Text": "Remove Extension Entries"
+    },
+    {
+      "Name": "userRemItems",
+      "Text": "The user has permission to remove individual extensions"
+    },
+    {
+      "Name": "userRemItemsC",
+      "Text": "Remove Extension Entries"
+    }
+  ]
+}

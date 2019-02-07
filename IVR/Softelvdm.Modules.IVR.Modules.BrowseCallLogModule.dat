@@ -1,0 +1,92 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "Softelvdm.Modules.IVR.Modules.BrowseCallLogModule",
+      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition",
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "General": "General"
+      },
+      "Properties": [
+        {
+          "Name": "DisplayUrl",
+          "Caption": "Display Url",
+          "Description": "The Url to display a call log entry - if omitted, a default page is generated",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "browseLegend",
+      "Text": "Displays and manages call log entries"
+    },
+    {
+      "Name": "browseLink",
+      "Text": "Call Log Entries"
+    },
+    {
+      "Name": "browseText",
+      "Text": "Call Log Entries"
+    },
+    {
+      "Name": "browseTooltip",
+      "Text": "Display and manage call log entries"
+    },
+    {
+      "Name": "modName",
+      "Text": "Call Log Entries"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Displays and manages call log entries"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Call Log Entries"
+    },
+    {
+      "Name": "removeConfirm",
+      "Text": "Are you sure you want to remove call log entry with id {0}?"
+    },
+    {
+      "Name": "removeLegend",
+      "Text": "Removes the call log entry"
+    },
+    {
+      "Name": "removeLink",
+      "Text": "Remove"
+    },
+    {
+      "Name": "removeMenu",
+      "Text": "Remove"
+    },
+    {
+      "Name": "removeTT",
+      "Text": "Remove the call log entry"
+    },
+    {
+      "Name": "roleRemItems",
+      "Text": "The role has permission to remove individual call log entries"
+    },
+    {
+      "Name": "roleRemItemsC",
+      "Text": "Remove Call Log Entries"
+    },
+    {
+      "Name": "userRemItems",
+      "Text": "The user has permission to remove individual call log entries"
+    },
+    {
+      "Name": "userRemItemsC",
+      "Text": "Remove Call Log Entries"
+    }
+  ]
+}

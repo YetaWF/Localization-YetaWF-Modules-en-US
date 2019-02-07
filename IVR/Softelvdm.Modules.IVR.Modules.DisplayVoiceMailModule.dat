@@ -1,0 +1,51 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "displayLegend",
+      "Text": "Displays an existing voice mail entry"
+    },
+    {
+      "Name": "displayLink",
+      "Text": "Display"
+    },
+    {
+      "Name": "displayText",
+      "Text": "Display"
+    },
+    {
+      "Name": "displayTooltip",
+      "Text": "Display the voice mail entry"
+    },
+    {
+      "Name": "listenLegend",
+      "Text": "Used to listen to the voice mail"
+    },
+    {
+      "Name": "listenLink",
+      "Text": "Listen"
+    },
+    {
+      "Name": "listenMenu",
+      "Text": "Listen"
+    },
+    {
+      "Name": "listenTT",
+      "Text": "Listen to the voice mail"
+    },
+    {
+      "Name": "modName",
+      "Text": "Voice Mail Entry"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Displays an existing voice mail entry"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Voice Mail Entry"
+    }
+  ]
+}

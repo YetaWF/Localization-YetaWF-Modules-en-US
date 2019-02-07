@@ -1,0 +1,35 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "editLegend",
+      "Text": "Edits an existing extension"
+    },
+    {
+      "Name": "editLink",
+      "Text": "Edit"
+    },
+    {
+      "Name": "editText",
+      "Text": "Edit"
+    },
+    {
+      "Name": "editTooltip",
+      "Text": "Edit extension"
+    },
+    {
+      "Name": "modName",
+      "Text": "Edit Extension"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Edits an existing extension"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Extension"
+    }
+  ]
+}

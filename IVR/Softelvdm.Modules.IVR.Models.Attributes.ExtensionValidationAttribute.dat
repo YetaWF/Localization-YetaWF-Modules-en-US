@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "valExtension",
+      "Text": "The extension is invalid"
+    },
+    {
+      "Name": "valExtension2",
+      "Text": "The extension (field '{0}') is invalid"
+    },
+    {
+      "Name": "valExtension3",
+      "Text": "The extension '{0}' is invalid"
+    }
+  ]
+}

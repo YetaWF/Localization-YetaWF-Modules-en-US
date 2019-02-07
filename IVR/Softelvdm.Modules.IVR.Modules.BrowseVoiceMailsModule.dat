@@ -1,0 +1,92 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "Softelvdm.Modules.IVR.Modules.BrowseVoiceMailsModule",
+      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition",
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "General": "General"
+      },
+      "Properties": [
+        {
+          "Name": "DisplayUrl",
+          "Caption": "Display Url",
+          "Description": "The Url to display a voice mail entry customer - if omitted, a default page is generated",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "browseLegend",
+      "Text": "Displays and manages voice mail entries"
+    },
+    {
+      "Name": "browseLink",
+      "Text": "Voice Mail Entries"
+    },
+    {
+      "Name": "browseText",
+      "Text": "Voice Mail Entries"
+    },
+    {
+      "Name": "browseTooltip",
+      "Text": "Display and manage voice mail entries"
+    },
+    {
+      "Name": "modName",
+      "Text": "Voice Mail Entries"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Displays and manages voice mail entries"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Voice Mail Entries"
+    },
+    {
+      "Name": "removeConfirm",
+      "Text": "Are you sure you want to remove this voice mail entry"
+    },
+    {
+      "Name": "removeLegend",
+      "Text": "Removes the voice mail entry"
+    },
+    {
+      "Name": "removeLink",
+      "Text": "Remove"
+    },
+    {
+      "Name": "removeMenu",
+      "Text": "Remove"
+    },
+    {
+      "Name": "removeTT",
+      "Text": "Remove the voice mail entry"
+    },
+    {
+      "Name": "roleRemItems",
+      "Text": "The role has permission to remove individual voice mail entries"
+    },
+    {
+      "Name": "roleRemItemsC",
+      "Text": "Remove Voice Mail Entries"
+    },
+    {
+      "Name": "userRemItems",
+      "Text": "The user has permission to remove individual voice mail entries"
+    },
+    {
+      "Name": "userRemItemsC",
+      "Text": "Remove Voice Mail Entries"
+    }
+  ]
+}

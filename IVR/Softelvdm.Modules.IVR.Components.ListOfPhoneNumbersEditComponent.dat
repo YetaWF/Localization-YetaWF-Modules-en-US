@@ -1,0 +1,67 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "Softelvdm.Modules.IVR.Components.ListOfPhoneNumbersEditComponent+Entry",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Delete",
+          "Caption": "Delete",
+          "Description": "Click to remove this phone number from the list",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PhoneNumberDisplay",
+          "Caption": "Phone Number",
+          "Description": "Shows all defined phone numbers",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SendSMS",
+          "Caption": "SMS",
+          "Description": "Shows whether a text message is sent to the phone number when a voice mail is received",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    },
+    {
+      "Name": "Softelvdm.Modules.IVR.Components.ListOfPhoneNumbersEditComponent+NewModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "NewPhoneNumber",
+          "Caption": "Phone Number",
+          "Description": "Please enter a new phone number and click Add",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SendSMS",
+          "Caption": "SMS",
+          "Description": "Shows whether a text message is sent to the phone number when a voice mail is received",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": []
+}

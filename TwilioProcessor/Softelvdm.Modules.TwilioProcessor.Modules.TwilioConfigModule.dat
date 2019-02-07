@@ -1,0 +1,35 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "editLegend",
+      "Text": "Edits the TwilioProcessor settings"
+    },
+    {
+      "Name": "editLink",
+      "Text": "TwilioProcessor Settings"
+    },
+    {
+      "Name": "editText",
+      "Text": "TwilioProcessor Settings"
+    },
+    {
+      "Name": "editTooltip",
+      "Text": "Edit the TwilioProcessor settings"
+    },
+    {
+      "Name": "modName",
+      "Text": "TwilioProcessor Settings"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Edits a site's TwilioProcessor settings"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "TwilioProcessor Settings"
+    }
+  ]
+}

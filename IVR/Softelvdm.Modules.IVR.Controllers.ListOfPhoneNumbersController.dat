@@ -1,0 +1,15 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "dupPhone",
+      "Text": "Phone number {0} has already been added"
+    },
+    {
+      "Name": "invPhone",
+      "Text": "Phone number {0} is not a valid phone number"
+    }
+  ]
+}

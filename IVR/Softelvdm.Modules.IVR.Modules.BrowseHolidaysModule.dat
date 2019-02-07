@@ -1,0 +1,92 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "Softelvdm.Modules.IVR.Modules.BrowseHolidaysModule",
+      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition",
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "General": "General"
+      },
+      "Properties": [
+        {
+          "Name": "AddUrl",
+          "Caption": "Add Url",
+          "Description": "The Url to add a new holiday entry - if omitted, a default page is generated",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "browseLegend",
+      "Text": "Displays and manages holiday entries"
+    },
+    {
+      "Name": "browseLink",
+      "Text": "Holiday Entries"
+    },
+    {
+      "Name": "browseText",
+      "Text": "Holiday Entries"
+    },
+    {
+      "Name": "browseTooltip",
+      "Text": "Display and manage holiday entries"
+    },
+    {
+      "Name": "modName",
+      "Text": "Holiday Entries"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Displays and manages holiday entries"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Holidays"
+    },
+    {
+      "Name": "removeConfirm",
+      "Text": "Are you sure you want to remove this holiday entry?"
+    },
+    {
+      "Name": "removeLegend",
+      "Text": "Removes the holiday entry"
+    },
+    {
+      "Name": "removeLink",
+      "Text": "Remove Holiday Entry"
+    },
+    {
+      "Name": "removeMenu",
+      "Text": "Remove Holiday Entry"
+    },
+    {
+      "Name": "removeTT",
+      "Text": "Remove the holiday entry"
+    },
+    {
+      "Name": "roleRemItems",
+      "Text": "The role has permission to remove individual holiday entries"
+    },
+    {
+      "Name": "roleRemItemsC",
+      "Text": "Remove Holiday Entries"
+    },
+    {
+      "Name": "userRemItems",
+      "Text": "The user has permission to remove individual holiday entries"
+    },
+    {
+      "Name": "userRemItemsC",
+      "Text": "Remove Holiday Entries"
+    }
+  ]
+}

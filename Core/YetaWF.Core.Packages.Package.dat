@@ -112,6 +112,10 @@
       "Text": "Incorrectly packaged module - no domain available - Package {0}"
     },
     {
+      "Name": "noLangDomain",
+      "Text": "Incorrectly packaged module - no language domain available - Package {0}"
+    },
+    {
       "Name": "noName",
       "Text": "Incorrectly packaged module - no product name available - Package {0}"
     },

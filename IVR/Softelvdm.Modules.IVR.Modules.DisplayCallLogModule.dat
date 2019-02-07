@@ -1,0 +1,35 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "displayLegend",
+      "Text": "Displays an existing call log entry"
+    },
+    {
+      "Name": "displayLink",
+      "Text": "Display"
+    },
+    {
+      "Name": "displayText",
+      "Text": "Display"
+    },
+    {
+      "Name": "displayTooltip",
+      "Text": "Display the call log entry"
+    },
+    {
+      "Name": "modName",
+      "Text": "Call Log Entry"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Displays an existing call log entry"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Call Log Entry"
+    }
+  ]
+}
