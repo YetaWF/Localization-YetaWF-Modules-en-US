@@ -89,6 +89,14 @@
           "TextBelow": null
         },
         {
+          "Name": "LoginUrl",
+          "Caption": "Login Url",
+          "Description": "The Url where the user can login using an existing account",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "MaxLoginFailures",
           "Caption": "Max. Login Failures",
           "Description": "Defines the maximum number of login failures before the account is suspended - If 0 is specified login failures will not suspend accounts - A successful login resets the login failure count to 0",
