@@ -28,6 +28,10 @@
       "Text": "Reload the current page"
     },
     {
+      "Name": "demo",
+      "Text": "(Demo - N/A)"
+    },
+    {
       "Name": "dropdownWidth",
       "Text": "11"
     },

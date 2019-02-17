@@ -55,16 +55,16 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "alreadyExists",
-      "Text": "Message sent. New site announcement log record couldn't be added"
-    },
-    {
       "Name": "anncTitle",
       "Text": "Site Announcement"
     },
     {
       "Name": "demo",
       "Text": "In Demo mode, the message is sent to the current user only - Other users do not receive the message."
+    },
+    {
+      "Name": "noLog",
+      "Text": "Message sent. New site announcement log record couldn't be added"
     }
   ]
 }

@@ -15,7 +15,7 @@
           "Name": "DropdownMenu",
           "Value": "DropdownMenu",
           "Caption": "Dropdown Menu",
-          "Description": "If more than one action is available they are displayed as a dropdown menu, accessible through a button - Otherwise a single icon is displayed"
+          "Description": "If more than one action is available they are displayed as a dropdown menu, accessible through a button, otherwise a single icon is displayed"
         }
       ]
     }

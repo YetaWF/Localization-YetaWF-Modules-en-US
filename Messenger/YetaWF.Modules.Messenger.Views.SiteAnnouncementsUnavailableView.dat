@@ -1,0 +1,11 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "unavailable",
+      "Text": "Site announcements log is not available - See <a href='https://yetawf.com/Documentation/YetaWF/Messenger' target='_blank' rel='noopener noreferrer'>https://yetawf.com/Documentation/YetaWF/Messenger</a> for additional information."
+    }
+  ]
+}
