@@ -21,14 +21,6 @@
           "TextBelow": null
         },
         {
-          "Name": "DocumentationUrl",
-          "Caption": "Documentation",
-          "Description": "Click the link to access documentation for the Softelvdm.TwilioProcessor package",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
           "Name": "LiveAccountSid",
           "Caption": "Live Account Sid",
           "Description": "The Live Account Sid is obtained from your Twilio account, defined in appsettings.json (applies to all sites in this YetaWF instance) and is used when Test Mode is disabled",
@@ -120,10 +112,6 @@
     {
       "Name": "okSaved",
       "Text": "TwilioProcessor settings saved"
-    },
-    {
-      "Name": "prodDoc",
-      "Text": "Product Documentation"
     }
   ]
 }
