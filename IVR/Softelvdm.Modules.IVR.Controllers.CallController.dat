@@ -4,6 +4,10 @@
   "Enums": [],
   "Strings": [
     {
+      "Name": "notifySMS",
+      "Text": "Incoming call received from {0} ({1}, {2}, {3}, {4}) - {5}"
+    },
+    {
       "Name": "voiceSMS",
       "Text": "A voice mail was received for extension {0} ({1}) from {2}, {3}, {4}, {5} {6} - {7}"
     }

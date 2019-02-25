@@ -11,6 +11,7 @@
         "Accounts": "Accounts",
         "Hours": "Hours",
         "IVR": "IVR",
+        "Notifications": "Notifications",
         "Security": "Security",
         "Voice Mail": "Voice Mail"
       },
@@ -61,6 +62,14 @@
           "Description": "The maximum number of invalid entries by the caller before hanging up - Set to 0 to ignore",
           "HelpLink": null,
           "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "NotificationNumbers",
+          "Caption": "SMS Numbers",
+          "Description": "Defines the phone numbers that receive a text message whenever a call is received",
+          "HelpLink": null,
+          "TextAbove": "Phone numbers added here receive a text message when a call is received (before the caller can select an extension or leave a voice mail). This is may become annoying fast if you receive many calls on the main number. Make sure to enable the SMS checkbox for each phone number where you want to receive text messages.",
           "TextBelow": null
         },
         {
