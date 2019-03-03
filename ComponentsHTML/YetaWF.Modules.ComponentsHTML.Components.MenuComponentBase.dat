@@ -3,41 +3,6 @@
   "Classes": [],
   "Enums": [
     {
-      "Name": "YetaWF.Modules.ComponentsHTML.Components.MenuComponentBase+AnimationEnum",
-      "Entries": [
-        {
-          "Name": "SlideUp",
-          "Value": "SlideUp",
-          "Caption": "Slides up",
-          "Description": null
-        },
-        {
-          "Name": "SlideDown",
-          "Value": "SlideDown",
-          "Caption": "Slides down",
-          "Description": null
-        },
-        {
-          "Name": "FadeIn",
-          "Value": "FadeIn",
-          "Caption": "Fades in",
-          "Description": null
-        },
-        {
-          "Name": "ExpandsUp",
-          "Value": "ExpandsUp",
-          "Caption": "Expands up",
-          "Description": null
-        },
-        {
-          "Name": "ExpandsDown",
-          "Value": "ExpandsDown",
-          "Caption": "Expands down",
-          "Description": null
-        }
-      ]
-    },
-    {
       "Name": "YetaWF.Modules.ComponentsHTML.Components.MenuComponentBase+DirectionEnum",
       "Entries": [
         {
