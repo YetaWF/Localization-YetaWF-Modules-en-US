@@ -1,0 +1,100 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "Softelvdm.Modules.IVR.Modules.BrowseBlockedNumbersModule",
+      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition",
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "General": "General"
+      },
+      "Properties": [
+        {
+          "Name": "AddUrl",
+          "Caption": "Add Url",
+          "Description": "The Url to add a new blocked number - if omitted, a default page is generated",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "EditUrl",
+          "Caption": "Edit Url",
+          "Description": "The Url to edit a blocked number - if omitted, a default page is generated",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "browseLegend",
+      "Text": "Displays and manages blocked numbers"
+    },
+    {
+      "Name": "browseLink",
+      "Text": "Blocked Numbers"
+    },
+    {
+      "Name": "browseText",
+      "Text": "Blocked Numbers"
+    },
+    {
+      "Name": "browseTooltip",
+      "Text": "Display and manage blocked numbers"
+    },
+    {
+      "Name": "modName",
+      "Text": "Blocked Numbers"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Displays and manages blocked numbers"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Blocked Numbers"
+    },
+    {
+      "Name": "removeConfirm",
+      "Text": "Are you sure you want to remove this blocked number?"
+    },
+    {
+      "Name": "removeLegend",
+      "Text": "Removes the blocked number"
+    },
+    {
+      "Name": "removeLink",
+      "Text": "Remove"
+    },
+    {
+      "Name": "removeMenu",
+      "Text": "Remove"
+    },
+    {
+      "Name": "removeTT",
+      "Text": "Remove the blocked number"
+    },
+    {
+      "Name": "roleRemItems",
+      "Text": "The role has permission to remove individual blocked numbers"
+    },
+    {
+      "Name": "roleRemItemsC",
+      "Text": "Remove Blocked Numbers"
+    },
+    {
+      "Name": "userRemItems",
+      "Text": "The user has permission to remove individual blocked numbers"
+    },
+    {
+      "Name": "userRemItemsC",
+      "Text": "Remove Blocked Numbers"
+    }
+  ]
+}

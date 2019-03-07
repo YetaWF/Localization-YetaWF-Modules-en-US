@@ -1,0 +1,35 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "editLegend",
+      "Text": "Edits an existing blocked number"
+    },
+    {
+      "Name": "editLink",
+      "Text": "Edit"
+    },
+    {
+      "Name": "editText",
+      "Text": "Edit"
+    },
+    {
+      "Name": "editTooltip",
+      "Text": "Edit blocked number"
+    },
+    {
+      "Name": "modName",
+      "Text": "Edit Blocked Number"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Edits an existing blocked number"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Blocked Number"
+    }
+  ]
+}

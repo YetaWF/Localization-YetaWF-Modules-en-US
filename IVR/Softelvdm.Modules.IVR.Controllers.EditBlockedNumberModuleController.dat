@@ -1,0 +1,54 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "Softelvdm.Modules.IVR.Controllers.EditBlockedNumberModuleController+EditModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Description",
+          "Caption": "Description",
+          "Description": "The description of the blocked number",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Number",
+          "Caption": "Blocked Number",
+          "Description": "Shows the blocked phone number",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "alreadyDeleted",
+      "Text": "Blocked number {0} has been removed and can no longer be updated"
+    },
+    {
+      "Name": "alreadyExists",
+      "Text": "Blocked number {0} already exists"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Blocked Phone Number \"{0}\""
+    },
+    {
+      "Name": "notFound",
+      "Text": "Blocked phone number \"{0}\" not found"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Blocked number saved"
+    }
+  ]
+}

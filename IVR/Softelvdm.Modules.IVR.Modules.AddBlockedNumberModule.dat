@@ -1,0 +1,35 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "addLegend",
+      "Text": "Adds a new blocked number"
+    },
+    {
+      "Name": "addLink",
+      "Text": "Add"
+    },
+    {
+      "Name": "addText",
+      "Text": "Add"
+    },
+    {
+      "Name": "addTooltip",
+      "Text": "Add a new blocked number"
+    },
+    {
+      "Name": "modName",
+      "Text": "Add New Blocked Number"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Adds a new blocked number"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Add New Blocked Number"
+    }
+  ]
+}
