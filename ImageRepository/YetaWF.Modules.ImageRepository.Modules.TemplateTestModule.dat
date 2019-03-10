@@ -5,15 +5,15 @@
   "Strings": [
     {
       "Name": "modName",
-      "Text": "Image Repository Template Test"
+      "Text": "Image Repository Component Test"
     },
     {
       "Name": "modSummary",
-      "Text": "Image Repository Template Test"
+      "Text": "Image Repository Component Test"
     },
     {
       "Name": "modTitle",
-      "Text": "Image Repository Template Test"
+      "Text": "Image Repository Component Test"
     }
   ]
 }

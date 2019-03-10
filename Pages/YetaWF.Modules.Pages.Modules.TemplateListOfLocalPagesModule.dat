@@ -21,15 +21,15 @@
     },
     {
       "Name": "modName",
-      "Text": "Template Test - ListOfLocalPages"
+      "Text": "Component - ListOfLocalPages"
     },
     {
       "Name": "modSummary",
-      "Text": "ListOfLocalPages test template"
+      "Text": "ListOfLocalPages test component"
     },
     {
       "Name": "modTitle",
-      "Text": "ListOfLocalPages Test Template"
+      "Text": "ListOfLocalPages Test Component"
     }
   ]
 }

@@ -21,15 +21,15 @@
     },
     {
       "Name": "modName",
-      "Text": "Template Test - ListOfUserNames"
+      "Text": "Component Test - ListOfUserNames"
     },
     {
       "Name": "modSummary",
-      "Text": "ListOfUserNames test template"
+      "Text": "ListOfUserNames test component"
     },
     {
       "Name": "modTitle",
-      "Text": "ListOfUserNames Test Template"
+      "Text": "ListOfUserNames Test Component"
     }
   ]
 }

@@ -21,15 +21,15 @@
     },
     {
       "Name": "modName",
-      "Text": "Template Test - Grid (Ajax)"
+      "Text": "Component Test - Grid (Ajax)"
     },
     {
       "Name": "modSummary",
-      "Text": "Grid (Ajax) test template"
+      "Text": "Grid (Ajax) test component"
     },
     {
       "Name": "modTitle",
-      "Text": "Grid (Ajax) Test Template"
+      "Text": "Grid (Ajax) Test Component"
     }
   ]
 }

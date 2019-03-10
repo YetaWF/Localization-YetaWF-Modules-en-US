@@ -21,15 +21,15 @@
     },
     {
       "Name": "modName",
-      "Text": "Template Test - RolesSelector"
+      "Text": "Component Test - RolesSelector"
     },
     {
       "Name": "modSummary",
-      "Text": "RolesSelector test template"
+      "Text": "RolesSelector test component"
     },
     {
       "Name": "modTitle",
-      "Text": "RolesSelector Test Template"
+      "Text": "RolesSelector Test Component"
     }
   ]
 }

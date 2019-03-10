@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "displayLegend",
-      "Text": "Displays the ListOfEmailAddresses test template"
+      "Text": "Displays the ListOfEmailAddresses test component"
     },
     {
       "Name": "displayLink",
@@ -17,19 +17,19 @@
     },
     {
       "Name": "displayTooltip",
-      "Text": "Display the ListOfEmailAddresses test template"
+      "Text": "Display the ListOfEmailAddresses test component"
     },
     {
       "Name": "modName",
-      "Text": "Template Test - ListOfEmailAddresses"
+      "Text": "Component Test - ListOfEmailAddresses"
     },
     {
       "Name": "modSummary",
-      "Text": "ListOfEmailAddresses test template"
+      "Text": "ListOfEmailAddresses test component"
     },
     {
       "Name": "modTitle",
-      "Text": "ListOfEmailAddresses Test Template"
+      "Text": "ListOfEmailAddresses Test Component"
     }
   ]
 }

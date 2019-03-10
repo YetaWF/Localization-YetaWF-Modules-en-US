@@ -5,31 +5,31 @@
   "Strings": [
     {
       "Name": "editLegend",
-      "Text": "Used to test all generally available templates"
+      "Text": "Used to test all generally available components"
     },
     {
       "Name": "editLink",
-      "Text": "Basic Templates"
+      "Text": "Basic Components"
     },
     {
       "Name": "editText",
-      "Text": "Basic Templates"
+      "Text": "Basic Components"
     },
     {
       "Name": "editTooltip",
-      "Text": "Used to test all generally available templates"
+      "Text": "Used to test all generally available components"
     },
     {
       "Name": "modName",
-      "Text": "Basic Templates Test"
+      "Text": "Basic Components Test"
     },
     {
       "Name": "modSummary",
-      "Text": "Used to test all generally available templates"
+      "Text": "Used to test all generally available components"
     },
     {
       "Name": "modTitle",
-      "Text": "Basic Templates Test"
+      "Text": "Basic Components Test"
     }
   ]
 }

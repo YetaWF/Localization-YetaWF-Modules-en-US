@@ -21,15 +21,15 @@
     },
     {
       "Name": "modName",
-      "Text": "Template Test - Scroller"
+      "Text": "Component Test - Scroller"
     },
     {
       "Name": "modSummary",
-      "Text": "Scroller test template"
+      "Text": "Scroller test component"
     },
     {
       "Name": "modTitle",
-      "Text": "Scroller Test Template"
+      "Text": "Scroller Test Component"
     }
   ]
 }

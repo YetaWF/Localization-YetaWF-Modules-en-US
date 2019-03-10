@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "displayLegend",
-      "Text": "Displays the RecaptchaV2 test template"
+      "Text": "Displays the RecaptchaV2 test component"
     },
     {
       "Name": "displayLink",
@@ -17,19 +17,19 @@
     },
     {
       "Name": "displayTooltip",
-      "Text": "Display the RecaptchaV2 test template"
+      "Text": "Display the RecaptchaV2 test component"
     },
     {
       "Name": "modName",
-      "Text": "Template Test - RecaptchaV2"
+      "Text": "Component Test - RecaptchaV2"
     },
     {
       "Name": "modSummary",
-      "Text": "RecaptchaV2 test template"
+      "Text": "RecaptchaV2 test component"
     },
     {
       "Name": "modTitle",
-      "Text": "RecaptchaV2 Test Template"
+      "Text": "RecaptchaV2 Test Component"
     }
   ]
 }

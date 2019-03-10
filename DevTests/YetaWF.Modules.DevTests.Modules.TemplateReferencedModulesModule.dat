@@ -5,15 +5,15 @@
   "Strings": [
     {
       "Name": "modName",
-      "Text": "Template Test - ReferencedModules"
+      "Text": "Component Test - ReferencedModules"
     },
     {
       "Name": "modSummary",
-      "Text": "ReferencedModules test template"
+      "Text": "ReferencedModules test component"
     },
     {
       "Name": "modTitle",
-      "Text": "ReferencedModules Test Template"
+      "Text": "ReferencedModules Test Component"
     }
   ]
 }

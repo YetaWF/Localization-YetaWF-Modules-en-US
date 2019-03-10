@@ -5,15 +5,15 @@
   "Strings": [
     {
       "Name": "modName",
-      "Text": "Template Test - Skin Selection"
+      "Text": "Component Test - Skin Selection"
     },
     {
       "Name": "modSummary",
-      "Text": "Skin selection test template"
+      "Text": "Skin selection test component"
     },
     {
       "Name": "modTitle",
-      "Text": "Skin Selection Test Template"
+      "Text": "Skin Selection Test Component"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "Strings": [
     {
       "Name": "modName",
-      "Text": "Template Test - DateTime"
+      "Text": "Component Test - DateTime"
     },
     {
       "Name": "modSummary",
-      "Text": "DateTime test template"
+      "Text": "DateTime test component"
     },
     {
       "Name": "modTitle",
-      "Text": "DateTime Test Template"
+      "Text": "DateTime Test Component"
     }
   ]
 }

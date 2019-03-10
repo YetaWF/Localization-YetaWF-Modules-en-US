@@ -5,15 +5,15 @@
   "Strings": [
     {
       "Name": "modName",
-      "Text": "Template Test - ColorPicker"
+      "Text": "Component Test - ColorPicker"
     },
     {
       "Name": "modSummary",
-      "Text": "ColorPicker test template"
+      "Text": "ColorPicker test component"
     },
     {
       "Name": "modTitle",
-      "Text": "ColorPicker Test Template"
+      "Text": "ColorPicker Test Component"
     }
   ]
 }

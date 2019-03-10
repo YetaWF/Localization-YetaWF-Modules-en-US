@@ -5,15 +5,15 @@
   "Strings": [
     {
       "Name": "modName",
-      "Text": "Template Test - MultiString"
+      "Text": "Component Test - MultiString"
     },
     {
       "Name": "modSummary",
-      "Text": "MultiString test template"
+      "Text": "MultiString test component"
     },
     {
       "Name": "modTitle",
-      "Text": "MultiString Test Template"
+      "Text": "MultiString Test Component"
     }
   ]
 }

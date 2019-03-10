@@ -21,15 +21,15 @@
     },
     {
       "Name": "modName",
-      "Text": "Template Test - Tree (Static)"
+      "Text": "Component Test - Tree (Static)"
     },
     {
       "Name": "modSummary",
-      "Text": "Tree (Static) test template"
+      "Text": "Tree (Static) test component"
     },
     {
       "Name": "modTitle",
-      "Text": "Tree (Static) Test Template"
+      "Text": "Tree (Static) Test Component"
     }
   ]
 }

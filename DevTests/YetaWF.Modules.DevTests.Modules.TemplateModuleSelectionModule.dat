@@ -5,15 +5,15 @@
   "Strings": [
     {
       "Name": "modName",
-      "Text": "Template Test - ModuleSelection"
+      "Text": "Component Test - ModuleSelection"
     },
     {
       "Name": "modSummary",
-      "Text": "ModuleSelection test template"
+      "Text": "ModuleSelection test component"
     },
     {
       "Name": "modTitle",
-      "Text": "ModuleSelection Test Template"
+      "Text": "ModuleSelection Test Component"
     }
   ]
 }

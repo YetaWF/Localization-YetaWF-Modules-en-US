@@ -21,15 +21,15 @@
     },
     {
       "Name": "modName",
-      "Text": "Template Test - UserId"
+      "Text": "Component Test - UserId"
     },
     {
       "Name": "modSummary",
-      "Text": "UserId test template"
+      "Text": "UserId test component"
     },
     {
       "Name": "modTitle",
-      "Text": "UserId Test Template"
+      "Text": "UserId Test Component"
     }
   ]
 }

@@ -21,15 +21,15 @@
     },
     {
       "Name": "modName",
-      "Text": "Template Test - Grid (Static)"
+      "Text": "Component Test - Grid (Static)"
     },
     {
       "Name": "modSummary",
-      "Text": "Grid (Static) test template"
+      "Text": "Grid (Static) test component"
     },
     {
       "Name": "modTitle",
-      "Text": "Grid (Static) Test Template"
+      "Text": "Grid (Static) Test Component"
     }
   ]
 }

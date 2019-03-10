@@ -5,15 +5,15 @@
   "Strings": [
     {
       "Name": "modName",
-      "Text": "Template Test - TimeZone"
+      "Text": "Component Test - TimeZone"
     },
     {
       "Name": "modSummary",
-      "Text": "TimeZone test template"
+      "Text": "TimeZone test component"
     },
     {
       "Name": "modTitle",
-      "Text": "TimeZone Test Template"
+      "Text": "TimeZone Test Component"
     }
   ]
 }

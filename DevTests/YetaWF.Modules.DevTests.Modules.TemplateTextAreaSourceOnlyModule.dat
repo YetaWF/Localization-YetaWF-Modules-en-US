@@ -5,15 +5,15 @@
   "Strings": [
     {
       "Name": "modName",
-      "Text": "Template Test - TextAreaSourceOnly"
+      "Text": "Component Test - TextAreaSourceOnly"
     },
     {
       "Name": "modSummary",
-      "Text": "TextAreaSourceOnly test template"
+      "Text": "TextAreaSourceOnly test component"
     },
     {
       "Name": "modTitle",
-      "Text": "TextAreaSourceOnly Test Template"
+      "Text": "TextAreaSourceOnly Test Component"
     }
   ]
 }
