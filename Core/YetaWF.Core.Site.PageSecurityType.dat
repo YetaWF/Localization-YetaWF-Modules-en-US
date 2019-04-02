@@ -8,20 +8,20 @@
         {
           "Name": "AsProvided",
           "Value": "AsProvided",
-          "Caption": "As Provided in Url",
-          "Description": "As Provided in Url - This can be overridden by pages using an explicit mode"
+          "Caption": "As Provided in URL",
+          "Description": "As Provided in URL - This can be overridden by pages using an explicit mode"
         },
         {
           "Name": "AsProvidedAnonymous_LoggedOnhttps",
           "Value": "AsProvidedAnonymous_LoggedOnhttps",
           "Caption": "As Provided (Anonymous) - https:// (Logged on)",
-          "Description": "As Provided in Url for anonymous users - Logged on users default to https:// - This can be overridden by pages using an explicit mode"
+          "Description": "As Provided in URL for anonymous users - Logged on users default to https:// - This can be overridden by pages using an explicit mode"
         },
         {
           "Name": "AsProvidedLoggedOn_Anonymoushttp",
           "Value": "AsProvidedLoggedOn_Anonymoushttp",
           "Caption": "As Provided (Logged on) - http:// (Anonymous)",
-          "Description": "As Provided in Url for logged on users - Anonymous users default to http:// - This can be overridden by pages using an explicit mode"
+          "Description": "As Provided in URL for logged on users - Anonymous users default to http:// - This can be overridden by pages using an explicit mode"
         },
         {
           "Name": "UsePageModuleSettings",

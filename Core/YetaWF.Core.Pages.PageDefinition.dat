@@ -1,6 +1,27 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Core.Pages.PageDefinition",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "Variables": "Variables"
+      },
+      "Properties": [
+        {
+          "Name": "CopyrightEvaluated",
+          "Caption": "Copyright",
+          "Description": "The Copyright property with evaluated substitutions",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [
     {
       "Name": "YetaWF.Core.Pages.PageDefinition+AllowedEnum",

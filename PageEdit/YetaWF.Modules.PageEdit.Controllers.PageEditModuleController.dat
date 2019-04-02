@@ -77,7 +77,15 @@
         {
           "Name": "Copyright",
           "Caption": "Copyright",
-          "Description": "Defines an optional copyright notice displayed on the page, if supported by the skin used - If not defined, a default copyright notice may be defined in Site Properties",
+          "Description": "Defines an optional copyright notice displayed on the page, if supported by the skin used - If not defined, a default copyright notice may be defined in Site Properties - Use <<Year>> for current year",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CopyrightEvaluated",
+          "Caption": "Copyright",
+          "Description": "The Copyright property with evaluated substitutions",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

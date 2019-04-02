@@ -64,7 +64,7 @@
         {
           "Name": "AnalyticsContent",
           "Caption": "Analytics (Content)",
-          "Description": "Add analytics JavaScript code that should be executed when a new page becomes active in an active Unified Page Set - Do not include <script></script> tags - Use <<Url>> to substitute the actual Url - Pages can override this setting",
+          "Description": "Add analytics JavaScript code that should be executed when a new page becomes active in an active Unified Page Set - Do not include <script></script> tags - Use <<Url>> to substitute the actual URL - Pages can override this setting",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -104,7 +104,7 @@
         {
           "Name": "CanUseCDNComponents",
           "Caption": "Current Status",
-          "Description": "Shows whether a Content Delivery Network is currently used for some of the 3rd party packages where a CDN is available (e.g., jQuery, jQuery-UI, KendoUI, etc.) - Appsettings.json (P:YetaWF_Core:UseCDNComponents) must be set to true for the \"Use CDN (Global Addons)\" setting to be honored, otherwise a CDN is not used for 3rd party packages",
+          "Description": "Shows whether a Content Delivery Network is currently used for some of the 3rd party packages where a CDN is available (e.g., jQuery, jQuery-UI, KendoUI, etc.) - Appsettings.json (Application.P.YetaWF_Core.UseCDNComponents) must be set to true for the \"Use CDN (Global Addons)\" setting to be honored, otherwise a CDN is not used for 3rd party packages",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -112,23 +112,23 @@
         {
           "Name": "CanUseStaticDomain",
           "Caption": "Current Status",
-          "Description": "Shows whether a separate Url is used for the site's static files - Appsettings.json (P:YetaWF_Core:UseStaticDomain) must be set to true for the \"Static Files Url\" setting to be honored, otherwise it is not used",
+          "Description": "Shows whether a separate URL is used for the site's static files - Appsettings.json (P:YetaWF_Core:UseStaticDomain) must be set to true for the \"Static Files URL\" setting to be honored, otherwise it is not used",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
           "Name": "CDNUrl",
-          "Caption": "CDN Url",
-          "Description": "If you are using a Content Delivery Network for static files located on your site, enter the CDN root Url for http:// access here - Based on whether you enabled the use of your CDN, the appropriate Url will be substituted - The site (and all instances) must be restarted for this setting to take effect",
+          "Caption": "CDN URL",
+          "Description": "If you are using a Content Delivery Network for static files located on your site, enter the CDN root URL for http:// access here - Based on whether you enabled the use of your CDN, the appropriate URL will be substituted - The site (and all instances) must be restarted for this setting to take effect",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
           "Name": "CDNUrlSecure",
-          "Caption": "CDN Url (Secure)",
-          "Description": "If you are using a Content Delivery Network for static files located on your site, enter the CDN root Url for https:// (secure) access here - Based on whether you enabled the use of your CDN, the appropriate Url will be substituted - If no secure Url is specified, the Url defined using the CDN Url is used instead - The site (and all instances) must be restarted for this setting to take effect",
+          "Caption": "CDN URL (Secure)",
+          "Description": "If you are using a Content Delivery Network for static files located on your site, enter the CDN root URL for https:// (secure) access here - Based on whether you enabled the use of your CDN, the appropriate URL will be substituted - If no secure URL is specified, the URL defined using the CDN URL is used instead - The site (and all instances) must be restarted for this setting to take effect",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -280,7 +280,7 @@
         {
           "Name": "EnforceSitePort",
           "Caption": "Enforce Port",
-          "Description": "Defines whether links generated for the site will use the defined site port(s). When running locally (usually on a development system) using 'localhost' or when using the test domain Url, this property is ignored",
+          "Description": "Defines whether links generated for the site will use the defined site port(s). When running locally (usually on a development system) using 'localhost' or when using the test domain URL, this property is ignored",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -288,15 +288,15 @@
         {
           "Name": "EnforceSiteUrl",
           "Caption": "Enforce Domain Name",
-          "Description": "Defines whether incoming requests for the site will be redirected to the defined site domain name and links generated for the site will use the defined site domain. This allows multiple domain names to point to the same site, but all are redirected to the defined site Url, which is best for SEO (search engine optimization). When running locally (usually on a development system) using 'localhost' or when using the test domain Url, this property is ignored",
+          "Description": "Defines whether incoming requests for the site will be redirected to the defined site domain name and links generated for the site will use the defined site domain. This allows multiple domain names to point to the same site, but all are redirected to the defined site URL, which is best for SEO (search engine optimization). When running locally (usually on a development system) using 'localhost' or when using the test domain URL, this property is ignored",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
           "Name": "ExternalAccountSetupUrl",
-          "Caption": "External Account Setup Url",
-          "Description": "The Url where the user is redirected to provide local information when using an external login provider",
+          "Caption": "External Account Setup URL",
+          "Description": "The URL where the user is redirected to provide local information when using an external login provider",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -432,7 +432,7 @@
         {
           "Name": "Locked",
           "Caption": "Locked",
-          "Description": "Defines whether the site is locked for maintenance - If enabled, all users (except you) are redirected to a 'Maintenance' page defined using Locked Url Redirect",
+          "Description": "Defines whether the site is locked for maintenance - If enabled, all users (except you) are redirected to a 'Maintenance' page defined using Locked URL Redirect",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -440,7 +440,7 @@
         {
           "Name": "LockedExternal",
           "Caption": "Locked",
-          "Description": "Defines whether the site is locked for maintenance - If enabled, all users (except you) are redirected to a 'Maintenance' page defined using Locked Url Redirect - Can only be enabled/disable using Appsettings.json",
+          "Description": "Defines whether the site is locked for maintenance - If enabled, all users (except you) are redirected to a 'Maintenance' page defined using Locked URL Redirect - Can only be enabled/disable using Appsettings.json",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -448,7 +448,7 @@
         {
           "Name": "LockedExternalForIP",
           "Caption": "Locked For IP Address",
-          "Description": "The only IP address that has access to the site - All others are redirected to a 'Maintenance' page defined using Locked Url Redirect - This is typically used while maintenance is applied to a site so only one IP address has access to the site",
+          "Description": "The only IP address that has access to the site - All others are redirected to a 'Maintenance' page defined using Locked URL Redirect - This is typically used while maintenance is applied to a site so only one IP address has access to the site",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -456,14 +456,14 @@
         {
           "Name": "LockedForIP",
           "Caption": "Locked For IP Address",
-          "Description": "The only IP address that has access to the site - All others are redirected to a 'Maintenance' page defined using Locked Url Redirect - This is typically used while maintenance is applied to a site so only one IP address has access to the site",
+          "Description": "The only IP address that has access to the site - All others are redirected to a 'Maintenance' page defined using Locked URL Redirect - This is typically used while maintenance is applied to a site so only one IP address has access to the site",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
           "Name": "LockedUrl",
-          "Caption": "Locked Url Redirect",
+          "Caption": "Locked URL Redirect",
           "Description": "The page where the user is redirected when the site is locked (down for maintenance)",
           "HelpLink": null,
           "TextAbove": null,
@@ -471,16 +471,16 @@
         },
         {
           "Name": "LoginUrl",
-          "Caption": "Login Url",
-          "Description": "The Url where the user is redirected to log into the site",
+          "Caption": "Login URL",
+          "Description": "The URL where the user is redirected to log into the site",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
           "Name": "MobileSiteUrl",
-          "Caption": "Mobile Device Url",
-          "Description": "If a mobile device accesses this site, the user is redirected to this Url",
+          "Caption": "Mobile Device URL",
+          "Description": "If a mobile device accesses this site, the user is redirected to this URL",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -488,7 +488,7 @@
         {
           "Name": "NotFoundUrl",
           "Caption": "Page Not Found",
-          "Description": "If an non-existent page is accessed, the user is redirected to this Url",
+          "Description": "If an non-existent page is accessed, the user is redirected to this URL",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -504,7 +504,7 @@
         {
           "Name": "PageSecurity",
           "Caption": "Enforce Security",
-          "Description": "Defines how page security using http/https (SSL, Secure Sockets Layer) is enforced - This property is ignored when using the test domain Url",
+          "Description": "Defines how page security using http/https (SSL, Secure Sockets Layer) is enforced - This property is ignored when using the test domain URL",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -600,23 +600,23 @@
         {
           "Name": "SiteTestDomain",
           "Caption": "Test Domain",
-          "Description": "Defines the host name for the test domain - This can be used with tools such as ngrok to access the site using a different Url for testing purposes - This setting is only honored in DEBUG builds - The site (and all instances) must be restarted for this setting to take effect",
+          "Description": "Defines the host name for the test domain - This can be used with tools such as ngrok to access the site using a different URL for testing purposes - This setting is only honored in DEBUG builds - The site (and all instances) must be restarted for this setting to take effect",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
           "Name": "SiteUrlHttp",
-          "Caption": "Site Url With http",
-          "Description": "The site Url including http:",
+          "Caption": "Site URL With http",
+          "Description": "The site URL including http:",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
           "Name": "SiteUrlHttps",
-          "Caption": "Site Url With https",
-          "Description": "The site Url including https:",
+          "Caption": "Site URL With https",
+          "Description": "The site URL including https:",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -655,8 +655,8 @@
         },
         {
           "Name": "UnsupportedBrowserUrl",
-          "Caption": "Unsupported Browsers Url",
-          "Description": "If an unsupported browsers accesses this site, the user is redirected to this Url - If no Url is defined, browser versions are not checked",
+          "Caption": "Unsupported Browsers URL",
+          "Description": "If an unsupported browsers accesses this site, the user is redirected to this URL - If no URL is defined, browser versions are not checked",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -664,7 +664,7 @@
         {
           "Name": "UseCDN",
           "Caption": "Use CDN (Site Content)",
-          "Description": "Defines whether the Content Delivery Network Url is used for the site's static files - This is typically only used for production sites - Appsettings.json (P:YetaWF_Core:UseCDN) must be set to true for this setting to be honored, otherwise a CDN is not used for site content - The site (and all instances) must be restarted for this setting to take effect",
+          "Description": "Defines whether the Content Delivery Network URL is used for the site's static files - This is typically only used for production sites - Appsettings.json (P:YetaWF_Core:UseCDN) must be set to true for this setting to be honored, otherwise a CDN is not used for site content - The site (and all instances) must be restarted for this setting to take effect",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -672,7 +672,7 @@
         {
           "Name": "UseCDNComponents",
           "Caption": "Use CDN (Global Addons)",
-          "Description": "Defines whether a Content Delivery Network is used for some of the 3rd party packages where a CDN is available (e.g., jQuery, jQuery-UI, KendoUI, etc.) - This is typically only used for production sites - Appsettings.json (P:YetaWF_Core:UseCDNComponents) must be set to true for this setting to be honored, otherwise a CDN is not used for 3rd party packages - The site (and all instances) must be restarted for this setting to take effect",
+          "Description": "Defines whether a Content Delivery Network is used for some of the 3rd party packages where a CDN is available (e.g., jQuery, jQuery-UI, KendoUI, etc.) - This is typically only used for production sites - Appsettings.json (Application.P.YetaWF_Core.UseCDNComponents) must be set to true for this setting to be honored, otherwise a CDN is not used for 3rd party packages - The site (and all instances) must be restarted for this setting to take effect",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

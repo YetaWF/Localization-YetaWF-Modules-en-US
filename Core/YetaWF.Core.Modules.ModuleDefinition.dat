@@ -155,8 +155,8 @@
         },
         {
           "Name": "InvokingCss",
-          "Caption": "Invoking Css",
-          "Description": "Defines the Css that causes this module to be injected into the page, when the Css is used by a template - only supported for unique modules",
+          "Caption": "Invoking CSS",
+          "Description": "Defines the CSS that causes this module to be injected into the page, when the CSS is used by a template - only supported for unique modules",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -371,8 +371,8 @@
         },
         {
           "Name": "UsePartialFormCss",
-          "Caption": "Partial Form Css",
-          "Description": "Defines whether the skin's partial form Css is added to partial forms within this module - Partial form Css is never used in popup windows or on mobile devices",
+          "Caption": "Partial Form CSS",
+          "Description": "Defines whether the skin's partial form CSS is added to partial forms within this module - Partial form CSS is never used in popup windows or on mobile devices",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
