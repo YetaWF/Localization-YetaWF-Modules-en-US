@@ -14,8 +14,8 @@
         {
           "Name": "Template",
           "Value": "Template",
-          "Caption": "Template",
-          "Description": "Template Addon"
+          "Caption": "Component",
+          "Description": "Component Addon"
         },
         {
           "Name": "Skin",
