@@ -1,0 +1,46 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.UserSettings.Controllers.MinimalSettingsEditModuleController+EditModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "DateFormat",
+          "Caption": "Date Format",
+          "Description": "The desired date format when dates are displayed on this website",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TimeFormat",
+          "Caption": "Time Format",
+          "Description": "The desired time format when times are displayed on this website",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TimeZone",
+          "Caption": "Time Zone",
+          "Description": "Your time zone - all dates/times within this web site will be adjusted for the specified time zone",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "okSaved",
+      "Text": "Your settings have been successfully saved"
+    }
+  ]
+}

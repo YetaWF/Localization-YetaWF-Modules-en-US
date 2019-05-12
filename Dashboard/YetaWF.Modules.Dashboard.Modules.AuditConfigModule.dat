@@ -1,0 +1,35 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "editLegend",
+      "Text": "Edits the audit settings"
+    },
+    {
+      "Name": "editLink",
+      "Text": "Audit Settings"
+    },
+    {
+      "Name": "editText",
+      "Text": "Audit Settings"
+    },
+    {
+      "Name": "editTooltip",
+      "Text": "Edit the audit settings"
+    },
+    {
+      "Name": "modName",
+      "Text": "Audit Settings"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Edits a site's audit settings"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Audit Settings"
+    }
+  ]
+}

@@ -8,8 +8,8 @@
         {
           "Name": "NeedValidation",
           "Value": "NeedValidation",
-          "Caption": "Needs Validation",
-          "Description": "A new user account that has not yet been validated or approved"
+          "Caption": "Needs Verification",
+          "Description": "A new user account that has not yet been verified or approved"
         },
         {
           "Name": "NeedApproval",

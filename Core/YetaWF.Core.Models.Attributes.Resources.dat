@@ -80,6 +80,14 @@
       "Text": "The '{0}' field is required - Please select one of the available options"
     },
     {
+      "Name": "selectionRequired",
+      "Text": "The '{0}' field is required - Please select one of the available options"
+    },
+    {
+      "Name": "SelectionRequiredIf",
+      "Text": "The '{0}' field is required - Please select one of the available options"
+    },
+    {
       "Name": "valAnchor",
       "Text": "The anchor id is invalid - use only the letters a-z, A-Z, _, - and 0-9 for ids"
     },

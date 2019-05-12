@@ -92,7 +92,7 @@
     },
     {
       "Name": "notValidated",
-      "Text": "Your account has not yet been validated. You will receive an email with validation information. Please copy and enter the verification code here."
+      "Text": "Your account has not yet been verified. You will receive an email with verification information. Please copy and enter the verification code here."
     }
   ]
 }

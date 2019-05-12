@@ -1,0 +1,35 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "editLegend",
+      "Text": "Edits your user settings (date/time formats)"
+    },
+    {
+      "Name": "editLink",
+      "Text": "Edit Settings"
+    },
+    {
+      "Name": "editText",
+      "Text": "Edit Settings"
+    },
+    {
+      "Name": "editTooltip",
+      "Text": "Edit your user settings (date/time formats)"
+    },
+    {
+      "Name": "modName",
+      "Text": "User Settings (Minimal)"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Edit a user's settings, minimal fields"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "User Settings"
+    }
+  ]
+}

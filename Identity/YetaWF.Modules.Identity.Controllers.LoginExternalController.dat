@@ -13,7 +13,7 @@
     },
     {
       "Name": "notValidated",
-      "Text": "Your account has not yet been validated. You will receive an email with validation information. Once received, please use the information in the email to complete the registration."
+      "Text": "Your account has not yet been verified. You will receive an email with verification information. Once received, please use the information in the email to complete the registration."
     }
   ]
 }
