@@ -34,6 +34,14 @@
           "TextBelow": null
         },
         {
+          "Name": "PostLoginUrl",
+          "Caption": "Post Login URL",
+          "Description": "The URL where a user with this role is redirected after logging on",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "RoleId",
           "Caption": "Role Id",
           "Description": "The internal id of the role",

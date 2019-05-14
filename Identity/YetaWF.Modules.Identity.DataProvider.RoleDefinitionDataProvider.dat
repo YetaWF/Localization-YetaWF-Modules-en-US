@@ -12,8 +12,20 @@
       "Text": "The {0} role describes every user that is not logged in (i.e., not an authenticated user)"
     },
     {
+      "Name": "cantAddSuper",
+      "Text": "Can't add built-in superuser role"
+    },
+    {
+      "Name": "cantRemoveSuper",
+      "Text": "Can't remove built-in superuser role"
+    },
+    {
       "Name": "cantRemoveUser",
       "Text": "The {0} role can't be removed"
+    },
+    {
+      "Name": "cantUpdateSuper",
+      "Text": "Can't update built-in superuser role"
     },
     {
       "Name": "cantUpdateUser",

@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "modName",
+      "Text": "Redirect Logged On Users"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Redirects logged on users to other pages"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Redirect Logged On Users"
+    }
+  ]
+}

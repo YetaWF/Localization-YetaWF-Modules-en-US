@@ -17,7 +17,7 @@
         "References": "References",
         "Site": "Site",
         "Skin": "Skin",
-        "Urls": "Urls",
+        "URLs": "URLs",
         "Variables": "Variables"
       },
       "Properties": [
@@ -521,6 +521,14 @@
           "Name": "PortNumberSSLEval",
           "Caption": "Port Number (SSL)",
           "Description": "The port number used to access this site using https (SSL - Secure Sockets Layer) - The typical port for SSL is 443",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PostLoginUrl",
+          "Caption": "Post Login URL",
+          "Description": "The URL where the user is redirected after logging into the site - If the next URL is already known, this field has no effect - Individual roles can override this setting",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
