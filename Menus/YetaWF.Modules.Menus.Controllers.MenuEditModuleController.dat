@@ -6,10 +6,6 @@
     {
       "Name": "menuChanged",
       "Text": "The menu has been changed by someone else - Your changes can't be saved - Please refresh the current page before proceeding"
-    },
-    {
-      "Name": "newUrl",
-      "Text": "(new)"
     }
   ]
 }
