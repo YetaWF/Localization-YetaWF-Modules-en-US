@@ -45,6 +45,14 @@
           "TextBelow": null
         },
         {
+          "Name": "MaxSMSPerSecond",
+          "Caption": "Max. SMS Per Second",
+          "Description": "Defines the maximum number of SMS that are supported by the phone number - Set to 0 to disable pacing - Twilio phone numbers have restrictions as to how many SMS can be sent per second",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "SMSEnabled",
           "Caption": "Enabled",
           "Description": "Defines whether the Twilio SMS phone number is enabled",

@@ -1,0 +1,11 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "inv",
+      "Text": "{0} is an invalid phone number. International phone numbers are not supported."
+    }
+  ]
+}

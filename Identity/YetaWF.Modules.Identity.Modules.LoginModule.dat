@@ -40,6 +40,22 @@
       "Text": "User login"
     },
     {
+      "Name": "sendVerificationLegend",
+      "Text": "Sends a verification email to the user"
+    },
+    {
+      "Name": "sendVerificationLink",
+      "Text": "Resend Verification Email"
+    },
+    {
+      "Name": "sendVerificationMenu",
+      "Text": "Resend Verification Email"
+    },
+    {
+      "Name": "sendVerificationTT",
+      "Text": "Sends a verification email to you"
+    },
+    {
       "Name": "title",
       "Text": "Login"
     }
