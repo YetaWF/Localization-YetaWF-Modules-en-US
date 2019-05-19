@@ -34,6 +34,14 @@
           "TextBelow": null
         },
         {
+          "Name": "Disabled",
+          "Caption": "Disabled",
+          "Description": "Defines whether the Unified Page Set is disabled",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "MasterPageGuid",
           "Caption": "Master Page",
           "Description": "Defines the master page for the Unified Page Set that defines the skin, referenced modules, authorization and all other page attributes",

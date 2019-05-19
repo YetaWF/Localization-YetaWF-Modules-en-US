@@ -352,7 +352,7 @@
           "Name": "None",
           "Value": "None",
           "Caption": "None",
-          "Description": "The Unified Page Set does not combine page content - Each page is shown individually (used to disable the Unified Page Set) - Use with small page sets"
+          "Description": "The Unified Page Set does not combine page content - Each page is shown individually (full page load)"
         },
         {
           "Name": "HideDivs",

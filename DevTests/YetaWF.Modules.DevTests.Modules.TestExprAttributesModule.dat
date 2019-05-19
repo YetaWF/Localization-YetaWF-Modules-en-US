@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "modName",
+      "Text": "Test ExprAttributes"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Tests various property attributes"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Test ExprAttributes"
+    }
+  ]
+}
