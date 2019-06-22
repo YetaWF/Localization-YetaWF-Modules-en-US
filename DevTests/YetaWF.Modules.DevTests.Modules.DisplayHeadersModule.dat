@@ -1,0 +1,35 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "displayLegend",
+      "Text": "Displays request headers"
+    },
+    {
+      "Name": "displayLink",
+      "Text": "Display"
+    },
+    {
+      "Name": "displayText",
+      "Text": "Display"
+    },
+    {
+      "Name": "displayTooltip",
+      "Text": "Display request headers"
+    },
+    {
+      "Name": "modName",
+      "Text": "Headers"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Displays request headers"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Headers"
+    }
+  ]
+}

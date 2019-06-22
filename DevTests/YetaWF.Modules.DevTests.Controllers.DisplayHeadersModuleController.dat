@@ -1,0 +1,25 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.DevTests.Controllers.DisplayHeadersModuleController+DisplayModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Headers",
+          "Caption": "Headers",
+          "Description": "Request Headers",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": []
+}
