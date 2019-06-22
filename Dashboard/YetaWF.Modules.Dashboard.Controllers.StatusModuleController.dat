@@ -19,8 +19,8 @@
         },
         {
           "Name": "BlueGreenDeploy",
-          "Caption": "Blue-Green Deploy",
-          "Description": "The currently deployed site (Blue/Green)",
+          "Caption": "Deployment Type",
+          "Description": "The deployment type used for the current site",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -37,6 +37,14 @@
           "Name": "CoreVersion",
           "Caption": "YetaWF Version",
           "Description": "The YetaWF version installed (Core Package)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "FrameworkDescription",
+          "Caption": "Operating System",
+          "Description": "",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -59,8 +67,32 @@
         },
         {
           "Name": "MultiInstance",
-          "Caption": "WebFarm/WebGarden Enabled",
-          "Description": "Defines whether webfarm/webgarden support is enabled using shared caching",
+          "Caption": "Multi-Instance Enabled",
+          "Description": "Defines whether multiple running instances (container/webfarm/webgarden) support is enabled using shared caching",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "OSArchitecture",
+          "Caption": "Operating System Architecture",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "OSDescription",
+          "Caption": "Operating System",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ProcessArchitecture",
+          "Caption": "Processor Architecture",
+          "Description": "",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
