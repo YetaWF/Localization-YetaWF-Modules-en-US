@@ -23,5 +23,50 @@
     }
   ],
   "Enums": [],
-  "Strings": []
+  "Strings": [
+    {
+      "Name": "browseLegend",
+      "Text": "Displays and manages sites"
+    },
+    {
+      "Name": "browseLink",
+      "Text": "Sites"
+    },
+    {
+      "Name": "browseText",
+      "Text": "Sites"
+    },
+    {
+      "Name": "browseTooltip",
+      "Text": "Display and manage sites"
+    },
+    {
+      "Name": "dispLegend",
+      "Text": "Displays the site \"{0}\""
+    },
+    {
+      "Name": "dispLink",
+      "Text": "Display Site \"{0}\""
+    },
+    {
+      "Name": "dispText",
+      "Text": "Display Site \"{0}\""
+    },
+    {
+      "Name": "dispTooltip",
+      "Text": "Display the site \"{0}\""
+    },
+    {
+      "Name": "modName",
+      "Text": "Sites"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Displays and manages sites"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Sites"
+    }
+  ]
 }

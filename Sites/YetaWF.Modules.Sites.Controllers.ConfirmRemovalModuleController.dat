@@ -21,5 +21,10 @@
     }
   ],
   "Enums": [],
-  "Strings": []
+  "Strings": [
+    {
+      "Name": "okRemoved",
+      "Text": "Site \"{0}\" has been removed(+nl)(+nl)The site is now restarting"
+    }
+  ]
 }
