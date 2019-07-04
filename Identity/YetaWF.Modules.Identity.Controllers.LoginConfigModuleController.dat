@@ -153,9 +153,17 @@
           "TextBelow": null
         },
         {
+          "Name": "ResetTimeSpan",
+          "Caption": "Password Reset",
+          "Description": "Defines how long a password reset email is valid - Password reset emails are only sent if passwords are not saved by this site (Save Password) - Not used for external login providers",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "SavePlainTextPassword",
           "Caption": "Save Password",
-          "Description": "Defines whether the user's password is saved so it can be recovered (and emailed to the user if necessary) - Not used for external login providers",
+          "Description": "Defines whether the user's password is saved so it can be recovered (and emailed to the user if necessary) - If passwords are not saved password, a reset email is sent to the user instead which requires a provided key to be entered to reset the password - Not used for external login providers",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

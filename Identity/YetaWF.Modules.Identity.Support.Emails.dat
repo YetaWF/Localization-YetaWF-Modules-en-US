@@ -24,6 +24,10 @@
       "Text": "Your account for {0}"
     },
     {
+      "Name": "resetSubject",
+      "Text": "Password Reset for {0}"
+    },
+    {
       "Name": "suspendedSubject",
       "Text": "Your account for {0}"
     },

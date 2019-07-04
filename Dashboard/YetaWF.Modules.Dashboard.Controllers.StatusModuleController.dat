@@ -43,7 +43,7 @@
         },
         {
           "Name": "FrameworkDescription",
-          "Caption": "Operating System",
+          "Caption": "Framework",
           "Description": "",
           "HelpLink": null,
           "TextAbove": null,
