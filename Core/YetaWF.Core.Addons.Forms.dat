@@ -4,6 +4,10 @@
   "Enums": [],
   "Strings": [
     {
+      "Name": "AjaxConnLost",
+      "Text": "Server Connection Lost"
+    },
+    {
       "Name": "AjaxError",
       "Text": "An error occurred processing this form:(+nl)(+nl){0} - {1}"
     },
