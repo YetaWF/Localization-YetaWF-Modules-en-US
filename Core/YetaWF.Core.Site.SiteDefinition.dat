@@ -662,6 +662,14 @@
           "TextBelow": null
         },
         {
+          "Name": "TimeZone",
+          "Caption": "Timezone",
+          "Description": "The default timezone for all users of this site",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "UnsupportedBrowserUrl",
           "Caption": "Unsupported Browsers URL",
           "Description": "If an unsupported browsers accesses this site, the user is redirected to this URL - If no URL is defined, browser versions are not checked",
