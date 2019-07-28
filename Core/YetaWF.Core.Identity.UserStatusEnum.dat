@@ -3,7 +3,7 @@
   "Classes": [],
   "Enums": [
     {
-      "Name": "YetaWF.Modules.Identity.DataProvider.UserStatusEnum",
+      "Name": "YetaWF.Core.Identity.UserStatusEnum",
       "Entries": [
         {
           "Name": "NeedValidation",
