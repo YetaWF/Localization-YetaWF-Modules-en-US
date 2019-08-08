@@ -10,6 +10,14 @@
       "Categories": {},
       "Properties": [
         {
+          "Name": "ControlStatus",
+          "Caption": "Control Status",
+          "Description": "Defines the processing status of the controls",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "LocalUrl",
           "Caption": "Local Url",
           "Description": "Local Url",
@@ -67,8 +75,8 @@
         },
         {
           "Name": "Url2",
-          "Caption": "Url",
-          "Description": "Url",
+          "Caption": "Url2",
+          "Description": "Url2",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

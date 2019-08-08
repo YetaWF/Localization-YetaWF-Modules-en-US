@@ -10,6 +10,14 @@
       "Categories": {},
       "Properties": [
         {
+          "Name": "ControlStatus",
+          "Caption": "Control Status",
+          "Description": "Defines the processing status of the controls",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "Module",
           "Caption": "Module Selection",
           "Description": "Existing module",
