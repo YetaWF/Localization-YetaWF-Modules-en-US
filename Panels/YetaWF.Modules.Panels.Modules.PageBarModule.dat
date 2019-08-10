@@ -1,0 +1,106 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Panels.Modules.PageBarModule",
+      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition",
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "General": "General"
+      },
+      "Properties": [
+        {
+          "Name": "ContentPane",
+          "Caption": "Content Pane",
+          "Description": "Defines the pane used to extract page content - leave blank to use the main pane as page content",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DefaultImage",
+          "Caption": "Default Image",
+          "Description": "The default image used when a page doesn't define its own FavIcon",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PageList",
+          "Caption": "Page List",
+          "Description": "Defines the pages and their order as they are displayed in the Page Bar using their FavIcons and page description - Pages added to the Page List are shown ahead of pages discovered using the Page Pattern",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PagePattern",
+          "Caption": "Page Pattern",
+          "Description": "Defines a Regex pattern - All pages matching this pattern will be included in the Page Bar - for example, ^/Admin/Config/[^/]*$ would include all pages starting with /Admin/Config/, but would not include their child pages - Pages added to the Page List are shown ahead of pages discovered using the Page Pattern",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Style",
+          "Caption": "Style",
+          "Description": "Defines the appearance of page entries",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [
+    {
+      "Name": "YetaWF.Modules.Panels.Modules.PageBarModule+PanelStyleEnum",
+      "Entries": [
+        {
+          "Name": "Vertical",
+          "Value": "Vertical",
+          "Caption": "Vertical",
+          "Description": "Displays the page FavIcon and page title arranged vertically"
+        },
+        {
+          "Name": "Horizontal",
+          "Value": "Horizontal",
+          "Caption": "Horizontal",
+          "Description": "Displays the page FavIcon, page title arranged horizontally"
+        }
+      ]
+    }
+  ],
+  "Strings": [
+    {
+      "Name": "displayLegend",
+      "Text": "Displays the Page Bar"
+    },
+    {
+      "Name": "displayLink",
+      "Text": "Page Bar"
+    },
+    {
+      "Name": "displayText",
+      "Text": "Page Bar"
+    },
+    {
+      "Name": "displayTooltip",
+      "Text": "Display the Page Bar"
+    },
+    {
+      "Name": "modName",
+      "Text": "Page Bar"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Page Bar - used to display multiple links to pages using the pages' FavIcon, displaying the page contents within the PageBar module"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Page Bar"
+    }
+  ]
+}
