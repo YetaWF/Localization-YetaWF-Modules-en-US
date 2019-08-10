@@ -663,8 +663,8 @@
         },
         {
           "Name": "TimeZone",
-          "Caption": "Timezone",
-          "Description": "The default timezone for all users of this site",
+          "Caption": "Time Zone",
+          "Description": "The default time zone for all users of this site",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

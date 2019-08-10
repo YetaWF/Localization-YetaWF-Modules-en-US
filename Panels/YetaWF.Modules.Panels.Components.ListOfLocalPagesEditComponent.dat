@@ -12,7 +12,7 @@
         {
           "Name": "Popup",
           "Caption": "Popup",
-          "Description": "Defines whether the page is shown in a popup window",
+          "Description": "Defines whether the page is shown in a popup window (ignored when used in a Page Bar module)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -62,7 +62,7 @@
         {
           "Name": "Popup",
           "Caption": "Popup",
-          "Description": "Defines whether the page is shown in a popup window",
+          "Description": "Defines whether the page is shown in a popup window (ignored when used in a Page Bar module)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
