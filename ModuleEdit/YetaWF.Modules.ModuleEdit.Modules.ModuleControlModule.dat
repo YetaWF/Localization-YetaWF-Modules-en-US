@@ -33,6 +33,10 @@
   "Enums": [],
   "Strings": [
     {
+      "Name": "confirmPermRemove",
+      "Text": "Are you sure you want to PERMANENTLY remove this module?"
+    },
+    {
       "Name": "confirmRemove",
       "Text": "Are you sure you want to remove this module?"
     },
@@ -146,11 +150,27 @@
     },
     {
       "Name": "modRemoveLegend",
-      "Text": "Removes the module from the page"
+      "Text": "Removes the module from this page (the module itself and its data are NOT deleted and can still be used on other pages or added again)"
     },
     {
       "Name": "modRemoveLink",
-      "Text": "Remove Module"
+      "Text": "Remove"
+    },
+    {
+      "Name": "modRemovePermLegend",
+      "Text": "Removes the module permanently - The module and its data are PERMANENTLY deleted and can no longer be used on any pages"
+    },
+    {
+      "Name": "modRemovePermLink",
+      "Text": "Remove PERMANENTLY"
+    },
+    {
+      "Name": "modRemovePermText",
+      "Text": "Remove PERMANENTLY"
+    },
+    {
+      "Name": "modRemovePermTooltip",
+      "Text": "Remove the module permanently - The module and its data are PERMANENTLY deleted and can no longer be used on any pages"
     },
     {
       "Name": "modRemoveText",
@@ -158,7 +178,7 @@
     },
     {
       "Name": "modRemoveTooltip",
-      "Text": "Remove the module from the page"
+      "Text": "Remove the module from this page (the module and its data are NOT deleted and can still be used on other pages or added again)"
     },
     {
       "Name": "modSummary",

@@ -49,11 +49,11 @@
     },
     {
       "Name": "removeConfirm",
-      "Text": "Are you sure you want to remove this module?"
+      "Text": "Are you sure you want to remove this module PERMANENTLY?"
     },
     {
       "Name": "removeLegend",
-      "Text": "Removes the module"
+      "Text": "Removes the module permanently - The module and its data are PERMANENTLY deleted and can no longer be used on any pages"
     },
     {
       "Name": "removeLink",
@@ -65,7 +65,7 @@
     },
     {
       "Name": "removeTT",
-      "Text": "Remove the module"
+      "Text": "Remove the module permanently - The module and its data are PERMANENTLY deleted and can no longer be used on any pages"
     },
     {
       "Name": "restAuthConfirm",
