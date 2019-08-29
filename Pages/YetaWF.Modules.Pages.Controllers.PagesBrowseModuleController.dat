@@ -10,6 +10,14 @@
       "Categories": {},
       "Properties": [
         {
+          "Name": "Administrators",
+          "Caption": "Administrators",
+          "Description": "Administrators can view this page",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "Anonymous",
           "Caption": "Anonymous",
           "Description": "Anonymous users can view this page",
@@ -53,6 +61,14 @@
           "Name": "Description",
           "Caption": "Description",
           "Description": "The page description (not usually visible, entered by page designer, used for search keywords)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Editors",
+          "Caption": "Editors",
+          "Description": "Editors can view this page",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

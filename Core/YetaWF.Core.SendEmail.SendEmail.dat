@@ -26,6 +26,10 @@
     {
       "Name": "errNoSender",
       "Text": "No sending email address specified"
+    },
+    {
+      "Name": "n/a",
+      "Text": "(n/a)"
     }
   ]
 }

@@ -122,6 +122,14 @@
           "TextBelow": null
         },
         {
+          "Name": "FormAutoComplete",
+          "Caption": "AutoComplete",
+          "Description": "Defines whether autocomplete is used for input fields on the form",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "FullClassName",
           "Caption": "Class Name (Full)",
           "Description": "The module's full class name",

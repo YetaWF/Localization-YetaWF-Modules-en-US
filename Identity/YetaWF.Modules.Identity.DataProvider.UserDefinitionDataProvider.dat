@@ -16,6 +16,10 @@
       "Text": "A sample site editor"
     },
     {
+      "Name": "noSup",
+      "Text": "Only a superuser can assign superuser status to another user"
+    },
+    {
       "Name": "user",
       "Text": "A sample user"
     }

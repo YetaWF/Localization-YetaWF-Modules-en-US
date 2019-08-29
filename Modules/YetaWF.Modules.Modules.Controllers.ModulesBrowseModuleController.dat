@@ -10,6 +10,14 @@
       "Categories": {},
       "Properties": [
         {
+          "Name": "Administrators",
+          "Caption": "Administrators",
+          "Description": "Administrators can view this module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "Anonymous",
           "Caption": "Anonymous",
           "Description": "Anonymous users can view this module",
@@ -37,6 +45,14 @@
           "Name": "Description",
           "Caption": "Summary",
           "Description": "The module description",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Editors",
+          "Caption": "Editors",
+          "Description": "Editors can view this module",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

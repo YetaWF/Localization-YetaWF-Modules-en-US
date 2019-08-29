@@ -1,0 +1,11 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "notFound",
+      "Text": "The file {0} does not exist"
+    }
+  ]
+}

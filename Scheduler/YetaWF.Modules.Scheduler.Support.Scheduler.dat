@@ -16,14 +16,6 @@
       "Text": "Scheduler item '{0}' couldn't be updated."
     },
     {
-      "Name": "errUpdate",
-      "Text": "Failed to update scheduler item {0} during startup to reset its next run time ({1})"
-    },
-    {
-      "Name": "errUpdateEnable",
-      "Text": "Failed to update scheduler item {0} during startup to enable it ({1})"
-    },
-    {
       "Name": "errUpdateNext",
       "Text": "Failed to update scheduler item {0} during startup to set next time ({1})"
     }
