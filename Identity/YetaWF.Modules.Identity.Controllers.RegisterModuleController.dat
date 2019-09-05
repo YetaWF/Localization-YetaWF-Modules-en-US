@@ -28,7 +28,7 @@
         {
           "Name": "Email",
           "Caption": "Email Address",
-          "Description": "Enter your email address to register - this is the email address used by this site to communicate with you",
+          "Description": "Enter your email address to register - This is the email address used by this site to communicate with you",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
