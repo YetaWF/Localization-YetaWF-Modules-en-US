@@ -40,6 +40,14 @@
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
+        },
+        {
+          "Name": "RequireName",
+          "Caption": "Name Required",
+          "Description": "Defines whether the user must enter his/her name to be able to send feedback",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
         }
       ]
     }
