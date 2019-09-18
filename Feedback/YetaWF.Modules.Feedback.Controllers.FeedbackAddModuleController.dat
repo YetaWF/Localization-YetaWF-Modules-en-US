@@ -19,8 +19,8 @@
         },
         {
           "Name": "Email",
-          "Caption": "Email Address",
-          "Description": "Please enter your email address - your email address will not be publicly visible",
+          "Caption": "Your Email Address",
+          "Description": "Please enter your email address - Your email address will not be publicly visible",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -29,6 +29,14 @@
           "Name": "Message",
           "Caption": "Message",
           "Description": "Please enter the message",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Name",
+          "Caption": "Your Name",
+          "Description": "Please enter your name - Your name will not be publicly visible",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -48,7 +56,7 @@
   "Strings": [
     {
       "Name": "okSaved",
-      "Text": "Feedback sent!"
+      "Text": "Your message has been sent!"
     }
   ]
 }

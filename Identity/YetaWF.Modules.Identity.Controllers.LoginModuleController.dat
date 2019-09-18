@@ -2,11 +2,11 @@
   "Comment": null,
   "Classes": [
     {
-      "Name": "YetaWF.Modules.Identity.Controllers.LoginModuleController+LoginModel",
-      "BaseTypeName": null,
-      "Header": null,
+      "Name": "YetaWF.Modules.Identity.Controllers.LoginModuleController+LoginModelEmailAllowNew",
+      "BaseTypeName": "YetaWF.Modules.Identity.Controllers.LoginModuleController+LoginModel",
+      "Header": "-<p>You are entering an area of our web site, for which you need to register using your email address and password. If you are a new user, please register a new account now. If you already established an account earlier, please enter the account information here and click \"Log In\".</p>",
       "Footer": null,
-      "Legend": null,
+      "Legend": "Account Information",
       "Categories": {},
       "Properties": [
         {
@@ -17,24 +17,6 @@
           "TextAbove": null,
           "TextBelow": null
         },
-        {
-          "Name": "ResendVerificationCode",
-          "Caption": "",
-          "Description": "",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        }
-      ]
-    },
-    {
-      "Name": "YetaWF.Modules.Identity.Controllers.LoginModuleController+LoginModelEmailAllowNew",
-      "BaseTypeName": "YetaWF.Modules.Identity.Controllers.LoginModuleController+LoginModel",
-      "Header": "-<p>You are entering an area of our web site, for which you need to register using your email address and password. If you are a new user, please register a new account now. If you already established an account earlier, please enter the account information here and click \"Log In\".</p>",
-      "Footer": null,
-      "Legend": "Account Information",
-      "Categories": {},
-      "Properties": [
         {
           "Name": "Password",
           "Caption": "Password",
@@ -47,6 +29,14 @@
           "Name": "RememberMe",
           "Caption": "Remember Me",
           "Description": "Select this option so your information is saved and you don't need to login again when you return to this site (when using the same browser)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ResendVerificationCode",
+          "Caption": "",
+          "Description": "",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -78,6 +68,14 @@
       "Categories": {},
       "Properties": [
         {
+          "Name": "Captcha",
+          "Caption": "Captcha",
+          "Description": "Please verify that you're a human and not a spam bot",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "Password",
           "Caption": "Password",
           "Description": "Enter your password",
@@ -89,6 +87,14 @@
           "Name": "RememberMe",
           "Caption": "Remember Me",
           "Description": "Select this option so your information is saved and you don't need to login again when you return to this site (when using the same browser)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ResendVerificationCode",
+          "Caption": "",
+          "Description": "",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -120,6 +126,14 @@
       "Categories": {},
       "Properties": [
         {
+          "Name": "Captcha",
+          "Caption": "Captcha",
+          "Description": "Please verify that you're a human and not a spam bot",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "Password",
           "Caption": "Password",
           "Description": "Enter your password",
@@ -131,6 +145,14 @@
           "Name": "RememberMe",
           "Caption": "Remember Me",
           "Description": "Select this option so your information is saved and you don't need to login again when you return to this site (when using the same browser)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ResendVerificationCode",
+          "Caption": "",
+          "Description": "",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -162,6 +184,14 @@
       "Categories": {},
       "Properties": [
         {
+          "Name": "Captcha",
+          "Caption": "Captcha",
+          "Description": "Please verify that you're a human and not a spam bot",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "Password",
           "Caption": "Password",
           "Description": "Enter your password",
@@ -173,6 +203,14 @@
           "Name": "RememberMe",
           "Caption": "Remember Me",
           "Description": "Select this option so your information is saved and you don't need to login again when you return to this site (when using the same browser)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ResendVerificationCode",
+          "Caption": "",
+          "Description": "",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
