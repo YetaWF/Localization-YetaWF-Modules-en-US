@@ -138,6 +138,14 @@
           "TextBelow": null
         },
         {
+          "Name": "HelpURL",
+          "Caption": "Help URL",
+          "Description": "Defines the URL used to display help for this module - If omitted, the package's help link is used instead",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "Invokable",
           "Caption": "Invokable",
           "Description": "Defines whether this module can be referenced by other modules or pages so it's injected into the page - Typically used for skin modules - Only unique modules support being invoked",
