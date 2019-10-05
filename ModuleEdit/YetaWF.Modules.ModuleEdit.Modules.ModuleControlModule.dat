@@ -58,7 +58,7 @@
     },
     {
       "Name": "modHelpLegend",
-      "Text": "Displays help information for the package implementing this module"
+      "Text": "Displays help information"
     },
     {
       "Name": "modHelpLink",
@@ -70,7 +70,7 @@
     },
     {
       "Name": "modHelpTT",
-      "Text": "Display help information for the package implementing this module"
+      "Text": "Display help information"
     },
     {
       "Name": "modMoveBottomLegend",

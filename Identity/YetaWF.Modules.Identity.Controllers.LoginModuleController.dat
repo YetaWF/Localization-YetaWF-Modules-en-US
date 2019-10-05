@@ -6,7 +6,7 @@
       "BaseTypeName": null,
       "Header": null,
       "Footer": null,
-      "Legend": null,
+      "Legend": "Account Information",
       "Categories": {},
       "Properties": [
         {
@@ -18,23 +18,45 @@
           "TextBelow": null
         },
         {
-          "Name": "ResendVerificationCode",
+          "Name": "Email",
+          "Caption": "Email Address",
+          "Description": "Enter your email address to register - This is the email address used by this site to communicate with you",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "HeaderEmail",
           "Caption": "",
           "Description": "",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
-        }
-      ]
-    },
-    {
-      "Name": "YetaWF.Modules.Identity.Controllers.LoginModuleController+LoginModelEmailAllowNew",
-      "BaseTypeName": "YetaWF.Modules.Identity.Controllers.LoginModuleController+LoginModel",
-      "Header": "-<p>You are entering an area of our web site, for which you need to register using your email address and password. If you are a new user, please register a new account now. If you already established an account earlier, please enter the account information here and click \"Log In\".</p>",
-      "Footer": null,
-      "Legend": "Account Information",
-      "Categories": {},
-      "Properties": [
+        },
+        {
+          "Name": "HeaderEmailNewUser",
+          "Caption": "",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "HeaderNameAndEmail",
+          "Caption": "",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "HeaderNameAndEmailNewUser",
+          "Caption": "",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
         {
           "Name": "Password",
           "Caption": "Password",
@@ -52,127 +74,9 @@
           "TextBelow": null
         },
         {
-          "Name": "UserName",
-          "Caption": "Email Address",
-          "Description": "Enter your email address - This is the email address you used when you registered on this site",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "VerificationCode",
-          "Caption": "Verification Code",
-          "Description": "Please enter the verification code you received via email to validate your account",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        }
-      ]
-    },
-    {
-      "Name": "YetaWF.Modules.Identity.Controllers.LoginModuleController+LoginModelEmailNoNew",
-      "BaseTypeName": "YetaWF.Modules.Identity.Controllers.LoginModuleController+LoginModel",
-      "Header": "-<p>If you have an account, please enter the account information here and click \"Log In\". This site does not accept new user registrations.</p>",
-      "Footer": null,
-      "Legend": "Account Information",
-      "Categories": {},
-      "Properties": [
-        {
-          "Name": "Password",
-          "Caption": "Password",
-          "Description": "Enter your password",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "RememberMe",
-          "Caption": "Remember Me",
-          "Description": "Select this option so your information is saved and you don't need to login again when you return to this site (when using the same browser)",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "UserName",
-          "Caption": "Email Address",
-          "Description": "Enter your email address - This is the email address you used when you registered on this site",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "VerificationCode",
-          "Caption": "Verification Code",
-          "Description": "Please enter the verification code you received via email to validate your account",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        }
-      ]
-    },
-    {
-      "Name": "YetaWF.Modules.Identity.Controllers.LoginModuleController+LoginModelNameAllowNew",
-      "BaseTypeName": "YetaWF.Modules.Identity.Controllers.LoginModuleController+LoginModel",
-      "Header": "-<p>You are entering an area of our web site, for which you need to register using your name and password. If you are a new user, please register a new account now. If you already established an account earlier, please enter the account information here and click \"Log In\".</p>",
-      "Footer": null,
-      "Legend": "Account Information",
-      "Categories": {},
-      "Properties": [
-        {
-          "Name": "Password",
-          "Caption": "Password",
-          "Description": "Enter your password",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "RememberMe",
-          "Caption": "Remember Me",
-          "Description": "Select this option so your information is saved and you don't need to login again when you return to this site (when using the same browser)",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "UserName",
-          "Caption": "Name",
-          "Description": "Enter your user name - This is the name you used when you registered on this site",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "VerificationCode",
-          "Caption": "Verification Code",
-          "Description": "Please enter the verification code you received via email to validate your account",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        }
-      ]
-    },
-    {
-      "Name": "YetaWF.Modules.Identity.Controllers.LoginModuleController+LoginModelNameNoNew",
-      "BaseTypeName": "YetaWF.Modules.Identity.Controllers.LoginModuleController+LoginModel",
-      "Header": "-<p>If you have an account, please enter the account information here and click \"Log In\". This site does not accept new user registrations.</p>",
-      "Footer": null,
-      "Legend": "Account Information",
-      "Categories": {},
-      "Properties": [
-        {
-          "Name": "Password",
-          "Caption": "Password",
-          "Description": "Enter your password",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "RememberMe",
-          "Caption": "Remember Me",
-          "Description": "Select this option so your information is saved and you don't need to login again when you return to this site (when using the same browser)",
+          "Name": "ResendVerificationCode",
+          "Caption": "",
+          "Description": "",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -209,6 +113,22 @@
     {
       "Name": "extUser",
       "Text": "This account can only be accessed using an external login provider"
+    },
+    {
+      "Name": "headerEmailNew",
+      "Text": "<p>You are entering an area of our web site, for which you need to register using your email address and password. If you are a new user, please register a new account now. If you already established an account earlier, please enter the account information here and click \"Log In\".</p>"
+    },
+    {
+      "Name": "headerName",
+      "Text": "<p>If you have an account, please enter the account information here and click \"Log In\". This site does not accept new user registrations.</p>"
+    },
+    {
+      "Name": "headerNameEmail",
+      "Text": "<p>If you have an account, please enter the account information here and click \"Log In\". This site does not accept new user registrations.</p>"
+    },
+    {
+      "Name": "headerNameEmailNew",
+      "Text": "<p>You are entering an area of our web site, for which you need to register using your name and password. If you are a new user, please register a new account now. If you already established an account earlier, please enter the account information here and click \"Log In\".</p>"
     },
     {
       "Name": "invLogin",

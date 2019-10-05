@@ -42,6 +42,14 @@
           "TextBelow": null
         },
         {
+          "Name": "Name",
+          "Caption": "Name",
+          "Description": "The user's name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "Subject",
           "Caption": "Subject",
           "Description": "The subject of the message",

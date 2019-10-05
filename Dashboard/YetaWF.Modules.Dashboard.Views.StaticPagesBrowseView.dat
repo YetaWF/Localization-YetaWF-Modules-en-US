@@ -8,6 +8,10 @@
       "Text": "Static pages are disabled for this site."
     },
     {
+      "Name": "enabledBut",
+      "Text": "Static pages are enabled, but not used for this site because the host name used doesn't match the defined host name."
+    },
+    {
       "Name": "explain",
       "Text": "<p>Static pages are fast loading pages whose content typically doesn't change. The list below shows all currently loaded static pages. There may be additional pages which were defined as static pages (in their Page Settings) which haven't been loaded yet.</p><p>Static pages are enabled per page (Page Settings) and site wide using Site Settings.</p>"
     }
