@@ -41,6 +41,26 @@
   "Enums": [],
   "Strings": [
     {
+      "Name": "clrCacheConfirm",
+      "Text": "Are you sure you want to clear the JavaScript/CSS cache and bundle files?"
+    },
+    {
+      "Name": "clrCacheLegend",
+      "Text": "Clears the cached JavaScript/CSS bundles"
+    },
+    {
+      "Name": "clrCacheLink",
+      "Text": "Clear JS/CSS Cache"
+    },
+    {
+      "Name": "clrCacheText",
+      "Text": "Clear JS/CSS Cache"
+    },
+    {
+      "Name": "clrCacheTooltip",
+      "Text": "Clear the cached JavaScript/CSS bundles"
+    },
+    {
       "Name": "modExportLegend",
       "Text": "Exports the page and modules by creating an importable ZIP file (using Control Panel, Import Page)"
     },

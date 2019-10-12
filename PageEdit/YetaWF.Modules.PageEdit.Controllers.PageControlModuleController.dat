@@ -307,6 +307,10 @@
       "Text": "Can't import {0}:(+nl)"
     },
     {
+      "Name": "clearJsCssAll",
+      "Text": "JavaScript and CSS bundles have been cleared"
+    },
+    {
       "Name": "imported",
       "Text": "\"{0}\" successfully imported(+nl)"
     },
