@@ -18,6 +18,14 @@
           "TextBelow": null
         },
         {
+          "Name": "Created",
+          "Caption": "Added",
+          "Description": "The date/time the entry was added",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "Description",
           "Caption": "Description",
           "Description": "The description of the blocked number",
@@ -29,6 +37,14 @@
           "Name": "Number",
           "Caption": "Blocked Number",
           "Description": "Shows the blocked phone number",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Updated",
+          "Caption": "Updated",
+          "Description": "The date/time the entry was last updated",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

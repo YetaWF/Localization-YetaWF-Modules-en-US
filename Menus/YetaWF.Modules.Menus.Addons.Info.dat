@@ -12,6 +12,10 @@
       "Text": "The current menu entry is a new entry - Please save it before selecting another menu entry"
     },
     {
+      "Name": "NewEntryText",
+      "Text": "(New)"
+    },
+    {
       "Name": "NoMenuEntry",
       "Text": "No menu entry selected"
     },

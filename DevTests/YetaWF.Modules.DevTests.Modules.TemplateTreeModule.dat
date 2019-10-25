@@ -9,11 +9,11 @@
     },
     {
       "Name": "displayLink",
-      "Text": "Tree (Static Data)"
+      "Text": "Tree"
     },
     {
       "Name": "displayText",
-      "Text": "Tree (Static Data)"
+      "Text": "Tree"
     },
     {
       "Name": "displayTooltip",
@@ -21,7 +21,7 @@
     },
     {
       "Name": "modName",
-      "Text": "Component Test - Tree (Static)"
+      "Text": "Component Test - Tree"
     },
     {
       "Name": "modSummary",
