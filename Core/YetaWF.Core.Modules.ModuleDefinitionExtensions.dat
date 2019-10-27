@@ -4,28 +4,12 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "editControlLinkToEdit",
-      "Text": "Switch to Edit Mode"
+      "Name": "locked",
+      "Text": "Site is locked!"
     },
     {
-      "Name": "editControlLinkToView",
-      "Text": "Switch to View Mode"
-    },
-    {
-      "Name": "pageControlLeg",
-      "Text": "Control Panel - Adds new or existing modules, adds new pages, switches to edit mode, accesses page settings and other site management tasks"
-    },
-    {
-      "Name": "pageControlLink",
-      "Text": "Control Panel"
-    },
-    {
-      "Name": "pageControlMenu",
-      "Text": "Control Panel"
-    },
-    {
-      "Name": "pageControlTT",
-      "Text": "Control Panel - Add new or existing modules, add new pages, switch to edit mode, access page settings and other site management tasks"
+      "Name": "reqJS",
+      "Text": "This site requires Javascript"
     }
   ]
 }

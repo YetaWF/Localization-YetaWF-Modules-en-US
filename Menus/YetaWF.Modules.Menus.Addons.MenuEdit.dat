@@ -16,18 +16,6 @@
       "Text": "(New)"
     },
     {
-      "Name": "NoMenuEntry",
-      "Text": "No menu entry selected"
-    },
-    {
-      "Name": "NoRemoveMenu",
-      "Text": "You can't remove the entire menu"
-    },
-    {
-      "Name": "NoResetMenu",
-      "Text": "You can't reset the entire menu"
-    },
-    {
       "Name": "Separator",
       "Text": "(Separator)"
     }

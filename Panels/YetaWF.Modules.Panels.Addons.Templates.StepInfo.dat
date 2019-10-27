@@ -1,0 +1,15 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "removeStepConfirm",
+      "Text": "Are you sure you want to remove this step?"
+    },
+    {
+      "Name": "removeStepTitle",
+      "Text": "Remove Step"
+    }
+  ]
+}
