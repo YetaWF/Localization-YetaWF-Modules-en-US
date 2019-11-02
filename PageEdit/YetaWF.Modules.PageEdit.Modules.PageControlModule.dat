@@ -34,23 +34,23 @@
   "Strings": [
     {
       "Name": "clrCacheConfirm",
-      "Text": "Are you sure you want to clear the JavaScript/CSS cache and bundle files?"
+      "Text": "Are you sure you want to clear the JavaScript/CSS bundles and cached static small objects?"
     },
     {
       "Name": "clrCacheLegend",
-      "Text": "Clears the cached JavaScript/CSS bundles"
+      "Text": "Clears the cached JavaScript/CSS bundles and cached static small objects"
     },
     {
       "Name": "clrCacheLink",
-      "Text": "Clear JS/CSS Cache"
+      "Text": "Clear JS/CSS/Statics Cache"
     },
     {
       "Name": "clrCacheText",
-      "Text": "Clear JS/CSS Cache"
+      "Text": "Clear JS/CSS/Statics Cache"
     },
     {
       "Name": "clrCacheTooltip",
-      "Text": "Clear the cached JavaScript/CSS bundles"
+      "Text": "Clear the cached JavaScript/CSS bundles and cached static small objects"
     },
     {
       "Name": "modExportLegend",

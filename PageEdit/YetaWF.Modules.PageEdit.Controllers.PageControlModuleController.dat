@@ -308,7 +308,7 @@
     },
     {
       "Name": "clearJsCssAll",
-      "Text": "JavaScript and CSS bundles have been cleared"
+      "Text": "JavaScript/CSS bundles and cached static small objects have been cleared"
     },
     {
       "Name": "imported",

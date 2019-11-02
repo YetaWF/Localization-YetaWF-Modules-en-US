@@ -3,7 +3,7 @@
   "Classes": [],
   "Enums": [
     {
-      "Name": "YetaWF.Core.Components.Grid+GridActionsEnum",
+      "Name": "YetaWF.Core.Models.Grid+GridActionsEnum",
       "Entries": [
         {
           "Name": "Icons",

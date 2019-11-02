@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "enumFmt",
+      "Text": "{0} - {1}"
+    },
+    {
+      "Name": "enumPlsSelect",
+      "Text": "Please select one of the available options"
+    },
+    {
+      "Name": "enumSelect",
+      "Text": "(select)"
+    }
+  ]
+}

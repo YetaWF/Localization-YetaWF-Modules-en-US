@@ -3,7 +3,7 @@
   "Classes": [
     {
       "Name": "YetaWF.Modules.DevTests.Controllers.TemplateTreeModuleController+EntryElement",
-      "BaseTypeName": "YetaWF.Modules.ComponentsHTML.Components.TreeEntry",
+      "BaseTypeName": "YetaWF.Core.Models.TreeEntry",
       "Header": null,
       "Footer": null,
       "Legend": null,
