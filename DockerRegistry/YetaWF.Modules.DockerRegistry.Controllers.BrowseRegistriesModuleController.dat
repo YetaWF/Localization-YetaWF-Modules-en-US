@@ -53,8 +53,8 @@
         },
         {
           "Name": "RegistryId",
-          "Caption": "Registry Server",
-          "Description": "Defines the registry server for which entries are shown",
+          "Caption": "Registry",
+          "Description": "Defines the registry server for which repositories are shown",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

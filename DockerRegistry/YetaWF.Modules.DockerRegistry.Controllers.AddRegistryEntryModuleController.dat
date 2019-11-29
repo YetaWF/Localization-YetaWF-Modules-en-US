@@ -19,8 +19,8 @@
         },
         {
           "Name": "RegistryName",
-          "Caption": "Registry Name",
-          "Description": "The descripitve name of the registry",
+          "Caption": "Registry (Description)",
+          "Description": "The descriptive name of the registry",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
