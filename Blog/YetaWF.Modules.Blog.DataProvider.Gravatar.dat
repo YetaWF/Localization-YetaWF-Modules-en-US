@@ -3,7 +3,7 @@
   "Classes": [],
   "Enums": [
     {
-      "Name": "YetaWF.Core.Support.Gravatar+GravatarEnum",
+      "Name": "YetaWF.Modules.Blog.DataProvider.Gravatar+GravatarEnum",
       "Entries": [
         {
           "Name": "None",
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "Name": "YetaWF.Core.Support.Gravatar+GravatarRatingEnum",
+      "Name": "YetaWF.Modules.Blog.DataProvider.Gravatar+GravatarRatingEnum",
       "Entries": [
         {
           "Name": "G",

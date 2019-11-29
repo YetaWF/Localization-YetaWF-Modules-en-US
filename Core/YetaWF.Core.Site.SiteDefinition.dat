@@ -40,7 +40,7 @@
         {
           "Name": "AllowCacheUse",
           "Caption": "Allow Cache Use",
-          "Description": "Defines whether data caching is enabled (for example, client-side CSS file caching) - When developing modules and for testing purposes, you can disable all caching by setting this property to No - Otherwise, caching should be enabled for optimal performance by setting this property to Yes - This is only honored in a Debug build",
+          "Description": "Defines whether data caching is enabled (for example, client-side CSS file caching) - When developing modules and for testing purposes, you can disable all caching by setting this property to No - Otherwise, caching should be enabled for optimal performance by setting this property to Yes - A site that is not marked deployed (see AppSettings.json, Application.P.YetaWF_Core.Deployed) does not use caching and this setting is ignored",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -249,6 +249,14 @@
           "Name": "DefaultSiteDomain",
           "Caption": "Default Site Domain",
           "Description": "The domain name of the default site for this instance of YetaWF",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DefaultSiteMap",
+          "Caption": "Default SiteMap",
+          "Description": "Defines whether the site map is saved as the site's default site map /sitemap.xml",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

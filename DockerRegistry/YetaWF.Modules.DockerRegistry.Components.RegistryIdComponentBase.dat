@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "delt",
+      "Text": "(None)"
+    },
+    {
+      "Name": "none",
+      "Text": "(None)"
+    },
+    {
+      "Name": "select",
+      "Text": "(Select)"
+    }
+  ]
+}

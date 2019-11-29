@@ -20,8 +20,8 @@
       "Text": "Duplicate entry found - {0}"
     },
     {
-      "Name": "dupClient",
-      "Text": "Duplicate entry found"
+      "Name": "dupClient2",
+      "Text": "Duplicate entry found in the field labeled '{0}'"
     },
     {
       "Name": "errInvMeta",
@@ -64,7 +64,7 @@
       "Text": "The '{0}' field requires a selection"
     },
     {
-      "Name": "SameAs",
+      "Name": "sameas",
       "Text": "The {0} field doesn't match"
     },
     {
