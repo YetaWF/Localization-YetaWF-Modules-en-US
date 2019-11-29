@@ -18,9 +18,9 @@
           "TextBelow": null
         },
         {
-          "Name": "RegistryName",
-          "Caption": "Registry",
-          "Description": "Shows the name of the registry",
+          "Name": "RepositoryName",
+          "Caption": "Repository",
+          "Description": "Shows the name of the repository",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "displayLegend",
-      "Text": "Displays tags of a Docker registry"
+      "Text": "Displays tags of a Docker repository"
     },
     {
       "Name": "displayLink",
