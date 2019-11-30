@@ -1,0 +1,71 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "displayLegend",
+      "Text": "Displays tags of a Docker repository"
+    },
+    {
+      "Name": "displayLink",
+      "Text": "Display Tags"
+    },
+    {
+      "Name": "displayText",
+      "Text": "Display Tags"
+    },
+    {
+      "Name": "displayTooltip",
+      "Text": "Display tags"
+    },
+    {
+      "Name": "modName",
+      "Text": "Tags"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Displays tags of a Docker registry"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Tags"
+    },
+    {
+      "Name": "removeConfirm",
+      "Text": "Are you sure you want to remove this tag?"
+    },
+    {
+      "Name": "removeLegend",
+      "Text": "Removes the tag"
+    },
+    {
+      "Name": "removeLink",
+      "Text": "Remove Tag"
+    },
+    {
+      "Name": "removeMenu",
+      "Text": "Remove Tag"
+    },
+    {
+      "Name": "removeTT",
+      "Text": "Remove the tag"
+    },
+    {
+      "Name": "roleRemTags",
+      "Text": "The role has permission to remove tags"
+    },
+    {
+      "Name": "roleRemTagsC",
+      "Text": "Remove Images"
+    },
+    {
+      "Name": "userRemTags",
+      "Text": "The user has permission to remove tags"
+    },
+    {
+      "Name": "userRemTagsC",
+      "Text": "Remove Images"
+    }
+  ]
+}

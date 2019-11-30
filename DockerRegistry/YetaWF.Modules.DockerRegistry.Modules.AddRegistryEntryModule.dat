@@ -1,0 +1,55 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "addLegend",
+      "Text": "Adds a new registry server"
+    },
+    {
+      "Name": "addLink",
+      "Text": "Add"
+    },
+    {
+      "Name": "addText",
+      "Text": "Add"
+    },
+    {
+      "Name": "addTooltip",
+      "Text": "Add a new registry server"
+    },
+    {
+      "Name": "modName",
+      "Text": "Add New Registry Server"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Adds a new registry server"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Add New Registry Server"
+    },
+    {
+      "Name": "remLegend",
+      "Text": "Removes the selected registry server"
+    },
+    {
+      "Name": "remLink",
+      "Text": "Remove"
+    },
+    {
+      "Name": "removeConfirm",
+      "Text": "Are you sure you want to remove this registry server?"
+    },
+    {
+      "Name": "remText",
+      "Text": "Remove"
+    },
+    {
+      "Name": "remTooltip",
+      "Text": "Remove the selected registry server"
+    }
+  ]
+}

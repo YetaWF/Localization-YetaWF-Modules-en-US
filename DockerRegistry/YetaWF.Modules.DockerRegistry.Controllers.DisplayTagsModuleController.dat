@@ -1,0 +1,80 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.DockerRegistry.Controllers.DisplayTagsModuleController+BrowseItem",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Commands",
+          "Caption": "Actions",
+          "Description": "The available actions",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Digest",
+          "Caption": "Digest",
+          "Description": "Shows the image digest",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Size",
+          "Caption": "Size",
+          "Description": "Shows the total size",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TagName",
+          "Caption": "Tag",
+          "Description": "Shows the tag",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    },
+    {
+      "Name": "YetaWF.Modules.DockerRegistry.Controllers.DisplayTagsModuleController+BrowseModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "GridDef",
+          "Caption": "",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "alreadyDeleted",
+      "Text": "The registry with id {0} has already been removed."
+    },
+    {
+      "Name": "gone",
+      "Text": "The registry with id {0} has been removed."
+    },
+    {
+      "Name": "removed",
+      "Text": "Tag has been successfully removed"
+    }
+  ]
+}

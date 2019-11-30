@@ -1,0 +1,43 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "errManifest",
+      "Text": "An error occurred retrieving tag data from {0} for {1}:{2} - {3}"
+    },
+    {
+      "Name": "errManifestStatus",
+      "Text": "An error occured accessing {0} for {1}:{2} - Error {1}"
+    },
+    {
+      "Name": "errRegs",
+      "Text": "An error occured accessing {0} - Error {1}"
+    },
+    {
+      "Name": "errRegsData",
+      "Text": "The registry data retrieved from {0} is invalid - {1}"
+    },
+    {
+      "Name": "errRemove",
+      "Text": "An error occured accessing {0} - Error {1}"
+    },
+    {
+      "Name": "errTags",
+      "Text": "An error occured accessing {0} - Error {1}"
+    },
+    {
+      "Name": "errTagsData",
+      "Text": "The tag data retrieved from {0} is invalid - {1}"
+    },
+    {
+      "Name": "errTagsDetails",
+      "Text": "The detailed tag data retrieved from {0} for {1}:{2} is invalid - {3}"
+    },
+    {
+      "Name": "unknown",
+      "Text": "(unknown)"
+    }
+  ]
+}
