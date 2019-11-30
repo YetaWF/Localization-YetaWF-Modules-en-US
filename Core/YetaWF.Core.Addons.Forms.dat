@@ -13,7 +13,7 @@
     },
     {
       "Name": "AjaxErrorTitle",
-      "Text": "Form Error"
+      "Text": "Error"
     },
     {
       "Name": "FormErrors",
