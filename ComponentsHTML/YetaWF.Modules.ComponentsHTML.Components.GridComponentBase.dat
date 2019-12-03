@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "btnFilter",
-      "Text": "Turn the search bar on or off"
+      "Text": "Turn the filter bar on or off"
     },
     {
       "Name": "btnFirst",

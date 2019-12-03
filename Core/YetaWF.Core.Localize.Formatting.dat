@@ -117,6 +117,62 @@
   ],
   "Strings": [
     {
+      "Name": "agoDay",
+      "Text": "yesterday"
+    },
+    {
+      "Name": "agoDays",
+      "Text": "{0} days ago"
+    },
+    {
+      "Name": "agoFewSecs",
+      "Text": "a few seconds ago"
+    },
+    {
+      "Name": "agoHour",
+      "Text": "an hour ago"
+    },
+    {
+      "Name": "agoHours",
+      "Text": "{0} hours ago"
+    },
+    {
+      "Name": "agoMin",
+      "Text": "a minute ago"
+    },
+    {
+      "Name": "agoMins",
+      "Text": "{0} minutes ago"
+    },
+    {
+      "Name": "agoMonth",
+      "Text": "a month ago"
+    },
+    {
+      "Name": "agoMonths",
+      "Text": "{0} months ago"
+    },
+    {
+      "Name": "agoSecs",
+      "Text": "{0} seconds ago"
+    },
+    {
+      "Name": "agoWeek",
+      "Text": "last week"
+    },
+    {
+      "Name": "agoWeeks",
+      "Text": "{0} weeks ago"
+    },
+    {
+      "Name": "agoYear",
+      "Text": "a year ago"
+    },
+    {
+      "Name": "agoYears",
+      "Text": "{0} years ago"
+    },
+    {
       "Name": "April",
       "Text": "April"
     },
@@ -135,6 +191,62 @@
     {
       "Name": "Friday",
       "Text": "Friday"
+    },
+    {
+      "Name": "inDay",
+      "Text": "tomorrow"
+    },
+    {
+      "Name": "inDays",
+      "Text": "in {0} days"
+    },
+    {
+      "Name": "inFewSecs",
+      "Text": "in a few seconds"
+    },
+    {
+      "Name": "inHour",
+      "Text": "in an hour"
+    },
+    {
+      "Name": "inHours",
+      "Text": "in {0} hours"
+    },
+    {
+      "Name": "inMin",
+      "Text": "in a minute"
+    },
+    {
+      "Name": "inMins",
+      "Text": "in {0} minutes"
+    },
+    {
+      "Name": "inMonth",
+      "Text": "in a month"
+    },
+    {
+      "Name": "inMonths",
+      "Text": "in {0} months"
+    },
+    {
+      "Name": "inSecs",
+      "Text": "in {0} seconds"
+    },
+    {
+      "Name": "inWeek",
+      "Text": "next week"
+    },
+    {
+      "Name": "inWeeks",
+      "Text": "in {0} weeks"
+    },
+    {
+      "Name": "inYear",
+      "Text": "in a year"
+    },
+    {
+      "Name": "inYears",
+      "Text": "in {0} years"
     },
     {
       "Name": "January",
@@ -157,6 +269,10 @@
       "Text": "{0}, {1} {2}, {3}"
     },
     {
+      "Name": "longDateTime",
+      "Text": "{0}, {1} {2}, {3} at "
+    },
+    {
       "Name": "March",
       "Text": "March"
     },
@@ -171,6 +287,10 @@
     {
       "Name": "November",
       "Text": "November"
+    },
+    {
+      "Name": "now",
+      "Text": "now"
     },
     {
       "Name": "October",
