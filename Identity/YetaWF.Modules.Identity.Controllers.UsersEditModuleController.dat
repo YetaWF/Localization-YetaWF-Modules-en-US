@@ -74,6 +74,14 @@
           "TextBelow": null
         },
         {
+          "Name": "LoginFailures",
+          "Caption": "Login Failures",
+          "Description": "Shows the number of failed login attempts since the last successful login",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "NeedsNewPassword",
           "Caption": "New Password",
           "Description": "Defines whether the user must change the password",

@@ -10,38 +10,6 @@
       "Categories": {},
       "Properties": [
         {
-          "Name": "MaxResults",
-          "Caption": "Max. Results",
-          "Description": "The maximum number of search results to display",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "ResultsUrl",
-          "Caption": "Results Url",
-          "Description": "The Url where the search results are displayed",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "ShowSummary",
-          "Caption": "Show Summary",
-          "Description": "Defines whether a page summary is shown in search results",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "ShowUrl",
-          "Caption": "Show Url",
-          "Description": "Defines whether the Url is shown in search results",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
           "Name": "SmallestMixedToken",
           "Caption": "Smallest Keyword (Mixed Case)",
           "Description": "The smallest mixed case keyword",

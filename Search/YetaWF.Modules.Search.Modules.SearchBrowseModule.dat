@@ -62,7 +62,7 @@
     },
     {
       "Name": "collectLegend",
-      "Text": "Collects a site's search keywords by examining all pages - only considers pages modified since last search"
+      "Text": "Collects a site's search keywords by examining all pages - Only considers pages modified since the last search"
     },
     {
       "Name": "collectLink",
@@ -78,7 +78,7 @@
     },
     {
       "Name": "collectTT",
-      "Text": "Collect the site's search keywords by examining all pages - only considers pages modified since last search"
+      "Text": "Collect the site's search keywords by examining all pages - Only considers pages modified since the last search"
     },
     {
       "Name": "modName",

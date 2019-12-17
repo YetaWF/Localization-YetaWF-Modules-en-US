@@ -12,6 +12,14 @@
       },
       "Properties": [
         {
+          "Name": "ResultsUrl",
+          "Caption": "Results Url",
+          "Description": "The URL where the search results are displayed",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "SearchButtonText",
           "Caption": "Search Button",
           "Description": "The text shown on the search button",

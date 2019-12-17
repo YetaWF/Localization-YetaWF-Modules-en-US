@@ -108,6 +108,14 @@
       "Text": "Restore Default Authorization"
     },
     {
+      "Name": "roleSetAuth",
+      "Text": "The role has permission to set global authorization for all modules"
+    },
+    {
+      "Name": "roleSetAuthC",
+      "Text": "Set Global Authorization"
+    },
+    {
       "Name": "userRemItems",
       "Text": "The user has permission to remove individual modules"
     },
@@ -122,6 +130,14 @@
     {
       "Name": "userRestAuthC",
       "Text": "Restore Default Authorization"
+    },
+    {
+      "Name": "userSetAuth",
+      "Text": "The user has permission to set global authorization for all modules"
+    },
+    {
+      "Name": "userSetAuthC",
+      "Text": "Set Global Authorization"
     }
   ]
 }

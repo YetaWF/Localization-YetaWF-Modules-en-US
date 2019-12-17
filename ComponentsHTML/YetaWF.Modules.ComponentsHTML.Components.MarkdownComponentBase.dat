@@ -1,0 +1,15 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "edit",
+      "Text": "Edit"
+    },
+    {
+      "Name": "preview",
+      "Text": "Preview"
+    }
+  ]
+}

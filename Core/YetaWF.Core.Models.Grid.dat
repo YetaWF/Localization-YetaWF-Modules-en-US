@@ -16,6 +16,29 @@
           "Value": "DropdownMenu",
           "Caption": "Dropdown Menu",
           "Description": "If more than one action is available they are displayed as a dropdown menu, accessible through a button, otherwise a single icon is displayed"
+        },
+        {
+          "Name": "Mini",
+          "Value": "Mini",
+          "Caption": "Mini Dropdown Menu",
+          "Description": "Displayed as a dropdown menu, accessible through a small button without text"
+        }
+      ]
+    },
+    {
+      "Name": "YetaWF.Core.Models.Grid+GridActionsUserEnum",
+      "Entries": [
+        {
+          "Name": "Icons",
+          "Value": "Icons",
+          "Caption": "Icons",
+          "Description": "Actions in grids are displayed as icons"
+        },
+        {
+          "Name": "DropdownMenu",
+          "Value": "DropdownMenu",
+          "Caption": "Dropdown Menu",
+          "Description": "If more than one action is available they are displayed as a dropdown menu, accessible through a button, otherwise a single icon is displayed"
         }
       ]
     }

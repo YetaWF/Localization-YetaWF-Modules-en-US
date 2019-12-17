@@ -1,6 +1,51 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Search.Modules.SearchResultsModule",
+      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition",
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "General": "General"
+      },
+      "Properties": [
+        {
+          "Name": "MaxResults",
+          "Caption": "Max. Results",
+          "Description": "The maximum number of search results to display",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "NewWindow",
+          "Caption": "New Window",
+          "Description": "Defines whether a new window is opened when a search result URL is clicked",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ShowSummary",
+          "Caption": "Show Summary",
+          "Description": "Defines whether a page summary is shown in search results",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ShowUrl",
+          "Caption": "Show Url",
+          "Description": "Defines whether the URL is shown in search results",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {

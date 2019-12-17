@@ -395,6 +395,10 @@
       "Text": "{0} is not valid page data"
     },
     {
+      "Name": "missingMod",
+      "Text": "Designed module not found"
+    },
+    {
       "Name": "modExists",
       "Text": "Module {0} already exists and has not been imported (Module Guid {1})"
     },

@@ -17,7 +17,7 @@
     },
     {
       "Name": "cantRenameSuper",
-      "Text": "The user \"{0}\" can't be renamed. It is defined in the site's Appsettings.json"
+      "Text": "The user \"{0}\" can't be renamed."
     },
     {
       "Name": "cantUpdateSuper",

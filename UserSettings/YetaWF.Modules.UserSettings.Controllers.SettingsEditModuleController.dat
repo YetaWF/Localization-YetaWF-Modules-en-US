@@ -34,7 +34,7 @@
           "TextBelow": null
         },
         {
-          "Name": "GridActions",
+          "Name": "GridActionsUser",
           "Caption": "Grid Actions",
           "Description": "The desired display method for available actions in grids",
           "HelpLink": null,
@@ -59,8 +59,8 @@
         },
         {
           "Name": "ShowGridSearchToolbar",
-          "Caption": "Show Search Toolbar",
-          "Description": "Defines whether the search toolbar is always shown on grids - If not shown, it can still be accessed using the search button in each grid, at the bottom of the grid, next to the refresh button",
+          "Caption": "Show Filter Toolbar",
+          "Description": "Defines whether the filter toolbar is always shown on grids - If not shown, it can still be accessed using the search button in each grid, at the bottom of the grid, next to the refresh button",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

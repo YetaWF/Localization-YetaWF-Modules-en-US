@@ -57,11 +57,11 @@
     },
     {
       "Name": "requiredExpr",
-      "Text": "The '{0}' field is required"
+      "Text": "The field '{0}' is required"
     },
     {
       "Name": "requiredSelExpr",
-      "Text": "The '{0}' field requires a selection"
+      "Text": "The field '{0}' requires a selection"
     },
     {
       "Name": "sameas",
