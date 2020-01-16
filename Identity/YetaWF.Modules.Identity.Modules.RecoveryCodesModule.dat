@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "modName",
+      "Text": "Recovery Codes"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Manages Two Step Authentication Recovery Codes"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Recovery Codes"
+    }
+  ]
+}

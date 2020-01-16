@@ -1,0 +1,78 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Identity.Controllers.RecoveryCodesModuleController+EditModel",
+      "BaseTypeName": null,
+      "Header": "Recovery codes are used to access your account should you be unable to authenticate using the currently defined two step authentication.",
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "GenerateRecoveryCode",
+          "Caption": " ",
+          "Description": " ",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Password",
+          "Caption": "Password",
+          "Description": "Enter your password to access your recovery code",
+          "HelpLink": null,
+          "TextAbove": "Enter your password to display your recovery code.",
+          "TextBelow": null
+        },
+        {
+          "Name": "RecoveryCode",
+          "Caption": "Your Recovery Code",
+          "Description": "Displays the available recovery code",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Just like your account password, keep this recovery code a secret."
+        },
+        {
+          "Name": "ShowRecoveryCodes",
+          "Caption": "",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ShowRecoveryCodesLogin",
+          "Caption": "",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "badPassword",
+      "Text": "The password is invalid"
+    },
+    {
+      "Name": "cantUpdate",
+      "Text": "Updating user information failed - {0}"
+    },
+    {
+      "Name": "genCode",
+      "Text": "Generate New Recovery Code"
+    },
+    {
+      "Name": "newCode",
+      "Text": "A new recovery code has been generated"
+    },
+    {
+      "Name": "showCode",
+      "Text": "Show Recovery Code"
+    }
+  ]
+}
