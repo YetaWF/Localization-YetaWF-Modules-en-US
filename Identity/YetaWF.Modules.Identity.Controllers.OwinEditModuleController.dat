@@ -4,10 +4,14 @@
     {
       "Name": "YetaWF.Modules.Identity.Controllers.OwinEditModuleController+EditModel",
       "BaseTypeName": null,
-      "Header": "Login provider settings apply to all sites within this YetaWF instance.",
+      "Header": null,
       "Footer": null,
       "Legend": null,
-      "Categories": {},
+      "Categories": {
+        "Built-In Login": "Built-In Login",
+        "Cookies": "Cookies",
+        "External Login": "External Login"
+      },
       "Properties": [
         {
           "Name": "ExpireTimeSpan",
@@ -90,9 +94,57 @@
           "TextBelow": null
         },
         {
+          "Name": "Nothing",
+          "Caption": "Password Settings:",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "PasswordRenewal",
           "Caption": "Password Renewal",
           "Description": "The time after which a user must change the password - Set to 0 to allow passwords to remain valid indefinitely",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RequireDigit",
+          "Caption": "Requires Digit",
+          "Description": "Defines whether a password requires at least one digit",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RequiredLength",
+          "Caption": "Minimum Length",
+          "Description": "Defines the minimum length of a password",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RequireLowercase",
+          "Caption": "Requires Lowercase",
+          "Description": "Defines whether a password requires at least one lowercase character",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RequireNonAlphanumeric",
+          "Caption": "Requires Non-Alphanumeric",
+          "Description": "Defines whether a password requires at least one non alphanumeric (special) character",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RequireUppercase",
+          "Caption": "Requires Uppercase",
+          "Description": "Defines whether a password requires at least one uppercase character",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -136,6 +188,38 @@
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
+        },
+        {
+          "Name": "UseFacebook",
+          "Caption": "Use Facebook",
+          "Description": "Defines whether Facebook logins are allowed",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UseGoogle",
+          "Caption": "Use Google",
+          "Description": "Defines whether Google logins are allowed",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UseMicrosoft",
+          "Caption": "Use Microsoft",
+          "Description": "Defines whether Microsoft logins are allowed",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UseTwitter",
+          "Caption": "Use Twitter",
+          "Description": "Defines whether Twitter logins are allowed",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
         }
       ]
     }
@@ -144,7 +228,7 @@
   "Strings": [
     {
       "Name": "okSaved",
-      "Text": "Appsettings.json has been updated - These settings won't take effect until the site (including all instances) is restarted."
+      "Text": "Login provider settings successfully saved - These settings won't take effect until the site (including all instances) is restarted."
     },
     {
       "Name": "securityInterval",

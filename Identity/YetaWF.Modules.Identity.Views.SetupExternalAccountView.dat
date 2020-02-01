@@ -5,11 +5,15 @@
   "Strings": [
     {
       "Name": "btnSave",
-      "Text": "SetupExternalAccount"
+      "Text": "Setup External Account"
     },
     {
       "Name": "extAcct",
-      "Text": "You have successfully authenticated with <strong>{0}</strong>.<br/>Please enter a user name for this site below and click the SetupExternalAccount button to finish logging in."
+      "Text": "You have successfully authenticated with <strong>{0}</strong>.<br/>Please enter a user name for this site below and click the Setup External Account button to finish logging in."
+    },
+    {
+      "Name": "extAcctInvite",
+      "Text": "You have successfully authenticated with <strong>{0}</strong>.<br/>Please enter the invitation code below and click the Setup External Account button to finish logging in."
     }
   ]
 }

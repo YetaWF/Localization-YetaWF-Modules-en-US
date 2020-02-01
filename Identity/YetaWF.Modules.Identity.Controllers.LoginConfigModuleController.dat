@@ -10,7 +10,6 @@
       "Categories": {
         "Accounts": "Accounts",
         "Captcha": "Captcha",
-        "External": "External",
         "Notifications": "Notifications",
         "Two-Step Auth": "Two-Step Auth",
         "Urls": "Urls"
@@ -105,14 +104,6 @@
           "TextBelow": null
         },
         {
-          "Name": "NoExternalSettings",
-          "Caption": "Settings",
-          "Description": "External Login Provider Settings have not been defined",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
           "Name": "NotifyAdminNewUsers",
           "Caption": "Notify Admin - New User",
           "Description": "Defines whether the administrator receives email notification when a new user account is created by a new user",
@@ -193,38 +184,6 @@
           "TextBelow": null
         },
         {
-          "Name": "UseFacebook",
-          "Caption": "Facebook",
-          "Description": "Allow login using a user's Facebook account",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "UseGoogle",
-          "Caption": "Google",
-          "Description": "Allow login using a user's Google account",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "UseMicrosoft",
-          "Caption": "Microsoft",
-          "Description": "Allow login using a user's Microsoft account",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "UseTwitter",
-          "Caption": "Twitter",
-          "Description": "Allow login using a user's Twitter account",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
           "Name": "VerificationPendingUrl",
           "Caption": "Verification Pending Url",
           "Description": "The Url where the user is redirected when account verification is pending after registering or while logging on",
@@ -245,10 +204,6 @@
   ],
   "Enums": [],
   "Strings": [
-    {
-      "Name": "noExt",
-      "Text": "No External Login Providers available"
-    },
     {
       "Name": "notFound",
       "Text": "User login configuration was not found."
