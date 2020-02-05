@@ -134,7 +134,7 @@
     },
     {
       "Name": "sendApprovedTT",
-      "Text": "Sends an email to the user that his/her account has been approved"
+      "Text": "Send an email to the user that his/her account has been approved"
     },
     {
       "Name": "sendRejectedConfirm",
@@ -154,7 +154,7 @@
     },
     {
       "Name": "sendRejectedTT",
-      "Text": "Sends an email to the user that his/her account has been rejected"
+      "Text": "Send an email to the user that his/her account has been rejected"
     },
     {
       "Name": "sendSuspendedConfirm",
@@ -174,7 +174,7 @@
     },
     {
       "Name": "sendSuspendedTT",
-      "Text": "Sends an email to the user that his/her account has been suspended"
+      "Text": "Send an email to the user that his/her account has been suspended"
     },
     {
       "Name": "sendVerificationConfirm",
