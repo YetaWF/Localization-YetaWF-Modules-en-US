@@ -1,0 +1,30 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [
+    {
+      "Name": "YetaWF.Core.Site.MessageTypeEnum",
+      "Entries": [
+        {
+          "Name": "Popups",
+          "Value": "Popups",
+          "Caption": "Popup",
+          "Description": "Messages are shown in popups that are explicitly dismissed by the user"
+        },
+        {
+          "Name": "ToastRight",
+          "Value": "ToastRight",
+          "Caption": "Toast (Bottom Right)",
+          "Description": "Notifications are shown in the lower right of the page and are automatically dismissed after a certain timespan or can be explicitly dismissed by the user"
+        },
+        {
+          "Name": "ToastLeft",
+          "Value": "ToastLeft",
+          "Caption": "Toast (Bottom Left)",
+          "Description": "Notifications are shown in the lower left of the page and are automatically dismissed after a certain timespan or can be explicitly dismissed by the user"
+        }
+      ]
+    }
+  ],
+  "Strings": []
+}

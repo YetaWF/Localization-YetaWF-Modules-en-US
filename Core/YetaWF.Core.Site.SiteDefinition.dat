@@ -486,6 +486,14 @@
           "TextBelow": null
         },
         {
+          "Name": "MessageType",
+          "Caption": "Message Style",
+          "Description": "Defines the display style of notification messages (informational and error messages)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "MobileSiteUrl",
           "Caption": "Mobile Device URL",
           "Description": "If a mobile device accesses this site, the user is redirected to this URL",
