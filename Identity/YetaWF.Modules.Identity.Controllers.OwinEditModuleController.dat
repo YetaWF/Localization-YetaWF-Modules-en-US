@@ -71,16 +71,16 @@
         },
         {
           "Name": "MicrosoftPrivate",
-          "Caption": "Microsoft Private Key",
-          "Description": "The private key for authentication using Microsoft",
+          "Caption": "Microsoft Client Secret",
+          "Description": "The Client Secret for authentication using Microsoft",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
           "Name": "MicrosoftPublic",
-          "Caption": "Microsoft Public Key",
-          "Description": "The public key for authentication using Microsoft",
+          "Caption": "Microsoft Application ID",
+          "Description": "The Application (client) ID for authentication using Microsoft",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -167,16 +167,16 @@
         },
         {
           "Name": "TwitterPrivate",
-          "Caption": "Twitter Consumer Secret",
-          "Description": "The Consumer Secret (API Secret) for authentication using Twitter (defined using Twitter)",
+          "Caption": "Twitter API Secret Key",
+          "Description": "The API Secret Key for authentication using Twitter (defined using Twitter)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
           "Name": "TwitterPublic",
-          "Caption": "Twitter Consumer Key",
-          "Description": "The Consumer Key (API Key) for authentication using Twitter (defined using Twitter)",
+          "Caption": "Twitter API Key",
+          "Description": "The API Key for authentication using Twitter (defined using Twitter)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
