@@ -103,11 +103,11 @@
     },
     {
       "Name": "modName",
-      "Text": "Text"
+      "Text": "Text (Full Editor, HTML)"
     },
     {
       "Name": "modSummary",
-      "Text": "Displays user editable text contents"
+      "Text": "Displays user editable text contents (full wysiwyg editor, using CKEditor)"
     },
     {
       "Name": "modTitle",

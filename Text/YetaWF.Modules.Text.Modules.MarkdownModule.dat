@@ -1,0 +1,40 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Text.Modules.MarkdownModule",
+      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition",
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "General": "General"
+      },
+      "Properties": [
+        {
+          "Name": "Contents",
+          "Caption": "Contents",
+          "Description": "The text contents",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "modName",
+      "Text": "Text (Markdown)"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Displays user editable text contents (using Markdown)"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Edit"
+    }
+  ]
+}
