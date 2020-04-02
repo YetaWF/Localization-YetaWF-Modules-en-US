@@ -66,6 +66,14 @@
           "TextBelow": null
         },
         {
+          "Name": "LetsEncrypt",
+          "Caption": "LetsEncrypt",
+          "Description": "Shows whether LetsEncrypt is enabled",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "MultiInstance",
           "Caption": "Multi-Instance Enabled",
           "Description": "Defines whether multiple running instances (container/webfarm/webgarden) support is enabled using shared caching",
@@ -113,6 +121,10 @@
     {
       "Name": "blueGreenNone",
       "Text": "N/A"
+    },
+    {
+      "Name": "letsEncryptEnabled",
+      "Text": "Enabled"
     }
   ]
 }
