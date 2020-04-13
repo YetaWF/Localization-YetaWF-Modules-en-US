@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Requests confirmation to remove an existing site"
+      "Text": "Displays a confirmation before the site is removed. It is used by the Sites module when a site is removed."
     },
     {
       "Name": "modTitle",

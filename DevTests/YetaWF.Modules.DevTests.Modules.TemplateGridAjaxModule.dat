@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Grid (Ajax) test component"
+      "Text": "Test module for the Grid (Ajax) component. A test page for this module can be found at Tests > Templates > Grid (Ajax) (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

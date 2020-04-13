@@ -41,7 +41,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays and manages modules"
+      "Text": "Displays and manages modules and implements module removal. It is also used to display, edit and remove modules. It is accessible using Admin > Panel > Modules (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edits a site's syntax highlighter settings"
+      "Text": "Configuration module for syntax highlighting. Define the appearance of sections using syntax highlighting. It is accessible using Admin > Settings > Syntax Highlighter Settings (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "TextAreaSourceOnly test component"
+      "Text": "Test module for the TextAreaSourceOnly component. A test page for this module can be found at Tests > Templates > TextAreaSourceOnly (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

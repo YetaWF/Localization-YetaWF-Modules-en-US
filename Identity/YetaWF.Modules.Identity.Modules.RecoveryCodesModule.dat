@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Manages Two Step Authentication Recovery Codes"
+      "Text": "Allows users to review and generate two step authentication recovery codes."
     },
     {
       "Name": "modTitle",

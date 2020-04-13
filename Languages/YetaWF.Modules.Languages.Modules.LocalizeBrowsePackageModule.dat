@@ -144,7 +144,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays and manages localization resources for a package"
+      "Text": "Displays and manages localization resources for a package. It is used by the YetaWF.Packages package to offer access to localization services. This module allows access to all localizable resource of a package, such as strings used in views and in code. See National Language Support for information about localization."
     },
     {
       "Name": "modTitle",

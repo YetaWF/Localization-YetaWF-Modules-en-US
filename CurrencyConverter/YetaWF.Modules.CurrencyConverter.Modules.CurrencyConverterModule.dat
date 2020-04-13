@@ -62,7 +62,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Currency conversion for site visitors"
+      "Text": "Currency conversion for site visitors. A test page for the Currency Converter Module can be accessed using Tests > Currency Converter (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

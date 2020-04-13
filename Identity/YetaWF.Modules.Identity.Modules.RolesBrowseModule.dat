@@ -46,7 +46,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays and manages roles"
+      "Text": "Used to display and manage roles. Roles can be managed using Admin > Panel > Identity, Roles tab (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

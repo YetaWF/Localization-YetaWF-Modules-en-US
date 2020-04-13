@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays details of a visitor entry"
+      "Text": "Displays detailed information about a visitor. This is used by the Visitor Activity Module to display a record's detail information."
     },
     {
       "Name": "modTitle",

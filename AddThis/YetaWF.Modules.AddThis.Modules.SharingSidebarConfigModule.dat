@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edits a site's AddThis Sharing Sidebar configuration settings"
+      "Text": "Edits a site's AddThis Sharing Sidebar configuration settings. It can be accessed using Admin > Settings > AddThis Sharing SideBar Settings."
     },
     {
       "Name": "modTitle",

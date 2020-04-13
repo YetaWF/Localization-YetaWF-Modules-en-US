@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Module Panel - used to display multiple modules using tabs or an accordion widget"
+      "Text": "Used to display multiple modules using tabs or an accordion widget. A sample page is available at Tests > Modules > Module Panel (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

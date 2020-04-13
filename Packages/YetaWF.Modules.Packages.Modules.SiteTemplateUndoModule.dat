@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Undoes a site template by removing all defined pages and menu entries from the current site"
+      "Text": "Undoes a site template by removing all defined pages and menu entries from the current site. For information about site templates, please see Site Templates. The Undo Site Template Module is accessible using Admin > Panel > Packages."
     },
     {
       "Name": "modTitle",

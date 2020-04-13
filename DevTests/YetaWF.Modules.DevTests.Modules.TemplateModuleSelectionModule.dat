@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "ModuleSelection test component"
+      "Text": "Test module for the ModuleSelection component. A test page for this module can be found at Tests > Templates > ModuleSelection (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

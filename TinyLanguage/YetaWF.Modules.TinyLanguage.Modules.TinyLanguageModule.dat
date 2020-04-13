@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Allow user selection of the site's default language"
+      "Text": "Allows user selection of the site's default language. This module is typically added to every page (as a skin module) so the user can switch the site's default language."
     },
     {
       "Name": "modTitle",

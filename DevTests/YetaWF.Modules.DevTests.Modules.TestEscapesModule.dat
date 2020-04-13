@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Tests various client-side & server side character translations/escapes"
+      "Text": "Tests various client-side & server side character translations/escapes. A test page for this module can be found at Tests > Modules > Escapes (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

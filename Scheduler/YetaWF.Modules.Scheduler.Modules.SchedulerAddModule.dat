@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Creates a new scheduler item"
+      "Text": "Creates a new scheduler item. Used by the Scheduler Module."
     },
     {
       "Name": "modTitle",

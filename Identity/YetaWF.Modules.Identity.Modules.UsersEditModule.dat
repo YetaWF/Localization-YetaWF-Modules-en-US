@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edits an existing user"
+      "Text": "Used to edit an existing user. This is used by the Users Module to edit a user."
     },
     {
       "Name": "modTitle",

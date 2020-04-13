@@ -54,7 +54,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays and manages user feedback"
+      "Text": "Used by the site owner to display and manage user feedback. It is accessible using Admin > Feedback (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

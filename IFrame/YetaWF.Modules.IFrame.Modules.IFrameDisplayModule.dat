@@ -62,7 +62,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Includes another page (Url) and displays the page"
+      "Text": "Displays the defined URL in an HTML iframe tag. Use the module's Module Settings to define the desired URL. A sample IFrame Module can be accessed at Tests > Modules > IFrame (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edits an existing Unified Page Set"
+      "Text": "Edits an existing Unified Page Set. This is used by the Unified Page Sets Module to edit a Unified Page Set."
     },
     {
       "Name": "modTitle",

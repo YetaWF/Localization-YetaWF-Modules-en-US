@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "A module used to display a log record."
+      "Text": "Displays an individual log entry. This is used by the Log Module to display a log entry and is only available if the log file is PostgreSQL/SQL Server hosted."
     },
     {
       "Name": "modTitle",

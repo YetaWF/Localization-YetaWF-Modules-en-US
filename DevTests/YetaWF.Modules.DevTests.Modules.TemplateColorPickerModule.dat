@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "ColorPicker test component"
+      "Text": "Test module for the ColorPicker component. A test page for this module can be found at Tests > Templates > ColorPicker (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

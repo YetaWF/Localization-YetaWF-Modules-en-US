@@ -54,7 +54,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays and manages blog entries"
+      "Text": "Displays and manages blog entries. It is accessible using Admin > Blog > Entries (standard YetaWF site). It is used to add, edit, view and remove blog entries."
     },
     {
       "Name": "modTitle",

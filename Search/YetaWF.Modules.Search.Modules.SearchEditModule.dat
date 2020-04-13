@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edits an existing search item"
+      "Text": "Used to edit an existing search term. This is used by the Search Keywords Module to edit a search term."
     },
     {
       "Name": "modTitle",

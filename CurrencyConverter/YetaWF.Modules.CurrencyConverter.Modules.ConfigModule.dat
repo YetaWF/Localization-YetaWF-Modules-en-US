@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edits the currency converter settings"
+      "Text": "Used to edit the currency converter settings. It is accessible using Admin > Settings > Currency Converter Settings (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

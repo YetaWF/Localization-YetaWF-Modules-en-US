@@ -66,7 +66,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edit page settings"
+      "Text": "Implements page editing services."
     },
     {
       "Name": "modTitle",

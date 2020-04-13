@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Main page menu"
+      "Text": "Implements a menu. This is can be added to a site's skin or can be added to pages as needed."
     },
     {
       "Name": "modTitle",

@@ -13,7 +13,7 @@
           "Name": "Text",
           "Caption": "Markdown Text",
           "Description": null,
-          "HelpLink": "https://github.com/showdownjs/showdown/wiki/Showdown%27s-Markdown-syntax",
+          "HelpLink": "https://www.markdownguide.org/cheat-sheet/",
           "TextAbove": null,
           "TextBelow": null
         }
@@ -31,7 +31,7 @@
           "Name": "Text",
           "Caption": "Markdown Text",
           "Description": null,
-          "HelpLink": "https://github.com/showdownjs/showdown/wiki/Showdown%27s-Markdown-syntax",
+          "HelpLink": "https://www.markdownguide.org/cheat-sheet/",
           "TextAbove": null,
           "TextBelow": null
         }

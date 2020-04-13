@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "ReferencedModules test component"
+      "Text": "Test module for the ReferencedModules component. A test page for this module can be found at Tests > Templates > ReferencedModules (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

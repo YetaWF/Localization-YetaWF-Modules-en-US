@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Creates a new user"
+      "Text": "Adds a new user. This is used by the Users Module to add a new user."
     },
     {
       "Name": "modTitle",

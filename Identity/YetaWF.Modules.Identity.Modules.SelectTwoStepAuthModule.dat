@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Selection of desired Two-Step Authentication"
+      "Text": "Displays a list of available two-step authentication providers that the user can select to use for two-step authentication. This is used during login processing to complete two-step authentication."
     },
     {
       "Name": "modTitle",

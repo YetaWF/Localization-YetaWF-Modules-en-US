@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Skin module supporting syntax highlighting in modules, by Alex Gorbatchev"
+      "Text": "Skin module supporting syntax highlighting in modules, by Alex Gorbatchev, referenced by sites, pages or modules, in which case <pre> .. </pre> sections are rendered using syntax highlighting."
     },
     {
       "Name": "modTitle",

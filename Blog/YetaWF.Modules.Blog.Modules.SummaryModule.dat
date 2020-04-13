@@ -30,7 +30,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays a summary of blog entries"
+      "Text": "Displays a summary of blog entries. The most recent blog entries for all categories are shown. This module is typically used in a sidebar on a page showing blog entries (using the Blog Entries Module)."
     },
     {
       "Name": "modTitle",

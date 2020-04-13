@@ -46,7 +46,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays and manages disposable objects"
+      "Text": "Displays (debug) information about Disposable objects. Used to find leaks where objects aren't properly Dispose()'d. Disposable Objects information can be accessed using Admin > Dashboard > Disposable Objects (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

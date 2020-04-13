@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edits a site's audit settings"
+      "Text": "Used to edit a site's audit settings. This can be accessed using Admin > Settings > Audit Settings (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

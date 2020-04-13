@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays the status of the SMS processor"
+      "Text": "Displays the status of the SMS processor (if any). A test page for this module can be found at Tests > Modules > SMS (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

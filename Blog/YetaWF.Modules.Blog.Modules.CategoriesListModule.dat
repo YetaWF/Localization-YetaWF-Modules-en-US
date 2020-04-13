@@ -64,7 +64,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Allows the site visitor to select among all available blog categories - usually used in a side bar"
+      "Text": "Allows the site visitor to select among all available blog categories. Add this module to a page for blog navigation."
     },
     {
       "Name": "modTitle",

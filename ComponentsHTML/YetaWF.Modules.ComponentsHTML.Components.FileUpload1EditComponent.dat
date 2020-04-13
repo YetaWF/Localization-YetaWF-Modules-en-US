@@ -1,0 +1,11 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "btnImport",
+      "Text": "Import Module Data..."
+    }
+  ]
+}

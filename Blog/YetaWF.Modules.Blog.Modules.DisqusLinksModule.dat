@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Adds number of comments to links to pages with Disqus comments"
+      "Text": "Adds number of comments to links to pages with Disqus comments. This module is typically used as a module reference by pages or a site to add the number of comments available to pages with links to pages with Disqus comments."
     },
     {
       "Name": "modTitle",

@@ -13,7 +13,7 @@
     },
     {
       "Name": "editColor",
-      "Text": "Edit Color using hex values or names"
+      "Text": "Edit the color using hex values or names"
     }
   ]
 }

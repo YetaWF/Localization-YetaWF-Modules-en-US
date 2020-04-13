@@ -119,7 +119,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Provides Login/Register links and displays a logged on user's account name"
+      "Text": "Provides Login/Register links and displays a logged on user's account name. This module is typically added to every page (as a skin module) so anonymous users can log in or register a new account. For logged on users their account name is shown with a link to the user settings."
     },
     {
       "Name": "modTitle",

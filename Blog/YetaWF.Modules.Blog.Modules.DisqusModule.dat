@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Comments using the Disqus service"
+      "Text": "Maintains all comments for a blog entry on the current page using the Disqus service. This module is typically used on the same page as the Entry Display Module."
     },
     {
       "Name": "modTitle",

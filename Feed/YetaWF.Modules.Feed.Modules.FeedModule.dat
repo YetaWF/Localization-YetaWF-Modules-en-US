@@ -63,7 +63,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays a news feed"
+      "Text": "Displays the defined news feed. Use the module's Module Settings to define the desired news feed. Sample News Feed Modules can be accessed at Tests > News Feed (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

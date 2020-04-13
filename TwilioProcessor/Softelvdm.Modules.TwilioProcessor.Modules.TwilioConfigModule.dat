@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edits a site's TwilioProcessor settings"
+      "Text": "Edits a site's TwilioProcessor settings. This can be accessed at Admin > Settings > TwilioProcessor Settings."
     },
     {
       "Name": "modTitle",

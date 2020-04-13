@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Tests various property attributes"
+      "Text": "Test module for various property attributes. This is used for internal testing only."
     },
     {
       "Name": "modTitle",

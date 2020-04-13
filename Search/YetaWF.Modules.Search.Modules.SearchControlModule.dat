@@ -38,7 +38,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Highlights search results in a page"
+      "Text": "Highlights any search terms found on the current page displayed. It can be included as a skin module or referenced by a site, page or module (see References tab in Page, Module or Site Settings). See Skin Modules for more information."
     },
     {
       "Name": "modTitle",

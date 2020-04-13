@@ -107,7 +107,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays user editable text contents (full wysiwyg editor, using CKEditor)"
+      "Text": "Displays user editable text contents (full wysiwyg editor, using CKEditor). A sample page is accessible using Tests > Modules > Text (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

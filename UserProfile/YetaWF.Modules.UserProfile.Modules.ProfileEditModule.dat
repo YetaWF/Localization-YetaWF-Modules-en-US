@@ -54,7 +54,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edits an existing user profile"
+      "Text": "Edits the logged on user's profile (name, address). This is accessible using User > My Profile (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

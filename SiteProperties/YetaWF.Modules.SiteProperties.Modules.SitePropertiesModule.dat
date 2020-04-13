@@ -41,7 +41,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Changes site settings"
+      "Text": "Used to edit a site's properties. This module is used by the Sites Module to edit site properties. It is accessible using Admin > Settings > Site Settings (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

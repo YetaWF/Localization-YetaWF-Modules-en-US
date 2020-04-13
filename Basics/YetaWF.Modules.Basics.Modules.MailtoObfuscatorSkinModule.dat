@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Skin module implementing mailto obfuscation using javascript"
+      "Text": "Skin module implementing mailto: obfuscation using JavaScript. Can be enabled by referencing it site-wide or per page."
     },
     {
       "Name": "modTitle",

@@ -54,7 +54,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Editing features for modules"
+      "Text": "Implements editing features used in Site Edit Mode to edit module settings."
     },
     {
       "Name": "modTitle",

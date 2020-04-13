@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "CKEditor interface to select a Url for an existing page"
+      "Text": "Displays a form to select a local page URL."
     },
     {
       "Name": "modTitle",

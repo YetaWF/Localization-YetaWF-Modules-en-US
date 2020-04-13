@@ -8,10 +8,6 @@
       "Text": "Setup Two-Step Authentication - Selection"
     },
     {
-      "Name": "modSummary",
-      "Text": "Setup selection of desired Two-Step Authentication"
-    },
-    {
       "Name": "modTitle",
       "Text": "Setup Desired Two-Step Authentication"
     },

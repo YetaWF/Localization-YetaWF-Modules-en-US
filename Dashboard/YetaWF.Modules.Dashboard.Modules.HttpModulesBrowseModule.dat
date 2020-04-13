@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays all Http Modules (Pipeline)"
+      "Text": "Displays all Http modules that make up the pipeline in IIS. This information can be used to remove certain modules that are not needed. This can be accessed using Admin > Dashboard > Http Modules (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

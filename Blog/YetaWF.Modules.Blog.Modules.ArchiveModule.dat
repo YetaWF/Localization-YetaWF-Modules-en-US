@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays a list of links to blog entries, grouped by month"
+      "Text": "Displays a list of links to blog entries, grouped by month. Add this module to a page for blog navigation."
     },
     {
       "Name": "modTitle",

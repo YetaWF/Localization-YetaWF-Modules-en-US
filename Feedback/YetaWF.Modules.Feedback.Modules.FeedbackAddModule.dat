@@ -54,7 +54,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "User/site feedback"
+      "Text": "Allows entry of a message to the site owner or administrator by a site visitor."
     },
     {
       "Name": "modTitle",

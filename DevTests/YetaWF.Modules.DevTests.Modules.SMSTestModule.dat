@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "SMS test"
+      "Text": "Test module to test sending an SMS message. A test page for this module can be found at Tests > Modules > SMS (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

@@ -54,7 +54,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays search results"
+      "Text": "Displays search results. The Search Input Module uses the Search Results Module."
     },
     {
       "Name": "modTitle",

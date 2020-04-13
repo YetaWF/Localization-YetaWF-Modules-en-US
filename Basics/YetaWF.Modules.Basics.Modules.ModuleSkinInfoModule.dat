@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays module skin and CSS information, used for skin development"
+      "Text": "Displays a test sample with most HTML elements and tags commonly used. It can be used to verify a skin. It also displays average character height/width, which is used when creating new skins (in a skin's Skin.txt file). Module Skin Info can be accessed using Tests > Module Skin Info (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

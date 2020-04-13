@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays a Bootstrap carousel (used on Bootstrap skins)"
+      "Text": "Displays a Bootstrap carousel (used with Bootstrap skins). A sample Bootstrap Carousel can be found at Tests > Bootstrap Carousel (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

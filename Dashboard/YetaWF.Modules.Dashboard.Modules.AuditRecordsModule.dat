@@ -46,7 +46,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays and manages audit information"
+      "Text": "Displays and manages audit information. Audit information can be accessed using Admin > Dashboard > Audit Information (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

@@ -62,7 +62,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays and manages sites"
+      "Text": "Displays and manages sites. Sites can be accessed at Admin > Panel > Sites (standard YeatWF site)."
     },
     {
       "Name": "modTitle",

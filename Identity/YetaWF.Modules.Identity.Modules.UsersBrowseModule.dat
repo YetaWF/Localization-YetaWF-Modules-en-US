@@ -50,7 +50,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays and manages users"
+      "Text": "Used to display and manage users. This can be accessed using Admin > Panel > Identity, Users tab (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

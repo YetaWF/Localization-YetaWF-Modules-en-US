@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "UserId test component"
+      "Text": "Test module for the UserId component (edit and display). A test page for this module can be found at Tests > Templates > UserId (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

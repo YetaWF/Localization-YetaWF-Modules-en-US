@@ -46,7 +46,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays and manages languages"
+      "Text": "Displays available languages. It is accessible using Admin > Panel > Languages (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

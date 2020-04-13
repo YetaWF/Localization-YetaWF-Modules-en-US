@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays a feedback message"
+      "Text": "Displays a feedback message entered by a site visitor. This is used by the Browse Feedback Module."
     },
     {
       "Name": "modTitle",

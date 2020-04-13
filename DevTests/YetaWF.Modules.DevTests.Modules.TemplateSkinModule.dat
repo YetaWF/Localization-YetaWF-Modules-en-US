@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Skin selection test component"
+      "Text": "Test module for the SkinSelection component. A test page for this module can be found at Tests > Templates > Skins (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

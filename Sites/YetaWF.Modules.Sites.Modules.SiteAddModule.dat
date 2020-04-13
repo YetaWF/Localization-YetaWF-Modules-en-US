@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Creates a new web site"
+      "Text": "Creates a new web site. It is used by the Sites Module. It is recommended to add the new site domain to your hosts file BEFORE adding a new site, so IIS can resolve the site when it is requested the first time."
     },
     {
       "Name": "modTitle",

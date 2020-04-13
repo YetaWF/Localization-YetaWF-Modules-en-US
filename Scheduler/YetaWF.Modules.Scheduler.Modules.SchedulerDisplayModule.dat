@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays an existing scheduler item"
+      "Text": "Displays details for an existing scheduler item. Used by the Scheduler Module."
     },
     {
       "Name": "modTitle",

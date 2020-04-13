@@ -62,7 +62,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Page ear support (page peel, page corner) for site advertisement"
+      "Text": "Adds a configurable page ear to each page where this module is located. The module can be added anywhere on the page (in a pane) and is only visible in Site Edit Mode. The page ear itself (in the upper right corner) is only shown in Site View Mode once all required module settings have been defined (like the images and URL)."
     }
   ]
 }

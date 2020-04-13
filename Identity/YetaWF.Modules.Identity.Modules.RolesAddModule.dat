@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Adds a new role"
+      "Text": "Adds a new role. This is used by the Roles Module (Admin > Identity Settings > Roles, standard YetaWF site) to add a new role."
     },
     {
       "Name": "modTitle",

@@ -46,7 +46,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays an existing blog entry"
+      "Text": "Displays a blog entry. Add a Category Header Module to display information for the selected category. Add a Comments Display Module to display all comments for the blog entry. Add a Comment Add Module to allow visitors to enter comments for your blog entry."
     },
     {
       "Name": "modTitle",

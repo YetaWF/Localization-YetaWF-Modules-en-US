@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "RecaptchaV2 test component"
+      "Text": "Test module for the RecaptchaV2 component. A test page for this module can be found at Tests > Templates > RecaptchaV2 (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

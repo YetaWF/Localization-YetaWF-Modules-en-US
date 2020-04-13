@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Steps test module"
+      "Text": "Test module for the Display Steps Module (YetaWF.Panels). A test page for this module can be found at Tests > Modules > Steps (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

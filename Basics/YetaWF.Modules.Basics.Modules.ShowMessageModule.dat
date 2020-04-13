@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays an error message (used when no page/module context is available)"
+      "Text": "Displays an error message (used when no page/module context is available)."
     },
     {
       "Name": "modTitle",

@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edits a site's tawkto settings"
+      "Text": "Implements the TawkTo configuration. It can be accessed using Admin > Settings > TawkTo Settings (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

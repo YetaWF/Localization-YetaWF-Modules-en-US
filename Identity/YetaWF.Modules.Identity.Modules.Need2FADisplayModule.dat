@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays a warning that the user must complete two-step authentication setup"
+      "Text": "Displays a warning that the user must complete two-step authentication setup."
     },
     {
       "Name": "modTitle",

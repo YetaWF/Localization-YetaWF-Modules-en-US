@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "CKEditor interface to select or upload an image"
+      "Text": "Displays a form to upload and select an image."
     },
     {
       "Name": "modTitle",

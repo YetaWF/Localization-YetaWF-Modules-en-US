@@ -145,7 +145,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays and manages installed packages"
+      "Text": "Displays and manages installed packages. It is accessible using Admin > Panel > Packages (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

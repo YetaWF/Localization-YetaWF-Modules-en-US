@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Markdown test template"
+      "Text": "Test module for the MarkDown component. A test page for this module can be found at Tests > Templates > MarkDown (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

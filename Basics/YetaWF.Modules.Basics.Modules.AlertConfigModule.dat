@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edits a site's Alert settings"
+      "Text": "The Alert Settings Module allows configuring the Alert displayed to site visitors and can be accessed using Admin > Settings > Alert Settings (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

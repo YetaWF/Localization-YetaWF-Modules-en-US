@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "CKEditor interface to select or upload a Flash image"
+      "Text": "Displays a form to upload and select a Flash image."
     },
     {
       "Name": "modTitle",

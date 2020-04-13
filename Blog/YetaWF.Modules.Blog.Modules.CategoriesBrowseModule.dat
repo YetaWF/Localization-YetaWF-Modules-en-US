@@ -86,7 +86,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays and manages blog categories"
+      "Text": "Displays and manages blog categories. It is accessible using Admin > Blog > Categories (standard YetaWF site). It is used to add, edit and remove blog categories and view blog entries. It also offers automated Google news sitemap generation."
     },
     {
       "Name": "modTitle",

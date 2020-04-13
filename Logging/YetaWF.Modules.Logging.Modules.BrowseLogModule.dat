@@ -78,7 +78,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays and manages log records"
+      "Text": "Displays and manages log records. The Log module can be accessed using Admin > Dashboard > Logging (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edits a site's Control Panel settings"
+      "Text": "Used to edit Control Panel settings. It is accessible using Admin > Settings > Control Panel Settings (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

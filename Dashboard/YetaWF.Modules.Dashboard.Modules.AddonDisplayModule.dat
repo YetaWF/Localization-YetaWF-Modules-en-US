@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays detail information for an AddOn"
+      "Text": "Displays detailed information about one AddOn. Used by the AddOn Info Module."
     },
     {
       "Name": "modTitle",

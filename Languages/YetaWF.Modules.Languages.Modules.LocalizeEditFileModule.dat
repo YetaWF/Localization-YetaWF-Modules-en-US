@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edits an existing localization resource"
+      "Text": "Used to edit an existing localization resource. This is used by the Languages Module."
     },
     {
       "Name": "modTitle",

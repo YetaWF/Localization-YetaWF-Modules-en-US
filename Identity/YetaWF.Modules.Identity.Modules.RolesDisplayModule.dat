@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays an existing role"
+      "Text": "Displays an existing role. This is used by the Roles Module to display a role."
     },
     {
       "Name": "modTitle",

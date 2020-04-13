@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Url test component"
+      "Text": "Test module for the Url component. A test page for this module can be found at Tests > Templates > Url (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

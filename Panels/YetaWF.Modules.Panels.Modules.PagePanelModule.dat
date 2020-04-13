@@ -102,7 +102,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Page Panel - used to display multiple links to pages using the pages' FavIcon"
+      "Text": "Used to display multiple links to pages using the pages' FavIcon. A sample page is available at /Admin/Tests (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edits a site's feedback settings"
+      "Text": "The configuration module for the feedback modules and defines global settings. It is accessible using Admin > Settings > Feedback Settings (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

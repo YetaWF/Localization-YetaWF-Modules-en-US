@@ -34,7 +34,7 @@
   "Strings": [
     {
       "Name": "modSummary",
-      "Text": "User registration"
+      "Text": "Used by new users to register a new account on the current site. The User Login Settings Module can be used to disable new user registration. The New User Registration can be accessed using User > Register (standard YetaWF site)."
     },
     {
       "Name": "regLegend",

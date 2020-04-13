@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Adds a new comment"
+      "Text": "Adds a new comment. The comment is added the blog entry defined by the page URL's BlogEntry argument. This module is typically used on the same page as the Entry Display Module."
     },
     {
       "Name": "modTitle",

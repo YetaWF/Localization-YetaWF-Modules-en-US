@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays steps to complete an action, usually a sequence of forms or pages"
+      "Text": "Displays steps to complete an action, usually a sequence of forms or pages. A sample page is available at Tests > Modules > Steps (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

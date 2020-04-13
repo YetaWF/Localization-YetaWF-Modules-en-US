@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edits a user's account information"
+      "Text": "Used to edit the current user's account user name or email address and displays additional information. The User Account Module can be accessed using User > Account (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

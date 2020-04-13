@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays an existing audit record"
+      "Text": "Displays an existing audit record. Used by the Audit Information Module."
     },
     {
       "Name": "modTitle",

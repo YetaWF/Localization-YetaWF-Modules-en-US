@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Creates a public/private key using RSA"
+      "Text": "Creates public/private keys using RSA. These can be used by YetaWF.Core.Security.RSACrypto Encrypt and Decrypt functions to encrypt and decrypt tokens, used to implement data security. Each time the module is displayed, a new key pair is generated. A test page for the RSA Keys Module can be accessed using Tests > Modules > MakeKeys (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

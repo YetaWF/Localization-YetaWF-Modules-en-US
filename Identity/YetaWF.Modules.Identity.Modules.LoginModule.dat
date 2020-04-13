@@ -37,7 +37,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "User login"
+      "Text": "Allows a user to enter account information to log into the site. The Login Module can be accessed using User > Login (standard YetaWF site)."
     },
     {
       "Name": "sendVerificationLegend",

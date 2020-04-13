@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Processes a site template and adds all defined pages to the current site"
+      "Text": "Processes a Site Template and adds all defined pages to the current site. The Process Site Template Module is accessible using Admin > Panel > Packages (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

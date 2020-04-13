@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays information about an existing language"
+      "Text": "Used to display information about a language. This is used by the Languages Module."
     },
     {
       "Name": "modTitle",

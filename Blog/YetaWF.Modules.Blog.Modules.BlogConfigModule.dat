@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edits a site's blog settings"
+      "Text": "Main configuration module for the blog and defines global blog settings. It is accessible using Admin > Settings > Blog Settings (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

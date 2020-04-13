@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays a blog category header"
+      "Text": "Displays a blog category header. Add this to a page with a Blog Module or an Entry Display Module to show the category information for the current blog category."
     },
     {
       "Name": "modTitle",

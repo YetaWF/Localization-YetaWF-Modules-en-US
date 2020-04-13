@@ -41,7 +41,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays information for an IP address"
+      "Text": "Displays information for an IP address. This module is used by the Visitor Activity Module to display host name and geolocation information for a visitor."
     },
     {
       "Name": "modTitle",

@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays status information for YetaWF"
+      "Text": "Displays information about the YetaWF instance. Status information can be accessed using Admin > Dashboard > Status Information (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

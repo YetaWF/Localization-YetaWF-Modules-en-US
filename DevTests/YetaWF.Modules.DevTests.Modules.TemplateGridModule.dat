@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Grid (Static) test component"
+      "Text": "Test module for the Grid (Static) component. A test page for this module can be found at Tests > Templates > Grid (Static) (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

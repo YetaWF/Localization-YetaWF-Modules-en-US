@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edits local and external login providers like Google, Facebook, etc."
+      "Text": "Used to edit local and external login provider settings like Google, Facebook, etc. The Login Provider Settings Module can be accessed using Admin > Identity Settings > Login Providers(standard YetaWF site)."
     },
     {
       "Name": "modTitle",

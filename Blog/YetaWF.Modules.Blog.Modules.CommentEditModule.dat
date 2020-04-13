@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edits an existing comment entry"
+      "Text": "Edits an existing comment entry. This is used by the Entries Browse Module and is not site visitor accessible. It is typically used by a site administrator to edit user comments."
     },
     {
       "Name": "modTitle",

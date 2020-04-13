@@ -50,7 +50,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays all comment entries for a blog entry"
+      "Text": "Displays all comments for a blog entry. This module is typically used on the same page as the Entry Display Module. Authorized users can approve and remove comments."
     },
     {
       "Name": "modTitle",

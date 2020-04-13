@@ -50,7 +50,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays visitor activity"
+      "Text": "Displays visitor activity. It is accessible using Admin > Dashboard > Visitor Activity (standard YetaWF site). Displaying a record's detailed information is available in the Visitor Activity grid shown by the Visitors Module. Records cannot be removed."
     },
     {
       "Name": "modTitle",

@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays an existing user"
+      "Text": "Used to display an existing user. This is used by the Users Module to display a user."
     },
     {
       "Name": "modTitle",

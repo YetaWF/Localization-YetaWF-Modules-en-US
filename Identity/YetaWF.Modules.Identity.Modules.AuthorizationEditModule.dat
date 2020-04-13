@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edits an existing resource"
+      "Text": "Used to edit a resource. This module is used by the Resources Module"
     },
     {
       "Name": "modTitle",

@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Edits the RecaptchaV2 settings"
+      "Text": "Captcha support using Google's https://www.google.com/recaptcha. The Recaptcha configuration can be accessed using Admin > Settings > RecaptchaV2 Settings (standard YetaWF site). Recaptcha is a service provided by Google. Key information can be obtained at https://www.google.com/recaptcha/admin#createsiteRemote. You need a Google account to obtain key information. The settings defined using the RecaptchaV2 Settings Module are used by the RecaptchaV2 component."
     },
     {
       "Name": "modTitle",

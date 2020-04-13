@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "modSummary",
-      "Text": "External user account setup (used with external login providers only)"
+      "Text": "Displayed after logging in using an external login provider, so the user can set up a local account."
     },
     {
       "Name": "title",

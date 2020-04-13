@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays and manages static pages"
+      "Text": "Displays and manages information about static pages. This can be accessed using Admin > Dashboard > Static Pages (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

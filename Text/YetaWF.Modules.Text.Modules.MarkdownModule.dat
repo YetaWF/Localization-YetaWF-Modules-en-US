@@ -30,7 +30,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays user editable text contents (using Markdown)"
+      "Text": "Displays user editable text contents (using Markdown). A sample page is accessible using Tests > Modules > Markdown (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

@@ -104,7 +104,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Page Bar - used to display multiple links to pages using the pages' FavIcon, displaying the page contents within the PageBar module"
+      "Text": "Used to display multiple links to pages using the pages' FavIcon, displaying the page contents within the Page Bar Module. A sample page is available at Admin > Settings (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

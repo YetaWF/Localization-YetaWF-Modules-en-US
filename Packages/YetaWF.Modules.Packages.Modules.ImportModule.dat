@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Imports binary or source code packages"
+      "Text": "Used to import a package into your YetaWF site. The package can be a complete package including source code or a binary only package. Source code packages can only be imported on development systems in a Debug build."
     },
     {
       "Name": "modTitle",

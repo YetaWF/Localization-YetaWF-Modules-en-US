@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays a visitor summary"
+      "Text": "Displays a summary of yesterday's and today's visitor activity. It is accessible using Admin > Dashboard > Visitor Activity (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

@@ -62,7 +62,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Search terms entry"
+      "Text": "Allow search term input."
     },
     {
       "Name": "modTitle",

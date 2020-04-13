@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays an Alert message"
+      "Text": "Can be referenced by sites, pages or modules. Once referenced, an Alert will be displayed (once or until dismissed, depending on Alert Settings)."
     },
     {
       "Name": "modTitle",

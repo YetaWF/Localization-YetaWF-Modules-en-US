@@ -182,7 +182,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Module editing services"
+      "Text": "Implements editing services used in Site Edit Mode to move modules within panes, change their position, remove modules from a page and to export module data."
     },
     {
       "Name": "modTitle",

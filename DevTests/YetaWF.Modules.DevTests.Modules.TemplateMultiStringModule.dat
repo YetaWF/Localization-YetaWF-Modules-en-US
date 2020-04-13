@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "MultiString test component"
+      "Text": "Test module for the MultiString component. A test page for this module can be found at Tests > Templates > MultiString (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

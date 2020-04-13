@@ -25,7 +25,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Manages the site's user login settings"
+      "Text": "Manages the site's user login settings and is used to define a site's settings, such as whether new users are accepted, new users, require verification, etc. The User Login Settings Module can be accessed using Admin > Settings > User Login Settings (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

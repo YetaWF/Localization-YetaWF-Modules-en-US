@@ -30,7 +30,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays today's visitor stats"
+      "Text": "Displays a small icon. When an authorized user hovers over the icon, today's and yesterday's totals for anonymous and logged on visitors are shown. By clicking on the icon, the Visitors Module is displayed, showing all visitor activity (assuming that the URL for a page with the Visitors Module has been defined in the TinyVisitor Module's settings). This module is typically added to every page (as a skin module) so the Administrator has access to visitor activity."
     },
     {
       "Name": "modTitle",

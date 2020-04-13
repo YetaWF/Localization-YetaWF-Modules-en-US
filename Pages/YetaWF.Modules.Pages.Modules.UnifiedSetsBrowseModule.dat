@@ -54,7 +54,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays and manages Unified Page Sets"
+      "Text": "Displays and manages Unified Page Sets. It can be accessed using Admin > Panel > Unified Page Sets (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

@@ -62,7 +62,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays and manages resources (used for authorizations)"
+      "Text": "Used to display and manage resources used for authorizations. It is accessible using Admin > Identity Settings > Resources (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

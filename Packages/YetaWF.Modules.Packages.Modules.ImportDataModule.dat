@@ -9,7 +9,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Imports data supported by installed packages"
+      "Text": "Used to import all the data for one package. Only data for the current site is imported. A site backup contains multiple zip files, each containing data a backup for a particular package. These zip files can be restored, or imported, using the Import Package Data Module. The Import Package Data Module is accessible using Admin > Panel > Packages."
     },
     {
       "Name": "modTitle",

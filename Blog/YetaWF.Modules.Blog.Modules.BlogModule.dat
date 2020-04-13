@@ -45,7 +45,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays the main blog entry point with all or a single blog category"
+      "Text": "Displays the main blog entry point with all or a single blog category. Add this module to a page as the main entry point to your overall blog tor for individual blog categories. It displays blog entries in short form. The maximum number of entries shown can be limited using the Blog Settings Module (Admin > Settings > Blog Settings, standard YetaWF site)."
     },
     {
       "Name": "modTitle",
