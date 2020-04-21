@@ -16,6 +16,10 @@
       "Text": "Error"
     },
     {
+      "Name": "AjaxNotAuth",
+      "Text": "Not Authorized"
+    },
+    {
       "Name": "FormErrors",
       "Text": ""
     }
