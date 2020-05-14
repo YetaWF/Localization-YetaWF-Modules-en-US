@@ -40,6 +40,14 @@
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
+        },
+        {
+          "Name": "UserNameDisplay",
+          "Caption": "Name",
+          "Description": "Shows your user name - This is the name used to register on this site",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
         }
       ]
     }
@@ -51,12 +59,12 @@
       "Text": "The invitation code is invalid"
     },
     {
-      "Name": "emailUsed",
-      "Text": "An account with email address {0} already exists."
-    },
-    {
       "Name": "noExtLogin",
       "Text": "No external login has been processed"
+    },
+    {
+      "Name": "noInvite",
+      "Text": "This site allows new accounts by invitation only - According to our records there is no account on this site for your {0} credentials"
     },
     {
       "Name": "okAwaitApproval",

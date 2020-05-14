@@ -1,0 +1,39 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "passwordDelim",
+      "Text": ", "
+    },
+    {
+      "Name": "passwordEnd",
+      "Text": "."
+    },
+    {
+      "Name": "passwordLen",
+      "Text": "be at least {0} characters long"
+    },
+    {
+      "Name": "passwordLower",
+      "Text": "contain at least one lowercase character a-z"
+    },
+    {
+      "Name": "passwordNonAlpha",
+      "Text": "contain at least one special character (non alphanumeric)"
+    },
+    {
+      "Name": "passwordNum",
+      "Text": "contain at least one number 0-9"
+    },
+    {
+      "Name": "passwordStart",
+      "Text": "The password must "
+    },
+    {
+      "Name": "passwordUpper",
+      "Text": "contain at least one uppercase character A-Z"
+    }
+  ]
+}

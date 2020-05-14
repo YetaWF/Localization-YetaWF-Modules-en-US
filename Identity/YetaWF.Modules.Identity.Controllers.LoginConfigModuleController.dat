@@ -72,6 +72,14 @@
           "TextBelow": null
         },
         {
+          "Name": "ChangePasswordUrl",
+          "Caption": "Change Password Url",
+          "Description": "The Url where the user is redirected if the password must be changed",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "ForgotPasswordUrl",
           "Caption": "Forgotten Password Url",
           "Description": "The Url where the user can retrieve a forgotten password for an existing account",

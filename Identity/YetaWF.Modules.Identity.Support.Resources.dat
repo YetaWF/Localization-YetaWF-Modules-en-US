@@ -33,7 +33,7 @@
     },
     {
       "Name": "valuserName2",
-      "Text": "The user name is invalid ('{0}' property) - The user name can't start with characters like a tab or a space"
+      "Text": "The user name is invalid ('{0}' field) - The user name can't start with characters like a tab or a space"
     },
     {
       "Name": "valuserName3",

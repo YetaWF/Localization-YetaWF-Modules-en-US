@@ -12,7 +12,7 @@
         {
           "Name": "Email",
           "Caption": "Email Address",
-          "Description": "Your email address this site uses to communicate with you",
+          "Description": "Enter your email address that can be used by this site to communicate with you",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

@@ -26,6 +26,14 @@
           "TextBelow": null
         },
         {
+          "Name": "AreaName",
+          "Caption": "Area",
+          "Description": "The area implementing this module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "Commands",
           "Caption": "Actions",
           "Description": "The available actions",

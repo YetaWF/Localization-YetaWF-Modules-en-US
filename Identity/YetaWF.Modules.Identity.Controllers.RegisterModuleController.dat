@@ -42,6 +42,14 @@
           "TextBelow": null
         },
         {
+          "Name": "PasswordRules",
+          "Caption": " ",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "UserName",
           "Caption": "User Name",
           "Description": "Enter your user name to register",

@@ -19,7 +19,7 @@
     },
     {
       "Name": "extUser",
-      "Text": "This account uses an external login provider - Two-step authentication (if available) must be set up using the external login provider."
+      "Text": "Your account uses a {0} account - Two-step authentication must be set up using your {0} account."
     },
     {
       "Name": "notEnabled",

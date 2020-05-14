@@ -26,6 +26,14 @@
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
+        },
+        {
+          "Name": "ShowPasswordRules",
+          "Caption": "Show Password Rules",
+          "Description": "Defines whether the password rules are shown",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
         }
       ]
     }

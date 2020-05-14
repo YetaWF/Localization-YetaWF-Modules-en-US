@@ -73,7 +73,7 @@
     },
     {
       "Name": "valAnchor2",
-      "Text": "The anchor id is invalid ('{0}' property) - use only the letters a-z, A-Z, _, - and 0-9 for ids"
+      "Text": "The anchor id is invalid ('{0}' field) - use only the letters a-z, A-Z, _, - and 0-9 for ids"
     },
     {
       "Name": "valAnchor3",
@@ -85,7 +85,7 @@
     },
     {
       "Name": "valArea2",
-      "Text": "The area specified is invalid ('{0}' property) - Please use only letters and numbers in the format domain_product"
+      "Text": "The area specified is invalid ('{0}' field) - Please use only letters and numbers in the format domain_product"
     },
     {
       "Name": "valArea3",
@@ -186,6 +186,18 @@
     {
       "Name": "valPkgDomain3",
       "Text": "The domain '{0}' is invalid - Please use only letters and numbers"
+    },
+    {
+      "Name": "valSSN",
+      "Text": "The social security number is invalid"
+    },
+    {
+      "Name": "valSSN2",
+      "Text": "The social security number is invalid (field '{0}')"
+    },
+    {
+      "Name": "valSSN3",
+      "Text": "The social security number '{0}' is invalid"
     },
     {
       "Name": "valUrl1",
