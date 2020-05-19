@@ -44,6 +44,10 @@
       "Text": "The {0} role describes every authenticated user that must set up two-step authentication (i.e., not an anonymous user)"
     },
     {
+      "Name": "userDemoRole",
+      "Text": "The {0} role describes an authenticated user that is limited to demo functionality"
+    },
+    {
       "Name": "userRole",
       "Text": "The {0} role describes every authenticated user (i.e., not an anonymous user)"
     }
