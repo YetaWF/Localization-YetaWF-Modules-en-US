@@ -333,6 +333,10 @@
       "Text": "{0} {1}"
     },
     {
+      "Name": "strMonth_Day_Year",
+      "Text": "{0} {1}, {2}"
+    },
+    {
       "Name": "strMonth_YYYY",
       "Text": "{0} {1}"
     },
