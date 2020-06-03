@@ -66,6 +66,14 @@
           "TextBelow": null
         },
         {
+          "Name": "RegisterAction",
+          "Caption": "",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "RememberMe",
           "Caption": "Remember Me",
           "Description": "Select this option so your information is saved and you don't need to login again when you return to this site (when using the same browser)",

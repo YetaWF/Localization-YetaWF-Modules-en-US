@@ -16,6 +16,14 @@
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
+        },
+        {
+          "Name": "Variables",
+          "Caption": "Variables",
+          "Description": "Various Variables",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
         }
       ]
     }
