@@ -10,6 +10,14 @@
       "Categories": {},
       "Properties": [
         {
+          "Name": "Actions",
+          "Caption": "",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "Captcha",
           "Caption": "Captcha",
           "Description": "Please verify that you're a human and not a spam bot",
