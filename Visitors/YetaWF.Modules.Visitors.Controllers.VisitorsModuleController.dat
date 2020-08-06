@@ -117,5 +117,10 @@
     }
   ],
   "Enums": [],
-  "Strings": []
+  "Strings": [
+    {
+      "Name": "noInfo",
+      "Text": "Visitor information is not available - See https://yetawf.com/Documentation/YetaWF/Visitors"
+    }
+  ]
 }

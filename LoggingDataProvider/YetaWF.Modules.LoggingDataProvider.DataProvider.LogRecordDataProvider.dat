@@ -1,0 +1,11 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "noLog",
+      "Text": "Logging is not available - See https://yetawf.com/Documentation/YetaWF/Logging"
+    }
+  ]
+}

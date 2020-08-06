@@ -1,0 +1,35 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "editLegend",
+      "Text": "Edits the logging settings"
+    },
+    {
+      "Name": "editLink",
+      "Text": "Logging Settings"
+    },
+    {
+      "Name": "editText",
+      "Text": "Logging Settings"
+    },
+    {
+      "Name": "editTooltip",
+      "Text": "Edit the logging settings"
+    },
+    {
+      "Name": "modName",
+      "Text": "Logging Settings"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Used to edit a site's logging settings. This can be accessed using Admin > Settings > Logging Settings (standard YetaWF site)."
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Logging Settings"
+    }
+  ]
+}

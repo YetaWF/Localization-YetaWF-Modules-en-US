@@ -1,0 +1,35 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "editLegend",
+      "Text": "Edits the visitors settings"
+    },
+    {
+      "Name": "editLink",
+      "Text": "Visitors Settings"
+    },
+    {
+      "Name": "editText",
+      "Text": "Visitors Settings"
+    },
+    {
+      "Name": "editTooltip",
+      "Text": "Edit the visitors settings"
+    },
+    {
+      "Name": "modName",
+      "Text": "Visitors Settings"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Used to edit a site's visitors settings. This can be accessed using Admin > Settings > Visitors Settings (standard YetaWF site)."
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Visitors Settings"
+    }
+  ]
+}
