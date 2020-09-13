@@ -1,0 +1,35 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "editLegend",
+      "Text": "Edits the scheduler settings"
+    },
+    {
+      "Name": "editLink",
+      "Text": "Scheduler Settings"
+    },
+    {
+      "Name": "editText",
+      "Text": "Scheduler Settings"
+    },
+    {
+      "Name": "editTooltip",
+      "Text": "Edit the scheduler settings"
+    },
+    {
+      "Name": "modName",
+      "Text": "Scheduler Settings"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Used to edit a site's scheduler settings. This can be accessed using Admin > Settings > Scheduler Settings (standard YetaWF site)."
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Scheduler Settings"
+    }
+  ]
+}

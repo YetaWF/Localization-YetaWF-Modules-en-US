@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "eventDesc",
+      "Text": "Removes old scheduler log data"
+    },
+    {
+      "Name": "eventName",
+      "Text": "Remove Old Scheduler Log Data"
+    },
+    {
+      "Name": "eventNameErr",
+      "Text": "Unknown scheduler event {0}."
+    }
+  ]
+}
