@@ -10,14 +10,6 @@
       "Categories": {},
       "Properties": [
         {
-          "Name": "AspNetMvc",
-          "Caption": "ASP.NET/MVC Version",
-          "Description": "The ASP.NET/MVC version used",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
           "Name": "BlueGreenDeploy",
           "Caption": "Deployment Type",
           "Description": "The deployment type used for the current site",

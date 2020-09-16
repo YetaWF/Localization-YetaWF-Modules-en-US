@@ -158,6 +158,14 @@
           "TextBelow": null
         },
         {
+          "Name": "ContentTypeOptions",
+          "Caption": "Content Type Options",
+          "Description": "Defines whether the MIME types advertised in the Content-Type headers should not be changed and be followed by the browser (by setting the X-Content-Type-Options HTTP header)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "Copyright",
           "Caption": "Copyright",
           "Description": "Defines an optional copyright notice displayed on each page, if supported by the skin used. Individual pages can override this notice - use <<Year>> for current year",
@@ -665,6 +673,14 @@
           "Name": "StaticPages",
           "Caption": "Allow Static Pages",
           "Description": "Defines whether pages marked as static pages (for anonymous users only) are served as static pages - Any page whose content doesn't change can be marked as a static page, which results in faster page load for the end-user - Pages are marked static using the page's Page Settings (see Static Page property) - Only a deployed site uses static pages",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "StrictTransportSecurity",
+          "Caption": "Strict Transport Security",
+          "Description": "Defines whether a HTTP Strict-Transport-Security response header (HSTS) is generated to let browsers know that the site should only be accessed using HTTPS, instead of using HTTP - This setting only takes effect for a deployed site",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

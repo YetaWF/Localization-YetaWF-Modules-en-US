@@ -1,0 +1,24 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [
+    {
+      "Name": "YetaWF.Core.Site.ContentTypeEnum",
+      "Entries": [
+        {
+          "Name": "No",
+          "Value": "No",
+          "Caption": "Not Specified",
+          "Description": "A X-Content-Type-Options header is not generated"
+        },
+        {
+          "Name": "NoSniff",
+          "Value": "NoSniff",
+          "Caption": "nosniff",
+          "Description": "A X-Content-Type-Options: nosniff header is generated defining that the MIME types advertised in the Content-Type headers should not be changed and be followed by the browser"
+        }
+      ]
+    }
+  ],
+  "Strings": []
+}
