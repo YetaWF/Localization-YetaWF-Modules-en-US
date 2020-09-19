@@ -1,0 +1,60 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Identity.Controllers.UserIdFilterModuleController+EditModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "FilterOp",
+          "Caption": "Comparison",
+          "Description": "Select the comparison method",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UserId",
+          "Caption": "User",
+          "Description": "Select the user",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [
+    {
+      "Name": "YetaWF.Modules.Identity.Controllers.UserIdFilterModuleController+EditModel+FilterOpEnum",
+      "Entries": [
+        {
+          "Name": "Equal",
+          "Value": "Equal",
+          "Caption": "Equal",
+          "Description": "Only show users that match the selected user"
+        },
+        {
+          "Name": "NotEqual",
+          "Value": "NotEqual",
+          "Caption": "Not Equal",
+          "Description": "Only show users that do not match the selected user"
+        }
+      ]
+    }
+  ],
+  "Strings": [
+    {
+      "Name": "save",
+      "Text": "Save Filter"
+    },
+    {
+      "Name": "saveTT",
+      "Text": "Click to save the selected user as the new filter setting"
+    }
+  ]
+}

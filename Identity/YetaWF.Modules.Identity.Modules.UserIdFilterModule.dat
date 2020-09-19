@@ -1,0 +1,35 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "editLegend",
+      "Text": "Limits data shown to a certain user"
+    },
+    {
+      "Name": "editLink",
+      "Text": "Filter"
+    },
+    {
+      "Name": "editText",
+      "Text": "Filter"
+    },
+    {
+      "Name": "editTooltip",
+      "Text": "Use a filter to limit data shown to a certain user"
+    },
+    {
+      "Name": "modName",
+      "Text": "UserId Filter"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Implements a filter for a user id."
+    },
+    {
+      "Name": "modTitle",
+      "Text": "User Filter"
+    }
+  ]
+}
