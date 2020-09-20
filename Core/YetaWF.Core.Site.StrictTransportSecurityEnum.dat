@@ -15,7 +15,7 @@
           "Name": "All",
           "Value": "All",
           "Caption": "All",
-          "Description": "A Strict-Transport-Security header is generated define with 2 year expiration, including all subdomains, and with support for preload lists"
+          "Description": "A Strict-Transport-Security header is generated defining a 2 year expiration, including all subdomains, and with support for preload lists"
         }
       ]
     }
