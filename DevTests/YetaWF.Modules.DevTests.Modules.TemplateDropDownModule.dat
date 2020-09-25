@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "modName",
+      "Text": "Component Test - DropDown"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Test module for the DropDown component. A test page for this module can be found at Tests > Templates > DropDown (standard YetaWF site)."
+    },
+    {
+      "Name": "modTitle",
+      "Text": "DropDown Test Component"
+    }
+  ]
+}

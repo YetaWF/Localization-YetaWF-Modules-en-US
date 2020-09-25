@@ -1,0 +1,80 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.DevTests.Controllers.TemplateDropDownModuleController+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "Core": "Core"
+      },
+      "Properties": [
+        {
+          "Name": "ControlStatus",
+          "Caption": "Control Status",
+          "Description": "Defines the processing status of the controls",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DropDownList",
+          "Caption": "DropDownList",
+          "Description": "DropDownList (SelectionRequired)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DropDownListInt",
+          "Caption": "DropDownListInt",
+          "Description": "DropDownListInt (SelectionRequired)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Enum",
+          "Caption": "Enum",
+          "Description": "Enum (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [
+    {
+      "Name": "YetaWF.Modules.DevTests.Controllers.TemplateDropDownModuleController+Model+SampleEnum",
+      "Entries": [
+        {
+          "Name": "Value1",
+          "Value": "Value1",
+          "Caption": "Enum 1",
+          "Description": "Tooltip for Enum 1"
+        },
+        {
+          "Name": "Value2",
+          "Value": "Value2",
+          "Caption": "Enum 2",
+          "Description": "Tooltip for Enum 2"
+        },
+        {
+          "Name": "Value3",
+          "Value": "Value3",
+          "Caption": "Enum 3",
+          "Description": "Tooltip for Enum 3"
+        }
+      ]
+    }
+  ],
+  "Strings": [
+    {
+      "Name": "ok",
+      "Text": "OK"
+    }
+  ]
+}
