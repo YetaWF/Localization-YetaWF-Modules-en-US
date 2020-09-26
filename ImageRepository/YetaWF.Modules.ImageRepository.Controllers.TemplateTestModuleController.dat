@@ -10,14 +10,6 @@
       "Categories": {},
       "Properties": [
         {
-          "Name": "FlashImageName",
-          "Caption": "Flash Image Selection",
-          "Description": "Description of Flash image selection",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
           "Name": "ImageName",
           "Caption": "Image Selection",
           "Description": "Description of image selection",
