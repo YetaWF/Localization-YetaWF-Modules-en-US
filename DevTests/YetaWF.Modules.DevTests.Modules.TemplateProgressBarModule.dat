@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "modName",
+      "Text": "Template Test - ProgressBar"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "ProgressBar test template"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "ProgressBar Test Template"
+    }
+  ]
+}
