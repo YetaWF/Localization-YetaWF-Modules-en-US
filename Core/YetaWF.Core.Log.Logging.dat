@@ -28,6 +28,12 @@
           "Value": "Error",
           "Caption": "Error",
           "Description": "Error"
+        },
+        {
+          "Name": "Always",
+          "Value": "Always",
+          "Caption": "Always",
+          "Description": "Always logged"
         }
       ]
     }
