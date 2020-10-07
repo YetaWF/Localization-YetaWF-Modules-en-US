@@ -144,7 +144,7 @@
         {
           "Name": "Compression",
           "Caption": "Compression",
-          "Description": "Defines whether whitespace compression is used for all pages",
+          "Description": "Defines whether whitespace compression is used for all non-static pages - Static pages are always compressed - This setting only applies to deployed sites",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
