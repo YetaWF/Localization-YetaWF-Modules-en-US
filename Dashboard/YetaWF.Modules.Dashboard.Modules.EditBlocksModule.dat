@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "modName",
+      "Text": "Request Blocking"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Edits request blocking settings, used to stop bots from common exploit scanning, scraping"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Request Blocking"
+    }
+  ]
+}
