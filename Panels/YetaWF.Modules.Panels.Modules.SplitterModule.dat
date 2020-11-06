@@ -1,0 +1,112 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Panels.Modules.SplitterModule",
+      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition",
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "General": "General"
+      },
+      "Properties": [
+        {
+          "Name": "CollapseText",
+          "Caption": "Collapse Text",
+          "Description": "Defines the text shown next to the collapse icon",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CollapseToolTip",
+          "Caption": "Collapse Tooltip",
+          "Description": "Defines the tooltip shown for the collapse text and icon",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ExpandToolTip",
+          "Caption": "Expand Tooltip",
+          "Description": "Defines the tooltip shown for the expand icon",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Height",
+          "Caption": "Height (Pixels)",
+          "Description": "Defines the height of the module in pixels - Set to 0 to calculate the height automatically to fill the remainder of the page",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MinWidth",
+          "Caption": "Minimum Width (Left, Pixels)",
+          "Description": "Defines the minimum width in pixels",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ModuleLeft",
+          "Caption": "Module (Left)",
+          "Description": "The module rendered on the left side",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ModuleRight",
+          "Caption": "Module (Right)",
+          "Description": "The module rendered on the right side, filling the remainder of the available width",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TitleText",
+          "Caption": "Left Title",
+          "Description": "Defines the title shown in the left pane",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TitleTooltip",
+          "Caption": "Left Title Tooltip",
+          "Description": "Defines the tooltip shown for the title in the left pane",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Width",
+          "Caption": "Width (Left, Percentage)",
+          "Description": "Defines the desired width in percent of the entire window",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "modName",
+      "Text": "Splitter"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Used to display two modules side by side."
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Splitter"
+    }
+  ]
+}
