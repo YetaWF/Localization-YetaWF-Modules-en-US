@@ -5,7 +5,7 @@
   "Strings": [
     {
       "Name": "notAvail",
-      "Text": "Information not available on ASP.NET Core MVC"
+      "Text": "Information not available on .NET Core"
     }
   ]
 }
