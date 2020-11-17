@@ -120,20 +120,16 @@
       "Text": "Incorrectly packaged module - no product name available - Package {0}"
     },
     {
+      "Name": "noVers",
+      "Text": "Incorrectly packaged module - no version available - Package {0}"
+    },
+    {
       "Name": "packageDataFmt",
       "Text": "Package Data - {0}.{1}.zip"
     },
     {
-      "Name": "packageFmt",
-      "Text": "Package ASPNET4 - {0}.{1}.zip"
-    },
-    {
       "Name": "packageFmtCore",
       "Text": "Package ASPNETCore - {0}.{1}.zip"
-    },
-    {
-      "Name": "packageFmtSrc",
-      "Text": "Package w_Source ASPNET4 - {0}.{1}.zip"
     },
     {
       "Name": "packageFmtSrcCore",
