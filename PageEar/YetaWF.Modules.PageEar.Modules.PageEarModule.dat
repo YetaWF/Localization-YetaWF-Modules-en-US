@@ -30,7 +30,7 @@
         {
           "Name": "ClickUrl",
           "Caption": "Url",
-          "Description": "The url where the user is directed when clicking on the page ear",
+          "Description": "The URL where the user is directed when clicking on the page ear",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
