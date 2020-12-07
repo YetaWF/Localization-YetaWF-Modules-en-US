@@ -301,8 +301,28 @@
       "Text": "Upload a file..."
     },
     {
+      "Name": "currencyPH",
+      "Text": "(Amount)"
+    },
+    {
+      "Name": "decimalPH",
+      "Text": "(Number)"
+    },
+    {
+      "Name": "intvaluePH",
+      "Text": "(Number)"
+    },
+    {
       "Name": "ok",
       "Text": "OK"
+    },
+    {
+      "Name": "password20PH",
+      "Text": "(Password)"
+    },
+    {
+      "Name": "textPH",
+      "Text": "(This is a placeholder)"
     },
     {
       "Name": "uploadSuccess",

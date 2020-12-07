@@ -49,6 +49,14 @@
     {
       "Name": "ok",
       "Text": "OK"
+    },
+    {
+      "Name": "prop1PH",
+      "Text": "(This is an optional field)"
+    },
+    {
+      "Name": "prop1ReqPH",
+      "Text": "(This is a required field)"
     }
   ]
 }
