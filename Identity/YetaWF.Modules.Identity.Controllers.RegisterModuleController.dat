@@ -42,6 +42,14 @@
           "TextBelow": null
         },
         {
+          "Name": "PartnerName",
+          "Caption": "Partner",
+          "Description": "Enter your partner name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "Password",
           "Caption": "Password",
           "Description": "Enter your desired password",

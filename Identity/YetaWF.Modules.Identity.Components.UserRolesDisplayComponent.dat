@@ -2,7 +2,7 @@
   "Comment": null,
   "Classes": [
     {
-      "Name": "YetaWF.Modules.ComponentsHTML.Components.RolesSelectorDisplayComponent+Entry",
+      "Name": "YetaWF.Modules.Identity.Components.UserRolesDisplayComponent+Entry",
       "BaseTypeName": null,
       "Header": null,
       "Footer": null,
@@ -18,17 +18,25 @@
           "TextBelow": null
         },
         {
-          "Name": "Name",
-          "Caption": "Name",
-          "Description": "Role Name",
+          "Name": "DisplayRoleId",
+          "Caption": "Role Id",
+          "Description": "The id used internally to identify the role",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
-          "Name": "Used",
-          "Caption": "Use",
-          "Description": "Checkbox indicates selection",
+          "Name": "InRole",
+          "Caption": "Apply",
+          "Description": "The role applies to the user if selected",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Name",
+          "Caption": "Name",
+          "Description": "Role Name",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

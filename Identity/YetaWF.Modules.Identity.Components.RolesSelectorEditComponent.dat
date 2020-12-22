@@ -2,7 +2,7 @@
   "Comment": null,
   "Classes": [
     {
-      "Name": "YetaWF.Modules.ComponentsHTML.Components.RolesSelectorEditComponent+Entry",
+      "Name": "YetaWF.Modules.Identity.Components.RolesSelectorEditComponent+Entry",
       "BaseTypeName": null,
       "Header": null,
       "Footer": null,

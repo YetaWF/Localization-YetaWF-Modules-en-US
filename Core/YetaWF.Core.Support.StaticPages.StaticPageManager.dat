@@ -9,13 +9,13 @@
           "Name": "File",
           "Value": "File",
           "Caption": "File",
-          "Description": "Static pages cached using a local file"
+          "Description": "Static page cached using a local file"
         },
         {
           "Name": "Memory",
           "Value": "Memory",
           "Caption": "Memory",
-          "Description": "Static pages cached in memory (not available with distributed caching - web farm/garden)"
+          "Description": "Static page cached in memory (not available with distributed caching - web farm/garden)"
         }
       ]
     }
