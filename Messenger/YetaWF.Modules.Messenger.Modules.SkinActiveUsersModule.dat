@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "modName",
+      "Text": "Active Users (Skin)"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Skin module used to keep a list of active users"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Skin Active Users"
+    }
+  ]
+}
