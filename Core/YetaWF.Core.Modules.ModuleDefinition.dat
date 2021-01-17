@@ -266,6 +266,14 @@
           "TextBelow": null
         },
         {
+          "Name": "PopupPage",
+          "Caption": "Popup Page",
+          "Description": "The popup page used for the popup window when this module is shown in a popup",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "Print",
           "Caption": "Print Support",
           "Description": "Defines whether the module is printed when a page is printed",
@@ -285,14 +293,6 @@
           "Name": "ReferencedModules",
           "Caption": "Other Modules",
           "Description": "Defines other modules which must be injected into the page when this module is used",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "SelectedPopupSkin",
-          "Caption": "Popup Skin",
-          "Description": "The skin used for the popup window when this module is shown in a popup",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -341,14 +341,6 @@
           "Name": "ShowTitleActions",
           "Caption": "Show Actions (Title)",
           "Description": "Defines whether the module's action links are also shown next to the module title - Only the icons are shown if selected",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "SkinDefinitions",
-          "Caption": "Module Skins",
-          "Description": "The skin used for this module - for each installed skin, a skin can be selected which will be used for the module, if the containing page uses that skin. This way the same module can be used on multiple pages, even if different page skins are used",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

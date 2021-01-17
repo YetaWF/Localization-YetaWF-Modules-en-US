@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "modName",
+      "Text": "Skin Palette (Skin)"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Edits the current skin"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Skin Palette"
+    }
+  ]
+}

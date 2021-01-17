@@ -4,10 +4,6 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "descFmt",
-      "Text": "{0} ({1} x {2} pixels)"
-    },
-    {
       "Name": "page",
       "Text": "Default Page"
     },
