@@ -13,7 +13,7 @@
     },
     {
       "Name": "coll",
-      "Text": "Color Palette - Change skin settings and generate new CSS variables for use in skins"
+      "Text": "Skin Palette - Change skin settings and generate new CSS variables for use in skins"
     }
   ]
 }

@@ -234,6 +234,14 @@
           "TextBelow": null
         },
         {
+          "Name": "ModuleSkin",
+          "Caption": "Module Skin",
+          "Description": "The module skin used for the module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "Name",
           "Caption": "Name",
           "Description": "The module name, which is used to identify the module",
@@ -332,7 +340,7 @@
         {
           "Name": "ShowTitle",
           "Caption": "Show Title",
-          "Description": "Defines whether the module title is shown",
+          "Description": "Defines whether the module title is shown - Applies to the modStandard skin only",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -340,7 +348,7 @@
         {
           "Name": "ShowTitleActions",
           "Caption": "Show Actions (Title)",
-          "Description": "Defines whether the module's action links are also shown next to the module title - Only the icons are shown if selected",
+          "Description": "Defines whether the module's action links are also shown next to the module title - Only the icons are shown if selected - Applies to the modStandard skin only",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

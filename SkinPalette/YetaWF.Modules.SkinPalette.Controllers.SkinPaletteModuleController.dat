@@ -18,6 +18,8 @@
         "Indicators": "Indicators",
         "Input": "Input",
         "Main Menu": "Main Menu",
+        "modPanel": "modPanel",
+        "modStandard": "modStandard",
         "Overlay": "Overlay",
         "Page": "Page",
         "Panel": "Panel",
@@ -156,14 +158,6 @@
           "Name": "BarH1FontSize",
           "Caption": "--bar-h1-font-size",
           "Description": "Font Size",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "BarH1PaddingBottom",
-          "Caption": "--bar-h1-padding-bottom",
-          "Description": "Padding",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -1252,6 +1246,62 @@
           "Name": "ModCurrentBg",
           "Caption": "--mod-current-bg",
           "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ModPanelBg",
+          "Caption": "--mpnl-bg",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ModPanelBorder",
+          "Caption": "--mpnl-border",
+          "Description": "Border",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ModPanelBorderRadius",
+          "Caption": "--mpnl-border-radius",
+          "Description": "Border Radius",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ModPanelClr",
+          "Caption": "--mpnl-clr",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ModPanelLinkFont",
+          "Caption": "--mpnl-link-font",
+          "Description": "Font",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ModPanelTitleFont",
+          "Caption": "--mpnl-title-font",
+          "Description": "Font",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ModStandardTitleFont",
+          "Caption": "--mstd-title-font",
+          "Description": "Font",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
