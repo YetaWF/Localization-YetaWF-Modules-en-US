@@ -50,6 +50,14 @@
           "TextBelow": null
         },
         {
+          "Name": "CanMinimize",
+          "Caption": "Can Minimize",
+          "Description": "Defines whether the module can be minimized - Applies to the modPanel skin only",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "ClassName",
           "Caption": "Class Name",
           "Description": "The module's class name",
@@ -173,6 +181,14 @@
           "Name": "IsModuleUnique",
           "Caption": "IsModuleUnique",
           "Description": "Displays whether the module is a unique module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Minimized",
+          "Caption": "Start Minimized",
+          "Description": "Defines whether the module is initially minimized - Applies to the modPanel skin only",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

@@ -4,6 +4,14 @@
   "Enums": [],
   "Strings": [
     {
+      "Name": "coll",
+      "Text": "Click to collapse this panel"
+    },
+    {
+      "Name": "exp",
+      "Text": "Click to expand this panel"
+    },
+    {
       "Name": "page",
       "Text": "Default Page"
     },
