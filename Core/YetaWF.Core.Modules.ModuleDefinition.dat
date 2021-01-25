@@ -50,6 +50,14 @@
           "TextBelow": null
         },
         {
+          "Name": "CanMinimize",
+          "Caption": "Can Minimize",
+          "Description": "Defines whether the module can be minimized - Applies to the modPanel skin only",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "ClassName",
           "Caption": "Class Name",
           "Description": "The module's class name",
@@ -178,6 +186,14 @@
           "TextBelow": null
         },
         {
+          "Name": "Minimized",
+          "Caption": "Start Minimized",
+          "Description": "Defines whether the module is initially minimized - Applies to the modPanel skin only",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "ModuleDataFolder",
           "Caption": "Data Folder",
           "Description": "The module's data folder used to store additional data",
@@ -234,6 +250,14 @@
           "TextBelow": null
         },
         {
+          "Name": "ModuleSkin",
+          "Caption": "Module Skin",
+          "Description": "The module skin used for the module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "Name",
           "Caption": "Name",
           "Description": "The module name, which is used to identify the module",
@@ -266,6 +290,14 @@
           "TextBelow": null
         },
         {
+          "Name": "PopupPage",
+          "Caption": "Popup Page",
+          "Description": "The popup page used for the popup window when this module is shown in a popup",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "Print",
           "Caption": "Print Support",
           "Description": "Defines whether the module is printed when a page is printed",
@@ -285,14 +317,6 @@
           "Name": "ReferencedModules",
           "Caption": "Other Modules",
           "Description": "Defines other modules which must be injected into the page when this module is used",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "SelectedPopupSkin",
-          "Caption": "Popup Skin",
-          "Description": "The skin used for the popup window when this module is shown in a popup",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -332,7 +356,7 @@
         {
           "Name": "ShowTitle",
           "Caption": "Show Title",
-          "Description": "Defines whether the module title is shown",
+          "Description": "Defines whether the module title is shown - Applies to the modStandard skin only",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -340,15 +364,7 @@
         {
           "Name": "ShowTitleActions",
           "Caption": "Show Actions (Title)",
-          "Description": "Defines whether the module's action links are also shown next to the module title - Only the icons are shown if selected",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "SkinDefinitions",
-          "Caption": "Module Skins",
-          "Description": "The skin used for this module - for each installed skin, a skin can be selected which will be used for the module, if the containing page uses that skin. This way the same module can be used on multiple pages, even if different page skins are used",
+          "Description": "Defines whether the module's action links are also shown next to the module title - Only the icons are shown if selected - Applies to the modStandard skin only",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

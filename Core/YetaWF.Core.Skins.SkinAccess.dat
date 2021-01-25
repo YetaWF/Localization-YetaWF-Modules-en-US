@@ -4,8 +4,12 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "descFmt",
-      "Text": "{0} ({1} x {2} pixels)"
+      "Name": "coll",
+      "Text": "Click to collapse this panel"
+    },
+    {
+      "Name": "exp",
+      "Text": "Click to expand this panel"
     },
     {
       "Name": "page",

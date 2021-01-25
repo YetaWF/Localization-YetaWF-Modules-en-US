@@ -18,65 +18,17 @@
           "TextBelow": null
         },
         {
-          "Name": "ModuleSkins",
-          "Caption": "Module Skins",
-          "Description": "Module Skins (Required)",
+          "Name": "Skin",
+          "Caption": "Skin",
+          "Description": "Skin",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
-          "Name": "ModuleSkinsRO",
-          "Caption": "Module Skins (Read/Only)",
-          "Description": "Module Skins (Read/Only)",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "PageSkin",
-          "Caption": "Page Skin",
-          "Description": "Page Skin (Required)",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "PageSkinReq",
-          "Caption": "Page Skin (Required)",
-          "Description": "Page Skin (Required)",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "PageSkinRO",
-          "Caption": "Page Skin (Read/Only)",
-          "Description": "Page Skin (Read/Only)",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "PopupSkin",
-          "Caption": "Popup Skin",
-          "Description": "Popup Skin (Required)",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "PopupSkinReq",
-          "Caption": "Popup Skin (Required)",
-          "Description": "Popup Skin (Required)",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "PopupSkinRO",
-          "Caption": "Popup Skin (Read/Only)",
-          "Description": "Popup Skin (Read/Only)",
+          "Name": "SkinRO",
+          "Caption": "Skin (Read/Only)",
+          "Description": "Skin (Read/Only)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

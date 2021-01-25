@@ -2,7 +2,7 @@
   "Comment": null,
   "Classes": [
     {
-      "Name": "YetaWF.Modules.ComponentsHTML.Components.PageSkinEditComponent+PageSkinUI",
+      "Name": "YetaWF.Modules.ComponentsHTML.Components.SkinEditComponent+SkinUI",
       "BaseTypeName": null,
       "Header": null,
       "Footer": null,
@@ -18,9 +18,17 @@
           "TextBelow": null
         },
         {
-          "Name": "FileName",
-          "Caption": "Skin Name",
-          "Description": "The name of the skin",
+          "Name": "PageFileName",
+          "Caption": "Page",
+          "Description": "The name of the page skin",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PopupFileName",
+          "Caption": "Popup",
+          "Description": "The name of the popup skin",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

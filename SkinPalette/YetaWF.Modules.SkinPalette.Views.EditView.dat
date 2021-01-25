@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "apply",
+      "Text": "Apply"
+    },
+    {
+      "Name": "applyTT",
+      "Text": "Apply all changes to the current skin"
+    },
+    {
+      "Name": "coll",
+      "Text": "Skin Palette - Change skin settings and generate new CSS variables for use in skins"
+    }
+  ]
+}
