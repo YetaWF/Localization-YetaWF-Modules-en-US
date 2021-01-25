@@ -18,6 +18,14 @@
           "TextBelow": null
         },
         {
+          "Name": "SelectedSkin",
+          "Caption": "Page Skin",
+          "Description": "The skin used to display the page",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "Title",
           "Caption": "Title",
           "Description": "The page title which will appear as title in the browser window",

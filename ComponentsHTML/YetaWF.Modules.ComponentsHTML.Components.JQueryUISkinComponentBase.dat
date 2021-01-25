@@ -4,12 +4,12 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "siteDef",
+      "Name": "default",
       "Text": "(Site Default)"
     },
     {
-      "Name": "siteDefTT",
-      "Text": "Use the site defined default skin"
+      "Name": "defaultTT",
+      "Text": "Use the site defined default theme"
     }
   ]
 }

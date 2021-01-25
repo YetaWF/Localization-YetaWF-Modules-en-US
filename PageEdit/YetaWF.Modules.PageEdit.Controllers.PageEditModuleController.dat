@@ -163,6 +163,22 @@
           "TextBelow": null
         },
         {
+          "Name": "jQueryUISkin",
+          "Caption": "jQuery UI Skin",
+          "Description": "The skin for jQuery-UI elements (buttons, modal dialogs, etc.) used on this page",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "KendoUISkin",
+          "Caption": "Kendo UI Skin",
+          "Description": "The skin for Kendo UI elements (buttons, modal dialogs, etc.) used on this page",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "Keywords",
           "Caption": "Keywords",
           "Description": "Defines page keywords - These keywords are used for meta tags and to generate search terms",
@@ -227,14 +243,6 @@
           "TextBelow": null
         },
         {
-          "Name": "PopupPage",
-          "Caption": "Popup Page",
-          "Description": "The popup page used for the popup window when this page is shown in a popup",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
           "Name": "RedirectToPageUrl",
           "Caption": "Redirect To Page",
           "Description": "If this page is accessed, it is redirected to the Url defined here - Redirection is not active in Site Edit Mode",
@@ -278,6 +286,22 @@
           "Name": "RobotNoSnippet",
           "Caption": "Robots - NoSnippet",
           "Description": "Instructs search engines not include a snippet from the page along with the page's listing in search results - not supported by all search engines",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SelectedPopupSkin",
+          "Caption": "Popup Skin",
+          "Description": "The skin used when the page is displayed in a popup window",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SelectedSkin",
+          "Caption": "Page Skin",
+          "Description": "The skin used to display the page",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

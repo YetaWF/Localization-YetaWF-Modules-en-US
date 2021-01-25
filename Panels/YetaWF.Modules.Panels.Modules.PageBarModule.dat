@@ -50,6 +50,14 @@
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
+        },
+        {
+          "Name": "UseSkinFormatting",
+          "Caption": "Use jQuery UI Theme",
+          "Description": "Defines whether the page bar is rendered using the defined jQuery UI theme or using custom CSS",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
         }
       ]
     }

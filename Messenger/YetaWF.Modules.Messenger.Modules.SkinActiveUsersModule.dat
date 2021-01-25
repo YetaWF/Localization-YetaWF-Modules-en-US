@@ -5,15 +5,15 @@
   "Strings": [
     {
       "Name": "modName",
-      "Text": "Messaging (Skin)"
+      "Text": "Active Users (Skin)"
     },
     {
       "Name": "modSummary",
-      "Text": "Skin module used to support intra-user messaging"
+      "Text": "Skin module used to keep a list of active users"
     },
     {
       "Name": "modTitle",
-      "Text": "Skin Messaging"
+      "Text": "Skin Active Users"
     }
   ]
 }

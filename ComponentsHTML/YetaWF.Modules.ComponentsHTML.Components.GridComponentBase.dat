@@ -84,10 +84,6 @@
       "Text": "Does not end with"
     },
     {
-      "Name": "filter",
-      "Text": "Filter"
-    },
-    {
       "Name": "loading",
       "Text": "Loading ..."
     },

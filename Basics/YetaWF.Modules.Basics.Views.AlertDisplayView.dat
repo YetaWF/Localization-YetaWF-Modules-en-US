@@ -4,6 +4,10 @@
   "Enums": [],
   "Strings": [
     {
+      "Name": "clsButtonAlt",
+      "Text": "Close Button"
+    },
+    {
       "Name": "clsButtonTT",
       "Text": "Click to close alert"
     }

@@ -74,6 +74,22 @@
           "TextBelow": null
         },
         {
+          "Name": "jQueryUISkin",
+          "Caption": "jquery UI Skin",
+          "Description": "The skin for jQuery-UI elements (buttons, modal dialogs, etc.) used on this page",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "KendoUISkin",
+          "Caption": "Kendo UI Skin",
+          "Description": "The skin for Kendo UI elements (buttons, modal dialogs, etc.) used on this page",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "MobilePageUrl",
           "Caption": "Mobile Page Url",
           "Description": "If this page is accessed by a mobile device, it is redirected to the Url defined here as mobile page Url - Redirection is not active in Site Edit Mode",
@@ -93,6 +109,22 @@
           "Name": "RedirectToPageUrl",
           "Caption": "Redirect To Page",
           "Description": "If this page is accessed, it is redirected to the Url defined here - Redirection is not active in Site Edit Mode",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SelectedPopupSkin",
+          "Caption": "Popup Skin",
+          "Description": "The skin used when the page is displayed in a popup window",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SelectedSkin",
+          "Caption": "Page Skin",
+          "Description": "The skin used to display the page",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

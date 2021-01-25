@@ -67,10 +67,16 @@
           "Description": "Tabs are used to switch between panels"
         },
         {
-          "Name": "Accordion",
-          "Value": "Accordion",
-          "Caption": "Accordion",
-          "Description": "An accordion-style display is used to switch between panels"
+          "Name": "AccordionjQuery",
+          "Value": "AccordionjQuery",
+          "Caption": "Accordion (jQuery UI)",
+          "Description": "A jQuery UI accordion is used to switch between panels"
+        },
+        {
+          "Name": "AccordionKendo",
+          "Value": "AccordionKendo",
+          "Caption": "Accordion (Kendo)",
+          "Description": "A Kendo accordion is used to switch between panels"
         }
       ]
     }

@@ -148,6 +148,14 @@
           "TextBelow": null
         },
         {
+          "Name": "JQueryUISkin",
+          "Caption": "jQueryUISkin",
+          "Description": "JQueryUISkin (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "KendoUISkin",
           "Caption": "KendoUISkin",
           "Description": "KendoUISkin (Required)",
