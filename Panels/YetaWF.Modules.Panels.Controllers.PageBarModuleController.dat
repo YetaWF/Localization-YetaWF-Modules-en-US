@@ -50,14 +50,6 @@
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
-        },
-        {
-          "Name": "UseSkinFormatting",
-          "Caption": "Skin Theme",
-          "Description": "Defines whether the page bar is rendered using the skin's theme or using custom CSS",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
         }
       ]
     }

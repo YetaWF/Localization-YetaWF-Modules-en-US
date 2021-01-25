@@ -12,14 +12,6 @@
       },
       "Properties": [
         {
-          "Name": "Direction",
-          "Caption": "Opening Direction",
-          "Description": "The direction in which submenus open - Ignored for Bootstrap menus",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
           "Name": "EditUrl",
           "Caption": "Edit Url",
           "Description": "The Url used to edit this menu - If omitted, a default page is generated",
@@ -30,7 +22,7 @@
         {
           "Name": "HoverDelay",
           "Caption": "Hover Delay",
-          "Description": "Specifies the delay (in milliseconds) before the menu is opened/closed - Used to avoid accidental closure on leaving - Ignored for Bootstrap menus",
+          "Description": "Specifies the delay (in milliseconds) before the menu is closed - Used to avoid accidental closure on leaving",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -44,17 +36,9 @@
           "TextBelow": null
         },
         {
-          "Name": "Orientation",
-          "Caption": "Orientation",
-          "Description": "The basic orientation of the menu - Ignored for Bootstrap menus",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "ShowPath",
-          "Caption": "Show Path",
-          "Description": "!!!Currently Broken!!! - Mark entries that partially or completely match the current page's Url as active (highlight)",
+          "Name": "SmallMenuMaxWidth",
+          "Caption": "Small Screen Maximum Size",
+          "Description": "Defines the largest screen size where the small menu is used - If the screen is wider, the large menu is shown.",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

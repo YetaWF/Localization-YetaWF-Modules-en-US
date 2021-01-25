@@ -358,7 +358,7 @@
           "Name": "HideDivs",
           "Value": "HideDivs",
           "Caption": "Hide Others",
-          "Description": "Only content for the current Url is shown - Content for other pages is embedded but not visible - Use with small page sets"
+          "Description": "Only content for the current URL is shown - Content for other pages is embedded but not visible - Use with small page sets"
         },
         {
           "Name": "ShowDivs",
@@ -373,10 +373,10 @@
           "Description": "Content is dynamically replaced when navigating between pages (Ajax server request for pane content) - Can be used with large page sets"
         },
         {
-          "Name": "SkinDynamicContent",
-          "Value": "SkinDynamicContent",
-          "Caption": "Same Skin Dynamic Content",
-          "Description": "All pages with the same skin as the Master Page are combined and page content is dynamically replaced when navigating between pages (Ajax server request for pane content) - Can be used to combine all site pages (using the same skin) into one single page - Pages that are explicitly part of another Unified Page Set are excluded"
+          "Name": "AllPagesDynamicContent",
+          "Value": "AllPagesDynamicContent",
+          "Caption": "Dynamic Content - All Pages",
+          "Description": "Content is dynamically replaced when navigating between pages (Ajax server request for pane content) - Used for ALL pages of a site"
         }
       ]
     }

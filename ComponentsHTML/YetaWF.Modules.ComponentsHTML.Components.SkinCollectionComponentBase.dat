@@ -6,10 +6,6 @@
     {
       "Name": "siteDef",
       "Text": "(Site Default)"
-    },
-    {
-      "Name": "siteDefTT",
-      "Text": "Use the site defined default skin"
     }
   ]
 }

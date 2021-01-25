@@ -70,17 +70,9 @@
           "TextBelow": null
         },
         {
-          "Name": "BootstrapSkin",
-          "Caption": "Default Bootstrap Skin",
-          "Description": "The default skin for overall page appearance and Bootstrap elements (only supported for skins that support Bootswatch) - individual pages can override the default skin",
-          "HelpLink": "https://www.bootstrapcdn.com/bootswatch/",
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
           "Name": "BundleCSSFiles",
           "Caption": "Bundle CSS Files",
-          "Description": "Defines whether stylesheets (CSS files) are bundled into one single file (excluding large non-YetaWF files like jQuery, jQuery UI, etc.)",
+          "Description": "Defines whether stylesheets (CSS files) are bundled into one single file (excluding large non-YetaWF files like jQuery, Kendo UI, etc.)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -414,14 +406,6 @@
           "TextBelow": null
         },
         {
-          "Name": "jQueryUISkin",
-          "Caption": "Default jQuery UI Skin",
-          "Description": "The default skin for jQuery-UI elements (buttons, modal dialogs, etc.) - individual pages can override the default skin",
-          "HelpLink": "http://jqueryui.com/themeroller/",
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
           "Name": "JSLocation",
           "Caption": "JavaScript Location",
           "Description": "Defines whether JavaScript files are included at the top or bottom of the page",
@@ -431,8 +415,8 @@
         },
         {
           "Name": "KendoUISkin",
-          "Caption": "Default Kendo UI Skin",
-          "Description": "The default skin for Kendo UI elements (buttons, modal dialogs, etc.) - individual pages can override the default skin",
+          "Caption": "Kendo UI Skin",
+          "Description": "The skin for Kendo UI elements (date, time, datetime)",
           "HelpLink": "http://demos.telerik.com/kendo-ui/themebuilder/",
           "TextAbove": null,
           "TextBelow": null
@@ -582,22 +566,6 @@
           "TextBelow": null
         },
         {
-          "Name": "SelectedPopupSkin",
-          "Caption": "Default Popup Skin",
-          "Description": "The default skin used in a popup window - individual pages can override the default skin",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "SelectedSkin",
-          "Caption": "Default Page Skin",
-          "Description": "The default skin used to for pages - individual pages can override the default skin",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
           "Name": "SiteDomain",
           "Caption": "Site Domain",
           "Description": "The domain name of your site (e.g., yourcompany.com, yetawf.com)",
@@ -654,6 +622,14 @@
           "TextBelow": null
         },
         {
+          "Name": "Skin",
+          "Caption": "Skin",
+          "Description": "The skin used to for pages and popups",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "SMTP",
           "Caption": "Email Server",
           "Description": "The email server used to send emails from this site",
@@ -686,9 +662,9 @@
           "TextBelow": null
         },
         {
-          "Name": "TabStyle",
-          "Caption": "Tab Style",
-          "Description": "Defines which UI provides the tab control implementation",
+          "Name": "Theme",
+          "Caption": "Theme",
+          "Description": "The theme used for all pages of the site",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
