@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "noFromUser",
+      "Text": "User {0} doesn't exist"
+    },
+    {
+      "Name": "noToUser",
+      "Text": "User {0} doesn't exist"
+    },
+    {
+      "Name": "noUser",
+      "Text": "User {0} doesn't exist"
+    }
+  ]
+}

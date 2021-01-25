@@ -20,7 +20,7 @@
         {
           "Name": "ModuleSkins",
           "Caption": "Module Skins",
-          "Description": "Module Skins",
+          "Description": "Module Skins (Required)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -36,7 +36,15 @@
         {
           "Name": "PageSkin",
           "Caption": "Page Skin",
-          "Description": "Page Skin",
+          "Description": "Page Skin (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PageSkinReq",
+          "Caption": "Page Skin (Required)",
+          "Description": "Page Skin (Required)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -52,7 +60,15 @@
         {
           "Name": "PopupSkin",
           "Caption": "Popup Skin",
-          "Description": "Popup Skin",
+          "Description": "Popup Skin (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PopupSkinReq",
+          "Caption": "Popup Skin (Required)",
+          "Description": "Popup Skin (Required)",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

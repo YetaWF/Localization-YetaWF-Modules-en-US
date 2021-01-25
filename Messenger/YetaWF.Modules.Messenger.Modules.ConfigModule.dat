@@ -1,0 +1,35 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "editLegend",
+      "Text": "Edits the messenger settings"
+    },
+    {
+      "Name": "editLink",
+      "Text": "Messenger Settings"
+    },
+    {
+      "Name": "editText",
+      "Text": "Messenger Settings"
+    },
+    {
+      "Name": "editTooltip",
+      "Text": "Edit the messenger settings"
+    },
+    {
+      "Name": "modName",
+      "Text": "Messenger Settings"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Edits a site's messenger settings"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Messenger Settings"
+    }
+  ]
+}
