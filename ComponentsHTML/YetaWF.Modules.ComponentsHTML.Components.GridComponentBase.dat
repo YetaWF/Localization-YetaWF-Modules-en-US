@@ -4,6 +4,14 @@
   "Enums": [],
   "Strings": [
     {
+      "Name": "allPages",
+      "Text": "All"
+    },
+    {
+      "Name": "allPagesTT",
+      "Text": "Show all entries"
+    },
+    {
       "Name": "btnFilter",
       "Text": "Turn the filter bar on or off"
     },
@@ -28,12 +36,20 @@
       "Text": "Reload the current page"
     },
     {
+      "Name": "coll",
+      "Text": "Click to collapse this panel"
+    },
+    {
       "Name": "demo",
       "Text": "(Demo - N/A)"
     },
     {
       "Name": "dropdownWidth",
       "Text": "12"
+    },
+    {
+      "Name": "exp",
+      "Text": "Click to expand this panel"
     },
     {
       "Name": "f_bw",
@@ -96,7 +112,7 @@
       "Text": "(no selection)"
     },
     {
-      "Name": "pages",
+      "Name": "pagesTT",
       "Text": "Show {0} entries"
     },
     {

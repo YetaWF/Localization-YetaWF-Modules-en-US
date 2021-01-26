@@ -45,5 +45,10 @@
     }
   ],
   "Enums": [],
-  "Strings": []
+  "Strings": [
+    {
+      "Name": "notEnabled",
+      "Text": "Active users are not tracked - not enabled"
+    }
+  ]
 }
