@@ -4,20 +4,20 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "displayLegend",
-      "Text": "Displays a sample grid"
+      "Name": "dashboardLegend",
+      "Text": "Displays the administrator dashboard page"
     },
     {
-      "Name": "displayLink",
-      "Text": "Grid (Ajax)"
+      "Name": "dashboardLink",
+      "Text": "Dashboard"
     },
     {
-      "Name": "displayText",
-      "Text": "Grid (Ajax)"
+      "Name": "dashboardText",
+      "Text": "Dashboard"
     },
     {
-      "Name": "displayTooltip",
-      "Text": "Display a sample grid"
+      "Name": "dashboardTooltip",
+      "Text": "Display administrator dashboard page"
     },
     {
       "Name": "modName",
@@ -30,6 +30,22 @@
     {
       "Name": "modTitle",
       "Text": "Grid (Ajax) Test Component"
+    },
+    {
+      "Name": "userLegend",
+      "Text": "Displays the user account page"
+    },
+    {
+      "Name": "userLink",
+      "Text": "User"
+    },
+    {
+      "Name": "userText",
+      "Text": "User"
+    },
+    {
+      "Name": "userTooltip",
+      "Text": "Display user account page"
     }
   ]
 }

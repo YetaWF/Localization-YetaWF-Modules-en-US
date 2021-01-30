@@ -1,0 +1,30 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.DevTests.Controllers.TemplateCheckListModuleController+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Prop1",
+          "Caption": "CheckList",
+          "Description": "CheckList",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "ok",
+      "Text": "OK"
+    }
+  ]
+}

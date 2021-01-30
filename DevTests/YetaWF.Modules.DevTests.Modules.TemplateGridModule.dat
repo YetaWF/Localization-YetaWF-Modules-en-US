@@ -4,22 +4,6 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "displayLegend",
-      "Text": "Displays a sample grid"
-    },
-    {
-      "Name": "displayLink",
-      "Text": "Grid (Static Data)"
-    },
-    {
-      "Name": "displayText",
-      "Text": "Grid (Static Data)"
-    },
-    {
-      "Name": "displayTooltip",
-      "Text": "Display a sample grid"
-    },
-    {
       "Name": "modName",
       "Text": "Component Test - Grid (Static)"
     },
