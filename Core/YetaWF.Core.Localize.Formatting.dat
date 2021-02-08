@@ -193,6 +193,10 @@
       "Text": "Friday"
     },
     {
+      "Name": "Friday2",
+      "Text": "Fr"
+    },
+    {
       "Name": "inDay",
       "Text": "tomorrow"
     },
@@ -285,6 +289,10 @@
       "Text": "Monday"
     },
     {
+      "Name": "Monday2",
+      "Text": "Mo"
+    },
+    {
       "Name": "November",
       "Text": "November"
     },
@@ -299,6 +307,10 @@
     {
       "Name": "Saturday",
       "Text": "Saturday"
+    },
+    {
+      "Name": "Saturday2",
+      "Text": "Sa"
     },
     {
       "Name": "September",
@@ -345,8 +357,16 @@
       "Text": "Sunday"
     },
     {
+      "Name": "Sunday2",
+      "Text": "Su"
+    },
+    {
       "Name": "Thursday",
       "Text": "Thursday"
+    },
+    {
+      "Name": "Thursday2",
+      "Text": "Th"
     },
     {
       "Name": "timeSpan",
@@ -365,12 +385,20 @@
       "Text": "Tuesday"
     },
     {
+      "Name": "Tuesday2",
+      "Text": "Tu"
+    },
+    {
       "Name": "unknownKB",
       "Text": "(unknown)"
     },
     {
       "Name": "Wednesday",
       "Text": "Wednesday"
+    },
+    {
+      "Name": "Wednesday2",
+      "Text": "We"
     }
   ]
 }

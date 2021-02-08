@@ -11,8 +11,16 @@
       "Properties": [
         {
           "Name": "Prop1",
-          "Caption": "CheckList",
-          "Description": "CheckList",
+          "Caption": "CheckList Menu",
+          "Description": "CheckList Menu",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Prop2",
+          "Caption": "CheckList Panel",
+          "Description": "CheckList Panel",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

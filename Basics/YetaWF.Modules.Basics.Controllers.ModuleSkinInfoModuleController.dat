@@ -42,14 +42,6 @@
           "TextBelow": null
         },
         {
-          "Name": "SiteKendoUISkin",
-          "Caption": "Site Defined Kendo UI Skin",
-          "Description": "The skin for Kendo UI elements (date, time, datetime)",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
           "Name": "SiteSelectedSkin",
           "Caption": "Site Defined Skin",
           "Description": "The skin used for all pages/popups",

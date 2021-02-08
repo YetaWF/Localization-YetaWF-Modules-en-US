@@ -92,14 +92,6 @@
           "TextBelow": null
         },
         {
-          "Name": "BowerComponentsUrl",
-          "Caption": "Bower Url",
-          "Description": "The Url containing Bower components",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
           "Name": "GridDef",
           "Caption": "Installed AddOns",
           "Description": "Displays all installed AddOns",

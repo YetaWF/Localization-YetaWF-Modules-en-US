@@ -148,14 +148,6 @@
           "TextBelow": null
         },
         {
-          "Name": "KendoUISkin",
-          "Caption": "KendoUISkin",
-          "Description": "KendoUISkin (Required)",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
           "Name": "LanguageId",
           "Caption": "LanguageId",
           "Description": "LanguageId (Required)",
