@@ -79,7 +79,7 @@
         },
         {
           "Name": "TimeOfDay",
-          "Caption": "Time Of Day (Required)",
+          "Caption": "Time Of Day",
           "Description": "Time Of Day",
           "HelpLink": null,
           "TextAbove": null,
