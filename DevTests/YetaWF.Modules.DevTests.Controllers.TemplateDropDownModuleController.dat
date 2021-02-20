@@ -36,6 +36,14 @@
           "TextBelow": null
         },
         {
+          "Name": "DropDownSearch",
+          "Caption": "DropDownSearch",
+          "Description": "DropDownSearch (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "Enum",
           "Caption": "Enum",
           "Description": "Enum (Required)",
