@@ -1,7 +1,37 @@
 {
   "Comment": null,
   "Classes": [],
-  "Enums": [],
+  "Enums": [
+    {
+      "Name": "YetaWF.Core.Packages.Package+AddOnType",
+      "Entries": [
+        {
+          "Name": "Package",
+          "Value": "Package",
+          "Caption": "Package",
+          "Description": "Package Support Addon"
+        },
+        {
+          "Name": "Template",
+          "Value": "Template",
+          "Caption": "Component",
+          "Description": "Component Addon"
+        },
+        {
+          "Name": "Skin",
+          "Value": "Skin",
+          "Caption": "Skin",
+          "Description": "Skin Addon"
+        },
+        {
+          "Name": "AddonNamed",
+          "Value": "AddonNamed",
+          "Caption": "Javascript",
+          "Description": "Named Addon"
+        }
+      ]
+    }
+  ],
   "Strings": [
     {
       "Name": "addProject",
