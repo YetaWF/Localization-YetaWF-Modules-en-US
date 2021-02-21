@@ -8,7 +8,6 @@
       "Footer": null,
       "Legend": null,
       "Categories": {
-        "Alex Gorbatchev": "Alex Gorbatchev",
         "Highlight.js": "Highlight.js"
       },
       "Properties": [
@@ -34,30 +33,6 @@
           "Description": "Displays help for the languages that can be used by Highlight.js for syntax coloring - Not all may be installed and available",
           "HelpLink": null,
           "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "LanguagesSyntaxHighlighterUrl",
-          "Caption": "Languages",
-          "Description": "Displays help for the languages (brushes) that can be used by Alex Gorbatchev's syntax highlighter - Not all may be installed and available",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "SyntaxHighlighterSkin",
-          "Caption": "Skin",
-          "Description": "The skin used for syntax highlighting",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "SyntaxHighlighterUrl",
-          "Caption": "Help",
-          "Description": "The syntax highlighter uses Alex Gorbatchev's SyntaxHighlighter",
-          "HelpLink": null,
-          "TextAbove": "The syntax highlighter uses Alex Gorbatchev's SyntaxHighlighter.",
           "TextBelow": null
         }
       ]
