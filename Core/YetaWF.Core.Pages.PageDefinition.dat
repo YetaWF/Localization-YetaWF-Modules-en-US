@@ -208,12 +208,6 @@
           "Description": "Use the site defined default page priority"
         },
         {
-          "Name": "Excluded",
-          "Value": "Excluded",
-          "Caption": "(Exclude From Site Map)",
-          "Description": "The page is never added to the site map"
-        },
-        {
           "Name": "None",
           "Value": "None",
           "Caption": "None",
@@ -260,6 +254,12 @@
           "Value": "Top",
           "Caption": "Highest",
           "Description": null
+        },
+        {
+          "Name": "Excluded",
+          "Value": "Excluded",
+          "Caption": "(Exclude From Site Map)",
+          "Description": "The page is never added to the site map"
         }
       ]
     },
@@ -342,41 +342,6 @@
           "Value": "YesMemory",
           "Caption": "Yes, In Memory",
           "Description": "The page is a static page (internally saved in memory)"
-        }
-      ]
-    },
-    {
-      "Name": "YetaWF.Core.Pages.PageDefinition+UnifiedModeEnum",
-      "Entries": [
-        {
-          "Name": "None",
-          "Value": "None",
-          "Caption": "None",
-          "Description": "The Unified Page Set does not combine page content - Each page is shown individually (full page load)"
-        },
-        {
-          "Name": "HideDivs",
-          "Value": "HideDivs",
-          "Caption": "Hide Others",
-          "Description": "Only content for the current URL is shown - Content for other pages is embedded but not visible - Use with small page sets"
-        },
-        {
-          "Name": "ShowDivs",
-          "Value": "ShowDivs",
-          "Caption": "Show All Content",
-          "Description": "All content is shown in the order the pages appear in the Unified Page Set - Use with small page sets"
-        },
-        {
-          "Name": "DynamicContent",
-          "Value": "DynamicContent",
-          "Caption": "Dynamic Content",
-          "Description": "Content is dynamically replaced when navigating between pages (Ajax server request for pane content) - Can be used with large page sets"
-        },
-        {
-          "Name": "AllPagesDynamicContent",
-          "Value": "AllPagesDynamicContent",
-          "Caption": "Dynamic Content - All Pages",
-          "Description": "Content is dynamically replaced when navigating between pages (Ajax server request for pane content) - Used for ALL pages of a site"
         }
       ]
     }
