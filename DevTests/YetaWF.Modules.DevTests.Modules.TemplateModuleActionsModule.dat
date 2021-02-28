@@ -1,0 +1,51 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "dashboardLegend",
+      "Text": "Displays the administrator dashboard page"
+    },
+    {
+      "Name": "dashboardLink",
+      "Text": "Dashboard"
+    },
+    {
+      "Name": "dashboardText",
+      "Text": "Dashboard"
+    },
+    {
+      "Name": "dashboardTooltip",
+      "Text": "Display administrator dashboard page"
+    },
+    {
+      "Name": "modName",
+      "Text": "Template Test - ModuleActions"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "ModuleActions test template"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "ModuleActions Test Template"
+    },
+    {
+      "Name": "userLegend",
+      "Text": "Displays the user account page"
+    },
+    {
+      "Name": "userLink",
+      "Text": "User"
+    },
+    {
+      "Name": "userText",
+      "Text": "User"
+    },
+    {
+      "Name": "userTooltip",
+      "Text": "Display user account page"
+    }
+  ]
+}
