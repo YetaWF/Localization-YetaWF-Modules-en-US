@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "modName",
+      "Text": "Template Test - MaskedEdit"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "MaskedEdit test template"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "MaskedEdit Test Template"
+    }
+  ]
+}

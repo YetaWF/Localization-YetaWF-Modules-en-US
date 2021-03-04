@@ -22,6 +22,12 @@
           "Value": "Mini",
           "Caption": "Mini Dropdown Menu",
           "Description": "Displayed as a dropdown menu, accessible through a small button without text"
+        },
+        {
+          "Name": "ButtonBar",
+          "Value": "ButtonBar",
+          "Caption": "Button Bar",
+          "Description": "Actions are displayed as a button bar"
         }
       ]
     },

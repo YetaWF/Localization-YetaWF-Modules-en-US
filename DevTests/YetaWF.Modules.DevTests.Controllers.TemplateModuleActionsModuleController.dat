@@ -11,7 +11,7 @@
       "Properties": [
         {
           "Name": "PropButton",
-          "Caption": "ModuleActions (Button)",
+          "Caption": "Button",
           "Description": "ModuleActions (Button)",
           "HelpLink": null,
           "TextAbove": null,
@@ -19,7 +19,7 @@
         },
         {
           "Name": "PropButtonBar",
-          "Caption": "ModuleActions (ButtonBar)",
+          "Caption": "ButtonBar",
           "Description": "ModuleActions (ButtonBar)",
           "HelpLink": null,
           "TextAbove": null,
@@ -27,7 +27,7 @@
         },
         {
           "Name": "PropButtonDropDown",
-          "Caption": "ModuleActions (ButtonDropDown)",
+          "Caption": "ButtonDropDown",
           "Description": "ModuleActions (ButtonDropDown)",
           "HelpLink": null,
           "TextAbove": null,
@@ -35,7 +35,7 @@
         },
         {
           "Name": "PropButtonIcon",
-          "Caption": "ModuleActions (ButtonIcon)",
+          "Caption": "ButtonIcon",
           "Description": "ModuleActions (ButtonIcon)",
           "HelpLink": null,
           "TextAbove": null,
@@ -43,7 +43,7 @@
         },
         {
           "Name": "PropButtonMiniDropDown",
-          "Caption": "ModuleActions (ButtonMiniDropDown)",
+          "Caption": "ButtonMiniDropDown",
           "Description": "ModuleActions (ButtonMiniDropDown)",
           "HelpLink": null,
           "TextAbove": null,
@@ -51,7 +51,7 @@
         },
         {
           "Name": "PropButtonOnly",
-          "Caption": "ModuleActions (ButtonOnly)",
+          "Caption": "ButtonOnly",
           "Description": "ModuleActions (ButtonOnly)",
           "HelpLink": null,
           "TextAbove": null,
@@ -59,7 +59,7 @@
         },
         {
           "Name": "PropIconsOnly",
-          "Caption": "ModuleActions (IconsOnly)",
+          "Caption": "IconsOnly",
           "Description": "ModuleActions (IconsOnly)",
           "HelpLink": null,
           "TextAbove": null,
@@ -67,7 +67,7 @@
         },
         {
           "Name": "PropLinksOnly",
-          "Caption": "ModuleActions (LinksOnly)",
+          "Caption": "LinksOnly",
           "Description": "ModuleActions (LinksOnly)",
           "HelpLink": null,
           "TextAbove": null,
@@ -75,7 +75,7 @@
         },
         {
           "Name": "PropNormalLinks",
-          "Caption": "ModuleActions (NormalLinks)",
+          "Caption": "NormalLinks",
           "Description": "ModuleActions (NormalLinks)",
           "HelpLink": null,
           "TextAbove": null,
@@ -83,7 +83,7 @@
         },
         {
           "Name": "PropNormalMenu",
-          "Caption": "ModuleActions (NormalMenu)",
+          "Caption": "NormalMenu",
           "Description": "ModuleActions (NormalMenu)",
           "HelpLink": null,
           "TextAbove": null,
