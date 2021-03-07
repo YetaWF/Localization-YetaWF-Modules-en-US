@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "modName",
+      "Text": "Template Test - ResourceUsers"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "ResourceUsers test template"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "ResourceUsers Test Template"
+    }
+  ]
+}
