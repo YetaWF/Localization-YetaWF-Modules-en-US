@@ -27,8 +27,8 @@
         },
         {
           "Name": "CanonicalUrl",
-          "Caption": "Canonical Url",
-          "Description": "The Canonical Url used to identify this page",
+          "Caption": "Canonical URL",
+          "Description": "The Canonical URL used to identify this page",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -75,8 +75,8 @@
         },
         {
           "Name": "MobilePageUrl",
-          "Caption": "Mobile Page Url",
-          "Description": "If this page is accessed by a mobile device, it is redirected to the Url defined here as mobile page Url - Redirection is not active in Site Edit Mode",
+          "Caption": "Mobile Page URL",
+          "Description": "If this page is accessed by a mobile device, it is redirected to the URL defined here as mobile page URL - Redirection is not active in Site Edit Mode",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -92,7 +92,7 @@
         {
           "Name": "RedirectToPageUrl",
           "Caption": "Redirect To Page",
-          "Description": "If this page is accessed, it is redirected to the Url defined here - Redirection is not active in Site Edit Mode",
+          "Description": "If this page is accessed, it is redirected to the URL defined here - Redirection is not active in Site Edit Mode",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -132,7 +132,7 @@
         {
           "Name": "Url",
           "Caption": "Url",
-          "Description": "The Url used to identify this page - This is the name of the designed page and may not include necessary query string arguments to display the page",
+          "Description": "The URL used to identify this page - This is the name of the designed page and may not include necessary query string arguments to display the page",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
