@@ -206,22 +206,6 @@
           "TextBelow": null
         },
         {
-          "Name": "CurrencyDecimals",
-          "Caption": "Currency Rounding",
-          "Description": "The number of decimal places for the currency used on this site",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "CurrencyFormat",
-          "Caption": "Currency Format",
-          "Description": "The currency format used on this site - the default is $US if omitted",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
           "Name": "DEBUGMODE",
           "Caption": "Debug Mode",
           "Description": "Defines whether all data caching and compression is disabled through Appsettings.json - typically used for debugging (can only be set using Appsettings.json)",
