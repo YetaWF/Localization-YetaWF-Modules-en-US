@@ -208,12 +208,6 @@
           "Description": "Use the site defined default page priority"
         },
         {
-          "Name": "Excluded",
-          "Value": "Excluded",
-          "Caption": "(Exclude From Site Map)",
-          "Description": "The page is never added to the site map"
-        },
-        {
           "Name": "None",
           "Value": "None",
           "Caption": "None",
@@ -260,6 +254,12 @@
           "Value": "Top",
           "Caption": "Highest",
           "Description": null
+        },
+        {
+          "Name": "Excluded",
+          "Value": "Excluded",
+          "Caption": "(Exclude From Site Map)",
+          "Description": "The page is never added to the site map"
         }
       ]
     },
