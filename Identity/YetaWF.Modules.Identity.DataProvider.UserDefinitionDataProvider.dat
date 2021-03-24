@@ -9,7 +9,7 @@
     },
     {
       "Name": "cantRenameSuper",
-      "Text": "The user \"{0}\" can't be renamed."
+      "Text": "The user \"{0}\" can't be renamed"
     },
     {
       "Name": "editor",
