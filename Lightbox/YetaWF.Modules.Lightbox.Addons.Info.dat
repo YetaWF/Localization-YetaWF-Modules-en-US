@@ -1,0 +1,11 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "ImageNumber",
+      "Text": "Image {0} of {1}"
+    }
+  ]
+}
