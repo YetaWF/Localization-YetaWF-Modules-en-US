@@ -181,6 +181,14 @@
       "Text": "August"
     },
     {
+      "Name": "DayNames",
+      "Text": "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday"
+    },
+    {
+      "Name": "DayNames2",
+      "Text": "Su,Mo,Tu,We,Th,Fr,Sa"
+    },
+    {
       "Name": "December",
       "Text": "December"
     },
@@ -291,6 +299,10 @@
     {
       "Name": "Monday2",
       "Text": "Mo"
+    },
+    {
+      "Name": "MonthNames",
+      "Text": "January,February,March,April,May,June,July,August,September,October,November,December"
     },
     {
       "Name": "November",

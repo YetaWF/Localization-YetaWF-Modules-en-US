@@ -102,30 +102,6 @@
           "TextBelow": null
         },
         {
-          "Name": "TimeOpt",
-          "Caption": "Time",
-          "Description": "Time",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "TimeReq",
-          "Caption": "Time (Required)",
-          "Description": "Time (Required)",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "TimeRO",
-          "Caption": "Time (Read/Only)",
-          "Description": "Time (Read/only)",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
           "Name": "TimeSpanHMSRO",
           "Caption": "Timespan (Read/Only)",
           "Description": "Timespan (Read/only)",
