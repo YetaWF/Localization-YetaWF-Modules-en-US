@@ -16,10 +16,6 @@
       "Text": "Removes custom and installed localization resources for the current language (US-English default resources are never removed)"
     },
     {
-      "Name": "confirmResetText",
-      "Text": "Are you sure you want to restore the default settings?"
-    },
-    {
       "Name": "disabled1",
       "Text": "Localization support is currently disabled - Use Localization Settings to enable."
     },
