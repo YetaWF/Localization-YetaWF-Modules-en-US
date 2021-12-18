@@ -1,0 +1,11 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "confirmResetText",
+      "Text": "Are you sure you want to restore the default settings?"
+    }
+  ]
+}

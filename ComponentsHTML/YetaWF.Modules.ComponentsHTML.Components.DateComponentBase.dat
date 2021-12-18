@@ -1,0 +1,11 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "dateVal",
+      "Text": "The date is invalid (field '{0}')"
+    }
+  ]
+}
