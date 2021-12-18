@@ -1,0 +1,11 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "oneFile",
+      "Text": "Please drag one single file at a time - Multiple files are not supported"
+    }
+  ]
+}
