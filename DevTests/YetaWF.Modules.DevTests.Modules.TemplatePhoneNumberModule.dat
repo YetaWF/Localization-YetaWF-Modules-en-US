@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "modName",
+      "Text": "Template Test - PhoneNumber"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "PhoneNumber test template"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "PhoneNumber Test Template"
+    }
+  ]
+}

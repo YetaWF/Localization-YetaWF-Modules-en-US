@@ -1,0 +1,54 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.DevTests.Controllers.TemplatePhoneNumberModuleController+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Prop1Req",
+          "Caption": "Natl Or Internatl (Required)",
+          "Description": "PhoneNumber (Required)",
+          "HelpLink": null,
+          "TextAbove": "National or international phone number.",
+          "TextBelow": null
+        },
+        {
+          "Name": "Prop1RO",
+          "Caption": "Natl Or Internatl (Read/Only)",
+          "Description": "PhoneNumber (read/only)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Prop2Req",
+          "Caption": "National (Required)",
+          "Description": "PhoneNumber (Required)",
+          "HelpLink": null,
+          "TextAbove": "National phone number only.",
+          "TextBelow": null
+        },
+        {
+          "Name": "Prop2RO",
+          "Caption": "National (Read/Only)",
+          "Description": "PhoneNumber (read/only)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "ok",
+      "Text": "OK"
+    }
+  ]
+}
