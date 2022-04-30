@@ -35,9 +35,33 @@
         },
         {
           "Name": "MSClientKey",
-          "Caption": "Client Key",
-          "Description": "Defines the Client API Key of your application performing translations - Provided by Microsoft when registering your application - This is not a free service, although there are limited free accounts",
-          "HelpLink": "https://www.microsoft.com/en-us/translator/getstarted.aspx",
+          "Caption": "Key",
+          "Description": "Defines the API Key of your application performing translations - Provided by Microsoft when registering your application - This is not a free service, although there are limited free accounts",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MSRequestLimit",
+          "Caption": "Request Limit",
+          "Description": "Defines the hourly quota that can be consumed evenly throughout the hour, expressed in Millions of characters per hour - Provided by Microsoft when registering your application - This is not a free service, although there are limited free accounts",
+          "HelpLink": "https://docs.microsoft.com/en-us/azure/cognitive-services/translator/request-limits",
+          "TextAbove": null,
+          "TextBelow": "Millions of Characters Per Hour"
+        },
+        {
+          "Name": "MSTextTranslationRegion",
+          "Caption": "Location/Region",
+          "Description": "Defines the location (or region) of your resource. You may need to use this field when making calls to this API. - Provided by Microsoft when registering your application - This is not a free service, although there are limited free accounts",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MSTextTranslationUrl",
+          "Caption": "Endpoint",
+          "Description": "Defines the endpoint used for Text Translation - Provided by Microsoft when registering your application - This is not a free service, although there are limited free accounts",
+          "HelpLink": "https://docs.microsoft.com/en-us/azure/cognitive-services/translator/text-translation-overview",
           "TextAbove": null,
           "TextBelow": null
         },

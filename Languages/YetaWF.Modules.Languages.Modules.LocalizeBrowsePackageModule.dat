@@ -44,7 +44,7 @@
     },
     {
       "Name": "creAllInstLegend",
-      "Text": "Creates all installed localization resources using language {0} - Saved in folder ./Addons/..."
+      "Text": "Creates all installed localization resources using language {0} - Saved in folder ./Localizations/{0}/..."
     },
     {
       "Name": "creAllInstLink",
@@ -56,15 +56,15 @@
     },
     {
       "Name": "creAllInstTooltip",
-      "Text": "Create all installed localization resources using language {0} - Saved in folders ./Addons/..."
+      "Text": "Create all installed localization resources using language {0} - Saved in folders ./Localizations/{0}/..."
     },
     {
       "Name": "creCustConfirm",
-      "Text": "Are you sure you want to create custom localization resources for package {0} using language {1} - Custom localization resources are saved in folder ./LocalizationCustom/..."
+      "Text": "Are you sure you want to create custom localization resources for package {0} using language {1} - Custom localization resources are saved in folder ./LocalizationCustom/{0}/..."
     },
     {
       "Name": "creCustLegend",
-      "Text": "Creates custom localization resources for package {0} using language {1} - Saved in folder ./LocalizationCustom/..."
+      "Text": "Creates custom localization resources for package {0} using language {1} - Saved in folder ./LocalizationCustom/{0}/..."
     },
     {
       "Name": "creCustLink",
@@ -76,7 +76,7 @@
     },
     {
       "Name": "creCustTooltip",
-      "Text": "Create custom localization resources for package {0} using language {1} - Saved in folder ./LocalizationCustom/..."
+      "Text": "Create custom localization resources for package {0} using language {1} - Saved in folder ./LocalizationCustom/{0}/..."
     },
     {
       "Name": "creInstConfirm",
@@ -84,7 +84,7 @@
     },
     {
       "Name": "creInstLegend",
-      "Text": "Creates installed localization resources for package {0} using language {1} - Saved in folder ./Addons/..."
+      "Text": "Creates installed localization resources for package {0} using language {1} - Saved in folder ./Localizations/{0}/..."
     },
     {
       "Name": "creInstLink",
@@ -96,7 +96,7 @@
     },
     {
       "Name": "creInstTooltip",
-      "Text": "Create installed localization resources for package {0} using language {1} - Saved in folder ./Addons/..."
+      "Text": "Create installed localization resources for package {0} using language {1} - Saved in folder ./Localizations/{0}/..."
     },
     {
       "Name": "locAllDataConfirm",

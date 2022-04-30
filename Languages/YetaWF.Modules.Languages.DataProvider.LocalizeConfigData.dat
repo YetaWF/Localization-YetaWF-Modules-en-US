@@ -20,7 +20,7 @@
         {
           "Name": "MicrosoftTranslator",
           "Value": "MicrosoftTranslator",
-          "Caption": "Microsoft Translator",
+          "Caption": "Microsoft Translator - Azure",
           "Description": null
         }
       ]
