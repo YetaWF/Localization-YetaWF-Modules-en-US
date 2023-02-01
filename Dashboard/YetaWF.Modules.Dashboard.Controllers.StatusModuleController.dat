@@ -103,10 +103,6 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "blueGreen4",
-      "Text": "{0} - {1}:{2}"
-    },
-    {
       "Name": "blueGreen5",
       "Text": "{0} - {1}"
     },

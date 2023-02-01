@@ -107,10 +107,6 @@
       "Text": "Package localization resources successfully generated"
     },
     {
-      "Name": "generatedAll",
-      "Text": "Localization resources for all packages have been successfully generated"
-    },
-    {
       "Name": "installed",
       "Text": "Package models successfully installed"
     },

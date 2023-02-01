@@ -55,10 +55,5 @@
     }
   ],
   "Enums": [],
-  "Strings": [
-    {
-      "Name": "cantRemove",
-      "Text": "Couldn't remove holiday with id {0}"
-    }
-  ]
+  "Strings": []
 }

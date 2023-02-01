@@ -1,0 +1,11 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "demoMode",
+      "Text": "This action is not available in Demo mode."
+    }
+  ]
+}

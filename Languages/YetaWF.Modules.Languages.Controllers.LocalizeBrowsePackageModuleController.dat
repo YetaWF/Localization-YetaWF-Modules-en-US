@@ -31,10 +31,6 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "custGenerated",
-      "Text": "Custom localization resources successfully generated"
-    },
-    {
       "Name": "instGenerated",
       "Text": "Installed localization resources successfully generated"
     },

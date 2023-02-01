@@ -127,10 +127,5 @@
     }
   ],
   "Enums": [],
-  "Strings": [
-    {
-      "Name": "searchTT",
-      "Text": "Enter text to search in the ShortName and Description column"
-    }
-  ]
+  "Strings": []
 }

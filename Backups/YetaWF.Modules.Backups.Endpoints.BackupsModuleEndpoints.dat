@@ -1,0 +1,23 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "backupCreated",
+      "Text": "The site backup has been successfully created"
+    },
+    {
+      "Name": "backupNotFound",
+      "Text": "The backup '{0}' cannot be located."
+    },
+    {
+      "Name": "cantBackup",
+      "Text": "Can't create a site backup for site {0}:(+nl)"
+    },
+    {
+      "Name": "templatesCreated",
+      "Text": "The templates for the current site have been successfully created in the \\SiteTemplates\\Data folder"
+    }
+  ]
+}

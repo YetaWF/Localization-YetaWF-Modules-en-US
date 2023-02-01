@@ -1,0 +1,11 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "cantRemove",
+      "Text": "Couldn't remove entry with id {0}"
+    }
+  ]
+}

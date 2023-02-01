@@ -1,0 +1,35 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "approvalSent",
+      "Text": "Approval email sent to user {0}."
+    },
+    {
+      "Name": "noItem",
+      "Text": "No user name specified"
+    },
+    {
+      "Name": "notFoundUser",
+      "Text": "User {0} not found."
+    },
+    {
+      "Name": "rehashDone",
+      "Text": "All user passwords have been rehashed"
+    },
+    {
+      "Name": "rejectionSent",
+      "Text": "Rejection email sent to user {0}."
+    },
+    {
+      "Name": "suspendedSent",
+      "Text": "Suspension email sent to user {0}."
+    },
+    {
+      "Name": "verificationSent",
+      "Text": "Verification email sent to user {0}."
+    }
+  ]
+}

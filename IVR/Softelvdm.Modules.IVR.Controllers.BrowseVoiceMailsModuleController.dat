@@ -137,10 +137,6 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "cantRemove",
-      "Text": "Couldn't remove voice mail message with id {0}"
-    },
-    {
       "Name": "noInbox",
       "Text": "No extension defined for the current user"
     }

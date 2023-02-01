@@ -39,10 +39,6 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "dupEmail",
-      "Text": "Email address {0} has already been added"
-    },
-    {
       "Name": "ok",
       "Text": "OK"
     }

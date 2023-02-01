@@ -37,10 +37,5 @@
     }
   ],
   "Enums": [],
-  "Strings": [
-    {
-      "Name": "cantDel",
-      "Text": "Resource {0} not found"
-    }
-  ]
+  "Strings": []
 }

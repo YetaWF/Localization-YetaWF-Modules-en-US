@@ -1,0 +1,11 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "clearDone",
+      "Text": "Sessions settings have been cleared"
+    }
+  ]
+}

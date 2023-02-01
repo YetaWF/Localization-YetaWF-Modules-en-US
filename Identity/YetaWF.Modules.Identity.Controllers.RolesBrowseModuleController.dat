@@ -53,10 +53,5 @@
     }
   ],
   "Enums": [],
-  "Strings": [
-    {
-      "Name": "noItem",
-      "Text": "No role name specified"
-    }
-  ]
+  "Strings": []
 }

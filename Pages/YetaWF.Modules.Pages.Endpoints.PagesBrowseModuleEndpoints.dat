@@ -1,0 +1,23 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "noPage",
+      "Text": "Page \"{0}\" not found"
+    },
+    {
+      "Name": "screDone",
+      "Text": "The site map has been successfully created"
+    },
+    {
+      "Name": "sitemapNotFound",
+      "Text": "Site map not found - File '{0}' cannot be located"
+    },
+    {
+      "Name": "sremDone",
+      "Text": "The site map has been removed"
+    }
+  ]
+}

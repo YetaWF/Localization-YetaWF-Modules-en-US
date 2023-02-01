@@ -1,0 +1,15 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "cantLocalize",
+      "Text": "Can't localize package {0}:(+nl)"
+    },
+    {
+      "Name": "generatedAll",
+      "Text": "Localization resources for all packages have been successfully generated"
+    }
+  ]
+}

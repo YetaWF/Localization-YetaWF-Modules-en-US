@@ -1,0 +1,11 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "noItem",
+      "Text": "No role name specified"
+    }
+  ]
+}

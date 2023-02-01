@@ -13,24 +13,24 @@
       "Properties": [
         {
           "Name": "AddUrl",
-          "Caption": "Add URL",
-          "Description": "The URL to add a new resource - if omitted, a default page is generated",
+          "Caption": "Add Url",
+          "Description": "The Url to add a new resource - if omitted, a default page is generated",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
           "Name": "DisplayUrl",
-          "Caption": "Display URL",
-          "Description": "The URL to display resource information - if omitted, a default page is generated",
+          "Caption": "Display Url",
+          "Description": "The Url to display resource information - if omitted, a default page is generated",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
           "Name": "EditUrl",
-          "Caption": "Edit URL",
-          "Description": "The URL to edit a resource - if omitted, a default page is generated",
+          "Caption": "Edit Url",
+          "Description": "The Url to edit a resource - if omitted, a default page is generated",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

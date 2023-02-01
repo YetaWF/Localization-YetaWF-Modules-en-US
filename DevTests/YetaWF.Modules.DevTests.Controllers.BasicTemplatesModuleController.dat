@@ -307,10 +307,6 @@
     {
       "Name": "textPH",
       "Text": "(This is a placeholder)"
-    },
-    {
-      "Name": "uploadSuccess",
-      "Text": "File {0} successfully uploaded"
     }
   ]
 }

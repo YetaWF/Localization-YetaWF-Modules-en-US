@@ -71,10 +71,5 @@
     }
   ],
   "Enums": [],
-  "Strings": [
-    {
-      "Name": "cantRemove",
-      "Text": "Couldn't remove entry with id {0}"
-    }
-  ]
+  "Strings": []
 }

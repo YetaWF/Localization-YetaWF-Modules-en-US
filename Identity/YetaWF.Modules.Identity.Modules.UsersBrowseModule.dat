@@ -13,24 +13,24 @@
       "Properties": [
         {
           "Name": "AddUrl",
-          "Caption": "Add URL",
-          "Description": "The URL to add a new user - if omitted, a default page is generated",
+          "Caption": "Add Url",
+          "Description": "The Url to add a new user - if omitted, a default page is generated",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
           "Name": "DisplayUrl",
-          "Caption": "Display URL",
-          "Description": "The URL to display a user - if omitted, a default page is generated",
+          "Caption": "Display Url",
+          "Description": "The Url to display a user - if omitted, a default page is generated",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
           "Name": "EditUrl",
-          "Caption": "Edit URL",
-          "Description": "The URL to edit a user - if omitted, a default page is generated",
+          "Caption": "Edit Url",
+          "Description": "The Url to edit a user - if omitted, a default page is generated",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

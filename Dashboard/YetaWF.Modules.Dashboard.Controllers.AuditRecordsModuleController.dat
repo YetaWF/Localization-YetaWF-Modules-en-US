@@ -151,10 +151,5 @@
     }
   ],
   "Enums": [],
-  "Strings": [
-    {
-      "Name": "cantRemove",
-      "Text": "Couldn't remove {0}"
-    }
-  ]
+  "Strings": []
 }

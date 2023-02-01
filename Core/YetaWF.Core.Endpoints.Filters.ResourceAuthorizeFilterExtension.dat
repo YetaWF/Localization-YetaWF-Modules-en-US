@@ -1,0 +1,11 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "notAuth",
+      "Text": "Not Authorized"
+    }
+  ]
+}

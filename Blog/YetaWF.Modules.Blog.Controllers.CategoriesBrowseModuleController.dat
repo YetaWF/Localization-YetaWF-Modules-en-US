@@ -93,18 +93,5 @@
     }
   ],
   "Enums": [],
-  "Strings": [
-    {
-      "Name": "screDone",
-      "Text": "The news site map has been successfully created"
-    },
-    {
-      "Name": "sitemapNotFound",
-      "Text": "News site map not found - File '{0}' cannot be located"
-    },
-    {
-      "Name": "sremDone",
-      "Text": "The news site map has been removed"
-    }
-  ]
+  "Strings": []
 }

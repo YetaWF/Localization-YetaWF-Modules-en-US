@@ -1,0 +1,11 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "dupEmail",
+      "Text": "Email address {0} has already been added"
+    }
+  ]
+}

@@ -44,17 +44,17 @@
       "Categories": {},
       "Properties": [
         {
-          "Name": "EffectivePercentagePhysicalMemoryLimit",
-          "Caption": "Memory Limit",
-          "Description": "The percentage of physical memory available to the application",
+          "Name": "CurrentEntryCount",
+          "Caption": "Entries",
+          "Description": "The current number of cached items",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
-          "Name": "EffectivePrivateBytesLimit",
-          "Caption": "Bytes Limit",
-          "Description": "The number of bytes available for the cache",
+          "Name": "CurrentEstimatedSize",
+          "Caption": "Estimated Size",
+          "Description": "The estimated sum of all the items currently in the memory cache - Only available if MemoryCache tracks size, which requires that a SizeLimit is set on the cache",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -68,9 +68,17 @@
           "TextBelow": null
         },
         {
-          "Name": "TotalSize",
-          "Caption": "Total Size",
-          "Description": "The approximate size of all cached items",
+          "Name": "TotalHits",
+          "Caption": "Total Hits",
+          "Description": "The total number of cache hits",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TotalMisses",
+          "Caption": "Total Misses",
+          "Description": "The total number of cache misses",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

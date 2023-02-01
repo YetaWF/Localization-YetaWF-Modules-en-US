@@ -1,0 +1,11 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "custGenerated",
+      "Text": "Custom localization resources successfully generated"
+    }
+  ]
+}
