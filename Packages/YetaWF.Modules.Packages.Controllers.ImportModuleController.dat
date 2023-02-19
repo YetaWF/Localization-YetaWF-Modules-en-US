@@ -44,14 +44,6 @@
     {
       "Name": "btnImport",
       "Text": "Import Binary or Source Code Package..."
-    },
-    {
-      "Name": "cantImport",
-      "Text": "Can't import {0}:{1}"
-    },
-    {
-      "Name": "imported",
-      "Text": "\"{0}\" successfully imported - YOU MUST RESTART THE SITE FOR PROPER OPERATION"
     }
   ]
 }

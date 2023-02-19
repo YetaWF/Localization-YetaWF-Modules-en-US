@@ -14,6 +14,14 @@
     {
       "Name": "modTitle",
       "Text": "Comments"
+    },
+    {
+      "Name": "notFound",
+      "Text": "The Disqus settings could not be found"
+    },
+    {
+      "Name": "notShortName",
+      "Text": "The Disqus settings must be updated to define the site's Shortname"
     }
   ]
 }

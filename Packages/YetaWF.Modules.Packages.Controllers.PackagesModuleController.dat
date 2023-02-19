@@ -85,42 +85,5 @@
     }
   ],
   "Enums": [],
-  "Strings": [
-    {
-      "Name": "cantInstallModels",
-      "Text": "Can't install models for package {0}:(+nl)"
-    },
-    {
-      "Name": "cantLocalize",
-      "Text": "Can't localize package {0}:(+nl)"
-    },
-    {
-      "Name": "cantRemove",
-      "Text": "Can't remove package {0}:(+nl)"
-    },
-    {
-      "Name": "cantUninstallModels",
-      "Text": "Can't uninstall models for package {0}:(+nl)"
-    },
-    {
-      "Name": "generated",
-      "Text": "Package localization resources successfully generated"
-    },
-    {
-      "Name": "installed",
-      "Text": "Package models successfully installed"
-    },
-    {
-      "Name": "okRemoved",
-      "Text": "Package successfully removed - These settings won't take effect until the site is restarted"
-    },
-    {
-      "Name": "okRemovedSrc",
-      "Text": "Package successfully removed - These settings won't take effect until the site is restarted(+nl)(+nl)This package includes source code. The source code, project and project references have to be removed manually in the Visual Studio solution for this YetaWF site."
-    },
-    {
-      "Name": "removed",
-      "Text": "Package models successfully removed"
-    }
-  ]
+  "Strings": []
 }

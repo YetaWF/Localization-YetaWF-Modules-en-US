@@ -9,11 +9,11 @@
     },
     {
       "Name": "noParm",
-      "Text": "No user name specified"
+      "Text": "No user name specified."
     },
     {
       "Name": "noUser",
-      "Text": "User {0} doesn't exist."
+      "Text": "User {0} doesn't exist"
     }
   ]
 }

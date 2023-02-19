@@ -1,0 +1,15 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "cantImportData",
+      "Text": "Can't import {0}:(+nl)"
+    },
+    {
+      "Name": "importedData",
+      "Text": "\"{0}\" successfully imported - These settings won't take effect until the site is restarted(+nl)"
+    }
+  ]
+}

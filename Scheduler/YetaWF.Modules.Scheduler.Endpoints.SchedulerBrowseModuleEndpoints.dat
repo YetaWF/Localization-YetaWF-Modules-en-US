@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "noEvent",
+      "Text": "No scheduler item name specified"
+    },
+    {
+      "Name": "okStarting",
+      "Text": "The scheduler will be started when the site is restarted"
+    },
+    {
+      "Name": "okStopping",
+      "Text": "The scheduler will be stopped when the site is restarted"
+    }
+  ]
+}

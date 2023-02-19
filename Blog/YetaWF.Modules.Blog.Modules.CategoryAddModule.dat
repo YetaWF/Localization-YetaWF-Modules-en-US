@@ -1,6 +1,73 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Blog.Modules.CategoryAddModule+AddModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Category",
+          "Caption": "Category",
+          "Description": "The name of this blog category",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CommentApproval",
+          "Caption": "Comment Approval",
+          "Description": "Defines whether comments submitted must be approved before being publicly viewable",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Description",
+          "Caption": "Description",
+          "Description": "The description of the blog category - the category's description is shown at the top of each blog entry to describe your blog",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Syndicated",
+          "Caption": "Syndicated",
+          "Description": "Defines whether the blog category can be subscribed to by news readers (entries must be published before they can be syndicated)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SyndicationCopyright",
+          "Caption": "Syndication Copyright",
+          "Description": "The optional copyright information shown when the blog is accessed by news readers",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SyndicationEmail",
+          "Caption": "Syndication Email Address",
+          "Description": "The email address used as email address responsible for the blog category",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UseCaptcha",
+          "Caption": "Use Captcha",
+          "Description": "Defines whether anonymous users entering comments are presented with a Captcha to insure they are not automated spam scripts",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -20,6 +87,10 @@
       "Text": "Create a new blog category"
     },
     {
+      "Name": "alreadyExists",
+      "Text": "A blog category named \"{0}\" already exists."
+    },
+    {
       "Name": "modName",
       "Text": "Add Blog Category"
     },
@@ -30,6 +101,10 @@
     {
       "Name": "modTitle",
       "Text": "Add New Blog Category"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "New blog category saved"
     }
   ]
 }

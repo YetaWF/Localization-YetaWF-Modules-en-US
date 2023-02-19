@@ -6,6 +6,18 @@
     {
       "Name": "custGenerated",
       "Text": "Custom localization resources successfully generated"
+    },
+    {
+      "Name": "instGenerated",
+      "Text": "Installed localization resources successfully generated"
+    },
+    {
+      "Name": "packAllDataGenerated",
+      "Text": "Translated package data for all packages successfully generated"
+    },
+    {
+      "Name": "packDataGenerated",
+      "Text": "Translated package data successfully generated"
     }
   ]
 }

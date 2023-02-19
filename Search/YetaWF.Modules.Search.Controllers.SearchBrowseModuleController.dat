@@ -117,10 +117,5 @@
     }
   ],
   "Enums": [],
-  "Strings": [
-    {
-      "Name": "done",
-      "Text": "Site search keywords updated"
-    }
-  ]
+  "Strings": []
 }

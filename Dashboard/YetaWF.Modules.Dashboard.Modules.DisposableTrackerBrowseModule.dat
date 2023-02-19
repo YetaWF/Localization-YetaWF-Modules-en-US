@@ -3,7 +3,7 @@
   "Classes": [
     {
       "Name": "YetaWF.Modules.Dashboard.Modules.DisposableTrackerBrowseModule",
-      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition",
+      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition2",
       "Header": null,
       "Footer": null,
       "Legend": null,
@@ -15,6 +15,48 @@
           "Name": "DisplayUrl",
           "Caption": "Display Url",
           "Description": "The Url to display a disposable object - if omitted, a default page is generated",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    },
+    {
+      "Name": "YetaWF.Modules.Dashboard.Modules.DisposableTrackerBrowseModule+BrowseItem",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "CallStack",
+          "Caption": "Callstack",
+          "Description": "The callstack at the time the object was created",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Commands",
+          "Caption": "Actions",
+          "Description": "The available actions",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Created",
+          "Caption": "Time",
+          "Description": "The time the object was created",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DisposableObject",
+          "Caption": "Type",
+          "Description": "The object type of the disposable object that is currently in use",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

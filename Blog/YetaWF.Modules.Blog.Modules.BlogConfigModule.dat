@@ -1,6 +1,150 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Blog.Modules.BlogConfigModule+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "Blog": "Blog",
+        "Comments": "Comments",
+        "Notifications": "Notifications",
+        "Rss": "Rss"
+      },
+      "Properties": [
+        {
+          "Name": "BlogEntryUrl",
+          "Caption": "Blog Entry Url",
+          "Description": "URL to display a blog entry with comments",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "BlogUrl",
+          "Caption": "Blog Main Url",
+          "Description": "Main entry point for the site's blog",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DefaultCategory",
+          "Caption": "Default Blog Category",
+          "Description": "The default blog category displayed when no blog category is selected",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Entries",
+          "Caption": "Total Entries",
+          "Description": "The maximum number of blog entries shown on the main blog page when no category is selected",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Feed",
+          "Caption": "Feed",
+          "Description": "Publish this blog's contents as an Rss feed",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "FeedDetailUrl",
+          "Caption": "Feed Detail URL",
+          "Description": "The optional Rss feed's detail page for a blog entry",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "FeedImage",
+          "Caption": "Feed Image",
+          "Description": "The image used for this Rss feed",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "FeedMainUrl",
+          "Caption": "Feed Main URL",
+          "Description": "The optional Rss feed's main URL",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "FeedSummary",
+          "Caption": "Feed Summary",
+          "Description": "The Rss feed's summary description",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "FeedTitle",
+          "Caption": "Feed Title",
+          "Description": "The Rss feed's title",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "GravatarDefault",
+          "Caption": "Gravatar Default",
+          "Description": "Defines the default Gravatar image for visitors leaving comments (used when users have not defined an image at http://www.gravatar.com)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "GravatarRating",
+          "Caption": "Allowed Gravatar Rating",
+          "Description": "Defines the acceptable Gravatar rating for displayed Gravatar images",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "GravatarSize",
+          "Caption": "Gravatar Size",
+          "Description": "The width and height of the displayed Gravatar images (in pixels)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "NotifyEmail",
+          "Caption": "Email Address",
+          "Description": "The email address where all notifications for blog events are sent",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "NotifyNewComment",
+          "Caption": "Notify - New Comment",
+          "Description": "Defines whether the administrator receives email notification when a new comment has been added to a blog entry",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ShowGravatar",
+          "Caption": "Show Gravatar",
+          "Description": "Defines whether Gravatar images are shown for visitors leaving comments",
+          "HelpLink": "http://www.gravatar.com",
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -30,6 +174,14 @@
     {
       "Name": "modTitle",
       "Text": "Blog Settings"
+    },
+    {
+      "Name": "notFound",
+      "Text": "The blog settings were not found."
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Blog settings saved"
     }
   ]
 }

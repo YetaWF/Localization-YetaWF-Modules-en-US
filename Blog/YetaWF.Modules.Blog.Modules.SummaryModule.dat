@@ -3,7 +3,7 @@
   "Classes": [
     {
       "Name": "YetaWF.Modules.Blog.Modules.SummaryModule",
-      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition",
+      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition2",
       "Header": null,
       "Footer": null,
       "Legend": null,
@@ -15,6 +15,24 @@
           "Name": "Entries",
           "Caption": "Total Entries",
           "Description": "The maximum number of blog entries shown in the summary display",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    },
+    {
+      "Name": "YetaWF.Modules.Blog.Modules.SummaryModule+Entry",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "ViewAction",
+          "Caption": "View",
+          "Description": "View the complete blog entry",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -35,6 +53,10 @@
     {
       "Name": "modTitle",
       "Text": "Blog Summary"
+    },
+    {
+      "Name": "viewTT",
+      "Text": "Published {0} - {1}"
     }
   ]
 }

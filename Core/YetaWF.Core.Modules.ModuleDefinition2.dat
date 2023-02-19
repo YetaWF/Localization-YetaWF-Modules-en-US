@@ -4,8 +4,8 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "notAvail",
-      "Text": "Information not available on .NET Core"
+      "Name": "completeTitle",
+      "Text": "Success"
     }
   ]
 }

@@ -1,6 +1,25 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.DevTests.Modules.TestEscapesModule+EditModel",
+      "BaseTypeName": null,
+      "Header": "This test page is used to test correct character encoding - header (HeaderAttribute) <A> &amp; & @ {0}",
+      "Footer": "Special characters in the footer (FooterAttribute) <A> &amp; & @ {0}",
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "String1",
+          "Caption": "Caption <A> &amp; & @ {0}",
+          "Description": "A description <A> &amp; & @ {0}",
+          "HelpLink": null,
+          "TextAbove": "Special characters in the text above the field (TextAboveAttribute) <A> &amp; & @ {0}",
+          "TextBelow": "Special characters in the text below the field (TextBelowAttribute) <A> &amp; & @ {0}"
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -30,6 +49,10 @@
     {
       "Name": "modTitle",
       "Text": "Test Escapes"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Test Done - Here are some special characters in a message: <A> &amp; & @ {0}"
     }
   ]
 }

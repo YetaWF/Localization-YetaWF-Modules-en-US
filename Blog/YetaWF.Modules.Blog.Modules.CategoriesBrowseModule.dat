@@ -3,7 +3,7 @@
   "Classes": [
     {
       "Name": "YetaWF.Modules.Blog.Modules.CategoriesBrowseModule",
-      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition",
+      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition2",
       "Header": null,
       "Footer": null,
       "Legend": null,
@@ -39,6 +39,96 @@
           "Name": "EditUrl",
           "Caption": "Edit URL",
           "Description": "The URL to edit a blog category - if omitted, a default page is generated",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    },
+    {
+      "Name": "YetaWF.Modules.Blog.Modules.CategoriesBrowseModule+BrowseItem",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Category",
+          "Caption": "Category",
+          "Description": "The name of this blog category",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Commands",
+          "Caption": "Actions",
+          "Description": "The available actions",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CommentApproval",
+          "Caption": "Comment Approval",
+          "Description": "Defines whether submitted comments must be approved before being publicly viewable",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DateCreated",
+          "Caption": "Date Created",
+          "Description": "The creation date of the blog category",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Description",
+          "Caption": "Description",
+          "Description": "The description of the blog category - the category's description is shown at the top of each blog entry to describe your blog",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Identity",
+          "Caption": "Id",
+          "Description": "The id of this blog category - used to uniquely identify this blog category internally",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Syndicated",
+          "Caption": "Syndicated",
+          "Description": "Defines whether the blog category can be subscribed to by news readers (entries must be published before they can be syndicated)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SyndicationCopyright",
+          "Caption": "Syndication Copyright",
+          "Description": "The optional copyright information shown when the blog is accessed by news readers",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SyndicationEmail",
+          "Caption": "Email Address",
+          "Description": "The email address used as email address responsible for the blog category",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UseCaptcha",
+          "Caption": "Use Captcha",
+          "Description": "Defines whether anonymous users entering comments are presented with a Captcha to insure they are not automated spam scripts",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

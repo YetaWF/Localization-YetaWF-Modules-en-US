@@ -1,6 +1,57 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.DevTests.Modules.TemplateModuleSelectionModule+EditModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "ControlStatus",
+          "Caption": "Control Status",
+          "Description": "Defines the processing status of the controls",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Module",
+          "Caption": "Module Selection",
+          "Description": "Existing module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ModuleNew",
+          "Caption": "Module Selection (New)",
+          "Description": "New module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ROModule",
+          "Caption": "Module Selection (R/O)",
+          "Description": "Existing module, read/only",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ROModuleNew",
+          "Caption": "Module Selection (New, R/O)",
+          "Description": "New module, read/only",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -14,6 +65,10 @@
     {
       "Name": "modTitle",
       "Text": "ModuleSelection Test Component"
+    },
+    {
+      "Name": "ok",
+      "Text": "OK"
     }
   ]
 }

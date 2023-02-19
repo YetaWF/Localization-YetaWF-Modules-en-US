@@ -3,7 +3,7 @@
   "Classes": [
     {
       "Name": "YetaWF.Modules.CurrencyConverter.Modules.CurrencyConverterModule",
-      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition",
+      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition2",
       "Header": null,
       "Footer": null,
       "Legend": null,

@@ -1,0 +1,15 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "allRemoved",
+      "Text": "All log records have been removed"
+    },
+    {
+      "Name": "logNotFound",
+      "Text": "The log file '{0}' cannot be located"
+    }
+  ]
+}

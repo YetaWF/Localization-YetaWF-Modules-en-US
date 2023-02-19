@@ -1,8 +1,115 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Dashboard.Modules.StatusModule+DisplayModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "BlueGreenDeploy",
+          "Caption": "Deployment Type",
+          "Description": "The deployment type used for the current site",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Build",
+          "Caption": "Build",
+          "Description": "The type of build that is currently running",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CoreVersion",
+          "Caption": "YetaWF Version",
+          "Description": "The YetaWF version installed (Core Package)",
+          "HelpLink": "https://YetaWF.com",
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "FrameworkDescription",
+          "Caption": "Framework",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "LastDeploy",
+          "Caption": "Last Deploy",
+          "Description": "The date and time the site was deployed - Only shown for deployed sites",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "LastRestart",
+          "Caption": "Last Restart",
+          "Description": "The date and time the site (all instances) was last restarted",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "LetsEncrypt",
+          "Caption": "LetsEncrypt",
+          "Description": "Shows whether LetsEncrypt is enabled",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MultiInstance",
+          "Caption": "Multi-Instance Enabled",
+          "Description": "Defines whether multiple running instances (container/webfarm/webgarden) support is enabled using shared caching",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "OSArchitecture",
+          "Caption": "Operating System Architecture",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "OSDescription",
+          "Caption": "Operating System",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ProcessArchitecture",
+          "Caption": "Processor Architecture",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
+    {
+      "Name": "blueGreen5",
+      "Text": "{0} - {1}"
+    },
+    {
+      "Name": "blueGreenNone",
+      "Text": "N/A"
+    },
     {
       "Name": "displayLegend",
       "Text": "Displays YetaWF status information"
@@ -18,6 +125,10 @@
     {
       "Name": "displayTooltip",
       "Text": "Display YetaWF status information"
+    },
+    {
+      "Name": "letsEncryptEnabled",
+      "Text": "Enabled"
     },
     {
       "Name": "modName",

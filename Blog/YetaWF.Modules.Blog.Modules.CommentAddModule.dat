@@ -1,8 +1,83 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Blog.Modules.CommentAddModule+AddModel",
+      "BaseTypeName": null,
+      "Header": "Complete this simple form to add a comment to this blog entry.",
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Captcha",
+          "Caption": "Captcha",
+          "Description": "Please verify that you're a human and not a spam bot",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Comment",
+          "Caption": "Comment",
+          "Description": "Enter your comment about this blog entry for others to view",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Email",
+          "Caption": "Your Email Address",
+          "Description": "Enter your email address - Once your comment is published, your email address will not be shown, it is not publicly viewable",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Name",
+          "Caption": "Your Name",
+          "Description": "Enter your name - Once your comment is published, your name will appear as part of your comment",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ShowGravatar",
+          "Caption": "Show Gravatar",
+          "Description": "Defines whether your optional Gravatar is shown, which is a publicly viewable image, that you can define using the free service at http://gravatar.com so all your comments will appear with your image",
+          "HelpLink": "http://www.gravatar.com",
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Title",
+          "Caption": "Title",
+          "Description": "Enter a title for your comment - Once your comment is published, the title will appear as part of your comment",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Website",
+          "Caption": "Your Website",
+          "Description": "Enter your optional website, so readers of your comment may visit your website. Your website is completely optional - Once your comment is published, your website address will appear as part of your comment",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
+    {
+      "Name": "alreadyExists",
+      "Text": "An error occurred adding this new comment"
+    },
+    {
+      "Name": "autoApproval",
+      "Text": "This comment has been automatically approved."
+    },
     {
       "Name": "modName",
       "Text": "Add Comment"
@@ -14,6 +89,26 @@
     {
       "Name": "modTitle",
       "Text": "Add New Comment"
+    },
+    {
+      "Name": "needApproval",
+      "Text": "This comment requires your approval."
+    },
+    {
+      "Name": "newComment",
+      "Text": "New Blog Comment ({0} - {1})"
+    },
+    {
+      "Name": "notFound",
+      "Text": "Blog entry with id {0} not found."
+    },
+    {
+      "Name": "okSaved",
+      "Text": "New comment added"
+    },
+    {
+      "Name": "okSavedReview",
+      "Text": "New comment saved - It will be reviewed before becoming publicly viewable"
     }
   ]
 }

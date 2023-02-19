@@ -31,20 +31,8 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "instGenerated",
-      "Text": "Installed localization resources successfully generated"
-    },
-    {
       "Name": "modTitle",
       "Text": "Localization Resources - Package {0}"
-    },
-    {
-      "Name": "packAllDataGenerated",
-      "Text": "Translated package data for all packages successfully generated"
-    },
-    {
-      "Name": "packDataGenerated",
-      "Text": "Translated package data successfully generated"
     }
   ]
 }

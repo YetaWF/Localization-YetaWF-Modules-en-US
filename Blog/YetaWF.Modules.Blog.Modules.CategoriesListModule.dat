@@ -3,7 +3,7 @@
   "Classes": [
     {
       "Name": "YetaWF.Modules.Blog.Modules.CategoriesListModule",
-      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition",
+      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition2",
       "Header": null,
       "Footer": null,
       "Legend": null,
@@ -31,6 +31,24 @@
           "Name": "Style",
           "Caption": "Style",
           "Description": "Defines how the blog categories are displayed",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    },
+    {
+      "Name": "YetaWF.Modules.Blog.Modules.CategoriesListModule+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "BlogCategory",
+          "Caption": "Blog Category",
+          "Description": "Used to select the displayed blog category",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

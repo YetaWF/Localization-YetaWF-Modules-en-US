@@ -20,6 +20,14 @@
       "Text": "Display the Scroller test"
     },
     {
+      "Name": "itemSummary",
+      "Text": "Summary for item {0} - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "Name": "itemTitle",
+      "Text": "Item {0}"
+    },
+    {
       "Name": "modName",
       "Text": "Component Test - Scroller"
     },

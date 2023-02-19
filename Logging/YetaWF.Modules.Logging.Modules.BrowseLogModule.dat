@@ -13,8 +13,8 @@
       "Properties": [
         {
           "Name": "DisplayUrl",
-          "Caption": "Display URL",
-          "Description": "The URL to display a log record - if omitted, a default page is generated",
+          "Caption": "Display Url",
+          "Description": "The Url to display a log record - if omitted, a default page is generated",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

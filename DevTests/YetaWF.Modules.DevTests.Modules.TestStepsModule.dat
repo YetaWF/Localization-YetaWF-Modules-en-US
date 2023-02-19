@@ -1,6 +1,16 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.DevTests.Modules.TestStepsModule+Model",
+      "BaseTypeName": null,
+      "Header": "This test page is used to test the DisplaySteps module, which uses client-side code to activate/enable individual steps (using notifications usually sent by other modules on the same page). The individual steps can be edited in the DisplaySteps module by switching to Site Edit mode.",
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": []
+    }
+  ],
   "Enums": [],
   "Strings": [
     {

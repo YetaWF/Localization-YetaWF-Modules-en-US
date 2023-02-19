@@ -1,0 +1,11 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "logNotFound",
+      "Text": "The scheduler log file '{0}' cannot be located"
+    }
+  ]
+}

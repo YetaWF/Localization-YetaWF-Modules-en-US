@@ -20,13 +20,121 @@
           "TextBelow": null
         }
       ]
+    },
+    {
+      "Name": "YetaWF.Modules.Dashboard.Modules.AddonsBrowseModule+BrowseItem",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Commands",
+          "Caption": "Actions",
+          "Description": "The available actions",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Domain",
+          "Caption": "Domain",
+          "Description": "The domain owning this AddOn",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Name",
+          "Caption": "Name",
+          "Description": "The AddOn's internal name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Product",
+          "Caption": "Product",
+          "Description": "The AddOn's product name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Type",
+          "Caption": "Type",
+          "Description": "The AddOn type",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Url",
+          "Caption": "Url",
+          "Description": "The AddOn's Url where its files are located",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Version",
+          "Caption": "Version",
+          "Description": "The AddOn's version",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    },
+    {
+      "Name": "YetaWF.Modules.Dashboard.Modules.AddonsBrowseModule+BrowseModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "AddOnsCustomUrl",
+          "Caption": "Custom AddOns Url",
+          "Description": "The Url containing all customized AddOns (if any)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "AddOnsUrl",
+          "Caption": "AddOns Url",
+          "Description": "The Url containing all AddOns",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "GridDef",
+          "Caption": "Installed AddOns",
+          "Description": "Displays all installed AddOns",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "NodeModulesUrl",
+          "Caption": "NPM Url",
+          "Description": "The Url containing npm modules",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
     }
   ],
   "Enums": [],
   "Strings": [
     {
       "Name": "browseLegend",
-      "Text": "Displays information about all Javascript AddOns, Css AddOns that are installed in the current YetaWF instance"
+      "Text": "Displays information about all JavaScript AddOns, Css AddOns that are installed in the current YetaWF instance"
     },
     {
       "Name": "browseLink",
@@ -38,7 +146,7 @@
     },
     {
       "Name": "browseTooltip",
-      "Text": "Display information about all Javascript AddOns, Css AddOns that are installed in the current YetaWF instance"
+      "Text": "Display information about all JavaScript AddOns, Css AddOns that are installed in the current YetaWF instance"
     },
     {
       "Name": "modName",
@@ -46,7 +154,7 @@
     },
     {
       "Name": "modSummary",
-      "Text": "Displays information about all Javascript AddOns, CSS AddOns that are installed in the current YetaWF instance. AddOn information can be accessed using Admin > Dashboard > AddOn Info (standard YetaWF site)."
+      "Text": "Displays information about all JavaScript AddOns, CSS AddOns that are installed in the current YetaWF instance. AddOn information can be accessed using Admin > Dashboard > AddOn Info (standard YetaWF site)."
     },
     {
       "Name": "modTitle",

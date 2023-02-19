@@ -1,6 +1,97 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.DevTests.Modules.TemplateModuleActionsModule+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "PropButton",
+          "Caption": "Button",
+          "Description": "ModuleActions (Button)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PropButtonBar",
+          "Caption": "ButtonBar",
+          "Description": "ModuleActions (ButtonBar)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PropButtonDropDown",
+          "Caption": "ButtonDropDown",
+          "Description": "ModuleActions (ButtonDropDown)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PropButtonIcon",
+          "Caption": "ButtonIcon",
+          "Description": "ModuleActions (ButtonIcon)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PropButtonMiniDropDown",
+          "Caption": "ButtonMiniDropDown",
+          "Description": "ModuleActions (ButtonMiniDropDown)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PropButtonOnly",
+          "Caption": "ButtonOnly",
+          "Description": "ModuleActions (ButtonOnly)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PropIconsOnly",
+          "Caption": "IconsOnly",
+          "Description": "ModuleActions (IconsOnly)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PropLinksOnly",
+          "Caption": "LinksOnly",
+          "Description": "ModuleActions (LinksOnly)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PropNormalLinks",
+          "Caption": "NormalLinks",
+          "Description": "ModuleActions (NormalLinks)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PropNormalMenu",
+          "Caption": "NormalMenu",
+          "Description": "ModuleActions (NormalMenu)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -30,6 +121,10 @@
     {
       "Name": "modTitle",
       "Text": "ModuleActions Test Template"
+    },
+    {
+      "Name": "ok",
+      "Text": "OK"
     },
     {
       "Name": "userLegend",

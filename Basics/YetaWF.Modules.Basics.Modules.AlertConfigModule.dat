@@ -1,6 +1,41 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Basics.Modules.AlertConfigModule+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Enabled",
+          "Caption": "Enabled",
+          "Description": "Defines whether message display is enabled",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Message",
+          "Caption": "Message",
+          "Description": "Defines the message to display",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MessageHandling",
+          "Caption": "Message Handling",
+          "Description": "Defines how long the message is displayed",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -30,6 +65,14 @@
     {
       "Name": "modTitle",
       "Text": "Alert Settings"
+    },
+    {
+      "Name": "notFound",
+      "Text": "The Alert settings could not be found"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Alert settings saved"
     }
   ]
 }

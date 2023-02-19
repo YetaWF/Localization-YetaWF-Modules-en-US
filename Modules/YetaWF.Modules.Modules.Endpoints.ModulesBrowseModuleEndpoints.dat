@@ -1,0 +1,11 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "errRemove",
+      "Text": "The module could not be removed - It may already have been deleted"
+    }
+  ]
+}

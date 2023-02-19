@@ -4,8 +4,8 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "btnImport",
-      "Text": "Import Data..."
+      "Name": "done",
+      "Text": "Site search keywords updated"
     }
   ]
 }

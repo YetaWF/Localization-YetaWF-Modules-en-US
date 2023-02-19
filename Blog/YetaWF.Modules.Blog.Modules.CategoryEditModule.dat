@@ -1,8 +1,95 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Blog.Modules.CategoryEditModule+EditModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Category",
+          "Caption": "Category",
+          "Description": "The name of this blog category",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CommentApproval",
+          "Caption": "Comment Approval",
+          "Description": "Defines whether comments submitted must be approved before being publicly viewable",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Description",
+          "Caption": "Description",
+          "Description": "The description of the blog category - the category's description is shown at the top of each blog entry to describe your blog",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DisplayIdentity",
+          "Caption": "Id",
+          "Description": "The id of this blog category - used to uniquely identify this blog category internally",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Syndicated",
+          "Caption": "Syndicated",
+          "Description": "Defines whether the blog category can be subscribed to by news readers (entries must be published before they can be syndicated)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SyndicationCopyright",
+          "Caption": "Syndication Copyright",
+          "Description": "The optional copyright information shown when the blog is accessed by news readers",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SyndicationEmail",
+          "Caption": "Syndication Email Address",
+          "Description": "The email address used as email address responsible for the blog category",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UseCaptcha",
+          "Caption": "Use Captcha",
+          "Description": "Defines whether anonymous users entering comments are presented with a Captcha to insure they are not automated spam scripts",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
+    {
+      "Name": "alreadyDeleted",
+      "Text": "The blog category named \"{0}\" has been removed and can no longer be updated."
+    },
+    {
+      "Name": "alreadyDeletedId",
+      "Text": "The blog category with id {0} has been removed and can no longer be updated."
+    },
+    {
+      "Name": "alreadyExists",
+      "Text": "A blog category named \"{0}\" already exists."
+    },
     {
       "Name": "editLegend",
       "Text": "Edits an existing blog category"
@@ -30,6 +117,18 @@
     {
       "Name": "modTitle",
       "Text": "Blog Category"
+    },
+    {
+      "Name": "notFound",
+      "Text": "Blog category with id {0} not found."
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Blog category saved"
+    },
+    {
+      "Name": "title",
+      "Text": "Blog Category \"{0}\""
     }
   ]
 }

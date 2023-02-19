@@ -1,6 +1,33 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.DevTests.Modules.TemplateCheckListModule+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Prop1",
+          "Caption": "CheckList Menu",
+          "Description": "CheckList Menu",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Prop2",
+          "Caption": "CheckList Panel",
+          "Description": "CheckList Panel",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -14,6 +41,10 @@
     {
       "Name": "modTitle",
       "Text": "CheckList Test Template"
+    },
+    {
+      "Name": "ok",
+      "Text": "OK"
     }
   ]
 }

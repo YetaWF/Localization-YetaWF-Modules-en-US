@@ -3,7 +3,7 @@
   "Classes": [
     {
       "Name": "YetaWF.Modules.Blog.Modules.CommentsDisplayModule",
-      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition",
+      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition2",
       "Header": null,
       "Footer": null,
       "Legend": null,
@@ -13,8 +13,8 @@
       "Properties": [
         {
           "Name": "EditUrl",
-          "Caption": "Edit URL",
-          "Description": "The URL to edit a blog comment - if omitted, a default page is generated",
+          "Caption": "Edit Url",
+          "Description": "The Url to edit a blog comment - if omitted, a default page is generated",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -43,6 +43,30 @@
     {
       "Name": "approveTT",
       "Text": "Approve the comment"
+    },
+    {
+      "Name": "comment0",
+      "Text": "No Comments"
+    },
+    {
+      "Name": "comment1",
+      "Text": "1 Comment"
+    },
+    {
+      "Name": "commentP",
+      "Text": "1 Comment Pending Approval"
+    },
+    {
+      "Name": "comments",
+      "Text": "{0} Comments"
+    },
+    {
+      "Name": "commentsP",
+      "Text": "{0} Comments - 1 Comment Pending Approval"
+    },
+    {
+      "Name": "commentsPs",
+      "Text": "{0} Comments - {1} Comments Pending Approval"
     },
     {
       "Name": "modName",

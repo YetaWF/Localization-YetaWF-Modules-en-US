@@ -3,7 +3,7 @@
   "Classes": [
     {
       "Name": "YetaWF.Modules.Feedback.Modules.FeedbackBrowseModule",
-      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition",
+      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition2",
       "Header": null,
       "Footer": null,
       "Legend": null,
@@ -23,6 +23,72 @@
           "Name": "EditUrl",
           "Caption": "Edit URL",
           "Description": "The URL to edit a feedback message - if omitted, a default page is generated",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    },
+    {
+      "Name": "YetaWF.Modules.Feedback.Modules.FeedbackBrowseModule+BrowseItem",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Commands",
+          "Caption": "Actions",
+          "Description": "The available actions",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Created",
+          "Caption": "Created",
+          "Description": "The date the message was created",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Email",
+          "Caption": "Email Address",
+          "Description": "The user's email address",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "IPAddress",
+          "Caption": "IP Address",
+          "Description": "The IP address from which the feedback message was sent",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Message",
+          "Caption": "Message",
+          "Description": "The feedback message",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Name",
+          "Caption": "Name",
+          "Description": "The user's name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Subject",
+          "Caption": "Subject",
+          "Description": "The subject of the message",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -59,6 +125,10 @@
     {
       "Name": "modTitle",
       "Text": "Feedback"
+    },
+    {
+      "Name": "more",
+      "Text": "...more"
     },
     {
       "Name": "removeConfirm",

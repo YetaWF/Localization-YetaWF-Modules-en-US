@@ -1,6 +1,105 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Dashboard.Modules.AuditDisplayModule+DisplayModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Action",
+          "Caption": "Action",
+          "Description": "The action that created this record",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Changes",
+          "Caption": "Changes",
+          "Description": "The properties that were changed",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Created",
+          "Caption": "Created",
+          "Description": "The date/time this record was created",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Description",
+          "Caption": "Description",
+          "Description": "The description for this record",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ExpensiveMultiInstance",
+          "Caption": "Expensive Action",
+          "Description": "Defines whether this action is an expensive action in a multi-instance site",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Id",
+          "Caption": "Id",
+          "Description": "The internal id",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "IdentifyGuid",
+          "Caption": "Identifier/Type",
+          "Description": "The type of the record - Identifier String and Type both identify the source of this record",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "IdentifyString",
+          "Caption": "Identifier/String",
+          "Description": "The identifying string of the record - Identifier String and Type both identify the source of this record",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RequiresRestart",
+          "Caption": "Restart Pending",
+          "Description": "Defines whether this action requires a restart to take effect",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SiteIdentity",
+          "Caption": "Site",
+          "Description": "The site that was changed",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UserId",
+          "Caption": "User",
+          "Description": "The user that made the change",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -30,6 +129,10 @@
     {
       "Name": "modTitle",
       "Text": "Audit Record"
+    },
+    {
+      "Name": "notFound",
+      "Text": "Audit Info \"{0}\" not found"
     }
   ]
 }

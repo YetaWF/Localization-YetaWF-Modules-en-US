@@ -1,6 +1,33 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Backups.Modules.BackupConfigModule+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "DataOnly",
+          "Caption": "Data Only",
+          "Description": "Defines whether only data is backed up (scheduled backups) - Otherwise all source and binaries (complete packages) are backed up - For production sites it is generally sufficient to back up the data",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Days",
+          "Caption": "Days",
+          "Description": "The number of days a backup is saved - once a backup has been saved for the specified number of days, it is deleted",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -30,6 +57,14 @@
     {
       "Name": "modTitle",
       "Text": "Backup Settings"
+    },
+    {
+      "Name": "notFound",
+      "Text": "The backup settings could not be found"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Backup settings saved"
     }
   ]
 }

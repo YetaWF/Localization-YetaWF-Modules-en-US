@@ -1,8 +1,99 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Blog.Modules.CommentEditModule+EditModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Approved",
+          "Caption": "Approved",
+          "Description": "Defines whether the comment has been approved for public display",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Comment",
+          "Caption": "Comment",
+          "Description": "The comment",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DateCreated",
+          "Caption": "Date Created",
+          "Description": "The date the comment was created",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Deleted",
+          "Caption": "Deleted",
+          "Description": "Defines whether the comment has been deleted",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Email",
+          "Caption": "Email Address",
+          "Description": "The author's email address",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Name",
+          "Caption": "Name",
+          "Description": "The author's name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ShowGravatar",
+          "Caption": "Show Gravatar",
+          "Description": "Defines whether the optional Gravatar is shown",
+          "HelpLink": "http://www.gravatar.com",
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Title",
+          "Caption": "Title",
+          "Description": "The comment title",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Website",
+          "Caption": "Website",
+          "Description": "The author's optional website",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
+    {
+      "Name": "alreadyDeleted",
+      "Text": "The comment entry with id {0} has been removed and can no longer be updated"
+    },
+    {
+      "Name": "alreadyExists",
+      "Text": "A comment with id {0} already exists."
+    },
     {
       "Name": "editLegend",
       "Text": "Edits an existing comment"
@@ -30,6 +121,14 @@
     {
       "Name": "modTitle",
       "Text": "Comment"
+    },
+    {
+      "Name": "notFound",
+      "Text": "Comment entry with id {0} not found."
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Comment saved"
     }
   ]
 }

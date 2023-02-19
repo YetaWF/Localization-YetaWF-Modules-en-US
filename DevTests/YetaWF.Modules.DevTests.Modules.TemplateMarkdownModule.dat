@@ -1,6 +1,77 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.DevTests.Modules.TemplateMarkdownModule+MarkdownOptional",
+      "BaseTypeName": "YetaWF.Modules.ComponentsHTML.Components.MarkdownStringBase",
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Text",
+          "Caption": "Markdown Text",
+          "Description": null,
+          "HelpLink": "https://www.markdownguide.org/cheat-sheet/",
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    },
+    {
+      "Name": "YetaWF.Modules.DevTests.Modules.TemplateMarkdownModule+MarkdownRequired",
+      "BaseTypeName": "YetaWF.Modules.ComponentsHTML.Components.MarkdownStringBase",
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Text",
+          "Caption": "Markdown Text",
+          "Description": null,
+          "HelpLink": "https://www.markdownguide.org/cheat-sheet/",
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    },
+    {
+      "Name": "YetaWF.Modules.DevTests.Modules.TemplateMarkdownModule+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Prop1",
+          "Caption": "Markdown",
+          "Description": "Markdown",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Prop1Req",
+          "Caption": "Markdown (Required)",
+          "Description": "Markdown (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Prop1RO",
+          "Caption": "Markdown (Read/Only)",
+          "Description": "Markdown (read/only)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -14,6 +85,10 @@
     {
       "Name": "modTitle",
       "Text": "Markdown Test Template"
+    },
+    {
+      "Name": "ok",
+      "Text": "OK"
     }
   ]
 }

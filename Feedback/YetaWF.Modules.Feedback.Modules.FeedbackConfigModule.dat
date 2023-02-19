@@ -1,6 +1,57 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Feedback.Modules.FeedbackConfigModule+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "BccEmails",
+          "Caption": "Copy Feedback Emails",
+          "Description": "Defines whether the site administrator receives a copy of all feedback messages",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Captcha",
+          "Caption": "Use Captcha",
+          "Description": "The user has to pass a \"human\" test",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Email",
+          "Caption": "Email Address",
+          "Description": "The email address where all feedback messages are sent",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RequireEmail",
+          "Caption": "Email Address Required",
+          "Description": "Defines whether the user must enter his/her email address to be able to send feedback",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RequireName",
+          "Caption": "Name Required",
+          "Description": "Defines whether the user must enter his/her name to be able to send feedback",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -30,6 +81,14 @@
     {
       "Name": "modTitle",
       "Text": "Feedback Settings"
+    },
+    {
+      "Name": "notFound",
+      "Text": "The feedback settings were not found."
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Feedback settings saved"
     }
   ]
 }

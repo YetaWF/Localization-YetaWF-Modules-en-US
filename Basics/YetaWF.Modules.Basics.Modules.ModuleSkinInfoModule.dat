@@ -1,6 +1,65 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Basics.Modules.ModuleSkinInfoModule+DisplayModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Characters",
+          "Caption": "Letters",
+          "Description": "The letters used to calculate the average character width and height",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Height",
+          "Caption": "Char. Height",
+          "Description": "The character height, calculated using the current skin",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "LettersHeight",
+          "Caption": "Letters Height",
+          "Description": "The overall height of the letters shown, calculated using the current skin",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "LettersWidth",
+          "Caption": "Letters Width",
+          "Description": "The overall width of the letters shown, calculated using the current skin",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SiteSelectedSkin",
+          "Caption": "Site Defined Skin",
+          "Description": "The skin used for all pages/popups",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Width",
+          "Caption": "Average Char. Width",
+          "Description": "The average character width, calculated using the current skin",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {

@@ -1,6 +1,68 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Dashboard.Modules.EditBlocksModule+EditModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "Not Authorized": "Not Authorized",
+        "Successful": "Successful"
+      },
+      "Properties": [
+        {
+          "Name": "NotAuthUrlPathContains",
+          "Caption": "URL Path Contains",
+          "Description": "List of text fragments, one entry per line - If a text fragment is found in a URL, the request returns 401 Not Authorized - The comparison is case insensitive",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "NotAuthUrlPathEndsWith",
+          "Caption": "URL Path Ends With",
+          "Description": "List of text fragments, one entry per line - If a text fragment is found at the end of a URL path, the request returns 401 Not Authorized - The comparison is case insensitive",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "NotAuthUserAgentContains",
+          "Caption": "User Agent Contains",
+          "Description": "List of text fragments, one entry per line - If a text fragment is found in a user agent, the request returns 401 Not Authorized - The comparison is case insensitive",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SuccessUrlPathContains",
+          "Caption": "URL Path Contains",
+          "Description": "List of text fragments, one entry per line - If a text fragment is found in a URL, the request returns 200 OK with an empty response body - The comparison is case insensitive",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SuccessUrlPathEndsWith",
+          "Caption": "URL Path Ends With",
+          "Description": "List of text fragments, one entry per line - If a text fragment is found at the end of a URL path, the request returns 200 OK with an empty response body - The comparison is case insensitive",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SuccessUserAgentContains",
+          "Caption": "User Agent Contains",
+          "Description": "List of text fragments, one entry per line - If a text fragment is found in a user agent, the request returns 200 OK with an empty response body - The comparison is case insensitive",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -14,6 +76,10 @@
     {
       "Name": "modTitle",
       "Text": "Request Blocking"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Request blocking settings saved"
     }
   ]
 }

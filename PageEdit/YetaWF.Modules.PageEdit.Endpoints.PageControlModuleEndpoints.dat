@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "cantImport",
+      "Text": "Can't import {0}:(+nl)"
+    },
+    {
+      "Name": "clearJsCssAll",
+      "Text": "JavaScript/CSS bundles and cached static small objects have been cleared"
+    },
+    {
+      "Name": "imported",
+      "Text": "\"{0}\" successfully imported(+nl)"
+    }
+  ]
+}

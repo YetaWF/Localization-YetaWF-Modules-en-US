@@ -1,6 +1,147 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.DevTests.Modules.TemplateMultiStringModule+EditModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "Core": "Core"
+      },
+      "Properties": [
+        {
+          "Name": "ControlStatus",
+          "Caption": "Control Status",
+          "Description": "Defines the processing status of the controls",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MultiString",
+          "Caption": "MultiString",
+          "Description": "MultiString (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MultiString10",
+          "Caption": "MultiString10",
+          "Description": "MultiString10 (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MultiString10Opt",
+          "Caption": "MultiString10",
+          "Description": "MultiString10",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MultiString10RO",
+          "Caption": "MultiString10",
+          "Description": "MultiString10",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MultiString20",
+          "Caption": "MultiString20",
+          "Description": "MultiString20 (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MultiString20Opt",
+          "Caption": "MultiString20",
+          "Description": "MultiString20",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MultiString20RO",
+          "Caption": "MultiString20",
+          "Description": "MultiString20",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MultiString40",
+          "Caption": "MultiString40",
+          "Description": "MultiString40 (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MultiString40Opt",
+          "Caption": "MultiString40",
+          "Description": "MultiString40",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MultiString40RO",
+          "Caption": "MultiString40",
+          "Description": "MultiString40",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MultiString80",
+          "Caption": "MultiString80",
+          "Description": "MultiString80 (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MultiString80Opt",
+          "Caption": "MultiString80",
+          "Description": "MultiString80",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MultiString80RO",
+          "Caption": "MultiString80",
+          "Description": "MultiString80",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MultiStringOpt",
+          "Caption": "MultiString",
+          "Description": "MultiString",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MultiStringRO",
+          "Caption": "MultiString",
+          "Description": "MultiString",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -14,6 +155,10 @@
     {
       "Name": "modTitle",
       "Text": "MultiString Test Component"
+    },
+    {
+      "Name": "ok",
+      "Text": "OK"
     }
   ]
 }

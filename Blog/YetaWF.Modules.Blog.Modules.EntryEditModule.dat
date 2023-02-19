@@ -1,6 +1,121 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Blog.Modules.EntryEditModule+EditModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Author",
+          "Caption": "Author",
+          "Description": "The name of the blog author",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "AuthorUrl",
+          "Caption": "Author's Url",
+          "Description": "The optional Url linking to the author's information",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CategoryIdentity",
+          "Caption": "Category",
+          "Description": "The category for this blog entry",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DateCreated",
+          "Caption": "Date Created",
+          "Description": "The date this entry was created",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DatePublished",
+          "Caption": "Date Published",
+          "Description": "The date this entry has been published",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DateUpdated",
+          "Caption": "Date Updated",
+          "Description": "The date this entry was updated",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DisplayIdentity",
+          "Caption": "Id",
+          "Description": "The id of this blog entry - used to uniquely identify this blog entry internally",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Keywords",
+          "Caption": "Keywords",
+          "Description": "The keywords for this blog entry",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "OpenForComments",
+          "Caption": "Allow Comments",
+          "Description": "Defines whether comments can be entered for this blog entry",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Published",
+          "Caption": "Published",
+          "Description": "Defines whether this entry has been published and is viewable by everyone",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Summary",
+          "Caption": "Summary",
+          "Description": "The summary for this blog entry - If no summary is entered, the entire blog text is shown instead of the summary",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Text",
+          "Caption": "Blog Text",
+          "Description": "The complete text for this blog entry",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Title",
+          "Caption": "Title",
+          "Description": "The title for this blog entry",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -20,6 +135,10 @@
       "Text": "Edit this blog entry"
     },
     {
+      "Name": "errSaving",
+      "Text": "An unexpected error occurred saving the blog entry - {0}"
+    },
+    {
       "Name": "modName",
       "Text": "Edit Blog Entry"
     },
@@ -30,6 +149,14 @@
     {
       "Name": "modTitle",
       "Text": "Blog Entry"
+    },
+    {
+      "Name": "notFound",
+      "Text": "Blog entry with id {0} not found"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Blog entry saved"
     }
   ]
 }
