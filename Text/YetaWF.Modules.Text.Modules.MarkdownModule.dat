@@ -20,6 +20,42 @@
           "TextBelow": null
         }
       ]
+    },
+    {
+      "Name": "YetaWF.Modules.Text.Modules.MarkdownModule+MarkdownDisplay",
+      "BaseTypeName": "YetaWF.Modules.ComponentsHTML.Components.MarkdownStringBase",
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Text",
+          "Caption": "Markdown Text",
+          "Description": null,
+          "HelpLink": "https://www.markdownguide.org/cheat-sheet/",
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    },
+    {
+      "Name": "YetaWF.Modules.Text.Modules.MarkdownModule+MarkdownEdit",
+      "BaseTypeName": "YetaWF.Modules.Text.Modules.MarkdownString",
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Text",
+          "Caption": "Markdown Text",
+          "Description": null,
+          "HelpLink": "https://www.markdownguide.org/cheat-sheet/",
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
     }
   ],
   "Enums": [],
@@ -35,6 +71,10 @@
     {
       "Name": "modTitle",
       "Text": "Edit"
+    },
+    {
+      "Name": "saved",
+      "Text": "Contents saved"
     }
   ]
 }

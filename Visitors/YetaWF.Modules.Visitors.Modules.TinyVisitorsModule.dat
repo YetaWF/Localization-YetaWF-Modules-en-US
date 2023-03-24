@@ -35,6 +35,10 @@
     {
       "Name": "modTitle",
       "Text": "Visitor Stats"
+    },
+    {
+      "Name": "tooltip",
+      "Text": "Today: {0} Users, {1} Anonymous - Yesterday: {2}/{3}"
     }
   ]
 }

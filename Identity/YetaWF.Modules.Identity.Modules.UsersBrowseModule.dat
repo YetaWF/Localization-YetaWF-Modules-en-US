@@ -36,6 +36,136 @@
           "TextBelow": null
         }
       ]
+    },
+    {
+      "Name": "YetaWF.Modules.Identity.Modules.UsersBrowseModule+BrowseItem",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Commands",
+          "Caption": "Actions",
+          "Description": "The available actions",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Created",
+          "Caption": "Created",
+          "Description": "The date/time the user account was created",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Email",
+          "Caption": "Email Address",
+          "Description": "The user's email address",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "LastActivityDate",
+          "Caption": "Last Activity",
+          "Description": "The last time the user did anything on this site",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "LastActivityIP",
+          "Caption": "Last Activity IP",
+          "Description": "The IP address from which the user did anything on this site",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "LastLoginDate",
+          "Caption": "Last Login",
+          "Description": "The last time the user logged into his/her account",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "LastLoginIP",
+          "Caption": "Last Login IP",
+          "Description": "The IP address from which the user last logged on this site",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "LastPasswordChangedDate",
+          "Caption": "Last Password Change",
+          "Description": "The last time the user changed his/her password",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "NeedsNewPassword",
+          "Caption": "New Password",
+          "Description": "Defines whether the user must change the password",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PasswordChangeIP",
+          "Caption": "Password Change IP",
+          "Description": "The IP address from which the user last changed the password on this site",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RegistrationIP",
+          "Caption": "Registration IP",
+          "Description": "The IP address from which the user registered on this site",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UserId",
+          "Caption": "User Id",
+          "Description": "The user's internal id",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UserName",
+          "Caption": "Name",
+          "Description": "The user's name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UserStatus",
+          "Caption": "Status",
+          "Description": "The user's current account status",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "VerificationCode",
+          "Caption": "Verification Code",
+          "Description": "The verification code to verify the user",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
     }
   ],
   "Enums": [],

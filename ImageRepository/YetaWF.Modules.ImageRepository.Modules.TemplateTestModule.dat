@@ -1,6 +1,25 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.ImageRepository.Modules.TemplateTestModule+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "ImageName",
+          "Caption": "Image Selection",
+          "Description": "Description of image selection",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -14,6 +33,10 @@
     {
       "Name": "modTitle",
       "Text": "Image Repository Component Test"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Image saved"
     }
   ]
 }

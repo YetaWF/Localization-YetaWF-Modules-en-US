@@ -1,6 +1,81 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Visitors.Modules.IPAddressLookupModule+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "City",
+          "Caption": "City",
+          "Description": "The city where the IP address is located",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ContinentCode",
+          "Caption": "Continent",
+          "Description": "The continent where the IP address is located",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CountryName",
+          "Caption": "Country",
+          "Description": "The country where the IP address is located",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "HostName",
+          "Caption": "Host Name",
+          "Description": "The host name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "IPAddress",
+          "Caption": "IP Address",
+          "Description": "The IP address",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Latitude",
+          "Caption": "Latitude",
+          "Description": "The latitude where the IP address is located",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Longitude",
+          "Caption": "Longitude",
+          "Description": "The longitude where the IP address is located",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RegionName",
+          "Caption": "Region",
+          "Description": "The region where the IP address is located",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -34,6 +109,10 @@
     {
       "Name": "displayHostTooltip",
       "Text": "Display the IP Address Host Name"
+    },
+    {
+      "Name": "limitExceeded",
+      "Text": "The current limit of geolocation requests per minute has been exceeded"
     },
     {
       "Name": "modName",

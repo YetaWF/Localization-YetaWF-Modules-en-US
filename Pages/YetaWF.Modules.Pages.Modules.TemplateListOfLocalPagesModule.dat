@@ -1,6 +1,41 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Pages.Modules.TemplateListOfLocalPagesModule+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Prop1",
+          "Caption": "ListOfLocalPages",
+          "Description": "ListOfLocalPages",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Prop1Req",
+          "Caption": "ListOfLocalPages (Required)",
+          "Description": "ListOfLocalPages (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Prop1RO",
+          "Caption": "ListOfLocalPages (Read/Only)",
+          "Description": "ListOfLocalPages (read/only)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -30,6 +65,10 @@
     {
       "Name": "modTitle",
       "Text": "ListOfLocalPages Test Component"
+    },
+    {
+      "Name": "ok",
+      "Text": "OK"
     }
   ]
 }

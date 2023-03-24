@@ -1,6 +1,81 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "Softelvdm.Modules.IVR.Modules.DisplayCallLogModule+DisplayModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Caller",
+          "Caption": "From",
+          "Description": "The caller's phone number",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CallerCity",
+          "Caption": "From City",
+          "Description": "The caller's city (if available)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CallerCountry",
+          "Caption": "From Country",
+          "Description": "The caller's country (if available)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CallerState",
+          "Caption": "From State",
+          "Description": "The caller's state (if available)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CallerZip",
+          "Caption": "From Zip Code",
+          "Description": "The caller's ZIP code (if available)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Created",
+          "Caption": "Created",
+          "Description": "The date/time the call was received",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Id",
+          "Caption": "Id",
+          "Description": "The internal id",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "To",
+          "Caption": "Phone Number",
+          "Description": "The phone number called",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -30,6 +105,10 @@
     {
       "Name": "modTitle",
       "Text": "Call Log Entry"
+    },
+    {
+      "Name": "notFound",
+      "Text": "Call Log Entry with id {0} not found"
     }
   ]
 }

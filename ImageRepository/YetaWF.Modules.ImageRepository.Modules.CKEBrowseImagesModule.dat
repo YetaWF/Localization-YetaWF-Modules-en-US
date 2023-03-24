@@ -1,6 +1,25 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.ImageRepository.Modules.CKEBrowseImagesModule+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "ImageName",
+          "Caption": "Image Selection",
+          "Description": "Select an image or upload a new image",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -14,6 +33,10 @@
     {
       "Name": "modTitle",
       "Text": "Select Image"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Image saved"
     }
   ]
 }

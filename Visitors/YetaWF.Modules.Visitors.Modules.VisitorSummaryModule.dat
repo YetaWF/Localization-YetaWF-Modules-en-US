@@ -1,6 +1,49 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Visitors.Modules.VisitorSummaryModule+DisplayModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "TodaysAnonymous",
+          "Caption": "Today's Anonymous Visitors",
+          "Description": "Displays the number of anonymous visitors today (by reporting the number of distinct sessions without a logged on user)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TodaysUsers",
+          "Caption": "Today's Visitors",
+          "Description": "Displays the number of logged on visitors today",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "YesterdaysAnonymous",
+          "Caption": "Yesterday's Anonymous Visitors",
+          "Description": "Displays the number of anonymous visitors yesterday (by reporting the number of distinct sessions without a logged on user)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "YesterdaysUsers",
+          "Caption": "Yesterday's Visitors",
+          "Description": "Displays the number of logged on visitors yesterday",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {

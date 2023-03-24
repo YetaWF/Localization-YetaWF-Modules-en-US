@@ -4,8 +4,8 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "completeTitle",
-      "Text": "Success"
+      "Name": "dupUrl",
+      "Text": "Page {0} has already been added"
     }
   ]
 }

@@ -1,6 +1,49 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Identity.Modules.RolesDisplayModule+DisplayModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Description",
+          "Caption": "Description",
+          "Description": "The intended use of the role",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Name",
+          "Caption": "Name",
+          "Description": "The role name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PostLoginUrl",
+          "Caption": "Post Login URL",
+          "Description": "The URL where a user with this role is redirected after logging on",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RoleId",
+          "Caption": "Role Id",
+          "Description": "The internal id of the role",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -20,6 +63,10 @@
       "Text": "Display an existing role"
     },
     {
+      "Name": "modDisplayTitle",
+      "Text": "{0} Role"
+    },
+    {
       "Name": "modName",
       "Text": "Display Role"
     },
@@ -30,6 +77,10 @@
     {
       "Name": "modTitle",
       "Text": "Role"
+    },
+    {
+      "Name": "notFound",
+      "Text": "Role \"{0}\" not found."
     }
   ]
 }

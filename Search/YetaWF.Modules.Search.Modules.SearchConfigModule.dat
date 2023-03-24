@@ -1,6 +1,33 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Search.Modules.SearchConfigModule+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "SmallestMixedToken",
+          "Caption": "Smallest Keyword (Mixed Case)",
+          "Description": "The smallest mixed case keyword",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SmallestUpperCaseToken",
+          "Caption": "Smallest Keyword (Uppercase)",
+          "Description": "The smallest all uppercase keyword",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -30,6 +57,14 @@
     {
       "Name": "modTitle",
       "Text": "Search Settings"
+    },
+    {
+      "Name": "notFound",
+      "Text": "The search configuration was not found."
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Search configuration saved"
     }
   ]
 }

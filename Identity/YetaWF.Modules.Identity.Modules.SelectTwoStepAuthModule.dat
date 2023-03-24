@@ -1,6 +1,16 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Identity.Modules.SelectTwoStepAuthModule+EditModel",
+      "BaseTypeName": null,
+      "Header": "Please click on one of the available authentication methods to complete logging in.",
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": []
+    }
+  ],
   "Enums": [],
   "Strings": [
     {

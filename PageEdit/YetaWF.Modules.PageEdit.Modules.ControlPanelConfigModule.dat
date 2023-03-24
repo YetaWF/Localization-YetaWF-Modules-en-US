@@ -1,6 +1,35 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.PageEdit.Modules.ControlPanelConfigModule+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "General": "General"
+      },
+      "Properties": [
+        {
+          "Name": "Users",
+          "Caption": "User List",
+          "Description": "List of user accounts that can be used to quickly log into the site",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "W3CUrl",
+          "Caption": "W3C Validation",
+          "Description": "The Url used to validate the current page using a W3C Validation service - Use {0} where the Url is inserted - If no Url is defined, the Control Panel will not display a W3C Validation link",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -30,6 +59,18 @@
     {
       "Name": "modTitle",
       "Text": "Control Panel Settings"
+    },
+    {
+      "Name": "notFound",
+      "Text": "The Control Panel settings could not be found"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Control Panel settings saved"
+    },
+    {
+      "Name": "okSavedRestart",
+      "Text": "Control Panel settings saved - These settings won't take effect until the site is restarted"
     }
   ]
 }

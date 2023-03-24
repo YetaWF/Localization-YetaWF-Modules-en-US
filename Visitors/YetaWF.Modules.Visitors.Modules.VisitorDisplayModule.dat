@@ -1,6 +1,81 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Visitors.Modules.VisitorDisplayModule+DisplayModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "AccessDateTime",
+          "Caption": "Accessed",
+          "Description": "The date and time the visitor visited the site",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Error",
+          "Caption": "Error",
+          "Description": "Shows any error that may have occurred",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "IPAddress",
+          "Caption": "IP Address",
+          "Description": "The IP address of the site visitor",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Referrer",
+          "Caption": "Referrer",
+          "Description": "The Url where the site visitor came from",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SessionId",
+          "Caption": "Session Id",
+          "Description": "The session id used to identify the visitor",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Url",
+          "Caption": "Url",
+          "Description": "The Url accessed by the site visitor",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UserAgent",
+          "Caption": "User Agent",
+          "Description": "The web browser's user agent",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UserId",
+          "Caption": "User Id",
+          "Description": "The user's email address (if available)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -30,6 +105,14 @@
     {
       "Name": "modTitle",
       "Text": "Visitor Entry Details"
+    },
+    {
+      "Name": "notFound",
+      "Text": "Visitor Entry {0} not found."
+    },
+    {
+      "Name": "title",
+      "Text": "Visitor Entry {0}"
     }
   ]
 }

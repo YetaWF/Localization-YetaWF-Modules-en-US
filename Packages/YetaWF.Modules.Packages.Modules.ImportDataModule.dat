@@ -4,6 +4,10 @@
   "Enums": [],
   "Strings": [
     {
+      "Name": "btnImport",
+      "Text": "Import Data..."
+    },
+    {
       "Name": "modName",
       "Text": "Import Package Data"
     },

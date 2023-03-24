@@ -555,6 +555,10 @@
   ],
   "Strings": [
     {
+      "Name": "completeTitle",
+      "Text": "Success"
+    },
+    {
       "Name": "desc",
       "Text": "(not specified)"
     },
@@ -593,6 +597,10 @@
     {
       "Name": "nonSite",
       "Text": "Module Data {0} cannot be imported - It contains unexpected non site specific data"
+    },
+    {
+      "Name": "notAuth",
+      "Text": "Not Authorized"
     },
     {
       "Name": "pageNotFound",

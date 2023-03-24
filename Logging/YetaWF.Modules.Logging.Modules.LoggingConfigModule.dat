@@ -1,6 +1,25 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Logging.Modules.LoggingConfigModule+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Days",
+          "Caption": "Retention (Days)",
+          "Description": "Defines the number of days logging information is saved - Logging information that is older than the specified number of days is deleted",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -30,6 +49,14 @@
     {
       "Name": "modTitle",
       "Text": "Logging Settings"
+    },
+    {
+      "Name": "notFound",
+      "Text": "The logging settings could not be found"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Logging settings saved"
     }
   ]
 }

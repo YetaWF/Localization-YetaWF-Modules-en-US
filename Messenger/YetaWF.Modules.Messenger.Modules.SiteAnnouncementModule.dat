@@ -1,6 +1,57 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Messenger.Modules.SiteAnnouncementModule+AddModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Description",
+          "Caption": " ",
+          "Description": " ",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Message",
+          "Caption": "Message",
+          "Description": "Defines the message to be sent",
+          "HelpLink": null,
+          "TextAbove": "Please enter the message to be sent to all users that are currently using the site (anonymous and logged on users).",
+          "TextBelow": null
+        },
+        {
+          "Name": "TestModeDemo",
+          "Caption": "Test Mode",
+          "Description": "Select to test sending a message to yourself (no other users will receive this message)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TestModeProd",
+          "Caption": "Test Mode",
+          "Description": "Select to test sending a message to yourself (no other users will receive this message)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Title",
+          "Caption": "Title",
+          "Description": "Defines the title of the message to be sent",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -20,6 +71,14 @@
       "Text": "Send a new site announcement to all users"
     },
     {
+      "Name": "anncTitle",
+      "Text": "Site Announcement"
+    },
+    {
+      "Name": "demo",
+      "Text": "In Demo mode, the message is sent to the current user only - Other users do not receive the message."
+    },
+    {
       "Name": "modName",
       "Text": "Site Announcement"
     },
@@ -30,6 +89,10 @@
     {
       "Name": "modTitle",
       "Text": "New Site Announcement"
+    },
+    {
+      "Name": "noLog",
+      "Text": "Message sent. New site announcement log record couldn't be added"
     }
   ]
 }

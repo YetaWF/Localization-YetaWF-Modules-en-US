@@ -1,6 +1,65 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Identity.Modules.TemplateUserIdModule+Model",
+      "BaseTypeName": null,
+      "Header": "Test case for the YetaWF_Identity_UserId template, which allows selection of 1 user. If fewer than 50 users are available, a dropdown list is shown. For more than 50, a scrollable grid (Ajax) is used instead to support thousands of users. Some of these fields explicitly force a grid display even with fewer than 50 users.",
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "ControlStatus",
+          "Caption": "Control Status",
+          "Description": "Defines the processing status of the controls",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Prop1",
+          "Caption": "UserId",
+          "Description": "UserId",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Prop1Grid",
+          "Caption": "UserId (Grid)",
+          "Description": "UserId",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Prop1GridReq",
+          "Caption": "UserId (Grid, Required)",
+          "Description": "UserId (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Prop1Req",
+          "Caption": "UserId (Required)",
+          "Description": "UserId (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Prop1RO",
+          "Caption": "UserId (Read/Only)",
+          "Description": "UserId (read/only)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -30,6 +89,10 @@
     {
       "Name": "modTitle",
       "Text": "UserId Test Component"
+    },
+    {
+      "Name": "ok",
+      "Text": "OK"
     }
   ]
 }

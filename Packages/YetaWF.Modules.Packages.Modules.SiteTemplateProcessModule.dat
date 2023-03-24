@@ -1,6 +1,25 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Packages.Modules.SiteTemplateProcessModule+EditModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": "The selected template is used to configure the current site - Once completed the page has to be manually refreshed (deliberately not automatic)",
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "SiteTemplate",
+          "Caption": "Name",
+          "Description": "List of site templates (located in the SiteTemplates folder)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {

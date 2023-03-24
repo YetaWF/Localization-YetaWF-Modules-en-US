@@ -13,24 +13,74 @@
       "Properties": [
         {
           "Name": "AddUrl",
-          "Caption": "Add URL",
-          "Description": "The URL to add a new role - if omitted, a default page is generated",
+          "Caption": "Add Url",
+          "Description": "The Url to add a new role - if omitted, a default page is generated",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
           "Name": "DisplayUrl",
-          "Caption": "Display URL",
-          "Description": "The URL to display a role - if omitted, a default page is generated",
+          "Caption": "Display Url",
+          "Description": "The Url to display a role - if omitted, a default page is generated",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
           "Name": "EditUrl",
-          "Caption": "Edit URL",
-          "Description": "The URL to edit a role - if omitted, a default page is generated",
+          "Caption": "Edit Url",
+          "Description": "The Url to edit a role - if omitted, a default page is generated",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    },
+    {
+      "Name": "YetaWF.Modules.Identity.Modules.RolesBrowseModule+BrowseItem",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Commands",
+          "Caption": "Actions",
+          "Description": "The available actions",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Description",
+          "Caption": "Description",
+          "Description": "The intended use of the role",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Name",
+          "Caption": "Name",
+          "Description": "The role name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PostLoginUrl",
+          "Caption": "Post Login Url",
+          "Description": "The Url where a user with this role is redirected after logging on",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RoleId",
+          "Caption": "Role Id",
+          "Description": "The internal id of the role",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

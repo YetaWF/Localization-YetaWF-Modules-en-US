@@ -36,6 +36,10 @@
       "Text": "Change settings for site \"{0}\""
     },
     {
+      "Name": "errNoSite",
+      "Text": "Site \"{0}\" not found"
+    },
+    {
       "Name": "modName",
       "Text": "Site Settings"
     },
@@ -46,6 +50,14 @@
     {
       "Name": "modTitle",
       "Text": "Site Settings"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Site settings updated"
+    },
+    {
+      "Name": "okSavedRestart",
+      "Text": "Site settings updated - These settings won't take effect until the site is restarted"
     }
   ]
 }

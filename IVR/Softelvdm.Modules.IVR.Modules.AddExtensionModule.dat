@@ -1,6 +1,49 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "Softelvdm.Modules.IVR.Modules.AddExtensionModule+AddModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Description",
+          "Caption": "Description",
+          "Description": "Describes the extension",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Extension",
+          "Caption": "Extension",
+          "Description": "Defines the extension (digits)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PhoneNumbers",
+          "Caption": "Phone Numbers",
+          "Description": "Defines the phone numbers to call when this extension is entered - At least one phone number is required",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Users",
+          "Caption": "Users",
+          "Description": "Defines the users that can access voice mails for this extension",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -20,6 +63,10 @@
       "Text": "Add a new extension"
     },
     {
+      "Name": "dup",
+      "Text": "An entry for extension {0} already exists"
+    },
+    {
       "Name": "modName",
       "Text": "Add New Extension"
     },
@@ -30,6 +77,10 @@
     {
       "Name": "modTitle",
       "Text": "Add New Extension"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "New extension saved"
     }
   ]
 }

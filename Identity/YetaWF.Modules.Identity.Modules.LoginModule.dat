@@ -1,8 +1,155 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Identity.Modules.LoginModule+LoginModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": "Account Information",
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Actions",
+          "Caption": "",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Captcha",
+          "Caption": "Captcha",
+          "Description": "Please verify that you're a human and not a spam bot",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Email",
+          "Caption": "Email Address",
+          "Description": "Enter your email address to register - This is the email address used by this site to communicate with you",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "HeaderEmail",
+          "Caption": "",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "HeaderEmailNewUser",
+          "Caption": "",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "HeaderNameAndEmail",
+          "Caption": "",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "HeaderNameAndEmailNewUser",
+          "Caption": "",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Password",
+          "Caption": "Password",
+          "Description": "Enter your password",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RememberMe",
+          "Caption": "Remember Me",
+          "Description": "Select this option so your information is saved and you don't need to login again when you return to this site (when using the same browser)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ResendVerificationCode",
+          "Caption": "",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UserName",
+          "Caption": "Name",
+          "Description": "Enter your user name - This is the name you used when you registered on this site",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "VerificationCode",
+          "Caption": "Verification Code",
+          "Description": "Please enter the verification code you received via email to validate your account",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
+    {
+      "Name": "accountRejected",
+      "Text": "Your account has been rejected by the site administrator."
+    },
+    {
+      "Name": "accountSuspended",
+      "Text": "Your account has been suspended."
+    },
+    {
+      "Name": "extUser",
+      "Text": "This account can only be accessed using an external login provider"
+    },
+    {
+      "Name": "headerEmailNew",
+      "Text": "<p>You are entering an area of our web site, for which you need to register using your email address and password. If you are a new user, please register a new account now. If you already established an account earlier, please enter the account information here and click \"Log In\".</p>"
+    },
+    {
+      "Name": "headerName",
+      "Text": "<p>If you have an account, please enter the account information here and click \"Log In\". This site does not accept new user registrations.</p>"
+    },
+    {
+      "Name": "headerNameEmail",
+      "Text": "<p>If you have an account, please enter the account information here and click \"Log In\". This site does not accept new user registrations.</p>"
+    },
+    {
+      "Name": "headerNameEmailNew",
+      "Text": "<p>You are entering an area of our web site, for which you need to register using your name and password. If you are a new user, please register a new account now. If you already established an account earlier, please enter the account information here and click \"Log In\".</p>"
+    },
+    {
+      "Name": "invLogin",
+      "Text": "Invalid user name or password"
+    },
+    {
+      "Name": "invVerification",
+      "Text": "The verification code is invalid. Please make sure to copy/paste it from the email to avoid any typos."
+    },
+    {
+      "Name": "logAccountTitle",
+      "Text": "Log in using your {0} account"
+    },
     {
       "Name": "loginAsLegend",
       "Text": "Logs in as another user"
@@ -36,8 +183,24 @@
       "Text": "If you have an account on this site, click to log in"
     },
     {
+      "Name": "maxAttemps",
+      "Text": "The maximum number of login attempts has been exceeded - Your account has been suspended"
+    },
+    {
       "Name": "modSummary",
       "Text": "Allows a user to enter account information to log into the site. The Login Module can be accessed using User > Login (standard YetaWF site)."
+    },
+    {
+      "Name": "notApproved",
+      "Text": "You just verified your account. Now your account has to be approved by the site administrator. You will receive an email confirmation as soon as your account is active."
+    },
+    {
+      "Name": "notApproved2",
+      "Text": "Your account has not yet been approved by the site administrator. You will receive an email confirmation as soon as your account is active."
+    },
+    {
+      "Name": "notValidated",
+      "Text": "Your account has not yet been verified. You will receive an email with verification information. Please copy and enter the verification code here."
     },
     {
       "Name": "sendVerificationLegend",

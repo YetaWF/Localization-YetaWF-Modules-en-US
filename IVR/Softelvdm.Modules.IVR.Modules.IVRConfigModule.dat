@@ -1,6 +1,152 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "Softelvdm.Modules.IVR.Modules.IVRConfigModule+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "Accounts": "Accounts",
+        "Hours": "Hours",
+        "IVR": "IVR",
+        "Notifications": "Notifications",
+        "Security": "Security",
+        "Voice Mail": "Voice Mail"
+      },
+      "Properties": [
+        {
+          "Name": "DisplayVoiceMailUrl",
+          "Caption": "Display Url",
+          "Description": "Defines the optional page used to display a voice mail - If no page is defined, a Url is generated",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "GenerateKeys",
+          "Caption": "Generate Keys",
+          "Description": "Select to generate new keys, which replace the current Private and Public keys",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "LiveAccountSid",
+          "Caption": "Live Account Sid",
+          "Description": "The Live Account Sid is obtained from your Twilio account, defined in appsettings.json (applies to all sites in this YetaWF instance) and is used when Test Mode is disabled",
+          "HelpLink": "https://www.twilio.com/",
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "LiveAuthToken",
+          "Caption": "Live Auth Token",
+          "Description": "The Live Auth Token is obtained from your Twilio account, defined in appsettings.json (applies to all sites in this YetaWF instance) and is used when Test Mode is disabled",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "LiveVerificationProcessCallUrl",
+          "Caption": "Live Call Process Url",
+          "Description": "Defines the Request Url used to verify a Twilio Call request in Live mode - This is typically used for load balancers and cases where the request is redirected, which changes the original Url - Instead of inspecting the various non-standard headers, specify the expected Url here - If not specified the default is http[s]://...yoursite.com.../Softelvdm_IVR/Call/Process",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MaxErrors",
+          "Caption": "Max. Errors",
+          "Description": "The maximum number of invalid entries by the caller before hanging up - Set to 0 to ignore",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "NotificationNumbers",
+          "Caption": "SMS Numbers",
+          "Description": "Defines the phone numbers that receive a text message whenever a call is received",
+          "HelpLink": null,
+          "TextAbove": "Phone numbers added here receive a text message when a call is received (before the caller can select an extension or leave a voice mail). This is may become annoying fast if you receive many calls on the main number. Make sure to enable the SMS checkbox for each phone number where you want to receive text messages.",
+          "TextBelow": null
+        },
+        {
+          "Name": "OpeningHours",
+          "Caption": "",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": "Enter the hours your company is open.",
+          "TextBelow": null
+        },
+        {
+          "Name": "PrivateKey",
+          "Caption": "Private Key",
+          "Description": "The private key used to decrypt the token sent from the IVR - DO NOT SHARE THIS KEY!",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PublicKey",
+          "Caption": "Public Key",
+          "Description": "The public key used to encrypt the token sent from the IVR to Twilio with POST requests, to be validated on return",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TestAccountSid",
+          "Caption": "Test Account Sid",
+          "Description": "The Test Account Sid is obtained from your Twilio account, defined in appsettings.json (applies to all sites in this YetaWF instance) and is used when Test Mode is enabled",
+          "HelpLink": "https://www.twilio.com/",
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TestAuthToken",
+          "Caption": "Test Auth Token",
+          "Description": "The Test Auth Token is obtained from your Twilio account, defined in appsettings.json (applies to all sites in this YetaWF instance) and is used when Test Mode is enabled",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TestMode",
+          "Caption": "Test Mode",
+          "Description": "Defines whether test mode or live mode is used - During development use test mode - This can only be set using AppSettings.json",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TestVerificationProcessCallUrl",
+          "Caption": "Test Call Process Url",
+          "Description": "Defines the Request Url used to verify a Twilio Fax Sent request in Test mode - This is typically used for load balancers and cases where the request is redirected, which changes the original Url - Instead of inspecting the various non-standard headers, specify the expected Url here - If not specified the default is http[s]://...yoursite.com.../Softelvdm_IVR/Call/Process",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Voice",
+          "Caption": "Voice",
+          "Description": "Defines the Voice variable, which can be used to override the default voice - This voice is used for all messages to external users - If not specified, the default voice is used",
+          "HelpLink": "https://www.twilio.com/console/voice/twiml/text-to-speech",
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "VoiceInternal",
+          "Caption": "Voice (Internal)",
+          "Description": "Defines the Voice variable, which can be used to override the default voice - This voice is used for all messages to internal users - If not specified, the default voice is used",
+          "HelpLink": "https://www.twilio.com/console/voice/twiml/text-to-speech",
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -30,6 +176,14 @@
     {
       "Name": "modTitle",
       "Text": "IVR Settings"
+    },
+    {
+      "Name": "notFound",
+      "Text": "The IVR settings could not be found"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "IVR settings saved"
     }
   ]
 }

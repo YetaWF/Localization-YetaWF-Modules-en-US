@@ -1,6 +1,177 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Menus.Modules.MenuEditModule+MenuEntry",
+      "BaseTypeName": "YetaWF.Core.Models.TreeEntry",
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "AddToOriginList",
+          "Caption": "Add to Origin List",
+          "Description": "Defines whether the current Url will be added to the origin list so we can return to the current Url - This is used in conjunction with the Save Return Url property - If the Save Return Url property is false, the AddToOriginList property is ignored",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "AuthorizationIgnore",
+          "Caption": "Ignore Authorization",
+          "Description": "Defines whether the target page's authorization is ignored - Actions are only visible if the user has sufficient authorization to perform the action - This can be used to force display of actions even when there is insufficient authoriation - For anonymous users this forces the user to log in first - This setting is ignored for links to other sites",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Category",
+          "Caption": "Category",
+          "Description": "The type of action this entry takes",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ConfirmationText",
+          "Caption": "Confirmation Text",
+          "Description": "The confirmation text displayed before the action takes place",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CssClass",
+          "Caption": "Css Class",
+          "Description": "The optional CSS class added to the action",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DontFollow",
+          "Caption": "Don't Follow",
+          "Description": "Defines whether search engines and bots follow this link (select to disable)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Enabled",
+          "Caption": "Enabled",
+          "Description": "Defines whether this entry is enabled - Disabled entries are automatically hidden in menus",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "EntryType",
+          "Caption": "Entry Type",
+          "Description": "The type of the menu entry",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ImageUrlFinal",
+          "Caption": "Image URL",
+          "Description": "The URL of the image shown for this entry",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Legend",
+          "Caption": "Legend",
+          "Description": "The legend for this entry",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "LimitToRole",
+          "Caption": "Limit To Role",
+          "Description": "Defines which role must be present for this action to be shown - This is normally only used for specialized entries which should only be shown in some cases but are available (by Url) to other roles also - This setting is ignored for superusers",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "LinkText",
+          "Caption": "Link Text",
+          "Description": "The text shown for this menu entry when used as a link",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MenuText",
+          "Caption": "Menu Text",
+          "Description": "The text shown for this menu entry when used as a menu entry",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Mode",
+          "Caption": "Mode",
+          "Description": "Defines where this entry is available",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PleaseWaitText",
+          "Caption": "Please Wait",
+          "Description": "If specified, the \"Please Wait\" dialog is shown when the action is selected - Only available for actions with Style=Normal",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SaveReturnUrl",
+          "Caption": "Save Return Url",
+          "Description": "Defines whether this action will preserve the origin list (past Urls visited) and save the current Url - This is typically used for actions that display a form with a Cancel or Return button, which would return to the current Url if Save Return Url is selected",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Style",
+          "Caption": "Style",
+          "Description": "Defines how this action affects the current window",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SubModule",
+          "Caption": "SubModule",
+          "Description": "The submodule is displayed as a complete submenu - If a submodule is defined it replaces the entire submenu. Submodules should not display forms as any popup message due to invalid input would close the submenu. This is best used to display formatted links or images, etc. with a Text module.",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Tooltip",
+          "Caption": "Tooltip",
+          "Description": "The tooltip for this entry",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Url",
+          "Caption": "Url",
+          "Description": "The Url",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -18,6 +189,10 @@
     {
       "Name": "editTooltip",
       "Text": "Edit menu settings"
+    },
+    {
+      "Name": "menuChanged",
+      "Text": "The menu has been changed by someone else - Your changes can't be saved - Please refresh the current page before proceeding"
     },
     {
       "Name": "modName",

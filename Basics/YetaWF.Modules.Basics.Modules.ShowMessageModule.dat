@@ -14,10 +14,6 @@
     {
       "Name": "modTitle",
       "Text": "An Error Occurred"
-    },
-    {
-      "Name": "noMsg",
-      "Text": "(message unavailable)"
     }
   ]
 }

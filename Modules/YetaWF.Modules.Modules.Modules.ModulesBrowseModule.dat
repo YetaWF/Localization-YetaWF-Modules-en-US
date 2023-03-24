@@ -1,6 +1,129 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Modules.Modules.ModulesBrowseModule+BrowseItem",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Administrators",
+          "Caption": "Administrators",
+          "Description": "Administrators can view this module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Anonymous",
+          "Caption": "Anonymous",
+          "Description": "Anonymous users can view this module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "AreaName",
+          "Caption": "Area",
+          "Description": "The area implementing this module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Commands",
+          "Caption": "Actions",
+          "Description": "The available actions",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CssClass",
+          "Caption": "CSS Class",
+          "Description": "The optional CSS classes to be added to the module's <div> tag for further customization through stylesheets",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Description",
+          "Caption": "Summary",
+          "Description": "The module description",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Editors",
+          "Caption": "Editors",
+          "Description": "Editors can view this module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ModuleGuid",
+          "Caption": "Module Guid",
+          "Description": "The id uniquely identifying this module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Name",
+          "Caption": "Name",
+          "Description": "The module name, which is used to identify the module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Title",
+          "Caption": "Title",
+          "Description": "The module title, which appears at the top of the module as its title",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UseCount",
+          "Caption": "Use Count",
+          "Description": "The number of pages where this module is used",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Users",
+          "Caption": "Users",
+          "Description": "Logged on users can view this module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "WantFocus",
+          "Caption": "Wants Input Focus",
+          "Description": "Defines whether input fields in this module should receive the input focus if it's first on the page",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "WantSearch",
+          "Caption": "Search Keywords",
+          "Description": "Defines whether this module's contents should be added to the site's search keywords",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {

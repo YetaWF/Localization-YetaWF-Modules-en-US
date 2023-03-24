@@ -1,6 +1,33 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Sites.Modules.SiteAddModule+AddModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "SiteDomain",
+          "Caption": "Site Domain",
+          "Description": "The domain name of the site",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SiteName",
+          "Caption": "Site Name",
+          "Description": "The name associated with your site, usually your company name or your name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -30,6 +57,10 @@
     {
       "Name": "modTitle",
       "Text": "Add New Site"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "New site \"{0}\" created - Click OK to populate the new site with the current site template.(+nl)(+nl)IMPORTANT: This site is not accessible by its Url until the domain \"{0}\" is defined in IIS and in the hosts file."
     }
   ]
 }

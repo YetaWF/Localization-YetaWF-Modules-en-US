@@ -1,6 +1,33 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "Softelvdm.Modules.IVR.Modules.AddBlockedNumberModule+AddModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Description",
+          "Caption": "Description",
+          "Description": "Enter an optional description of the blocked number",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Number",
+          "Caption": "Blocked Number",
+          "Description": "Enter the phone number to block",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -20,6 +47,10 @@
       "Text": "Add a new blocked number"
     },
     {
+      "Name": "alreadyExists",
+      "Text": "Blocked number already exists"
+    },
+    {
       "Name": "modName",
       "Text": "Add New Blocked Number"
     },
@@ -30,6 +61,10 @@
     {
       "Name": "modTitle",
       "Text": "Add New Blocked Number"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "New blocked number saved"
     }
   ]
 }

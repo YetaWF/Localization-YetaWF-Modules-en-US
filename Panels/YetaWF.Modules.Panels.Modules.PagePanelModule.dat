@@ -52,6 +52,58 @@
           "TextBelow": null
         }
       ]
+    },
+    {
+      "Name": "YetaWF.Modules.Panels.Modules.PagePanelModule+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "General": "General"
+      },
+      "Properties": [
+        {
+          "Name": "DefaultImage",
+          "Caption": "Default Image",
+          "Description": "The default image used when a page doesn't define its own FavIcon",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PageList",
+          "Caption": "Pages",
+          "Description": "Defines the pages and their order as they are displayed in the Page Panel using their FavIcons and page description",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PagePattern",
+          "Caption": "Page Pattern",
+          "Description": "Defines a Regex pattern - all pages matching this pattern will be included in the Page Panel - for example, ^/Admin/Config/[^/]*$ would include all pages starting with /Admin/Config/, but would not include their child pages",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Style",
+          "Caption": "Style",
+          "Description": "Defines the appearance of page entries",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UsePopup",
+          "Caption": "Use Popups",
+          "Description": "Defines whether pages added automatically using the Page Pattern field are shown as popups - otherwise full pages are shown",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
     }
   ],
   "Enums": [

@@ -28,6 +28,74 @@
           "TextBelow": null
         }
       ]
+    },
+    {
+      "Name": "Softelvdm.Modules.IVR.Modules.BrowseBlockedNumbersModule+BrowseItem",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Commands",
+          "Caption": "Actions",
+          "Description": "The available actions",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Created",
+          "Caption": "Added",
+          "Description": "The date/time the entry was added",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Description",
+          "Caption": "Description",
+          "Description": "The description of the blocked number",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Number",
+          "Caption": "Blocked Number",
+          "Description": "Shows the blocked phone number",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Updated",
+          "Caption": "Updated",
+          "Description": "The date/time the entry was last updated",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    },
+    {
+      "Name": "Softelvdm.Modules.IVR.Modules.BrowseBlockedNumbersModule+BrowseModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "GridDef",
+          "Caption": "",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
     }
   ],
   "Enums": [],

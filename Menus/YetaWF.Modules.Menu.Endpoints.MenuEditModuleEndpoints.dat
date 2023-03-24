@@ -1,0 +1,11 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "menuChanged",
+      "Text": "The menu has been changed by someone else - Your changes can't be saved - Please refresh the current page before proceeding"
+    }
+  ]
+}

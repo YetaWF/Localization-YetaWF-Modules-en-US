@@ -1,6 +1,41 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Identity.Modules.TemplateResourceUsersModule+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Prop1",
+          "Caption": "ResourceUsers",
+          "Description": "ResourceUsers",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Prop1Req",
+          "Caption": "ResourceUsers (Required)",
+          "Description": "ResourceUsers (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Prop1RO",
+          "Caption": "ResourceUsers (Read/Only)",
+          "Description": "ResourceUsers (read/only)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -14,6 +49,10 @@
     {
       "Name": "modTitle",
       "Text": "ResourceUsers Test Template"
+    },
+    {
+      "Name": "ok",
+      "Text": "OK"
     }
   ]
 }

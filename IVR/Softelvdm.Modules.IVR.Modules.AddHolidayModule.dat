@@ -1,6 +1,33 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "Softelvdm.Modules.IVR.Modules.AddHolidayModule+AddModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Description",
+          "Caption": "Description",
+          "Description": "The description of the holiday",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "HolidayDate",
+          "Caption": "Date",
+          "Description": "The date the holiday occurs",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -20,6 +47,10 @@
       "Text": "Add a new holiday entry"
     },
     {
+      "Name": "dup",
+      "Text": "An entry for {0} already exists"
+    },
+    {
       "Name": "modName",
       "Text": "Add New Holiday Entry"
     },
@@ -30,6 +61,10 @@
     {
       "Name": "modTitle",
       "Text": "Add New Holiday"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "New holiday saved"
     }
   ]
 }

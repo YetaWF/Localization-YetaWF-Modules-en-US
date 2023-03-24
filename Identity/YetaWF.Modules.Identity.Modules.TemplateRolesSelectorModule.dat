@@ -1,6 +1,41 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Identity.Modules.TemplateRolesSelectorModule+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Prop1",
+          "Caption": "RolesSelector",
+          "Description": "RolesSelector",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Prop1Req",
+          "Caption": "RolesSelector (Required)",
+          "Description": "RolesSelector (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Prop1RO",
+          "Caption": "RolesSelector (Read/Only)",
+          "Description": "RolesSelector (read/only)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -30,6 +65,10 @@
     {
       "Name": "modTitle",
       "Text": "RolesSelector Test Component"
+    },
+    {
+      "Name": "ok",
+      "Text": "OK"
     }
   ]
 }

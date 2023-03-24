@@ -1,6 +1,41 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Languages.Modules.LanguageDisplayModule+DisplayModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Description",
+          "Caption": "Description",
+          "Description": "The description for the language - this is used for informational purposes only",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Id",
+          "Caption": "ID",
+          "Description": "The language id - this is the same as the culture name used throughout .NET",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ShortName",
+          "Caption": "Name",
+          "Description": "The language's name, which is displayed in language selection controls so the user can select a language",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -30,6 +65,14 @@
     {
       "Name": "modTitle",
       "Text": "Language"
+    },
+    {
+      "Name": "notFound",
+      "Text": "Language \"{0}\" not found"
+    },
+    {
+      "Name": "title",
+      "Text": "Language \"{0}\""
     }
   ]
 }

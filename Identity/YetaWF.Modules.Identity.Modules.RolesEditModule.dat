@@ -1,8 +1,51 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Identity.Modules.RolesEditModule+EditModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Description",
+          "Caption": "Description",
+          "Description": "The intended use of the role",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Name",
+          "Caption": "Name",
+          "Description": "The name of this role",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PostLoginUrl",
+          "Caption": "Post Login URL",
+          "Description": "The URL where a user with this role is redirected after logging on",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
+    {
+      "Name": "alreadyDeleted",
+      "Text": "The role named \"{0}\" has been removed and can no longer be updated."
+    },
+    {
+      "Name": "alreadyExists",
+      "Text": "A role named \"{0}\" already exists."
+    },
     {
       "Name": "editLegend",
       "Text": "Edits an existing role"
@@ -20,6 +63,10 @@
       "Text": "Edit an existing role"
     },
     {
+      "Name": "modEditTitle",
+      "Text": "Role \"{0}\""
+    },
+    {
       "Name": "modName",
       "Text": "Edit Role"
     },
@@ -30,6 +77,14 @@
     {
       "Name": "modTitle",
       "Text": "Edit a Role"
+    },
+    {
+      "Name": "notFound",
+      "Text": "Role \"{0}\" not found."
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Role \"{0}\" saved"
     }
   ]
 }

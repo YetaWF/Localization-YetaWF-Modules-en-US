@@ -1,8 +1,50 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Packages.Modules.ImportModule+ImportModel",
+      "BaseTypeName": null,
+      "Header": "Provide a remote or local ZIP file to import a binary or source code package.",
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "Local ZIP File": "Local ZIP File",
+        "Remote ZIP File": "Remote ZIP File"
+      },
+      "Properties": [
+        {
+          "Name": "RemoteFile",
+          "Caption": "ZIP File",
+          "Description": "Enter the Url of a ZIP file to download - Used to import a package (binary or source code package)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RemoteGo",
+          "Caption": "Submit",
+          "Description": "Click to download and install the package",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UploadFile",
+          "Caption": "ZIP File",
+          "Description": "Select a local ZIP file - Used to import a package (binary or source code package)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
+    {
+      "Name": "btnImport",
+      "Text": "Import Binary or Source Code Package..."
+    },
     {
       "Name": "modName",
       "Text": "Import Package (Binary or Source Code Package)"

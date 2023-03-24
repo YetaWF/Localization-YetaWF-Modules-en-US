@@ -36,6 +36,40 @@
           "TextBelow": null
         }
       ]
+    },
+    {
+      "Name": "YetaWF.Modules.Identity.Modules.AuthorizationBrowseModule+BrowseItem",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Commands",
+          "Caption": "Actions",
+          "Description": "The available actions",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ResourceDescription",
+          "Caption": "Resource Description",
+          "Description": "The permissions granted if a user or role has access to this resource",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ResourceName",
+          "Caption": "Resource Name",
+          "Description": "The name of this resource",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
     }
   ],
   "Enums": [],

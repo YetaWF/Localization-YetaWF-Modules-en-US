@@ -1,6 +1,41 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Identity.Modules.TemplateListOfUserNamesModule+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Prop1",
+          "Caption": "User Names",
+          "Description": "List of User Names",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Prop1Req",
+          "Caption": "User Names (Required)",
+          "Description": "List of User Names (Required)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Prop1RO",
+          "Caption": "User Names (Read/Only)",
+          "Description": "List of User Names (read/only)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -30,6 +65,10 @@
     {
       "Name": "modTitle",
       "Text": "ListOfUserNames Test Component"
+    },
+    {
+      "Name": "ok",
+      "Text": "OK"
     }
   ]
 }

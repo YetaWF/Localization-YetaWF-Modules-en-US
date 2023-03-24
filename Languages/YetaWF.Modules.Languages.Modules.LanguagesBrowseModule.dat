@@ -20,6 +20,66 @@
           "TextBelow": null
         }
       ]
+    },
+    {
+      "Name": "YetaWF.Modules.Languages.Modules.LanguagesBrowseModule+BrowseItem",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Commands",
+          "Caption": "Actions",
+          "Description": "The available actions",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Description",
+          "Caption": "Description",
+          "Description": "The description for the language - this is used for informational purposes only",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Id",
+          "Caption": "ID",
+          "Description": "The language id - this is the same as the culture name used throughout .NET",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ShortName",
+          "Caption": "Name",
+          "Description": "The language's short name, which is displayed in language selection controls so the user can select a language",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    },
+    {
+      "Name": "YetaWF.Modules.Languages.Modules.LanguagesBrowseModule+BrowseModel",
+      "BaseTypeName": null,
+      "Header": "Languages are defined in the LanguageSettings.json file in the Data folder.",
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "GridDef",
+          "Caption": "",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
     }
   ],
   "Enums": [],

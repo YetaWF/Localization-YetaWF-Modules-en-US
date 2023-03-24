@@ -1,8 +1,91 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Search.Modules.SearchEditModule+EditModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "AllowAnonymous",
+          "Caption": "Anonymous Users",
+          "Description": "Whether anonymous users can view the page",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "AllowAnyUser",
+          "Caption": "Any Users",
+          "Description": "Whether any logged on user can view the page",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Count",
+          "Caption": "Count",
+          "Description": "The number of times this keyword was found on the page",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DateAdded",
+          "Caption": "Added",
+          "Description": "The date/time this keyword was added",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "DisplaySearchDataId",
+          "Caption": "Id",
+          "Description": "The internal id this keyword",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Language",
+          "Caption": "Language",
+          "Description": "The page language where this keyword was found",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PageUrl",
+          "Caption": "Url",
+          "Description": "The page where this keyword was found",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SearchTerm",
+          "Caption": "Search Keyword",
+          "Description": "Search Keyword",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
+    {
+      "Name": "alreadyDeleted",
+      "Text": "The search keyword with id {0} has been removed and can no longer be updated."
+    },
+    {
+      "Name": "alreadyExists",
+      "Text": "A search keyword with id {0} already exists."
+    },
     {
       "Name": "editLegend",
       "Text": "Edits an existing search item"
@@ -30,6 +113,14 @@
     {
       "Name": "modTitle",
       "Text": "Search Item"
+    },
+    {
+      "Name": "notFound",
+      "Text": "Search keyword with id {0} not found."
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Search keyword saved"
     }
   ]
 }

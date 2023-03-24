@@ -1,6 +1,65 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Scheduler.Modules.LogDisplayModule+DisplayModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Info",
+          "Caption": "Message",
+          "Description": "The message",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Level",
+          "Caption": "Level",
+          "Description": "The message level",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Name",
+          "Caption": "Name",
+          "Description": "The name of the running scheduler item",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RunId",
+          "Caption": "Id",
+          "Description": "The id of the scheduler item run",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SiteIdentity",
+          "Caption": "Site Id",
+          "Description": "The site which was affected by the scheduler item",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TimeStamp",
+          "Caption": "Created",
+          "Description": "The date/time this log record was created",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -30,6 +89,10 @@
     {
       "Name": "modTitle",
       "Text": "Scheduler Log Entry"
+    },
+    {
+      "Name": "notFound",
+      "Text": "Scheduler log entry with id {0} not found"
     }
   ]
 }

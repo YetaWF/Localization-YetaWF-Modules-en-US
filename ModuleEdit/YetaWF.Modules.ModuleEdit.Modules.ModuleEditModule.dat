@@ -49,6 +49,10 @@
       "Text": "Edit the module's settings"
     },
     {
+      "Name": "modEditTitle",
+      "Text": "Module \"{0}\""
+    },
+    {
       "Name": "modName",
       "Text": "Module Edit"
     },
@@ -59,6 +63,10 @@
     {
       "Name": "modTitle",
       "Text": "Module Editing Features"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Module settings saved"
     }
   ]
 }

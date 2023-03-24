@@ -1,6 +1,41 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Identity.Modules.RolesAddModule+AddModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Description",
+          "Caption": "Description",
+          "Description": "The intended use of the role",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Name",
+          "Caption": "Name",
+          "Description": "The role name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PostLoginUrl",
+          "Caption": "Post Login URL",
+          "Description": "The URL where a user with this role is redirected after logging on",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -20,6 +55,10 @@
       "Text": "Create a new role"
     },
     {
+      "Name": "alreadyExists",
+      "Text": "A role named \"{0}\" already exists."
+    },
+    {
       "Name": "modName",
       "Text": "New Role"
     },
@@ -30,6 +69,10 @@
     {
       "Name": "modTitle",
       "Text": "New Role"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "New role \"{0}\" saved"
     }
   ]
 }

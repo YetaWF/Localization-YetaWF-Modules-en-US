@@ -1,0 +1,39 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "approveUserNotFound",
+      "Text": "The user account for user {0} no longer exists."
+    },
+    {
+      "Name": "noItem",
+      "Text": "No user name specified"
+    },
+    {
+      "Name": "notCantApprove",
+      "Text": "User {0} is no longer new and cannot be approved."
+    },
+    {
+      "Name": "notFoundUser",
+      "Text": "User {0} not found."
+    },
+    {
+      "Name": "rejectUserNotFound",
+      "Text": "The user account for user {0} no longer exists."
+    },
+    {
+      "Name": "userApproved",
+      "Text": "The user account for user {0} has been marked as approved. An email has been sent to the user."
+    },
+    {
+      "Name": "userRejected",
+      "Text": "The user account for user {0} has been marked as rejected. An email has been sent to the user."
+    },
+    {
+      "Name": "userSuspended",
+      "Text": "The user account for user {0} has been marked as suspended. An email has been sent to the user."
+    }
+  ]
+}

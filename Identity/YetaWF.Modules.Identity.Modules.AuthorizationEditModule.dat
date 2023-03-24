@@ -1,8 +1,59 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Identity.Modules.AuthorizationEditModule+EditModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "AllowedRoles",
+          "Caption": "Allowed Roles",
+          "Description": "The roles that are permitted to access this resource",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "AllowedUsers",
+          "Caption": "Allowed Users",
+          "Description": "The users that are permitted to access this resource",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ResourceDescription",
+          "Caption": "Resource Description",
+          "Description": "The permissions granted if a user or role has access to this resource",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ResourceName",
+          "Caption": "Resource Name",
+          "Description": "The name of this resource",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
+    {
+      "Name": "alreadyDeleted",
+      "Text": "The resource named \"{0}\" has been removed and can no longer be updated."
+    },
+    {
+      "Name": "alreadyExists",
+      "Text": "A resource named \"{0}\" already exists."
+    },
     {
       "Name": "editLegend",
       "Text": "Edits an existing resource"
@@ -14,6 +65,10 @@
     {
       "Name": "editText",
       "Text": "Edit"
+    },
+    {
+      "Name": "editTitle",
+      "Text": "Resource \"{0}\""
     },
     {
       "Name": "editTooltip",
@@ -30,6 +85,14 @@
     {
       "Name": "modTitle",
       "Text": "Edit Resource"
+    },
+    {
+      "Name": "notFound",
+      "Text": "Resource \"{0}\" not found."
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Resource \"{0}\" saved"
     }
   ]
 }

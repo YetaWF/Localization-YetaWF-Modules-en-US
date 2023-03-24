@@ -1,6 +1,25 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Sites.Modules.ConfirmRemovalModule+EditModel",
+      "BaseTypeName": null,
+      "Header": "Are you absolutely sure you want to remove this site? This will remove all data for this site!!! Please make sure you have a backup (just in case...).",
+      "Footer": "Click Confirm to delete this site and all site-specific data.",
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "SiteDomainDisplay",
+          "Caption": "Site",
+          "Description": "The domain name of the site to remove",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -14,6 +33,10 @@
     {
       "Name": "modTitle",
       "Text": "Remove Site"
+    },
+    {
+      "Name": "okRemoved",
+      "Text": "Site \"{0}\" has been removed(+nl)(+nl)The site is now restarting"
     },
     {
       "Name": "removeLegend",

@@ -18,6 +18,32 @@
           "TextBelow": null
         }
       ]
+    },
+    {
+      "Name": "YetaWF.Modules.Languages.Modules.LocalizeBrowsePackageModule+BrowseItem",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Commands",
+          "Caption": "Actions",
+          "Description": "The available actions",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "FileName",
+          "Caption": "File Name",
+          "Description": "The name of the localization resource",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
     }
   ],
   "Enums": [],
@@ -165,6 +191,10 @@
     {
       "Name": "roleLocalizeC",
       "Text": "Install/Uninstall Packages"
+    },
+    {
+      "Name": "title",
+      "Text": "Localization Resources - Package {0}"
     },
     {
       "Name": "userLocalize",

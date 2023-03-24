@@ -20,6 +20,138 @@
           "TextBelow": null
         }
       ]
+    },
+    {
+      "Name": "Softelvdm.Modules.IVR.Modules.BrowseVoiceMailsModule+BrowseItem",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Caller",
+          "Caption": "From",
+          "Description": "The caller's phone number",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CallerCity",
+          "Caption": "From City",
+          "Description": "The caller's city (if available)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CallerCountry",
+          "Caption": "From Country",
+          "Description": "The caller's country (if available)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CallerState",
+          "Caption": "From State",
+          "Description": "The caller's state (if available)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CallerZip",
+          "Caption": "From Zip Code",
+          "Description": "The caller's ZIP code (if available)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "CallSid",
+          "Caption": "Call Sid",
+          "Description": "The id used by Twilio to identify the call",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Commands",
+          "Caption": "Actions",
+          "Description": "The available actions",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Created",
+          "Caption": "Created",
+          "Description": "The date/time the voice mail message was created",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Duration",
+          "Caption": "Duration",
+          "Description": "The duration of the voice mail message (in seconds)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Extension",
+          "Caption": "Extension",
+          "Description": "The extension for which the voice mail message is saved",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Heard",
+          "Caption": "Heard",
+          "Description": "Defines whether the voice mail was already listened to",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Id",
+          "Caption": "Id",
+          "Description": "The internal id",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "To",
+          "Caption": "Phone Number",
+          "Description": "The phone number for which the voice mail message is saved",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    },
+    {
+      "Name": "Softelvdm.Modules.IVR.Modules.BrowseVoiceMailsModule+BrowseModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "GridDef",
+          "Caption": "",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
     }
   ],
   "Enums": [],
@@ -51,6 +183,10 @@
     {
       "Name": "modTitle",
       "Text": "Voice Mail Entries"
+    },
+    {
+      "Name": "noInbox",
+      "Text": "No extension defined for the current user"
     },
     {
       "Name": "removeConfirm",

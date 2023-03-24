@@ -3,7 +3,7 @@
   "Classes": [
     {
       "Name": "YetaWF.Modules.Dashboard.Modules.DisposableTrackerBrowseModule",
-      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition2",
+      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition",
       "Header": null,
       "Footer": null,
       "Legend": null,

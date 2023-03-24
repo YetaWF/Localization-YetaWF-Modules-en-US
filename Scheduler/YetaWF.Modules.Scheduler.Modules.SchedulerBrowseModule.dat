@@ -44,6 +44,128 @@
           "TextBelow": null
         }
       ]
+    },
+    {
+      "Name": "YetaWF.Modules.Scheduler.Modules.SchedulerBrowseModule+SchedulerItem",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Commands",
+          "Caption": "Actions",
+          "Description": "The available actions",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Description",
+          "Caption": "Description",
+          "Description": "The description of this scheduler item",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Enabled",
+          "Caption": "Enabled",
+          "Description": "The status of the scheduler item",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "EnableOnStartup",
+          "Caption": "Enable On Startup",
+          "Description": "Shows whether the scheduler item is enabled every time the website is restarted",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Event",
+          "Caption": "Event",
+          "Description": "The event name running at the scheduled time",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Frequency",
+          "Caption": "Interval",
+          "Description": "The scheduler item's frequency",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "IsRunning",
+          "Caption": "Running",
+          "Description": "Shows whether the scheduler item is currently running",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Last",
+          "Caption": "Last",
+          "Description": "The last time this item ran",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Name",
+          "Caption": "Name",
+          "Description": "The name of this scheduler item - the name is used to identify a scheduler item",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Next",
+          "Caption": "Next",
+          "Description": "The time this item is scheduled to run next",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RunOnce",
+          "Caption": "Run Once",
+          "Description": "Shows whether the scheduler item is run just once - once it completes, it is disabled",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RunTime",
+          "Caption": "RunTime",
+          "Description": "The duration of the last run of this scheduler item (hh:mm:ss)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SiteSpecific",
+          "Caption": "Site Specific",
+          "Description": "Shows whether the scheduler item runs for each site",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Startup",
+          "Caption": "Startup",
+          "Description": "Shows whether the scheduler item runs at website startup",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
     }
   ],
   "Enums": [],

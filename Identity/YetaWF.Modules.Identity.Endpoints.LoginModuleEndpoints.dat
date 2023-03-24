@@ -1,0 +1,31 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "extUser",
+      "Text": "This account can only be accessed using an external login provider"
+    },
+    {
+      "Name": "noItem",
+      "Text": "Unable to send verification email (Reason Code 1)"
+    },
+    {
+      "Name": "noNeed",
+      "Text": "Unable to send verification email (Reason Code 3)"
+    },
+    {
+      "Name": "notApproved",
+      "Text": "Your account is not an approved account."
+    },
+    {
+      "Name": "notFoundUser",
+      "Text": "Unable to send verification email (Reason Code 2)"
+    },
+    {
+      "Name": "verificationSent",
+      "Text": "Verification email sent."
+    }
+  ]
+}

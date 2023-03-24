@@ -1,6 +1,25 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Visitors.Modules.VisitorsConfigModule+Model",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Days",
+          "Caption": "Retention (Days)",
+          "Description": "Defines the number of days visitors information is saved - Visitors information that is older than the specified number of days is deleted",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -30,6 +49,18 @@
     {
       "Name": "modTitle",
       "Text": "Visitors Settings"
+    },
+    {
+      "Name": "noInfo",
+      "Text": "Visitor information is not available - See https://yetawf.com/Documentation/YetaWF/Visitors"
+    },
+    {
+      "Name": "notFound",
+      "Text": "The visitors settings could not be found"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Visitors settings saved"
     }
   ]
 }

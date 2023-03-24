@@ -1,6 +1,229 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Identity.Modules.OwinEditModule+EditModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "Built-In Login": "Built-In Login",
+        "Cookies": "Cookies",
+        "External Login": "External Login"
+      },
+      "Properties": [
+        {
+          "Name": "ExpireTimeSpan",
+          "Caption": "Expiration",
+          "Description": "The time a cookie will remain valid from the point it is created",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "FacebookPrivate",
+          "Caption": "Facebook App Secret",
+          "Description": "The App Secret for authentication using Facebook (defined in Facebook)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "FacebookPublic",
+          "Caption": "Facebook App ID",
+          "Description": "The App ID for authentication using Facebook (defined in Facebook)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "FacebookUrl",
+          "Caption": "Facebook",
+          "Description": "Provides a link to Facebook to set up authentication for your sites",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "GooglePrivate",
+          "Caption": "Google Client Secret",
+          "Description": "The Client Secret for authentication using Google (defined using Google)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "GooglePublic",
+          "Caption": "Google Client ID",
+          "Description": "The Client ID for authentication using Google (defined using Google)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "GoogleUrl",
+          "Caption": "Google",
+          "Description": "Provides a link to Google to set up authentication for your sites",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MicrosoftPrivate",
+          "Caption": "Microsoft Client Secret",
+          "Description": "The Client Secret for authentication using Microsoft",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MicrosoftPublic",
+          "Caption": "Microsoft Application ID",
+          "Description": "The Application (client) ID for authentication using Microsoft",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MicrosoftUrl",
+          "Caption": "Microsoft",
+          "Description": "Provides a link to Microsoft to set up authentication for your sites",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Nothing",
+          "Caption": "Password Settings:",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PasswordRenewal",
+          "Caption": "Password Renewal",
+          "Description": "The time after which a user must change the password - Set to 0 to allow passwords to remain valid indefinitely",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RequireDigit",
+          "Caption": "Requires Digit",
+          "Description": "Defines whether a password requires at least one digit",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RequiredLength",
+          "Caption": "Minimum Length",
+          "Description": "Defines the minimum length of a password",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RequireLowercase",
+          "Caption": "Requires Lowercase",
+          "Description": "Defines whether a password requires at least one lowercase character",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RequireNonAlphanumeric",
+          "Caption": "Requires Non-Alphanumeric",
+          "Description": "Defines whether a password requires at least one non alphanumeric (special) character",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RequireUppercase",
+          "Caption": "Requires Uppercase",
+          "Description": "Defines whether a password requires at least one uppercase character",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SecurityStampValidationInterval",
+          "Caption": "Security Interval",
+          "Description": "The time after which a logged on user is re-validated (in case the password changed) to insure the authenticated user is still valid",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SlidingExpiration",
+          "Caption": "Sliding Expiration",
+          "Description": "Cookies are reissued with a new expiration time anytime a request is processed whose cookie is more than halfway through the expiration window",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TwitterPrivate",
+          "Caption": "Twitter API Secret Key",
+          "Description": "The API Secret Key for authentication using Twitter (defined using Twitter)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TwitterPublic",
+          "Caption": "Twitter API Key",
+          "Description": "The API Key for authentication using Twitter (defined using Twitter)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "TwitterUrl",
+          "Caption": "Twitter",
+          "Description": "Provides a link to Twitter to set up authentication for your sites",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UseFacebook",
+          "Caption": "Use Facebook",
+          "Description": "Defines whether Facebook logins are allowed",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UseGoogle",
+          "Caption": "Use Google",
+          "Description": "Defines whether Google logins are allowed",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UseMicrosoft",
+          "Caption": "Use Microsoft",
+          "Description": "Defines whether Microsoft logins are allowed",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UseTwitter",
+          "Caption": "Use Twitter",
+          "Description": "Defines whether Twitter logins are allowed",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -30,6 +253,18 @@
     {
       "Name": "modTitle",
       "Text": "Login Provider Settings"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Login provider settings successfully saved - These settings won't take effect until the site (including all instances) is restarted."
+    },
+    {
+      "Name": "securityInterval",
+      "Text": "The minimum validation interval should be at least 1 minute"
+    },
+    {
+      "Name": "timeSpan",
+      "Text": "The minimum expiration timespan should be at least 10 minutes"
     }
   ]
 }

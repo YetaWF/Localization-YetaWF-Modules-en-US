@@ -1,6 +1,73 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Identity.Modules.UsersAddModule+AddModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Comment",
+          "Caption": "Comment",
+          "Description": "Comments",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Email",
+          "Caption": "Email Address",
+          "Description": "The email address of this user",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "NeedsNewPassword",
+          "Caption": "New Password",
+          "Description": "Defines whether the user must change the password",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Password",
+          "Caption": "Password",
+          "Description": "The password for this user",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RolesList",
+          "Caption": "Roles",
+          "Description": "The user's roles",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UserName",
+          "Caption": "Name",
+          "Description": "The name of the user",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UserStatus",
+          "Caption": "Status",
+          "Description": "The user's current account status",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -20,6 +87,14 @@
       "Text": "Create a new user"
     },
     {
+      "Name": "alreadyExists",
+      "Text": "A user named \"{0}\" already exists."
+    },
+    {
+      "Name": "emailUsed",
+      "Text": "An account using email address {0} already exists."
+    },
+    {
       "Name": "modName",
       "Text": "New User"
     },
@@ -30,6 +105,10 @@
     {
       "Name": "modTitle",
       "Text": "New User"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "New user saved"
     }
   ]
 }

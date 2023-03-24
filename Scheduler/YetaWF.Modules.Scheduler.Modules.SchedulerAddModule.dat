@@ -1,6 +1,89 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Scheduler.Modules.SchedulerAddModule+SchedulerAddModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Description",
+          "Caption": "Description",
+          "Description": "The description of this scheduler item",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Enabled",
+          "Caption": "Enabled",
+          "Description": "The status of the scheduler item",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "EnableOnStartup",
+          "Caption": "Enable On Startup",
+          "Description": "Defines whether the scheduler item is enabled every time the website is restarted",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Event",
+          "Caption": "Event",
+          "Description": "The event type of the scheduler item",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Frequency",
+          "Caption": "Interval",
+          "Description": "The scheduler item's frequency",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Name",
+          "Caption": "Name",
+          "Description": "The name of this scheduler item - the name is used to identify a scheduler item",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RunOnce",
+          "Caption": "Run Once",
+          "Description": "Defines whether the scheduler item is run just once - once it completes, it is disabled",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SiteSpecific",
+          "Caption": "Site Specific",
+          "Description": "Defines whether the scheduler item runs for each site",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Startup",
+          "Caption": "Startup",
+          "Description": "Defines whether the scheduler item runs at website startup",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {
@@ -20,6 +103,10 @@
       "Text": "Create a new scheduler item"
     },
     {
+      "Name": "alreadyExists",
+      "Text": "A scheduler item named \"{0}\" already exists."
+    },
+    {
       "Name": "modName",
       "Text": "New Scheduler Item"
     },
@@ -30,6 +117,10 @@
     {
       "Name": "modTitle",
       "Text": "New Scheduler Item"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "New scheduler item saved"
     }
   ]
 }

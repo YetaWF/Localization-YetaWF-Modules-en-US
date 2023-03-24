@@ -1,8 +1,75 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Identity.Modules.UserAccountModule+EditModel",
+      "BaseTypeName": null,
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Email",
+          "Caption": "Email Address",
+          "Description": "Enter your email address that can be used by this site to communicate with you",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "LastLoginDate",
+          "Caption": "Last Login",
+          "Description": "The last time you logged into your account",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "LastLoginIP",
+          "Caption": "Last Login IP",
+          "Description": "The IP address from which the user last logged on this site",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "LastPasswordChangedDate",
+          "Caption": "Last Password Change",
+          "Description": "The last time you changed your password",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "PasswordChangeIP",
+          "Caption": "Password Change IP",
+          "Description": "The IP address from which the user last changed the password on this site",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UserName",
+          "Caption": "Name",
+          "Description": "Your user name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
+    {
+      "Name": "alreadyDeleted",
+      "Text": "The user named \"{0}\" has been removed and can no longer be updated."
+    },
+    {
+      "Name": "alreadyExists",
+      "Text": "A user named \"{0}\" already exists."
+    },
     {
       "Name": "editLegend",
       "Text": "Edits the current user's account information"
@@ -20,6 +87,14 @@
       "Text": "Edit your account information"
     },
     {
+      "Name": "emailUsed",
+      "Text": "An account using email address {0} already exists."
+    },
+    {
+      "Name": "modEditTitle",
+      "Text": "User Account"
+    },
+    {
       "Name": "modName",
       "Text": "User Account"
     },
@@ -30,6 +105,18 @@
     {
       "Name": "modTitle",
       "Text": "User Account"
+    },
+    {
+      "Name": "notFound",
+      "Text": "User \"{0}\" not found."
+    },
+    {
+      "Name": "noUser",
+      "Text": "There is no logged on user."
+    },
+    {
+      "Name": "okSaved",
+      "Text": "Your account information has been saved"
     }
   ]
 }
