@@ -10,14 +10,6 @@
       "Categories": {},
       "Properties": [
         {
-          "Name": "AddToOriginList",
-          "Caption": "Add to Origin List",
-          "Description": "Defines whether the current Url will be added to the origin list so we can return to the current Url - This is used in conjunction with the Save Return Url property - If the Save Return Url property is false, the AddToOriginList property is ignored",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
           "Name": "AuthorizationIgnore",
           "Caption": "Ignore Authorization",
           "Description": "Defines whether the target page's authorization is ignored - Actions are only visible if the user has sufficient authorization to perform the action - This can be used to force display of actions even when there is insufficient authoriation - For anonymous users this forces the user to log in first - This setting is ignored for links to other sites",
@@ -125,14 +117,6 @@
           "Name": "PleaseWaitText",
           "Caption": "Please Wait",
           "Description": "If specified, the \"Please Wait\" dialog is shown when the action is selected - Only available for actions with Style=Normal",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "SaveReturnUrl",
-          "Caption": "Save Return Url",
-          "Description": "Defines whether this action will preserve the origin list (past Urls visited) and save the current Url - This is typically used for actions that display a form with a Cancel or Return button, which would return to the current Url if Save Return Url is selected",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
