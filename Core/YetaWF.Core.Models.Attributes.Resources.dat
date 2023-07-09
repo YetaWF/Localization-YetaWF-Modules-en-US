@@ -25,15 +25,15 @@
     },
     {
       "Name": "errInvMeta",
-      "Text": "The meta tag is invalid - It should be in the format <meta name=\"google-site-verification\" content=\"....your-code....\" />"
+      "Text": "The meta tag is invalid - It should be in the format <meta name=\"google-site-verification\" content=\"....your-code....\">"
     },
     {
       "Name": "errInvMeta2",
-      "Text": "The meta tag is invalid (field '{0}') - It should be in the format <meta name=\"google-site-verification\" content=\"....your-code....\" />"
+      "Text": "The meta tag is invalid (field '{0}') - It should be in the format <meta name=\"google-site-verification\" content=\"....your-code....\">"
     },
     {
       "Name": "errInvMeta3",
-      "Text": "The meta tag '{0}' is invalid - It should be in the format <meta name=\"google-site-verification\" content=\"....your-code....\" />"
+      "Text": "The meta tag '{0}' is invalid - It should be in the format <meta name=\"google-site-verification\" content=\"....your-code....\">"
     },
     {
       "Name": "errInvSite",

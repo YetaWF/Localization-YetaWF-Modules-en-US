@@ -28,6 +28,7 @@
         "PropertyList": "PropertyList",
         "Sidebar": "Sidebar",
         "Step": "Step",
+        "Switch": "Switch",
         "Table": "Table",
         "Tabs": "Tabs",
         "Toast": "Toast",
@@ -1749,6 +1750,46 @@
         {
           "Name": "StepClrActive",
           "Caption": "--step-clr-active",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SwitchBgOff",
+          "Caption": "--switch-bg-off",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SwitchBgOn",
+          "Caption": "--switch-bg-on",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SwitchBgSwitch",
+          "Caption": "--switch-bg-switch",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SwitchClrOff",
+          "Caption": "--switch-clr-off",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SwitchClrOn",
+          "Caption": "--switch-clr-on",
           "Description": "Color",
           "HelpLink": null,
           "TextAbove": null,

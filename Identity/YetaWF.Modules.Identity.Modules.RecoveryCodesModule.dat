@@ -4,7 +4,7 @@
     {
       "Name": "YetaWF.Modules.Identity.Modules.RecoveryCodesModule+EditModel",
       "BaseTypeName": null,
-      "Header": "Recovery codes are used to access your account should you be unable to authenticate using the currently defined two step authentication.",
+      "Header": "Recovery codes are used to access your account should you be unable to authenticate using the currently defined two step authentication(s). Make sure to save the recovery code in a safe place so you can access your account in case you are unable to use any of the enabled authentication methods.",
       "Footer": null,
       "Legend": null,
       "Categories": {},

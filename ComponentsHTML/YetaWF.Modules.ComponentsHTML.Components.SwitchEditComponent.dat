@@ -1,0 +1,15 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "off",
+      "Text": "Off"
+    },
+    {
+      "Name": "on",
+      "Text": "On"
+    }
+  ]
+}

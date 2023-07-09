@@ -14,10 +14,6 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "enabled",
-      "Text": "(Enabled)"
-    },
-    {
       "Name": "extUser",
       "Text": "Your account uses a {0} account - Two-step authentication must be set up using your {0} account."
     },
@@ -28,10 +24,6 @@
     {
       "Name": "modTitle",
       "Text": "Setup Desired Two-Step Authentication"
-    },
-    {
-      "Name": "notEnabled",
-      "Text": "(Not Enabled)"
     },
     {
       "Name": "setupLegend",

@@ -51,7 +51,7 @@
         {
           "Name": "LiveVerificationProcessCallUrl",
           "Caption": "Live Call Process Url",
-          "Description": "Defines the Request Url used to verify a Twilio Call request in Live mode - This is typically used for load balancers and cases where the request is redirected, which changes the original Url - Instead of inspecting the various non-standard headers, specify the expected Url here - If not specified the default is http[s]://...yoursite.com.../Softelvdm_IVR/Call/Process",
+          "Description": "Defines the Request Url used to verify a Twilio Call request in Live mode - This is typically used for load balancers and cases where the request is redirected, which changes the original Url - Instead of inspecting the various non-standard headers, specify the expected Url here - If not specified the default is http[s]://...yoursite.com.../!api/Softelvdm_IVR/Call/Process",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -123,7 +123,7 @@
         {
           "Name": "TestVerificationProcessCallUrl",
           "Caption": "Test Call Process Url",
-          "Description": "Defines the Request Url used to verify a Twilio Fax Sent request in Test mode - This is typically used for load balancers and cases where the request is redirected, which changes the original Url - Instead of inspecting the various non-standard headers, specify the expected Url here - If not specified the default is http[s]://...yoursite.com.../Softelvdm_IVR/Call/Process",
+          "Description": "Defines the Request Url used to verify a Twilio Fax Sent request in Test mode - This is typically used for load balancers and cases where the request is redirected, which changes the original Url - Instead of inspecting the various non-standard headers, specify the expected Url here - If not specified the default is http[s]://...yoursite.com.../!api/Softelvdm_IVR/Call/Process",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

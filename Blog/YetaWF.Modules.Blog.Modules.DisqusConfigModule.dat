@@ -42,58 +42,10 @@
           "TextBelow": null
         },
         {
-          "Name": "Height",
-          "Caption": "Login Popup Height",
-          "Description": "Defines the height of the popup window created by Disqus to log the user into the site (using SSO)",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "LoginUrl",
-          "Caption": "Login Url",
-          "Description": "Defines the Url used when the user wants to log into the site to leave a comment (using SSO)",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "PrivateKey",
-          "Caption": "Secret Key",
-          "Description": "Defines the Secret Key used for SSO (Single Sign On) - The Secret Key is created on the Disqus site when defining the SSO application",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "PublicKey",
-          "Caption": "Public Key",
-          "Description": "Defines the Public Key used for SSO (Single Sign On) - The Public Key is created on the Disqus site when defining the SSO application",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
           "Name": "ShortName",
           "Caption": "Shortname",
           "Description": "The Shortname you assigned to your site (at Disqus) - If omitted, Disqus comments are not available",
           "HelpLink": "https://disqus.com/admin/settings/general/",
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "UseSSO",
-          "Caption": "Single Sign On",
-          "Description": "Defines whether SSO (Single Sign On) is enabled for your site allowing users to log in using their credentials",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "Width",
-          "Caption": "Login Popup Width",
-          "Description": "Defines the width of the popup window created by Disqus to log the user into the site (using SSO)",
-          "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         }

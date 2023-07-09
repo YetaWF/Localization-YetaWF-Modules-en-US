@@ -196,6 +196,22 @@
           "TextBelow": null
         },
         {
+          "Name": "Switch",
+          "Caption": "Switch",
+          "Description": "Switch",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SwitchDis",
+          "Caption": "Switch (Disabled)",
+          "Description": "Switch (Disabled)",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "Text",
           "Caption": "Text",
           "Description": "Text (Required)",
