@@ -8,7 +8,8 @@
       "Footer": null,
       "Legend": null,
       "Categories": {
-        "General": "General"
+        "General": "General",
+        "Variables": "Variables"
       },
       "Properties": [
         {
@@ -36,9 +37,41 @@
           "TextBelow": null
         },
         {
+          "Name": "MiniScroll",
+          "Caption": "Mini Scrollbars",
+          "Description": "Defines whether minimal scrollbars are used (Vertical Orientation only).",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Orientation",
+          "Caption": "Orientation",
+          "Description": "Defines the orientation of the menu.",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ShowActionMenu",
+          "Caption": "Show Action Menu",
+          "Description": "Displays whether the action menu is shown for this module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "SmallMenuMaxWidth",
           "Caption": "Small Screen Maximum Size",
           "Description": "Defines the largest screen size where the small menu is used - If the screen is wider, the large menu is shown.",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "VerticalWidth",
+          "Caption": "Vertical Menu Width",
+          "Description": "Defines width of the menu (Vertical Orientation only).",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

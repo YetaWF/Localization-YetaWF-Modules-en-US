@@ -1,0 +1,19 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "valLogoff",
+      "Text": "The logoff Url is invalid - It must start with a / character (a direct Url on this site)"
+    },
+    {
+      "Name": "valLogoff2",
+      "Text": "The logoff Url is invalid ('{0}' property) - It must start with a / character (a direct Url on this site)"
+    },
+    {
+      "Name": "valLogoff3",
+      "Text": "The logoff Url '{0}' is invalid - It must start with a / character (a direct Url on this site)"
+    }
+  ]
+}

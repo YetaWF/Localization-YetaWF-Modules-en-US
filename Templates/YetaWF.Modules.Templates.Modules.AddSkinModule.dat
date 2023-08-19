@@ -1,0 +1,98 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Templates.Modules.AddSkinModule+Model",
+      "BaseTypeName": null,
+      "Header": "Add a skin module to your project to define configuration settings for an entire package, which can be referenced by all modules in your package.\r(+nl)\r(+nl)After the modules are created, you can fully customize the data model used and add code to access external data (SQL tables, files, etc.).\r(+nl)\r(+nl)The generated modules support popups and page-based modules, include property pages and are localizable, with full data annotations support.",
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Company",
+          "Caption": "Company",
+          "Description": "Enter your company name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Example:  My Company Name - This is used to show your company name in displayable form."
+        },
+        {
+          "Name": "CompanyUrl",
+          "Caption": "Company URL",
+          "Description": "Enter your company's domain Url",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Example:  MyCompany.com - Your company's domain Url."
+        },
+        {
+          "Name": "Domain",
+          "Caption": "Domain",
+          "Description": "Enter your company's domain name without .com",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Example:  MyCompany - A project must already exist which uses the entered Domain and Project Name. This is used as part of the generated namespace and will also be used for all new items added to this project. The identifier can only contain letters and numbers."
+        },
+        {
+          "Name": "Project",
+          "Caption": "Project Name",
+          "Description": "Enter the desired project name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Example:  StoreFont or Blog or Forum - A project must already exist which uses the entered Domain and Project Name. This is used as part of the generated namespace and will also be used for all new items added to this project. The identifier can only contain letters and numbers."
+        },
+        {
+          "Name": "SkinModuleName",
+          "Caption": "Module Name",
+          "Description": "Enter the desired skin module name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Example: Settings"
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "addLegend",
+      "Text": "Adds a skin module"
+    },
+    {
+      "Name": "addLink",
+      "Text": "Add Skin Module"
+    },
+    {
+      "Name": "addText",
+      "Text": "Add Skin Module"
+    },
+    {
+      "Name": "addTooltip",
+      "Text": "Add a skin module"
+    },
+    {
+      "Name": "cantSave",
+      "Text": "Unable to save template defaults"
+    },
+    {
+      "Name": "modName",
+      "Text": "Add Skin Module"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Adds a skin module"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Add Skin Module"
+    },
+    {
+      "Name": "notExists",
+      "Text": "Project {0} not found. The folder {1} doesn't exist. Modules can only be added to existing projects."
+    },
+    {
+      "Name": "okSaved",
+      "Text": "New skin module {0} added to project {1}/{2}."
+    }
+  ]
+}

@@ -34,6 +34,14 @@
           "TextBelow": null
         },
         {
+          "Name": "CopyActions",
+          "Caption": " ",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "CssClass",
           "Caption": "Css Class",
           "Description": "The optional CSS class added to the action",
@@ -61,6 +69,14 @@
           "Name": "EntryType",
           "Caption": "Entry Type",
           "Description": "The type of the menu entry",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ImageSVG",
+          "Caption": "Image SVG",
+          "Description": "The SVG of the image shown for this entry - If the Image SVG is set, the Image Url property is ignored",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -173,6 +189,26 @@
     {
       "Name": "editTooltip",
       "Text": "Edit menu settings"
+    },
+    {
+      "Name": "linkConfirmTT",
+      "Text": "Are you sure you want to save the information to the designed page (Image SVG and Tooltip) ?"
+    },
+    {
+      "Name": "linkCopy",
+      "Text": "Copy From Designed Page"
+    },
+    {
+      "Name": "linkCopyTT",
+      "Text": "Copies information from the designed page - Copied properties are Menu/Link Text, Image SVG and Tooltip"
+    },
+    {
+      "Name": "linkSave",
+      "Text": "Save To Designed Page"
+    },
+    {
+      "Name": "linkSaveTT",
+      "Text": "Saves information to the designed page - Copied properties are Menu Text, Image SVG and Tooltip"
     },
     {
       "Name": "menuChanged",

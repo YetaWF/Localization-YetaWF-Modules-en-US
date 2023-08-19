@@ -1,6 +1,27 @@
 {
   "Comment": null,
-  "Classes": [],
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Packages.Modules.ImportDataModule+ImportDataModel",
+      "BaseTypeName": null,
+      "Header": "Import package data from a zip file (created by Export Data).",
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "Import": "Import"
+      },
+      "Properties": [
+        {
+          "Name": "UploadFile",
+          "Caption": "",
+          "Description": "",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
   "Enums": [],
   "Strings": [
     {

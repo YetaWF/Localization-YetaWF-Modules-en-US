@@ -1,0 +1,30 @@
+{
+  "Comment": null,
+  "Classes": [],
+  "Enums": [
+    {
+      "Name": "YetaWF.Modules.Templates.DataProvider.TemplateDefaults+DataProviderType",
+      "Entries": [
+        {
+          "Name": "None",
+          "Value": "None",
+          "Caption": "None",
+          "Description": "No data provider"
+        },
+        {
+          "Name": "SQLFile",
+          "Value": "SQLFile",
+          "Caption": "SQL & File",
+          "Description": "SQL and File data provider"
+        },
+        {
+          "Name": "SQLIdentity",
+          "Value": "SQLIdentity",
+          "Caption": "SQL with Identity",
+          "Description": "SQL data provider with Identity column (no file support)"
+        }
+      ]
+    }
+  ],
+  "Strings": []
+}

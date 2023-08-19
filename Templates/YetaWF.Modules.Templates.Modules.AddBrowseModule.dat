@@ -1,0 +1,174 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Templates.Modules.AddBrowseModule+Model",
+      "BaseTypeName": null,
+      "Header": "Add modules to your project to browse, add, edit and display items with data storage in files and/or SQL tables. Item removal is supported by the browse, edit and display modules.\r(+nl)\r(+nl)After the modules are created, you can fully customize the data model used and add code to access external data (SQL tables, files, etc.).\r(+nl)\r(+nl)The generated modules use jQuery, support popups and page-based modules, include property pages and are localizable, with full data annotations support.",
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "AddWanted",
+          "Caption": "Add Module",
+          "Description": "Select to generate an add module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "BrowseDataProvider",
+          "Caption": "Data Provider",
+          "Description": "Enter the desired data provider",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "BrowseKeyName",
+          "Caption": "Key Name",
+          "Description": "Enter the desired key property name for the data model",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Example: Name, Key, UserName, ProductName"
+        },
+        {
+          "Name": "BrowseKeyType",
+          "Caption": "Key Type",
+          "Description": "Enter the desired key type for the data model",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Example: Guid, String, int"
+        },
+        {
+          "Name": "BrowseModelName",
+          "Caption": "Data Model Name",
+          "Description": "Enter the desired data model name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Example: UserSettings, PersonnelData"
+        },
+        {
+          "Name": "BrowseModuleName",
+          "Caption": "Module Name",
+          "Description": "Enter the base name for all browse, add, edit, display modules",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Example: Invoice, Product, Employee"
+        },
+        {
+          "Name": "BrowseObjectName",
+          "Caption": "Object Name",
+          "Description": "Enter the desired user-displayable object name for the data model name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Example: User Account, Product Type"
+        },
+        {
+          "Name": "BrowseWanted",
+          "Caption": "Browse Module",
+          "Description": "Select to generate a browse module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Company",
+          "Caption": "Company",
+          "Description": "Enter your company name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Example:  My Company Name - This is used to show your company name in displayable form."
+        },
+        {
+          "Name": "CompanyUrl",
+          "Caption": "Company URL",
+          "Description": "Enter your company's domain Url",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Example:  MyCompany.com - Your company's domain Url."
+        },
+        {
+          "Name": "DisplayWanted",
+          "Caption": "Display Module",
+          "Description": "Select to generate a display module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Domain",
+          "Caption": "Domain",
+          "Description": "Enter your company's domain name without .com",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Example:  MyCompany - A project must already exist which uses the entered Domain and Project Name. This is used as part of the generated namespace and will also be used for all new items added to this project. The identifier can only contain letters and numbers."
+        },
+        {
+          "Name": "EditWanted",
+          "Caption": "Edit Module",
+          "Description": "Select to generate an edit module",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "Project",
+          "Caption": "Project Name",
+          "Description": "Enter the desired project name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Example:  StoreFont or Blog or Forum - A project must already exist which uses the entered Domain and Project Name. This is used as part of the generated namespace and will also be used for all new items added to this project. The identifier can only contain letters and numbers."
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "addLegend",
+      "Text": "Adds browse modules"
+    },
+    {
+      "Name": "addLink",
+      "Text": "Add Browse Modules"
+    },
+    {
+      "Name": "addText",
+      "Text": "Add Browse Modules"
+    },
+    {
+      "Name": "addTooltip",
+      "Text": "Add browse modules"
+    },
+    {
+      "Name": "cantSave",
+      "Text": "Unable to save template defaults"
+    },
+    {
+      "Name": "modName",
+      "Text": "Add Browse Modules"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Adds browse modules"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Add Browse Modules"
+    },
+    {
+      "Name": "notExists",
+      "Text": "Project {0} not found. The folder {1} doesn't exist. Modules can only be added to existing projects."
+    },
+    {
+      "Name": "okSaved",
+      "Text": "New module(s) {0} added to project {1}/{2}."
+    },
+    {
+      "Name": "select",
+      "Text": "At least one module type must be selected."
+    }
+  ]
+}

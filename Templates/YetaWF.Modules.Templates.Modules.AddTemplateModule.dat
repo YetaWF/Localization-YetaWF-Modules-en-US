@@ -1,0 +1,98 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Templates.Modules.AddTemplateModule+Model",
+      "BaseTypeName": null,
+      "Header": "Add a template test module to your project to test a template. This is normally used during development of a new template.",
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Company",
+          "Caption": "Company",
+          "Description": "Enter your company name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Example:  My Company Name - This is used to show your company name in displayable form."
+        },
+        {
+          "Name": "CompanyUrl",
+          "Caption": "Company URL",
+          "Description": "Enter your company's domain Url",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Example:  MyCompany.com - Your company's domain Url."
+        },
+        {
+          "Name": "Domain",
+          "Caption": "Domain",
+          "Description": "Enter your company's domain name without .com",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Example:  MyCompany - A project must already exist which uses the entered Domain and Project Name. This is used as part of the generated namespace and will also be used for all new items added to this project. The identifier can only contain letters and numbers."
+        },
+        {
+          "Name": "Project",
+          "Caption": "Project Name",
+          "Description": "Enter the desired project name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Example:  StoreFont or Blog or Forum - A project must already exist which uses the entered Domain and Project Name. This is used as part of the generated namespace and will also be used for all new items added to this project. The identifier can only contain letters and numbers."
+        },
+        {
+          "Name": "TemplateModuleName",
+          "Caption": "Template Name",
+          "Description": "Enter the desired template test module name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Example: ModuleSelection"
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "addLegend",
+      "Text": "Adds a template test module"
+    },
+    {
+      "Name": "addLink",
+      "Text": "Add Template Test Module"
+    },
+    {
+      "Name": "addText",
+      "Text": "Add Template Test Module"
+    },
+    {
+      "Name": "addTooltip",
+      "Text": "Add a template test module"
+    },
+    {
+      "Name": "cantSave",
+      "Text": "Unable to save template defaults"
+    },
+    {
+      "Name": "modName",
+      "Text": "Add Template Test Module"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Adds a template test module"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Add Template Test Module"
+    },
+    {
+      "Name": "notExists",
+      "Text": "Project {0} not found. The folder {1} doesn't exist. Modules can only be added to existing projects."
+    },
+    {
+      "Name": "okSaved",
+      "Text": "New template test module {0} added to project {1}/{2}."
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.TinyBar.Modules.TinyBarModule",
+      "BaseTypeName": "YetaWF.Modules.Menus.Modules.MenuModule",
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {
+        "General": "General"
+      },
+      "Properties": [
+        {
+          "Name": "AllowUserRegistration",
+          "Caption": "Allow New Users",
+          "Description": "Allow registration of new users",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "HoverDelay",
+          "Caption": "Hover Delay",
+          "Description": "Specifies the delay (in milliseconds) before the menu is closed - Used to avoid accidental closure on leaving",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "LogoffUrl",
+          "Caption": "Log Off Url",
+          "Description": "The Url where the user is redirected when the logoff link is clicked",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "LogonUrl",
+          "Caption": "Log On Url",
+          "Description": "The Url where the user is redirected when the login link is clicked",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "OpenOnHover",
+          "Caption": "Open On Hover",
+          "Description": "Defines whether the dropdown is automatically opened when hovering over the menu",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "RegisterUrl",
+          "Caption": "Register Url",
+          "Description": "The Url where the user is redirected when the register link is clicked",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "SearchUrl",
+          "Caption": "Search Url",
+          "Description": "The Url where the user is redirected when the search icon is clicked - If the Search Url is omitted, the search icon is not available",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UsePopup",
+          "Caption": "Use Popup Windows",
+          "Description": "Use popup windows to Login and Register",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UserTooltip",
+          "Caption": "User Tooltip",
+          "Description": "The tooltip shown for the user name link",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "UserUrl",
+          "Caption": "User Url",
+          "Description": "The Url where the user is redirected when the user name is clicked",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "default",
+      "Text": "(Site Default)"
+    },
+    {
+      "Name": "defaultTT",
+      "Text": "Use the site defined default language"
+    },
+    {
+      "Name": "langSel",
+      "Text": "Click to select one of the available languages this website supports"
+    },
+    {
+      "Name": "loginLegend",
+      "Text": "Logs into this site using your existing account"
+    },
+    {
+      "Name": "loginLink",
+      "Text": "Login"
+    },
+    {
+      "Name": "loginText",
+      "Text": "Login"
+    },
+    {
+      "Name": "loginTooltip",
+      "Text": "Click to log into this site using your existing account"
+    },
+    {
+      "Name": "logoffLegend",
+      "Text": "Logs you out from this site"
+    },
+    {
+      "Name": "logoffLink",
+      "Text": "Logout"
+    },
+    {
+      "Name": "logoffText",
+      "Text": "Logout"
+    },
+    {
+      "Name": "logoffTooltip",
+      "Text": "Click to log off from this site"
+    },
+    {
+      "Name": "modName",
+      "Text": "Tiny Bar"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Provides user account info, search and language selection. This module is typically added to every page (as a skin module) so users can select the language and access user information."
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Tiny Bar"
+    },
+    {
+      "Name": "registerLegend",
+      "Text": "register to access this site with a new account"
+    },
+    {
+      "Name": "registerLink",
+      "Text": "Register"
+    },
+    {
+      "Name": "registerText",
+      "Text": "Register"
+    },
+    {
+      "Name": "registerTooltip",
+      "Text": "Click to register a new account for access to this site"
+    }
+  ]
+}

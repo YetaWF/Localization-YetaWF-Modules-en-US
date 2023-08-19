@@ -1,0 +1,90 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Templates.Modules.AddProjectModule+Model",
+      "BaseTypeName": null,
+      "Header": "Creates a new project. This new project can be used to develop new YetaWF modules, skins and/or new shared templates (Editor/Display).\r(+nl)\r(+nl)Once the project has been created, you can add new items (e.g. Browse Module) and other available items.",
+      "Footer": "Once generated, add the new project to your solution, add a project reference in the Website project and rebuild/restart your solution.",
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Company",
+          "Caption": "Company",
+          "Description": "Enter your company name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Example:  My Company Name - This is used to show your company name in displayable form."
+        },
+        {
+          "Name": "CompanyUrl",
+          "Caption": "Company URL",
+          "Description": "Enter your company's domain Url",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Example:  MyCompany.com - Your company's domain Url."
+        },
+        {
+          "Name": "Domain",
+          "Caption": "Domain",
+          "Description": "Enter your company's domain name without .com",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Example:  MyCompany - This is used as part of the generated namespace and will also be used for all new items added to this project. The identifier can only contain letters and numbers."
+        },
+        {
+          "Name": "Project",
+          "Caption": "Project Name",
+          "Description": "Enter the desired project name",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": "Example:  StoreFont or Blog or Forum - This is used as part of the generated namespace and will also be used for all new items added to this project. The identifier can only contain letters and numbers."
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "addLegend",
+      "Text": "Adds a new project"
+    },
+    {
+      "Name": "addLink",
+      "Text": "Add Project"
+    },
+    {
+      "Name": "addText",
+      "Text": "Add Project"
+    },
+    {
+      "Name": "addTooltip",
+      "Text": "Add a new project"
+    },
+    {
+      "Name": "cantSave",
+      "Text": "Unable to save template defaults"
+    },
+    {
+      "Name": "exists",
+      "Text": "The folder {0} already exists."
+    },
+    {
+      "Name": "modName",
+      "Text": "Add New Project"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Adds a new project"
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Add New Project"
+    },
+    {
+      "Name": "okSaved",
+      "Text": "New project {0} added at {1}  - Make sure to add the project to your solution, add a project reference in the Website project and rebuild/restart your solution."
+    }
+  ]
+}

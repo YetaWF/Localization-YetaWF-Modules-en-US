@@ -28,6 +28,14 @@
           "TextBelow": null
         },
         {
+          "Name": "ContainerSelector",
+          "Caption": "Container Selector",
+          "Description": "Defines a selector used to locate the container - If found, the height of the splitter module is based on the container height and the Height property is ignored",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
           "Name": "ExpandToolTip",
           "Caption": "Expand Tooltip",
           "Description": "Defines the tooltip shown for the expand icon",
@@ -38,7 +46,7 @@
         {
           "Name": "Height",
           "Caption": "Height (Pixels)",
-          "Description": "Defines the height of the module in pixels - Set to 0 to calculate the height automatically to fill the remainder of the page",
+          "Description": "Defines the height of the module in pixels - Set to 0 to calculate the height automatically to fill the remainder of the page - This property is ignored if the ContainerSelector defines a container which can be found",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null

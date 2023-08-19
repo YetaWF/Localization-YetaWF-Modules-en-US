@@ -420,11 +420,7 @@
     },
     {
       "Name": "okSaved",
-      "Text": "Site settings updated"
-    },
-    {
-      "Name": "okSavedRestart",
-      "Text": "Site settings updated - These settings won't take effect until the site is restarted"
+      "Text": "Theme setting updated"
     },
     {
       "Name": "pageControlLeg",

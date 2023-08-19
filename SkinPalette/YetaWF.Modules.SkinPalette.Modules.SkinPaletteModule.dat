@@ -17,7 +17,10 @@
         "Dropdown": "Dropdown",
         "Indicators": "Indicators",
         "Input": "Input",
-        "Main Menu": "Main Menu",
+        "Main Menu (horz.)": "Main Menu (horz.)",
+        "Main Menu (small)": "Main Menu (small)",
+        "Main Menu (vert.)": "Main Menu (vert.)",
+        "Mini Scroll": "Mini Scroll",
         "modPanel": "modPanel",
         "modStandard": "modStandard",
         "Overlay": "Overlay",
@@ -780,7 +783,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu0ABg",
+          "Name": "MainMenuHorz0ABg",
           "Caption": "--mm-0-a-bg",
           "Description": "Background",
           "HelpLink": null,
@@ -788,7 +791,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu0ABgHover",
+          "Name": "MainMenuHorz0ABgHover",
           "Caption": "--mm-0-a-bg-hover",
           "Description": "Background",
           "HelpLink": null,
@@ -796,7 +799,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu0ABgPath",
+          "Name": "MainMenuHorz0ABgPath",
           "Caption": "--mm-0-a-bg-path",
           "Description": "Background",
           "HelpLink": null,
@@ -804,7 +807,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu0AClr",
+          "Name": "MainMenuHorz0AClr",
           "Caption": "--mm-0-a-clr",
           "Description": "Color",
           "HelpLink": null,
@@ -812,7 +815,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu0AClrHover",
+          "Name": "MainMenuHorz0AClrHover",
           "Caption": "--mm-0-a-clr-hover",
           "Description": "Color",
           "HelpLink": null,
@@ -820,7 +823,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu0AClrPath",
+          "Name": "MainMenuHorz0AClrPath",
           "Caption": "--mm-0-a-clr-path",
           "Description": "Color",
           "HelpLink": null,
@@ -828,7 +831,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu0APadding",
+          "Name": "MainMenuHorz0APadding",
           "Caption": "--mm-0-a-padding",
           "Description": "Padding",
           "HelpLink": null,
@@ -836,15 +839,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu0ASmallPadding",
-          "Caption": "--mm-0-a-small-padding",
-          "Description": "Padding",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "MainMenu0Bg",
+          "Name": "MainMenuHorz0Bg",
           "Caption": "--mm-0-bg",
           "Description": "Background",
           "HelpLink": null,
@@ -852,7 +847,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu0Border",
+          "Name": "MainMenuHorz0Border",
           "Caption": "--mm-0-border",
           "Description": "Border",
           "HelpLink": null,
@@ -860,7 +855,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu0BorderRadius",
+          "Name": "MainMenuHorz0BorderRadius",
           "Caption": "--mm-0-border-radius",
           "Description": "Border Radius",
           "HelpLink": null,
@@ -868,7 +863,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu0Clr",
+          "Name": "MainMenuHorz0Clr",
           "Caption": "--mm-0-clr",
           "Description": "Color",
           "HelpLink": null,
@@ -876,7 +871,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu0DDHeight",
+          "Name": "MainMenuHorz0DDHeight",
           "Caption": "--mm-0-ddheight",
           "Description": "Height",
           "HelpLink": null,
@@ -884,7 +879,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu0DDWidth",
+          "Name": "MainMenuHorz0DDWidth",
           "Caption": "--mm-0-ddwidth",
           "Description": "Width",
           "HelpLink": null,
@@ -892,7 +887,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu0Font",
+          "Name": "MainMenuHorz0Font",
           "Caption": "--mm-0-font",
           "Description": "Font",
           "HelpLink": null,
@@ -900,7 +895,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu0Padding",
+          "Name": "MainMenuHorz0Padding",
           "Caption": "--mm-0-padding",
           "Description": "Padding",
           "HelpLink": null,
@@ -908,7 +903,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu1ABg",
+          "Name": "MainMenuHorz1ABg",
           "Caption": "--mm-1-a-bg",
           "Description": "Background",
           "HelpLink": null,
@@ -916,7 +911,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu1ABgHover",
+          "Name": "MainMenuHorz1ABgHover",
           "Caption": "--mm-1-a-bg-hover",
           "Description": "Background",
           "HelpLink": null,
@@ -924,7 +919,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu1ABgPath",
+          "Name": "MainMenuHorz1ABgPath",
           "Caption": "--mm-1-a-bg-path",
           "Description": "Background",
           "HelpLink": null,
@@ -932,7 +927,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu1AClr",
+          "Name": "MainMenuHorz1AClr",
           "Caption": "--mm-1-a-clr",
           "Description": "Color",
           "HelpLink": null,
@@ -940,7 +935,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu1AClrHover",
+          "Name": "MainMenuHorz1AClrHover",
           "Caption": "--mm-1-a-clr-hover",
           "Description": "Color",
           "HelpLink": null,
@@ -948,7 +943,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu1AClrPath",
+          "Name": "MainMenuHorz1AClrPath",
           "Caption": "--mm-1-a-clr-path",
           "Description": "Color",
           "HelpLink": null,
@@ -956,7 +951,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu1APadding",
+          "Name": "MainMenuHorz1APadding",
           "Caption": "--mm-1-a-padding",
           "Description": "Padding",
           "HelpLink": null,
@@ -964,15 +959,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu1ASmallPadding",
-          "Caption": "--mm-1-a-small-padding",
-          "Description": "Padding",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "MainMenu1Bg",
+          "Name": "MainMenuHorz1Bg",
           "Caption": "--mm-1-bg",
           "Description": "Background",
           "HelpLink": null,
@@ -980,7 +967,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu1Border",
+          "Name": "MainMenuHorz1Border",
           "Caption": "--mm-1-border",
           "Description": "Border",
           "HelpLink": null,
@@ -988,7 +975,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu1BorderRadius",
+          "Name": "MainMenuHorz1BorderRadius",
           "Caption": "--mm-1-border-radius",
           "Description": "Border Radius",
           "HelpLink": null,
@@ -996,7 +983,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu1Clr",
+          "Name": "MainMenuHorz1Clr",
           "Caption": "--mm-1-clr",
           "Description": "Color",
           "HelpLink": null,
@@ -1004,7 +991,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu1DDHeight",
+          "Name": "MainMenuHorz1DDHeight",
           "Caption": "--mm-1-ddheight",
           "Description": "Height",
           "HelpLink": null,
@@ -1012,7 +999,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu1DDWidth",
+          "Name": "MainMenuHorz1DDWidth",
           "Caption": "--mm-1-ddwidth",
           "Description": "Width",
           "HelpLink": null,
@@ -1020,7 +1007,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu1Font",
+          "Name": "MainMenuHorz1Font",
           "Caption": "--mm-1-font",
           "Description": "Font",
           "HelpLink": null,
@@ -1028,7 +1015,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu1MMBg",
+          "Name": "MainMenuHorz1MMBg",
           "Caption": "--mm-1-mm-bg",
           "Description": "Background",
           "HelpLink": null,
@@ -1036,7 +1023,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu1MMClr",
+          "Name": "MainMenuHorz1MMClr",
           "Caption": "--mm-1-mm-clr",
           "Description": "Color",
           "HelpLink": null,
@@ -1044,7 +1031,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu1MMFont",
+          "Name": "MainMenuHorz1MMFont",
           "Caption": "--mm-1-mm-font",
           "Description": "Font",
           "HelpLink": null,
@@ -1052,7 +1039,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu1MMWidth",
+          "Name": "MainMenuHorz1MMWidth",
           "Caption": "--mm-1-mm-width",
           "Description": "Width",
           "HelpLink": null,
@@ -1060,7 +1047,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu1Padding",
+          "Name": "MainMenuHorz1Padding",
           "Caption": "--mm-1-padding",
           "Description": "Padding",
           "HelpLink": null,
@@ -1068,23 +1055,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu1SmallMargin",
-          "Caption": "--mm-1-small-margin",
-          "Description": "Margin",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "MainMenu1SmallPadding",
-          "Caption": "--mm-1-small-padding",
-          "Description": "Padding",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "MainMenu2ABg",
+          "Name": "MainMenuHorz2ABg",
           "Caption": "--mm-2-a-bg",
           "Description": "Background",
           "HelpLink": null,
@@ -1092,7 +1063,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu2ABgHover",
+          "Name": "MainMenuHorz2ABgHover",
           "Caption": "--mm-2-a-bg-hover",
           "Description": "Background",
           "HelpLink": null,
@@ -1100,7 +1071,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu2ABgPath",
+          "Name": "MainMenuHorz2ABgPath",
           "Caption": "--mm-2-a-bg-path",
           "Description": "Background",
           "HelpLink": null,
@@ -1108,7 +1079,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu2AClr",
+          "Name": "MainMenuHorz2AClr",
           "Caption": "--mm-2-a-clr",
           "Description": "Color",
           "HelpLink": null,
@@ -1116,7 +1087,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu2AClrHover",
+          "Name": "MainMenuHorz2AClrHover",
           "Caption": "--mm-2-a-clr-hover",
           "Description": "Color",
           "HelpLink": null,
@@ -1124,7 +1095,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu2AClrPath",
+          "Name": "MainMenuHorz2AClrPath",
           "Caption": "--mm-2-a-clr-path",
           "Description": "Color",
           "HelpLink": null,
@@ -1132,7 +1103,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu2APadding",
+          "Name": "MainMenuHorz2APadding",
           "Caption": "--mm-2-a-padding",
           "Description": "Padding",
           "HelpLink": null,
@@ -1140,15 +1111,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu2ASmallPadding",
-          "Caption": "--mm-2-a-small-padding",
-          "Description": "Padding",
-          "HelpLink": null,
-          "TextAbove": null,
-          "TextBelow": null
-        },
-        {
-          "Name": "MainMenu2Bg",
+          "Name": "MainMenuHorz2Bg",
           "Caption": "--mm-2-bg",
           "Description": "Background",
           "HelpLink": null,
@@ -1156,7 +1119,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu2Border",
+          "Name": "MainMenuHorz2Border",
           "Caption": "--mm-2-border",
           "Description": "Border",
           "HelpLink": null,
@@ -1164,7 +1127,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu2BorderRadius",
+          "Name": "MainMenuHorz2BorderRadius",
           "Caption": "--mm-2-border-radius",
           "Description": "Border Radius",
           "HelpLink": null,
@@ -1172,7 +1135,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu2Clr",
+          "Name": "MainMenuHorz2Clr",
           "Caption": "--mm-2-clr",
           "Description": "Color",
           "HelpLink": null,
@@ -1180,7 +1143,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu2DDHeight",
+          "Name": "MainMenuHorz2DDHeight",
           "Caption": "--mm-2-ddheight",
           "Description": "Height",
           "HelpLink": null,
@@ -1188,7 +1151,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu2DDWidth",
+          "Name": "MainMenuHorz2DDWidth",
           "Caption": "--mm-2-ddwidth",
           "Description": "Width",
           "HelpLink": null,
@@ -1196,7 +1159,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu2Font",
+          "Name": "MainMenuHorz2Font",
           "Caption": "--mm-2-font",
           "Description": "Font",
           "HelpLink": null,
@@ -1204,7 +1167,7 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu2Padding",
+          "Name": "MainMenuHorz2Padding",
           "Caption": "--mm-2-padding",
           "Description": "Padding",
           "HelpLink": null,
@@ -1212,23 +1175,791 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenu2SmallMargin",
-          "Caption": "--mm-2-small-margin",
-          "Description": "Margin",
+          "Name": "MainMenuSm0ABg",
+          "Caption": "--mmsm-0-a-bg",
+          "Description": "Background",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
-          "Name": "MainMenu2SmallPadding",
-          "Caption": "--mm-2-small-padding",
+          "Name": "MainMenuSm0ABgHover",
+          "Caption": "--mmsm-0-a-bg-hover",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm0ABgPath",
+          "Caption": "--mmsm-0-a-bg-path",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm0AClr",
+          "Caption": "--mmsm-0-a-clr",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm0AClrHover",
+          "Caption": "--mmsm-0-a-clr-hover",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm0AClrPath",
+          "Caption": "--mmsm-0-a-clr-path",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm0APadding",
+          "Caption": "--mmsm-0-a-padding",
           "Description": "Padding",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
         },
         {
-          "Name": "MainMenuSVGSmallBorder",
+          "Name": "MainMenuSm0Bg",
+          "Caption": "--mmsm-0-bg",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm0Border",
+          "Caption": "--mmsm-0-border",
+          "Description": "Border",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm0BorderRadius",
+          "Caption": "--mmsm-0-border-radius",
+          "Description": "Border Radius",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm0Clr",
+          "Caption": "--mmsm-0-clr",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm0DDHeight",
+          "Caption": "--mmsm-0-ddheight",
+          "Description": "Height",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm0DDWidth",
+          "Caption": "--mmsm-0-ddwidth",
+          "Description": "Width",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm0Font",
+          "Caption": "--mmsm-0-font",
+          "Description": "Font",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm0Padding",
+          "Caption": "--mmsm-0-padding",
+          "Description": "Padding",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm1ABg",
+          "Caption": "--mmsm-1-a-bg",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm1ABgHover",
+          "Caption": "--mmsm-1-a-bg-hover",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm1ABgPath",
+          "Caption": "--mmsm-1-a-bg-path",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm1AClr",
+          "Caption": "--mmsm-1-a-clr",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm1AClrHover",
+          "Caption": "--mmsm-1-a-clr-hover",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm1AClrPath",
+          "Caption": "--mmsm-1-a-clr-path",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm1APadding",
+          "Caption": "--mmsm-1-a-padding",
+          "Description": "Padding",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm1Bg",
+          "Caption": "--mmsm-1-bg",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm1Border",
+          "Caption": "--mmsm-1-border",
+          "Description": "Border",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm1BorderRadius",
+          "Caption": "--mmsm-1-border-radius",
+          "Description": "Border Radius",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm1Clr",
+          "Caption": "--mmsm-1-clr",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm1DDHeight",
+          "Caption": "--mmsm-1-ddheight",
+          "Description": "Height",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm1DDWidth",
+          "Caption": "--mmsm-1-ddwidth",
+          "Description": "Width",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm1Font",
+          "Caption": "--mmsm-1-font",
+          "Description": "Font",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm1MMBg",
+          "Caption": "--mmsm-1-mm-bg",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm1MMClr",
+          "Caption": "--mmsm-1-mm-clr",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm1MMFont",
+          "Caption": "--mmsm-1-mm-font",
+          "Description": "Font",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm1MMWidth",
+          "Caption": "--mmsm-1-mm-width",
+          "Description": "Width",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm1Padding",
+          "Caption": "--mmsm-1-padding",
+          "Description": "Padding",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm2ABg",
+          "Caption": "--mmsm-2-a-bg",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm2ABgHover",
+          "Caption": "--mmsm-2-a-bg-hover",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm2ABgPath",
+          "Caption": "--mmsm-2-a-bg-path",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm2AClr",
+          "Caption": "--mmsm-2-a-clr",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm2AClrHover",
+          "Caption": "--mmsm-2-a-clr-hover",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm2AClrPath",
+          "Caption": "--mmsm-2-a-clr-path",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm2APadding",
+          "Caption": "--mmsm-2-a-padding",
+          "Description": "Padding",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm2Bg",
+          "Caption": "--mmsm-2-bg",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm2Border",
+          "Caption": "--mmsm-2-border",
+          "Description": "Border",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm2BorderRadius",
+          "Caption": "--mmsm-2-border-radius",
+          "Description": "Border Radius",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm2Clr",
+          "Caption": "--mmsm-2-clr",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm2DDHeight",
+          "Caption": "--mmsm-2-ddheight",
+          "Description": "Height",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm2DDWidth",
+          "Caption": "--mmsm-2-ddwidth",
+          "Description": "Width",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm2Font",
+          "Caption": "--mmsm-2-font",
+          "Description": "Font",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuSm2Padding",
+          "Caption": "--mmsm-2-padding",
+          "Description": "Padding",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert0ABg",
+          "Caption": "--mmv-0-a-bg",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert0ABgHover",
+          "Caption": "--mmv-0-a-bg-hover",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert0ABgPath",
+          "Caption": "--mmv-0-a-bg-path",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert0AClr",
+          "Caption": "--mmv-0-a-clr",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert0AClrHover",
+          "Caption": "--mmv-0-a-clr-hover",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert0AClrPath",
+          "Caption": "--mmv-0-a-clr-path",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert0APadding",
+          "Caption": "--mmv-0-a-padding",
+          "Description": "Padding",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert0Bg",
+          "Caption": "--mmv-0-bg",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert0Border",
+          "Caption": "--mmv-0-border",
+          "Description": "Border",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert0BorderRadius",
+          "Caption": "--mmv-0-border-radius",
+          "Description": "Border Radius",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert0Clr",
+          "Caption": "--mmv-0-clr",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert0DDHeight",
+          "Caption": "--mmv-0-ddheight",
+          "Description": "Height",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert0DDWidth",
+          "Caption": "--mmv-0-ddwidth",
+          "Description": "Width",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert0Font",
+          "Caption": "--mmv-0-font",
+          "Description": "Font",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert0Padding",
+          "Caption": "--mmv-0-padding",
+          "Description": "Padding",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert1ABg",
+          "Caption": "--mmv-1-a-bg",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert1ABgHover",
+          "Caption": "--mmv-1-a-bg-hover",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert1ABgPath",
+          "Caption": "--mmv-1-a-bg-path",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert1AClr",
+          "Caption": "--mmv-1-a-clr",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert1AClrHover",
+          "Caption": "--mmv-1-a-clr-hover",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert1AClrPath",
+          "Caption": "--mmv-1-a-clr-path",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert1APadding",
+          "Caption": "--mmv-1-a-padding",
+          "Description": "Padding",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert1Bg",
+          "Caption": "--mmv-1-bg",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert1Border",
+          "Caption": "--mmv-1-border",
+          "Description": "Border",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert1BorderRadius",
+          "Caption": "--mmv-1-border-radius",
+          "Description": "Border Radius",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert1Clr",
+          "Caption": "--mmv-1-clr",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert1DDHeight",
+          "Caption": "--mmv-1-ddheight",
+          "Description": "Height",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert1DDWidth",
+          "Caption": "--mmv-1-ddwidth",
+          "Description": "Width",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert1Font",
+          "Caption": "--mmv-1-font",
+          "Description": "Font",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert1MMBg",
+          "Caption": "--mmv-1-mm-bg",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert1MMClr",
+          "Caption": "--mmv-1-mm-clr",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert1MMFont",
+          "Caption": "--mmv-1-mm-font",
+          "Description": "Font",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert1MMWidth",
+          "Caption": "--mmv-1-mm-width",
+          "Description": "Width",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert1Padding",
+          "Caption": "--mmv-1-padding",
+          "Description": "Padding",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert2ABg",
+          "Caption": "--mmv-2-a-bg",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert2ABgHover",
+          "Caption": "--mmv-2-a-bg-hover",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert2ABgPath",
+          "Caption": "--mmv-2-a-bg-path",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert2AClr",
+          "Caption": "--mmv-2-a-clr",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert2AClrHover",
+          "Caption": "--mmv-2-a-clr-hover",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert2AClrPath",
+          "Caption": "--mmv-2-a-clr-path",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert2APadding",
+          "Caption": "--mmv-2-a-padding",
+          "Description": "Padding",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert2Bg",
+          "Caption": "--mmv-2-bg",
+          "Description": "Background",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert2Border",
+          "Caption": "--mmv-2-border",
+          "Description": "Border",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert2BorderRadius",
+          "Caption": "--mmv-2-border-radius",
+          "Description": "Border Radius",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert2Clr",
+          "Caption": "--mmv-2-clr",
+          "Description": "Color",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert2DDHeight",
+          "Caption": "--mmv-2-ddheight",
+          "Description": "Height",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert2DDWidth",
+          "Caption": "--mmv-2-ddwidth",
+          "Description": "Width",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert2Font",
+          "Caption": "--mmv-2-font",
+          "Description": "Font",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MainMenuVert2Padding",
+          "Caption": "--mmv-2-padding",
+          "Description": "Padding",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MenuSVGSmallBorder",
           "Caption": "--mm-svg-small-border",
           "Description": "Border",
           "HelpLink": null,
@@ -1236,9 +1967,17 @@
           "TextBelow": null
         },
         {
-          "Name": "MainMenuSVGSmallBorderRadius",
+          "Name": "MenuSVGSmallBorderRadius",
           "Caption": "--mm-svg-small-border-radius",
           "Description": "Border Radius",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "MiniScrollClr",
+          "Caption": "--ms-1-clr",
+          "Description": "Color",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -1287,6 +2026,22 @@
           "Name": "ModPanelLinkFont",
           "Caption": "--mpnl-link-font",
           "Description": "Font",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ModPanelPadding",
+          "Caption": "--mpnl-padding",
+          "Description": "Padding",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        },
+        {
+          "Name": "ModPanelShadow",
+          "Caption": "--mpnl-shadow",
+          "Description": "Shadow",
           "HelpLink": null,
           "TextAbove": null,
           "TextBelow": null
@@ -2344,7 +3099,7 @@
     },
     {
       "Name": "okUpdated",
-      "Text": "Theme {0} successfully saved - The current site has been updated to use the new theme"
+      "Text": "Theme {0} successfully saved - Your user settings have been updated to use the new theme"
     },
     {
       "Name": "save",
