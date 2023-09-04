@@ -1,0 +1,42 @@
+{
+  "Comment": null,
+  "Classes": [
+    {
+      "Name": "YetaWF.Modules.Languages.Modules.TranslationWarningModule",
+      "BaseTypeName": "YetaWF.Core.Modules.ModuleDefinition",
+      "Header": null,
+      "Footer": null,
+      "Legend": null,
+      "Categories": {},
+      "Properties": [
+        {
+          "Name": "Warning",
+          "Caption": "Message",
+          "Description": "Defines the message that is shown when a non US English language is the current language",
+          "HelpLink": null,
+          "TextAbove": null,
+          "TextBelow": null
+        }
+      ]
+    }
+  ],
+  "Enums": [],
+  "Strings": [
+    {
+      "Name": "modName",
+      "Text": "Translation Warning"
+    },
+    {
+      "Name": "modSummary",
+      "Text": "Skin module displaying a warning about the language translation."
+    },
+    {
+      "Name": "modTitle",
+      "Text": "Skin Translation Warning"
+    },
+    {
+      "Name": "msgTranslation",
+      "Text": "The currently selected language was machine translated and needs to be \"manually\" perfected. This demonstrates how YetaWF can support multiple languages, down to data stored in files, database tables and strings typically embedded in source code."
+    }
+  ]
+}
