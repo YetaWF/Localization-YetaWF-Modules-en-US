@@ -97,14 +97,6 @@
   "Enums": [],
   "Strings": [
     {
-      "Name": "default",
-      "Text": "(Site Default)"
-    },
-    {
-      "Name": "defaultTT",
-      "Text": "Use the site defined default language"
-    },
-    {
       "Name": "langSel",
       "Text": "Click to select one of the available languages this website supports"
     },

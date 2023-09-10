@@ -7,7 +7,9 @@
       "Header": null,
       "Footer": null,
       "Legend": null,
-      "Categories": {},
+      "Categories": {
+        "General": "General"
+      },
       "Properties": [
         {
           "Name": "Warning",
@@ -36,7 +38,7 @@
     },
     {
       "Name": "msgTranslation",
-      "Text": "The currently selected language was machine translated and needs to be \"manually\" perfected. This demonstrates how YetaWF can support multiple languages, down to data stored in files, database tables and strings typically embedded in source code."
+      "Text": "All page content for the currently selected language was machine translated and needs to be \"manually\" perfected. This demonstrates how YetaWF can support multiple languages, down to data stored in files, database tables and strings typically embedded in source code."
     }
   ]
 }
